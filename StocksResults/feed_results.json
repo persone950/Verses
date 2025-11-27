@@ -1148,41 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "ESLAW",
+    "symbol": "LAB",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ESLAW",
-      "price": 0.099,
-      "prev_close": 0.085,
-      "ts_ms": 1764186610000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "ESLAW",
-        "price": 0.099,
-        "prev_close": 0.085,
-        "ts_ms": 1764186610000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "VCEB",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "VCEB",
-      "price": 64.44,
-      "prev_close": 64.29,
+      "symbol": "LAB",
+      "price": 1.43,
+      "prev_close": 1.42,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "VCEB",
-        "price": 64.44,
-        "prev_close": 64.29,
+        "symbol": "LAB",
+        "price": 1.43,
+        "prev_close": 1.42,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "ION",
+    "symbol": "WANT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ION",
-      "price": 46.4329,
-      "prev_close": 45.31,
+      "symbol": "WANT",
+      "price": 48.03,
+      "prev_close": 47.29,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ION",
-        "price": 46.4329,
-        "prev_close": 45.31,
+        "symbol": "WANT",
+        "price": 48.03,
+        "prev_close": 47.29,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1211,14 +1190,28 @@
     "error": null
   },
   {
-    "symbol": "EHY",
+    "symbol": "ENVA",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "ENVA",
+      "price": 130.62,
+      "prev_close": 130.38,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "ENVA",
+        "price": 130.62,
+        "prev_close": 130.38,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
-    "symbol": "PAHC",
+    "symbol": "SER",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
