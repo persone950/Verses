@@ -1148,20 +1148,41 @@
     "error": "no_price"
   },
   {
-    "symbol": "RFI",
+    "symbol": "MBAVU",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "RFI",
-      "price": 11.39,
-      "prev_close": 11.28,
+      "symbol": "MBAVU",
+      "price": 10.2,
+      "prev_close": 10.91,
+      "ts_ms": 1763568270000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "MBAVU",
+        "price": 10.2,
+        "prev_close": 10.91,
+        "ts_ms": 1763568270000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "USML",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "USML",
+      "price": 42.5135,
+      "prev_close": 42.1945,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "RFI",
-        "price": 11.39,
-        "prev_close": 11.28,
+        "symbol": "USML",
+        "price": 42.5135,
+        "prev_close": 42.1945,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "TENX",
+    "symbol": "WBUY",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TENX",
-      "price": 9.47,
-      "prev_close": 9.4,
+      "symbol": "WBUY",
+      "price": 1.5,
+      "prev_close": 1.48,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TENX",
-        "price": 9.47,
-        "prev_close": 9.4,
+        "symbol": "WBUY",
+        "price": 1.5,
+        "prev_close": 1.48,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,45 +1211,10 @@
     "error": null
   },
   {
-    "symbol": "GOVI",
+    "symbol": "ARMK",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "GOVI",
-      "price": 28.1,
-      "prev_close": 28.03,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "GOVI",
-        "price": 28.1,
-        "prev_close": 28.03,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "BSCW",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "BSCW",
-      "price": 20.98,
-      "prev_close": 20.94,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "BSCW",
-        "price": 20.98,
-        "prev_close": 20.94,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   }
 ]
