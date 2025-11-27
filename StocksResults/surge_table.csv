@@ -1,1 +1,14 @@
 Ticker,Time (ET),Price,% vs Close,Volume xAvg?,Tag,Suggested Action
+HOOD,16:43:49,128.20,+10.93%,N/A,AH-SURGE,Momentum Probe
+COIN,16:43:49,264.97,+4.27%,N/A,AH-SURGE,Momentum Probe
+ORCL,16:43:49,204.96,+4.02%,N/A,AH-SURGE,Momentum Probe
+AMD,16:43:49,214.24,+3.93%,N/A,AH-SURGE,Momentum Probe
+AVGO,16:43:49,397.57,+3.26%,N/A,AH-SURGE,Momentum Probe
+BBAI,16:43:49,6.02,-2.75%,N/A,AH-SURGE,Monitor/Hedge
+INTC,16:43:49,36.81,+2.74%,N/A,AH-SURGE,Momentum Probe
+NOW,16:43:49,802.72,-2.74%,N/A,AH-SURGE,Monitor/Hedge
+MU,16:43:49,230.26,+2.55%,N/A,AH-SURGE,Momentum Probe
+BA,16:43:49,186.92,+2.46%,N/A,AH-SURGE,Momentum Probe
+INSM,16:43:49,204.51,-2.16%,N/A,AH-SURGE,Monitor/Hedge
+CRWD,16:43:49,501.54,-2.11%,N/A,AH-SURGE,Monitor/Hedge
+ALGS,16:43:49,9.86,+2.07%,N/A,AH-SURGE,Momentum Probe
