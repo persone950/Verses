@@ -1148,41 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "TOIIW",
+    "symbol": "CLPR",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TOIIW",
-      "price": 0.147,
-      "prev_close": 0.146743,
-      "ts_ms": 1764190306000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "TOIIW",
-        "price": 0.147,
-        "prev_close": 0.146743,
-        "ts_ms": 1764190306000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "CSWC",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "CSWC",
-      "price": 21.57,
-      "prev_close": 21.45,
+      "symbol": "CLPR",
+      "price": 3.71,
+      "prev_close": 3.77,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CSWC",
-        "price": 21.57,
-        "prev_close": 21.45,
+        "symbol": "CLPR",
+        "price": 3.71,
+        "prev_close": 3.77,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,20 +1169,41 @@
     "error": null
   },
   {
-    "symbol": "SPIT",
+    "symbol": "VRSK",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SPIT",
-      "price": 25.6831,
-      "prev_close": 25.3137,
+      "symbol": "VRSK",
+      "price": 223.89,
+      "prev_close": 223.02,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SPIT",
-        "price": 25.6831,
-        "prev_close": 25.3137,
+        "symbol": "VRSK",
+        "price": 223.89,
+        "prev_close": 223.02,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "BUFZ",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "BUFZ",
+      "price": 26.27,
+      "prev_close": 26.23,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "BUFZ",
+        "price": 26.27,
+        "prev_close": 26.23,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
