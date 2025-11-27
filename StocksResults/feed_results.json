@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "HIMX",
+    "symbol": "LTC",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "HIMX",
-      "price": 7.41,
-      "prev_close": 7.36,
+      "symbol": "LTC",
+      "price": 36.59,
+      "prev_close": 36.5,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "HIMX",
-        "price": 7.41,
-        "prev_close": 7.36,
+        "symbol": "LTC",
+        "price": 36.59,
+        "prev_close": 36.5,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,41 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "PCAPW",
+    "symbol": "JMEE",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "PCAPW",
-      "price": 0.5354,
-      "prev_close": 0.57,
-      "ts_ms": 1764179125000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "PCAPW",
-        "price": 0.5354,
-        "prev_close": 0.57,
-        "ts_ms": 1764179125000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "DMAC",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "DMAC",
-      "price": 9.12,
-      "prev_close": 9.03,
+      "symbol": "JMEE",
+      "price": 64.77,
+      "prev_close": 64.39,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "DMAC",
-        "price": 9.12,
-        "prev_close": 9.03,
+        "symbol": "JMEE",
+        "price": 64.77,
+        "prev_close": 64.39,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1211,7 +1190,28 @@
     "error": null
   },
   {
-    "symbol": "TVAL",
+    "symbol": "DSY",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "DSY",
+      "price": 0.47,
+      "prev_close": 0.453,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "DSY",
+        "price": 0.47,
+        "prev_close": 0.453,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "KEQU",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
