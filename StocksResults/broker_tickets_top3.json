@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2025-11-26 22:33:36 EST",
+    "timestamp_et": "2025-11-26 22:36:08 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "HOOD",
@@ -18,11 +18,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-26 22:33:36 ESTHOOD—",
+    "checksum": "2025-11-26 22:36:08 ESTHOOD—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-26 22:33:36 EST",
+    "timestamp_et": "2025-11-26 22:36:08 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "COIN",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-26 22:33:36 ESTCOIN—",
+    "checksum": "2025-11-26 22:36:08 ESTCOIN—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-26 22:33:36 EST",
+    "timestamp_et": "2025-11-26 22:36:08 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "ORCL",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-26 22:33:36 ESTORCL—",
+    "checksum": "2025-11-26 22:36:08 ESTORCL—",
     "notes": "auto-generated placeholder"
   }
 ]
