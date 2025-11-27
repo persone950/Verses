@@ -1148,27 +1148,41 @@
     "error": "no_price"
   },
   {
-    "symbol": "PFEL",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "no_price"
-  },
-  {
-    "symbol": "SVCO",
+    "symbol": "TOIIW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SVCO",
-      "price": 4.41,
-      "prev_close": 4.26,
+      "symbol": "TOIIW",
+      "price": 0.147,
+      "prev_close": 0.146743,
+      "ts_ms": 1764190306000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "TOIIW",
+        "price": 0.147,
+        "prev_close": 0.146743,
+        "ts_ms": 1764190306000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "CSWC",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "CSWC",
+      "price": 21.57,
+      "prev_close": 21.45,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SVCO",
-        "price": 4.41,
-        "prev_close": 4.26,
+        "symbol": "CSWC",
+        "price": 21.57,
+        "prev_close": 21.45,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1176,20 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "VRA",
+    "symbol": "SPIT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "VRA",
-      "price": 2.88,
-      "prev_close": 2.75,
+      "symbol": "SPIT",
+      "price": 25.6831,
+      "prev_close": 25.3137,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "VRA",
-        "price": 2.88,
-        "prev_close": 2.75,
+        "symbol": "SPIT",
+        "price": 25.6831,
+        "prev_close": 25.3137,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
