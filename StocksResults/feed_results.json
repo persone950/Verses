@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "LAB",
+    "symbol": "HIMX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LAB",
-      "price": 1.43,
-      "prev_close": 1.42,
+      "symbol": "HIMX",
+      "price": 7.41,
+      "prev_close": 7.36,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LAB",
-        "price": 1.43,
-        "prev_close": 1.42,
+        "symbol": "HIMX",
+        "price": 7.41,
+        "prev_close": 7.36,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,41 @@
     "error": null
   },
   {
-    "symbol": "WANT",
+    "symbol": "PCAPW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "WANT",
-      "price": 48.03,
-      "prev_close": 47.29,
+      "symbol": "PCAPW",
+      "price": 0.5354,
+      "prev_close": 0.57,
+      "ts_ms": 1764179125000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "PCAPW",
+        "price": 0.5354,
+        "prev_close": 0.57,
+        "ts_ms": 1764179125000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "DMAC",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "DMAC",
+      "price": 9.12,
+      "prev_close": 9.03,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "WANT",
-        "price": 48.03,
-        "prev_close": 47.29,
+        "symbol": "DMAC",
+        "price": 9.12,
+        "prev_close": 9.03,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,28 +1211,7 @@
     "error": null
   },
   {
-    "symbol": "ENVA",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "ENVA",
-      "price": 130.62,
-      "prev_close": 130.38,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "ENVA",
-        "price": 130.62,
-        "prev_close": 130.38,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "SER",
+    "symbol": "TVAL",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
