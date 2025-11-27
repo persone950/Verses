@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2025-11-26 20:23:44 EST",
+    "timestamp_et": "2025-11-26 20:42:30 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "HOOD",
@@ -18,14 +18,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-26 20:23:44 ESTHOOD—",
+    "checksum": "2025-11-26 20:42:30 ESTHOOD—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-26 20:23:44 EST",
+    "timestamp_et": "2025-11-26 20:42:30 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "NUWE",
+    "ticker": "VRA",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-26 20:23:44 ESTNUWE—",
+    "checksum": "2025-11-26 20:42:30 ESTVRA—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-26 20:23:44 EST",
+    "timestamp_et": "2025-11-26 20:42:30 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "COIN",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-26 20:23:44 ESTCOIN—",
+    "checksum": "2025-11-26 20:42:30 ESTCOIN—",
     "notes": "auto-generated placeholder"
   }
 ]
