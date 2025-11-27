@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "OSEA",
+    "symbol": "RFI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "OSEA",
-      "price": 30.2992,
-      "prev_close": 30.01,
+      "symbol": "RFI",
+      "price": 11.39,
+      "prev_close": 11.28,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "OSEA",
-        "price": 30.2992,
-        "prev_close": 30.01,
+        "symbol": "RFI",
+        "price": 11.39,
+        "prev_close": 11.28,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "LCLG",
+    "symbol": "TENX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LCLG",
-      "price": 62.8661,
-      "prev_close": 62.3,
+      "symbol": "TENX",
+      "price": 9.47,
+      "prev_close": 9.4,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LCLG",
-        "price": 62.8661,
-        "prev_close": 62.3,
+        "symbol": "TENX",
+        "price": 9.47,
+        "prev_close": 9.4,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,20 +1190,41 @@
     "error": null
   },
   {
-    "symbol": "DBND",
+    "symbol": "GOVI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "DBND",
-      "price": 46.76,
-      "prev_close": 46.72,
+      "symbol": "GOVI",
+      "price": 28.1,
+      "prev_close": 28.03,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "DBND",
-        "price": 46.76,
-        "prev_close": 46.72,
+        "symbol": "GOVI",
+        "price": 28.1,
+        "prev_close": 28.03,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "BSCW",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "BSCW",
+      "price": 20.98,
+      "prev_close": 20.94,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "BSCW",
+        "price": 20.98,
+        "prev_close": 20.94,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
