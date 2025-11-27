@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "FEMY",
+    "symbol": "CGGR",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "FEMY",
-      "price": 0.9905,
-      "prev_close": 0.9907,
+      "symbol": "CGGR",
+      "price": 43.95,
+      "prev_close": 43.63,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "FEMY",
-        "price": 0.9905,
-        "prev_close": 0.9907,
+        "symbol": "CGGR",
+        "price": 43.95,
+        "prev_close": 43.63,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,52 +1169,87 @@
     "error": null
   },
   {
-    "symbol": "BEAGU",
+    "symbol": "MGC",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "BEAGU",
-      "price": 11.09,
-      "prev_close": 10.87,
-      "ts_ms": 1764104391000,
+      "symbol": "MGC",
+      "price": 250.26,
+      "prev_close": 248.67,
+      "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "BEAGU",
-        "price": 11.09,
-        "prev_close": 10.87,
-        "ts_ms": 1764104391000,
+        "symbol": "MGC",
+        "price": 250.26,
+        "prev_close": 248.67,
+        "ts_ms": 1764190800000,
         "source": "finnhub"
       }
     ],
     "error": null
   },
   {
-    "symbol": "DMAA",
+    "symbol": "NUWE",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "DMAA",
-      "price": 10.33,
-      "prev_close": 10.33,
-      "ts_ms": 1764187461000,
+      "symbol": "NUWE",
+      "price": 2.41,
+      "prev_close": 2.2015,
+      "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "DMAA",
-        "price": 10.33,
-        "prev_close": 10.33,
-        "ts_ms": 1764187461000,
+        "symbol": "NUWE",
+        "price": 2.41,
+        "prev_close": 2.2015,
+        "ts_ms": 1764190800000,
         "source": "finnhub"
       }
     ],
     "error": null
   },
   {
-    "symbol": "DTF",
+    "symbol": "CWII",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "CWII",
+      "price": 14.2871,
+      "prev_close": 13.7486,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "CWII",
+        "price": 14.2871,
+        "prev_close": 13.7486,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "FTSD",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "FTSD",
+      "price": 91.1,
+      "prev_close": 91.04,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "FTSD",
+        "price": 91.1,
+        "prev_close": 91.04,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   }
 ]
