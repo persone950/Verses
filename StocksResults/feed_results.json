@@ -1148,20 +1148,27 @@
     "error": "no_price"
   },
   {
-    "symbol": "CGGR",
+    "symbol": "PFEL",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "no_price"
+  },
+  {
+    "symbol": "SVCO",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CGGR",
-      "price": 43.95,
-      "prev_close": 43.63,
+      "symbol": "SVCO",
+      "price": 4.41,
+      "prev_close": 4.26,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CGGR",
-        "price": 43.95,
-        "prev_close": 43.63,
+        "symbol": "SVCO",
+        "price": 4.41,
+        "prev_close": 4.26,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,83 +1176,20 @@
     "error": null
   },
   {
-    "symbol": "MGC",
+    "symbol": "VRA",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "MGC",
-      "price": 250.26,
-      "prev_close": 248.67,
+      "symbol": "VRA",
+      "price": 2.88,
+      "prev_close": 2.75,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "MGC",
-        "price": 250.26,
-        "prev_close": 248.67,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "NUWE",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "NUWE",
-      "price": 2.41,
-      "prev_close": 2.2015,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "NUWE",
-        "price": 2.41,
-        "prev_close": 2.2015,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "CWII",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "CWII",
-      "price": 14.2871,
-      "prev_close": 13.7486,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "CWII",
-        "price": 14.2871,
-        "prev_close": 13.7486,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "FTSD",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "FTSD",
-      "price": 91.1,
-      "prev_close": 91.04,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "FTSD",
-        "price": 91.1,
-        "prev_close": 91.04,
+        "symbol": "VRA",
+        "price": 2.88,
+        "prev_close": 2.75,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
