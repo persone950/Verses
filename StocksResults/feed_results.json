@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "CLPR",
+    "symbol": "SNAP",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CLPR",
-      "price": 3.71,
-      "prev_close": 3.77,
+      "symbol": "SNAP",
+      "price": 7.61,
+      "prev_close": 7.64,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CLPR",
-        "price": 3.71,
-        "prev_close": 3.77,
+        "symbol": "SNAP",
+        "price": 7.61,
+        "prev_close": 7.64,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,41 @@
     "error": null
   },
   {
-    "symbol": "VRSK",
+    "symbol": "NUKKW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "VRSK",
-      "price": 223.89,
-      "prev_close": 223.02,
+      "symbol": "NUKKW",
+      "price": 0.184501,
+      "prev_close": 0.1821,
+      "ts_ms": 1764190557000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "NUKKW",
+        "price": 0.184501,
+        "prev_close": 0.1821,
+        "ts_ms": 1764190557000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "MAYT",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "MAYT",
+      "price": 36.4913,
+      "prev_close": 36.4489,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "VRSK",
-        "price": 223.89,
-        "prev_close": 223.02,
+        "symbol": "MAYT",
+        "price": 36.4913,
+        "prev_close": 36.4489,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,24 +1211,17 @@
     "error": null
   },
   {
-    "symbol": "BUFZ",
+    "symbol": "QUSA",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "BUFZ",
-      "price": 26.27,
-      "prev_close": 26.23,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "BUFZ",
-        "price": 26.27,
-        "prev_close": 26.23,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "EPV",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   }
 ]
