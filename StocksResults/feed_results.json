@@ -1148,41 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "MBAVU",
+    "symbol": "CGV",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "MBAVU",
-      "price": 10.2,
-      "prev_close": 10.91,
-      "ts_ms": 1763568270000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "MBAVU",
-        "price": 10.2,
-        "prev_close": 10.91,
-        "ts_ms": 1763568270000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "USML",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "USML",
-      "price": 42.5135,
-      "prev_close": 42.1945,
+      "symbol": "CGV",
+      "price": 14.7299,
+      "prev_close": 14.5824,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "USML",
-        "price": 42.5135,
-        "prev_close": 42.1945,
+        "symbol": "CGV",
+        "price": 14.7299,
+        "prev_close": 14.5824,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "WBUY",
+    "symbol": "MAC",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "WBUY",
-      "price": 1.5,
-      "prev_close": 1.48,
+      "symbol": "MAC",
+      "price": 17.24,
+      "prev_close": 17.01,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "WBUY",
-        "price": 1.5,
-        "prev_close": 1.48,
+        "symbol": "MAC",
+        "price": 17.24,
+        "prev_close": 17.01,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1211,7 +1190,35 @@
     "error": null
   },
   {
-    "symbol": "ARMK",
+    "symbol": "HTH",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "HTH",
+      "price": 34.62,
+      "prev_close": 34.85,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "HTH",
+        "price": 34.62,
+        "prev_close": 34.85,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "JHMD",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "CHOW",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
