@@ -504,39 +504,48 @@
     "category": "CORE"
   },
   {
-    "symbol": "RFI",
-    "price": 11.39,
-    "prev_close": 11.28,
+    "symbol": "CGV",
+    "price": 14.7299,
+    "prev_close": 14.5824,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "TENX",
-    "price": 9.47,
-    "prev_close": 9.4,
+    "symbol": "MAC",
+    "price": 17.24,
+    "prev_close": 17.01,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "GOVI",
-    "price": 28.1,
-    "prev_close": 28.03,
+    "symbol": "HTH",
+    "price": 34.62,
+    "prev_close": 34.85,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "BSCW",
-    "price": 20.98,
-    "prev_close": 20.94,
-    "ts_ms": 1764190800000,
-    "source": "finnhub",
-    "error": null,
+    "symbol": "JHMD",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "CHOW",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
