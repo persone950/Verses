@@ -2,65 +2,23 @@
   {
     "symbol": "AAPL",
     "category": "CORE",
-    "best": {
-      "symbol": "AAPL",
-      "price": 277.55,
-      "prev_close": 276.97,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "AAPL",
-        "price": 277.55,
-        "prev_close": 276.97,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   },
   {
     "symbol": "MSFT",
     "category": "CORE",
-    "best": {
-      "symbol": "MSFT",
-      "price": 485.5,
-      "prev_close": 476.99,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "MSFT",
-        "price": 485.5,
-        "prev_close": 476.99,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   },
   {
     "symbol": "NVDA",
     "category": "CORE",
-    "best": {
-      "symbol": "NVDA",
-      "price": 180.26,
-      "prev_close": 177.82,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "NVDA",
-        "price": 180.26,
-        "prev_close": 177.82,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   },
   {
     "symbol": "GOOGL",
@@ -1146,68 +1104,5 @@
     "best": null,
     "raw": [],
     "error": "no_price"
-  },
-  {
-    "symbol": "PALU",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "PALU",
-      "price": 19.9089,
-      "prev_close": 20.0994,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "PALU",
-        "price": 19.9089,
-        "prev_close": 20.0994,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "VOD",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "VOD",
-      "price": 12.48,
-      "prev_close": 12.22,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "VOD",
-        "price": 12.48,
-        "prev_close": 12.22,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "SAZ",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "SAZ",
-      "price": 25.37,
-      "prev_close": 25.3512,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "SAZ",
-        "price": 25.37,
-        "prev_close": 25.3512,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
   }
 ]
