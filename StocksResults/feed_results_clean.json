@@ -504,43 +504,34 @@
     "category": "CORE"
   },
   {
-    "symbol": "CERY",
-    "price": 29.44,
-    "prev_close": 29.1,
+    "symbol": "TRIN",
+    "price": 14.77,
+    "prev_close": 14.66,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "PKX",
-    "price": 54.96,
-    "prev_close": 52.24,
+    "symbol": "CAC",
+    "price": 40.54,
+    "prev_close": 41.55,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "SPSM",
-    "price": 47.09,
-    "prev_close": 46.82,
-    "ts_ms": 1764190800000,
+    "symbol": "IBACR",
+    "price": 0.07,
+    "prev_close": 0.0643,
+    "ts_ms": 1764167402000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "TAFI",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "LEVI",
+    "symbol": "MD",
     "price": "",
     "prev_close": "",
     "ts_ms": "",
