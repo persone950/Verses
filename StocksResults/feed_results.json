@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "CCSB",
+    "symbol": "DDFO",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CCSB",
-      "price": 20.265,
-      "prev_close": 20.31,
+      "symbol": "DDFO",
+      "price": 21.43,
+      "prev_close": 21.3848,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CCSB",
-        "price": 20.265,
-        "prev_close": 20.31,
+        "symbol": "DDFO",
+        "price": 21.43,
+        "prev_close": 21.3848,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,41 @@
     "error": null
   },
   {
-    "symbol": "IDEV",
+    "symbol": "NIVFW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "IDEV",
-      "price": 81.34,
-      "prev_close": 80.48,
+      "symbol": "NIVFW",
+      "price": 0.0223,
+      "prev_close": 0.020383,
+      "ts_ms": 1764185348000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "NIVFW",
+        "price": 0.0223,
+        "prev_close": 0.020383,
+        "ts_ms": 1764185348000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "SJB",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "SJB",
+      "price": 15.43,
+      "prev_close": 15.425,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "IDEV",
-        "price": 81.34,
-        "prev_close": 80.48,
+        "symbol": "SJB",
+        "price": 15.43,
+        "prev_close": 15.425,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,24 +1211,10 @@
     "error": null
   },
   {
-    "symbol": "COLO",
+    "symbol": "BKCH",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "COLO",
-      "price": 36.79,
-      "prev_close": 36.08,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "COLO",
-        "price": 36.79,
-        "prev_close": 36.08,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   }
 ]
