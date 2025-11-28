@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "CYH",
+    "symbol": "CERY",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CYH",
-      "price": 3.45,
-      "prev_close": 3.47,
+      "symbol": "CERY",
+      "price": 29.44,
+      "prev_close": 29.1,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CYH",
-        "price": 3.45,
-        "prev_close": 3.47,
+        "symbol": "CERY",
+        "price": 29.44,
+        "prev_close": 29.1,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "PVH",
+    "symbol": "PKX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "PVH",
-      "price": 84.19,
-      "prev_close": 82.03,
+      "symbol": "PKX",
+      "price": 54.96,
+      "prev_close": 52.24,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "PVH",
-        "price": 84.19,
-        "prev_close": 82.03,
+        "symbol": "PKX",
+        "price": 54.96,
+        "prev_close": 52.24,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,20 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "LLYZ",
+    "symbol": "SPSM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LLYZ",
-      "price": 8.21,
-      "prev_close": 8.1596,
+      "symbol": "SPSM",
+      "price": 47.09,
+      "prev_close": 46.82,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LLYZ",
-        "price": 8.21,
-        "prev_close": 8.1596,
+        "symbol": "SPSM",
+        "price": 47.09,
+        "prev_close": 46.82,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1211,7 +1211,14 @@
     "error": null
   },
   {
-    "symbol": "ONBPO",
+    "symbol": "TAFI",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "LEVI",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
