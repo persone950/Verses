@@ -1,1 +1,9 @@
 Ticker,Time (ET),Price,% vs Close,Volume xAvg?,Tag,Suggested Action
+INTC,17:44:01,40.56,+10.19%,N/A,AH-SURGE,Momentum Probe
+BBAI,17:44:01,6.34,+5.32%,N/A,AH-SURGE,Momentum Probe
+CHPT,17:44:01,8.19,+3.28%,N/A,AH-SURGE,Momentum Probe
+COIN,17:44:01,272.82,+2.96%,N/A,AH-SURGE,Momentum Probe
+ALGS,17:44:01,9.58,-2.84%,N/A,AH-SURGE,Monitor/Hedge
+MU,17:44:01,236.48,+2.70%,N/A,AH-SURGE,Momentum Probe
+LLY,17:44:01,1075.47,-2.61%,N/A,AH-SURGE,Monitor/Hedge
+META,17:44:01,647.95,+2.26%,N/A,AH-SURGE,Momentum Probe
