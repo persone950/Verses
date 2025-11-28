@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "TURB",
+    "symbol": "FMBH",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TURB",
-      "price": 1.44,
-      "prev_close": 1.39,
+      "symbol": "FMBH",
+      "price": 38.23,
+      "prev_close": 38.44,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TURB",
-        "price": 1.44,
-        "prev_close": 1.39,
+        "symbol": "FMBH",
+        "price": 38.23,
+        "prev_close": 38.44,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "NVBU",
+    "symbol": "BUFG",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "NVBU",
-      "price": 28.895,
-      "prev_close": 28.768,
+      "symbol": "BUFG",
+      "price": 27.2773,
+      "prev_close": 27.175,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "NVBU",
-        "price": 28.895,
-        "prev_close": 28.768,
+        "symbol": "BUFG",
+        "price": 27.2773,
+        "prev_close": 27.175,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,20 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "AGEN",
+    "symbol": "LCII",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "AGEN",
-      "price": 4.55,
-      "prev_close": 4.38,
+      "symbol": "LCII",
+      "price": 115.72,
+      "prev_close": 116.78,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "AGEN",
-        "price": 4.55,
-        "prev_close": 4.38,
+        "symbol": "LCII",
+        "price": 115.72,
+        "prev_close": 116.78,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1211,17 +1211,45 @@
     "error": null
   },
   {
-    "symbol": "SM",
+    "symbol": "EUDAW",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "EUDAW",
+      "price": 0.0817,
+      "prev_close": 0.096,
+      "ts_ms": 1764176498000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "EUDAW",
+        "price": 0.0817,
+        "prev_close": 0.096,
+        "ts_ms": 1764176498000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
-    "symbol": "ODV",
+    "symbol": "DULL",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "DULL",
+      "price": 1.89,
+      "prev_close": 1.935,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "DULL",
+        "price": 1.89,
+        "prev_close": 1.935,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   }
 ]
