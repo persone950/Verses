@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "CERY",
+    "symbol": "KBE",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CERY",
-      "price": 29.44,
-      "prev_close": 29.1,
+      "symbol": "KBE",
+      "price": 59.16,
+      "prev_close": 59.32,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CERY",
-        "price": 29.44,
-        "prev_close": 29.1,
+        "symbol": "KBE",
+        "price": 59.16,
+        "prev_close": 59.32,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "PKX",
+    "symbol": "EDEN",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "PKX",
-      "price": 54.96,
-      "prev_close": 52.24,
+      "symbol": "EDEN",
+      "price": 110.3142,
+      "prev_close": 108.7924,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "PKX",
-        "price": 54.96,
-        "prev_close": 52.24,
+        "symbol": "EDEN",
+        "price": 110.3142,
+        "prev_close": 108.7924,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,38 +1190,24 @@
     "error": null
   },
   {
-    "symbol": "SPSM",
+    "symbol": "PGRE",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SPSM",
-      "price": 47.09,
-      "prev_close": 46.82,
+      "symbol": "PGRE",
+      "price": 6.58,
+      "prev_close": 6.58,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SPSM",
-        "price": 47.09,
-        "prev_close": 46.82,
+        "symbol": "PGRE",
+        "price": 6.58,
+        "prev_close": 6.58,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
     ],
     "error": null
-  },
-  {
-    "symbol": "TAFI",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "LEVI",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
   }
 ]
