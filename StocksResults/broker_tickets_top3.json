@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2025-11-27 23:02:04 EST",
+    "timestamp_et": "2025-11-27 23:23:17 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "HOOD",
@@ -18,14 +18,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-27 23:02:04 ESTHOOD—",
+    "checksum": "2025-11-27 23:23:17 ESTHOOD—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-27 23:02:04 EST",
+    "timestamp_et": "2025-11-27 23:23:17 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "JYD",
+    "ticker": "PKX",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-27 23:02:04 ESTJYD—",
+    "checksum": "2025-11-27 23:23:17 ESTPKX—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-27 23:02:04 EST",
+    "timestamp_et": "2025-11-27 23:23:17 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "COIN",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-27 23:02:04 ESTCOIN—",
+    "checksum": "2025-11-27 23:23:17 ESTCOIN—",
     "notes": "auto-generated placeholder"
   }
 ]
