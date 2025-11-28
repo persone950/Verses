@@ -504,48 +504,30 @@
     "category": "CORE"
   },
   {
-    "symbol": "CGV",
-    "price": 14.7299,
-    "prev_close": 14.5824,
+    "symbol": "PALU",
+    "price": 19.9089,
+    "prev_close": 20.0994,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "MAC",
-    "price": 17.24,
-    "prev_close": 17.01,
+    "symbol": "VOD",
+    "price": 12.48,
+    "prev_close": 12.22,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "HTH",
-    "price": 34.62,
-    "prev_close": 34.85,
+    "symbol": "SAZ",
+    "price": 25.37,
+    "prev_close": 25.3512,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "JHMD",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "CHOW",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
