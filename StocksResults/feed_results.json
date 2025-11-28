@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "CGV",
+    "symbol": "PALU",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CGV",
-      "price": 14.7299,
-      "prev_close": 14.5824,
+      "symbol": "PALU",
+      "price": 19.9089,
+      "prev_close": 20.0994,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CGV",
-        "price": 14.7299,
-        "prev_close": 14.5824,
+        "symbol": "PALU",
+        "price": 19.9089,
+        "prev_close": 20.0994,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "MAC",
+    "symbol": "VOD",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "MAC",
-      "price": 17.24,
-      "prev_close": 17.01,
+      "symbol": "VOD",
+      "price": 12.48,
+      "prev_close": 12.22,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "MAC",
-        "price": 17.24,
-        "prev_close": 17.01,
+        "symbol": "VOD",
+        "price": 12.48,
+        "prev_close": 12.22,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,38 +1190,24 @@
     "error": null
   },
   {
-    "symbol": "HTH",
+    "symbol": "SAZ",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "HTH",
-      "price": 34.62,
-      "prev_close": 34.85,
+      "symbol": "SAZ",
+      "price": 25.37,
+      "prev_close": 25.3512,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "HTH",
-        "price": 34.62,
-        "prev_close": 34.85,
+        "symbol": "SAZ",
+        "price": 25.37,
+        "prev_close": 25.3512,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
     ],
     "error": null
-  },
-  {
-    "symbol": "JHMD",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "CHOW",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
   }
 ]
