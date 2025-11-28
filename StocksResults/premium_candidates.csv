@@ -1,1 +1,1 @@
-symbol,strategy,expiration,type,strike,premium,delta,ivr,yield_pct
+symbol,strategy,strike,exp,premium,delta,ivr,yield_pct,comment
