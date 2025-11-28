@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "FMBH",
+    "symbol": "HST",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "FMBH",
-      "price": 38.23,
-      "prev_close": 38.44,
+      "symbol": "HST",
+      "price": 17.74,
+      "prev_close": 17.79,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "FMBH",
-        "price": 38.23,
-        "prev_close": 38.44,
+        "symbol": "HST",
+        "price": 17.74,
+        "prev_close": 17.79,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "BUFG",
+    "symbol": "JYD",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "BUFG",
-      "price": 27.2773,
-      "prev_close": 27.175,
+      "symbol": "JYD",
+      "price": 4.07,
+      "prev_close": 4.34,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "BUFG",
-        "price": 27.2773,
-        "prev_close": 27.175,
+        "symbol": "JYD",
+        "price": 4.07,
+        "prev_close": 4.34,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,62 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "LCII",
+    "symbol": "TJUL",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LCII",
-      "price": 115.72,
-      "prev_close": 116.78,
+      "symbol": "TJUL",
+      "price": 29.4771,
+      "prev_close": 29.4326,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LCII",
-        "price": 115.72,
-        "prev_close": 116.78,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "EUDAW",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "EUDAW",
-      "price": 0.0817,
-      "prev_close": 0.096,
-      "ts_ms": 1764176498000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "EUDAW",
-        "price": 0.0817,
-        "prev_close": 0.096,
-        "ts_ms": 1764176498000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "DULL",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "DULL",
-      "price": 1.89,
-      "prev_close": 1.935,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "DULL",
-        "price": 1.89,
-        "prev_close": 1.935,
+        "symbol": "TJUL",
+        "price": 29.4771,
+        "prev_close": 29.4326,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
