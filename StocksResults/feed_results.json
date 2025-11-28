@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "NTR",
+    "symbol": "CCSB",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "NTR",
-      "price": 57.4,
-      "prev_close": 56.83,
+      "symbol": "CCSB",
+      "price": 20.265,
+      "prev_close": 20.31,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "NTR",
-        "price": 57.4,
-        "prev_close": 56.83,
+        "symbol": "CCSB",
+        "price": 20.265,
+        "prev_close": 20.31,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "USSG",
+    "symbol": "IDEV",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "USSG",
-      "price": 63.0698,
-      "prev_close": 62.573,
+      "symbol": "IDEV",
+      "price": 81.34,
+      "prev_close": 80.48,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "USSG",
-        "price": 63.0698,
-        "prev_close": 62.573,
+        "symbol": "IDEV",
+        "price": 81.34,
+        "prev_close": 80.48,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,38 +1190,24 @@
     "error": null
   },
   {
-    "symbol": "GDEC",
+    "symbol": "COLO",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "GDEC",
-      "price": 37.29,
-      "prev_close": 37.215,
+      "symbol": "COLO",
+      "price": 36.79,
+      "prev_close": 36.08,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "GDEC",
-        "price": 37.29,
-        "prev_close": 37.215,
+        "symbol": "COLO",
+        "price": 36.79,
+        "prev_close": 36.08,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
     ],
     "error": null
-  },
-  {
-    "symbol": "BBU",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "FDFF",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
   }
 ]
