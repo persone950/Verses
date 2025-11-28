@@ -254,72 +254,212 @@
   {
     "symbol": "QCOM",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "QCOM",
+      "price": 165.14,
+      "prev_close": 163.3,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "QCOM",
+        "price": 165.14,
+        "prev_close": 163.3,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "INTC",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "INTC",
+      "price": 36.81,
+      "prev_close": 35.83,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "INTC",
+        "price": 36.81,
+        "prev_close": 35.83,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "NOW",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "NOW",
+      "price": 802.72,
+      "prev_close": 825.31,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "NOW",
+        "price": 802.72,
+        "prev_close": 825.31,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "COIN",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "COIN",
+      "price": 264.97,
+      "prev_close": 254.12,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "COIN",
+        "price": 264.97,
+        "prev_close": 254.12,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "PLTR",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "PLTR",
+      "price": 165.77,
+      "prev_close": 163.55,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "PLTR",
+        "price": 165.77,
+        "prev_close": 163.55,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "MU",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "MU",
+      "price": 230.26,
+      "prev_close": 224.53,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "MU",
+        "price": 230.26,
+        "prev_close": 224.53,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "CRWD",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "CRWD",
+      "price": 501.54,
+      "prev_close": 512.34,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "CRWD",
+        "price": 501.54,
+        "prev_close": 512.34,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "BBAI",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "BBAI",
+      "price": 6.02,
+      "prev_close": 6.19,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "BBAI",
+        "price": 6.02,
+        "prev_close": 6.19,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "RGTI",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "RGTI",
+      "price": 25.57,
+      "prev_close": 26.08,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "RGTI",
+        "price": 25.57,
+        "prev_close": 26.08,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "INSM",
     "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "INSM",
+      "price": 204.51,
+      "prev_close": 209.02,
+      "ts_ms": 1764190800000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "INSM",
+        "price": 204.51,
+        "prev_close": 209.02,
+        "ts_ms": 1764190800000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
     "symbol": "OPEN",
@@ -1008,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "YGMZ",
+    "symbol": "TURB",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "YGMZ",
-      "price": 0.123,
-      "prev_close": 0.1868,
+      "symbol": "TURB",
+      "price": 1.44,
+      "prev_close": 1.39,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "YGMZ",
-        "price": 0.123,
-        "prev_close": 0.1868,
+        "symbol": "TURB",
+        "price": 1.44,
+        "prev_close": 1.39,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1029,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "NDOW",
+    "symbol": "NVBU",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "NDOW",
-      "price": 27.5264,
-      "prev_close": 27.3791,
+      "symbol": "NVBU",
+      "price": 28.895,
+      "prev_close": 28.768,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "NDOW",
-        "price": 27.5264,
-        "prev_close": 27.3791,
+        "symbol": "NVBU",
+        "price": 28.895,
+        "prev_close": 28.768,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1050,20 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "ENVB",
+    "symbol": "AGEN",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ENVB",
-      "price": 5.78,
-      "prev_close": 5.94,
+      "symbol": "AGEN",
+      "price": 4.55,
+      "prev_close": 4.38,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ENVB",
-        "price": 5.78,
-        "prev_close": 5.94,
+        "symbol": "AGEN",
+        "price": 4.55,
+        "prev_close": 4.38,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1071,24 +1211,17 @@
     "error": null
   },
   {
-    "symbol": "FFND",
+    "symbol": "SM",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "FFND",
-      "price": 29.984,
-      "prev_close": 29.7977,
-      "ts_ms": 1764190800000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "FFND",
-        "price": 29.984,
-        "prev_close": 29.7977,
-        "ts_ms": 1764190800000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "ODV",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   }
 ]
