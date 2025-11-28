@@ -1,9 +1,9 @@
 [
   {
-    "timestamp_et": "2025-11-27 23:34:51 EST",
+    "timestamp_et": "2025-11-28 17:44:01 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "HOOD",
+    "ticker": "INTC",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -18,14 +18,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-27 23:34:51 ESTHOOD—",
+    "checksum": "2025-11-28 17:44:01 ESTINTC—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-27 23:34:51 EST",
+    "timestamp_et": "2025-11-28 17:44:01 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "COIN",
+    "ticker": "BBAI",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -40,14 +40,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-27 23:34:51 ESTCOIN—",
+    "checksum": "2025-11-28 17:44:01 ESTBBAI—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-27 23:34:51 EST",
+    "timestamp_et": "2025-11-28 17:44:01 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "ORCL",
+    "ticker": "CHPT",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-27 23:34:51 ESTORCL—",
+    "checksum": "2025-11-28 17:44:01 ESTCHPT—",
     "notes": "auto-generated placeholder"
   }
 ]
