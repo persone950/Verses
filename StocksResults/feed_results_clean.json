@@ -504,48 +504,30 @@
     "category": "CORE"
   },
   {
-    "symbol": "NTR",
-    "price": 57.4,
-    "prev_close": 56.83,
+    "symbol": "CCSB",
+    "price": 20.265,
+    "prev_close": 20.31,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "USSG",
-    "price": 63.0698,
-    "prev_close": 62.573,
+    "symbol": "IDEV",
+    "price": 81.34,
+    "prev_close": 80.48,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "GDEC",
-    "price": 37.29,
-    "prev_close": 37.215,
+    "symbol": "COLO",
+    "price": 36.79,
+    "prev_close": 36.08,
     "ts_ms": 1764190800000,
     "source": "finnhub",
     "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "BBU",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "FDFF",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
