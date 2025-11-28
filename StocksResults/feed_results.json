@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "HST",
+    "symbol": "CYH",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "HST",
-      "price": 17.74,
-      "prev_close": 17.79,
+      "symbol": "CYH",
+      "price": 3.45,
+      "prev_close": 3.47,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "HST",
-        "price": 17.74,
-        "prev_close": 17.79,
+        "symbol": "CYH",
+        "price": 3.45,
+        "prev_close": 3.47,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "JYD",
+    "symbol": "PVH",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "JYD",
-      "price": 4.07,
-      "prev_close": 4.34,
+      "symbol": "PVH",
+      "price": 84.19,
+      "prev_close": 82.03,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "JYD",
-        "price": 4.07,
-        "prev_close": 4.34,
+        "symbol": "PVH",
+        "price": 84.19,
+        "prev_close": 82.03,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
@@ -1190,24 +1190,31 @@
     "error": null
   },
   {
-    "symbol": "TJUL",
+    "symbol": "LLYZ",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TJUL",
-      "price": 29.4771,
-      "prev_close": 29.4326,
+      "symbol": "LLYZ",
+      "price": 8.21,
+      "prev_close": 8.1596,
       "ts_ms": 1764190800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TJUL",
-        "price": 29.4771,
-        "prev_close": 29.4326,
+        "symbol": "LLYZ",
+        "price": 8.21,
+        "prev_close": 8.1596,
         "ts_ms": 1764190800000,
         "source": "finnhub"
       }
     ],
     "error": null
+  },
+  {
+    "symbol": "ONBPO",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   }
 ]
