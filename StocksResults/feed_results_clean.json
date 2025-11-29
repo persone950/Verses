@@ -504,30 +504,48 @@
     "category": "CORE"
   },
   {
-    "symbol": "ORMP",
-    "price": 2.85,
-    "prev_close": 2.85,
-    "ts_ms": 1764353420000,
-    "source": "finnhub",
-    "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "MNSBP",
-    "price": 24.5171,
-    "prev_close": 24.1403,
-    "ts_ms": 1764017224000,
-    "source": "finnhub",
-    "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "HFND",
-    "price": 23.805,
-    "prev_close": 23.763,
+    "symbol": "FTNY",
+    "price": 7.9197,
+    "prev_close": 7.92,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "FRT",
+    "price": 98.73,
+    "prev_close": 98.57,
+    "ts_ms": 1764363600000,
+    "source": "finnhub",
+    "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "WRN",
+    "price": 2.45,
+    "prev_close": 2.36,
+    "ts_ms": 1764363600000,
+    "source": "finnhub",
+    "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "SHOC",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "YETI",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
