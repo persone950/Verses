@@ -1148,41 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "DENN",
+    "symbol": "FNV",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "DENN",
-      "price": 6.17,
-      "prev_close": 6.17,
-      "ts_ms": 1764353760000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "DENN",
-        "price": 6.17,
-        "prev_close": 6.17,
-        "ts_ms": 1764353760000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "HOVR",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "HOVR",
-      "price": 1.65,
-      "prev_close": 1.62,
+      "symbol": "FNV",
+      "price": 209.84,
+      "prev_close": 207.36,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "HOVR",
-        "price": 1.65,
-        "prev_close": 1.62,
+        "symbol": "FNV",
+        "price": 209.84,
+        "prev_close": 207.36,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1190,49 +1169,42 @@
     "error": null
   },
   {
-    "symbol": "KRMD",
+    "symbol": "CURX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "KRMD",
-      "price": 5.92,
-      "prev_close": 5.8,
-      "ts_ms": 1764360885000,
+      "symbol": "CURX",
+      "price": 0.4873,
+      "prev_close": 0.4738,
+      "ts_ms": 1764362859000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "KRMD",
-        "price": 5.92,
-        "prev_close": 5.8,
-        "ts_ms": 1764360885000,
+        "symbol": "CURX",
+        "price": 0.4873,
+        "prev_close": 0.4738,
+        "ts_ms": 1764362859000,
         "source": "finnhub"
       }
     ],
     "error": null
   },
   {
-    "symbol": "DDL",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "CATO",
+    "symbol": "AVNW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CATO",
-      "price": 3.5,
-      "prev_close": 3.49,
-      "ts_ms": 1764363600000,
+      "symbol": "AVNW",
+      "price": 22.11,
+      "prev_close": 21.71,
+      "ts_ms": 1764352800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CATO",
-        "price": 3.5,
-        "prev_close": 3.49,
-        "ts_ms": 1764363600000,
+        "symbol": "AVNW",
+        "price": 22.11,
+        "prev_close": 21.71,
+        "ts_ms": 1764352800000,
         "source": "finnhub"
       }
     ],
