@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "QID",
+    "symbol": "CINT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "QID",
-      "price": 20.2,
-      "prev_close": 20.5,
+      "symbol": "CINT",
+      "price": 4.5,
+      "prev_close": 4.49,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "QID",
-        "price": 20.2,
-        "prev_close": 20.5,
+        "symbol": "CINT",
+        "price": 4.5,
+        "prev_close": 4.49,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "AMZU",
+    "symbol": "THLV",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "AMZU",
-      "price": 37.62,
-      "prev_close": 36.36,
+      "symbol": "THLV",
+      "price": 30.5445,
+      "prev_close": 30.3958,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "AMZU",
-        "price": 37.62,
-        "prev_close": 36.36,
+        "symbol": "THLV",
+        "price": 30.5445,
+        "prev_close": 30.3958,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1190,20 +1190,41 @@
     "error": null
   },
   {
-    "symbol": "EMES",
+    "symbol": "EW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "EMES",
-      "price": 22.3618,
-      "prev_close": 22.203,
+      "symbol": "EW",
+      "price": 86.67,
+      "prev_close": 86.75,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "EMES",
-        "price": 22.3618,
-        "prev_close": 22.203,
+        "symbol": "EW",
+        "price": 86.67,
+        "prev_close": 86.75,
+        "ts_ms": 1764363600000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "DEFT",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "DEFT",
+      "price": 1.52,
+      "prev_close": 1.39,
+      "ts_ms": 1764363600000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "DEFT",
+        "price": 1.52,
+        "prev_close": 1.39,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
