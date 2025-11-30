@@ -504,45 +504,27 @@
     "category": "CORE"
   },
   {
-    "symbol": "TEKX",
-    "price": 43.604,
-    "prev_close": 42.1683,
-    "ts_ms": 1764353700000,
+    "symbol": "GPAT",
+    "price": 10.65,
+    "prev_close": 10.655,
+    "ts_ms": 1764352800000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "AEF",
-    "price": 6.73,
-    "prev_close": 6.7,
+    "symbol": "GEV",
+    "price": 599.77,
+    "prev_close": 589.72,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "GGN",
-    "price": 5.15,
-    "prev_close": 5.06,
-    "ts_ms": 1764363600000,
-    "source": "finnhub",
-    "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "PFG",
-    "price": 84.82,
-    "prev_close": 84.6,
-    "ts_ms": 1764352801000,
-    "source": "finnhub",
-    "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "XTRE",
-    "price": 50.01,
-    "prev_close": 50.04,
+    "symbol": "CGCV",
+    "price": 30.8,
+    "prev_close": 30.64,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
