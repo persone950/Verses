@@ -504,48 +504,30 @@
     "category": "CORE"
   },
   {
-    "symbol": "HUSA",
-    "price": 2.2,
-    "prev_close": 2.25,
+    "symbol": "FNV",
+    "price": 209.84,
+    "prev_close": 207.36,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "MX",
-    "price": 2.64,
-    "prev_close": 2.65,
-    "ts_ms": 1764363600000,
+    "symbol": "CURX",
+    "price": 0.4873,
+    "prev_close": 0.4738,
+    "ts_ms": 1764362859000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "FPF",
-    "price": 18.73,
-    "prev_close": 18.71,
-    "ts_ms": 1764363600000,
+    "symbol": "AVNW",
+    "price": 22.11,
+    "prev_close": 21.71,
+    "ts_ms": 1764352800000,
     "source": "finnhub",
     "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "BSJV",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "BSCZ",
-    "price": "",
-    "prev_close": "",
-    "ts_ms": "",
-    "source": "",
-    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
