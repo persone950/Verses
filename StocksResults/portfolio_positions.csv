@@ -1,4 +1,0 @@
-symbol,type,qty,last,segment
-AAPL,stock,10,190.00,Stocks
-AAPL 2025-01-17 200C,option,1,5.50,Options
-SPY 2025-02-21 400P,hedge,1,8.25,Hedges
