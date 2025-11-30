@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2025-11-30 15:22:35 EST",
+    "timestamp_et": "2025-11-30 16:54:42 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "INTC",
@@ -18,11 +18,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-30 15:22:35 ESTINTC—",
+    "checksum": "2025-11-30 16:54:42 ESTINTC—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-30 15:22:35 EST",
+    "timestamp_et": "2025-11-30 16:54:42 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "BBAI",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-30 15:22:35 ESTBBAI—",
+    "checksum": "2025-11-30 16:54:42 ESTBBAI—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-30 15:22:35 EST",
+    "timestamp_et": "2025-11-30 16:54:42 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "CHPT",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-30 15:22:35 ESTCHPT—",
+    "checksum": "2025-11-30 16:54:42 ESTCHPT—",
     "notes": "auto-generated placeholder"
   }
 ]
