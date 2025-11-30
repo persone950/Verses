@@ -4,9 +4,9 @@
   "phase": "OFF-CYCLE",
   "data_mode": "FALLBACK",
   "timestamps": {
-    "et": "2025-11-29T22:08:10.330321-05:00",
-    "gmt": "2025-11-30T03:08:10.330321+00:00",
-    "local": "2025-11-29T22:08:10.330349-05:00"
+    "et": "2025-11-29T23:01:36.335012-05:00",
+    "gmt": "2025-11-30T04:01:36.335012+00:00",
+    "local": "2025-11-29T23:01:36.335030-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -54,9 +54,9 @@
   },
   "row_counts": {
     "top10_render.csv": 10,
-    "random_addons_render.csv": 5,
-    "feed_results_table.csv": 61,
-    "ml_signals.csv": 61,
+    "random_addons_render.csv": 3,
+    "feed_results_table.csv": 59,
+    "ml_signals.csv": 59,
     "options_chain.csv": 250,
     "premium_candidates_all.csv": 0,
     "premium_candidates.csv": 0,
