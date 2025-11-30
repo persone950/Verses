@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "TNET",
+    "symbol": "YDEC",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TNET",
-      "price": 58.6,
-      "prev_close": 58.49,
+      "symbol": "YDEC",
+      "price": 25.9739,
+      "prev_close": 25.9636,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TNET",
-        "price": 58.6,
-        "prev_close": 58.49,
+        "symbol": "YDEC",
+        "price": 25.9739,
+        "prev_close": 25.9636,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "IYRI",
+    "symbol": "GMOC",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "IYRI",
-      "price": 50.01,
-      "prev_close": 49.85,
+      "symbol": "GMOC",
+      "price": 50.0515,
+      "prev_close": 50.1611,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "IYRI",
-        "price": 50.01,
-        "prev_close": 49.85,
+        "symbol": "GMOC",
+        "price": 50.0515,
+        "prev_close": 50.1611,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1190,31 +1190,24 @@
     "error": null
   },
   {
-    "symbol": "OPTX",
+    "symbol": "ZKH",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "OPTX",
-      "price": 1.73,
-      "prev_close": 1.72,
-      "ts_ms": 1764362299000,
+      "symbol": "ZKH",
+      "price": 3.27,
+      "prev_close": 3.27,
+      "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "OPTX",
-        "price": 1.73,
-        "prev_close": 1.72,
-        "ts_ms": 1764362299000,
+        "symbol": "ZKH",
+        "price": 3.27,
+        "prev_close": 3.27,
+        "ts_ms": 1764363600000,
         "source": "finnhub"
       }
     ],
     "error": null
-  },
-  {
-    "symbol": "TAYD",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
   }
 ]
