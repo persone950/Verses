@@ -1,1 +1,1 @@
-symbol,strategy,strike,exp,premium,delta,ivr,yield_pct,comment
+Timestamp,Ticker,OptionTicker,Type,Strategy,Direction,Strike,Exp,DTE,Premium,Delta,IV,IVR,YieldPct,POP_Approx,Score
