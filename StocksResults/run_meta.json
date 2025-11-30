@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "backend_version": "pythonista_backend_v0.9.0",
-  "phase": "OFF-CYCLE",
+  "phase": "INTRADAY",
   "data_mode": "FALLBACK",
   "timestamps": {
-    "et": "2025-11-29T23:01:36.335012-05:00",
-    "gmt": "2025-11-30T04:01:36.335012+00:00",
-    "local": "2025-11-29T23:01:36.335030-05:00"
+    "et": "2025-11-30T10:42:20.908543-05:00",
+    "gmt": "2025-11-30T15:42:20.908543+00:00",
+    "local": "2025-11-30T10:42:20.908562-05:00"
   },
   "files": {
     "feed_results.json": {
