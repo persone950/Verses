@@ -504,30 +504,39 @@
     "category": "CORE"
   },
   {
-    "symbol": "FNV",
-    "price": 209.84,
-    "prev_close": 207.36,
+    "symbol": "TNET",
+    "price": 58.6,
+    "prev_close": 58.49,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "CURX",
-    "price": 0.4873,
-    "prev_close": 0.4738,
-    "ts_ms": 1764362859000,
+    "symbol": "IYRI",
+    "price": 50.01,
+    "prev_close": 49.85,
+    "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "AVNW",
-    "price": 22.11,
-    "prev_close": 21.71,
-    "ts_ms": 1764352800000,
+    "symbol": "OPTX",
+    "price": 1.73,
+    "prev_close": 1.72,
+    "ts_ms": 1764362299000,
     "source": "finnhub",
     "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "TAYD",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
