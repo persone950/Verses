@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2025-11-29 23:01:10 EST",
+    "timestamp_et": "2025-11-30 10:41:58 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "INTC",
@@ -18,11 +18,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-29 23:01:10 ESTINTC—",
+    "checksum": "2025-11-30 10:41:58 ESTINTC—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-29 23:01:10 EST",
+    "timestamp_et": "2025-11-30 10:41:58 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "BBAI",
@@ -40,14 +40,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-29 23:01:10 ESTBBAI—",
+    "checksum": "2025-11-30 10:41:58 ESTBBAI—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-11-29 23:01:10 EST",
+    "timestamp_et": "2025-11-30 10:41:58 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "CHPT",
+    "ticker": "AMZU",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-11-29 23:01:10 ESTCHPT—",
+    "checksum": "2025-11-30 10:41:58 ESTAMZU—",
     "notes": "auto-generated placeholder"
   }
 ]
