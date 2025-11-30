@@ -1148,20 +1148,41 @@
     "error": "no_price"
   },
   {
-    "symbol": "FTNY",
+    "symbol": "TEKX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "FTNY",
-      "price": 7.9197,
-      "prev_close": 7.92,
+      "symbol": "TEKX",
+      "price": 43.604,
+      "prev_close": 42.1683,
+      "ts_ms": 1764353700000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "TEKX",
+        "price": 43.604,
+        "prev_close": 42.1683,
+        "ts_ms": 1764353700000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "AEF",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "AEF",
+      "price": 6.73,
+      "prev_close": 6.7,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "FTNY",
-        "price": 7.9197,
-        "prev_close": 7.92,
+        "symbol": "AEF",
+        "price": 6.73,
+        "prev_close": 6.7,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1169,20 +1190,20 @@
     "error": null
   },
   {
-    "symbol": "FRT",
+    "symbol": "GGN",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "FRT",
-      "price": 98.73,
-      "prev_close": 98.57,
+      "symbol": "GGN",
+      "price": 5.15,
+      "prev_close": 5.06,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "FRT",
-        "price": 98.73,
-        "prev_close": 98.57,
+        "symbol": "GGN",
+        "price": 5.15,
+        "prev_close": 5.06,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1190,38 +1211,45 @@
     "error": null
   },
   {
-    "symbol": "WRN",
+    "symbol": "PFG",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "WRN",
-      "price": 2.45,
-      "prev_close": 2.36,
-      "ts_ms": 1764363600000,
+      "symbol": "PFG",
+      "price": 84.82,
+      "prev_close": 84.6,
+      "ts_ms": 1764352801000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "WRN",
-        "price": 2.45,
-        "prev_close": 2.36,
-        "ts_ms": 1764363600000,
+        "symbol": "PFG",
+        "price": 84.82,
+        "prev_close": 84.6,
+        "ts_ms": 1764352801000,
         "source": "finnhub"
       }
     ],
     "error": null
   },
   {
-    "symbol": "SHOC",
+    "symbol": "XTRE",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "YETI",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "XTRE",
+      "price": 50.01,
+      "prev_close": 50.04,
+      "ts_ms": 1764363600000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "XTRE",
+        "price": 50.01,
+        "prev_close": 50.04,
+        "ts_ms": 1764363600000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   }
 ]
