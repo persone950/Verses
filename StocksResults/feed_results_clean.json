@@ -504,34 +504,34 @@
     "category": "CORE"
   },
   {
-    "symbol": "DENN",
-    "price": 6.17,
-    "prev_close": 6.17,
-    "ts_ms": 1764353760000,
-    "source": "finnhub",
-    "error": null,
-    "category": "ADDON_RANDOM"
-  },
-  {
-    "symbol": "HOVR",
-    "price": 1.65,
-    "prev_close": 1.62,
+    "symbol": "HUSA",
+    "price": 2.2,
+    "prev_close": 2.25,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "KRMD",
-    "price": 5.92,
-    "prev_close": 5.8,
-    "ts_ms": 1764360885000,
+    "symbol": "MX",
+    "price": 2.64,
+    "prev_close": 2.65,
+    "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "DDL",
+    "symbol": "FPF",
+    "price": 18.73,
+    "prev_close": 18.71,
+    "ts_ms": 1764363600000,
+    "source": "finnhub",
+    "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "BSJV",
     "price": "",
     "prev_close": "",
     "ts_ms": "",
@@ -540,12 +540,12 @@
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "CATO",
-    "price": 3.5,
-    "prev_close": 3.49,
-    "ts_ms": 1764363600000,
-    "source": "finnhub",
-    "error": null,
+    "symbol": "BSCZ",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
