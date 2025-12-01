@@ -504,30 +504,48 @@
     "category": "CORE"
   },
   {
-    "symbol": "YDEC",
-    "price": 25.9739,
-    "prev_close": 25.9636,
+    "symbol": "EXE",
+    "price": 121.93,
+    "prev_close": 118.77,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "GMOC",
-    "price": 50.0515,
-    "prev_close": 50.1611,
+    "symbol": "DGRO",
+    "price": 69.93,
+    "prev_close": 69.54,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "ZKH",
-    "price": 3.27,
-    "prev_close": 3.27,
+    "symbol": "ALV",
+    "price": 117.99,
+    "prev_close": 118.26,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "XPO",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "VTEX",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
