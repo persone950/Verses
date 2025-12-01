@@ -504,30 +504,48 @@
     "category": "CORE"
   },
   {
-    "symbol": "MAGH",
-    "price": 5.21,
-    "prev_close": 5.24,
+    "symbol": "BOX",
+    "price": 29.54,
+    "prev_close": 29.68,
     "ts_ms": 1764363600000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "TRP",
-    "price": 54.72,
-    "prev_close": 53.98,
-    "ts_ms": 1764363600000,
+    "symbol": "COCO",
+    "price": 53.41,
+    "prev_close": 53.83,
+    "ts_ms": 1764353729000,
     "source": "finnhub",
     "error": null,
     "category": "ADDON_RANDOM"
   },
   {
-    "symbol": "TFJL",
-    "price": 20.3592,
-    "prev_close": 20.4248,
-    "ts_ms": 1764363600000,
+    "symbol": "SKYU",
+    "price": 36.4406,
+    "prev_close": 35.8769,
+    "ts_ms": 1764353700000,
     "source": "finnhub",
     "error": null,
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "ECCF",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
+    "category": "ADDON_RANDOM"
+  },
+  {
+    "symbol": "WTIU",
+    "price": "",
+    "prev_close": "",
+    "ts_ms": "",
+    "source": "",
+    "error": "http 429",
     "category": "ADDON_RANDOM"
   }
 ]
