@@ -1148,20 +1148,20 @@
     "error": "no_price"
   },
   {
-    "symbol": "EXE",
+    "symbol": "MAGH",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "EXE",
-      "price": 121.93,
-      "prev_close": 118.77,
+      "symbol": "MAGH",
+      "price": 5.21,
+      "prev_close": 5.24,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "EXE",
-        "price": 121.93,
-        "prev_close": 118.77,
+        "symbol": "MAGH",
+        "price": 5.21,
+        "prev_close": 5.24,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1169,20 +1169,20 @@
     "error": null
   },
   {
-    "symbol": "DGRO",
+    "symbol": "TRP",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "DGRO",
-      "price": 69.93,
-      "prev_close": 69.54,
+      "symbol": "TRP",
+      "price": 54.72,
+      "prev_close": 53.98,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "DGRO",
-        "price": 69.93,
-        "prev_close": 69.54,
+        "symbol": "TRP",
+        "price": 54.72,
+        "prev_close": 53.98,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
@@ -1190,38 +1190,24 @@
     "error": null
   },
   {
-    "symbol": "ALV",
+    "symbol": "TFJL",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ALV",
-      "price": 117.99,
-      "prev_close": 118.26,
+      "symbol": "TFJL",
+      "price": 20.3592,
+      "prev_close": 20.4248,
       "ts_ms": 1764363600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ALV",
-        "price": 117.99,
-        "prev_close": 118.26,
+        "symbol": "TFJL",
+        "price": 20.3592,
+        "prev_close": 20.4248,
         "ts_ms": 1764363600000,
         "source": "finnhub"
       }
     ],
     "error": null
-  },
-  {
-    "symbol": "XPO",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "VTEX",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
   }
 ]
