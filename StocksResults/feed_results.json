@@ -4,17 +4,17 @@
     "category": "CORE",
     "best": {
       "symbol": "AAPL",
-      "price": 278.85,
-      "prev_close": 277.55,
-      "ts_ms": 1764363600000,
+      "price": 283.1,
+      "prev_close": 278.85,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "AAPL",
-        "price": 278.85,
-        "prev_close": 277.55,
-        "ts_ms": 1764363600000,
+        "price": 283.1,
+        "prev_close": 278.85,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -25,17 +25,17 @@
     "category": "CORE",
     "best": {
       "symbol": "MSFT",
-      "price": 492.01,
-      "prev_close": 485.5,
-      "ts_ms": 1764363600000,
+      "price": 486.74,
+      "prev_close": 492.01,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "MSFT",
-        "price": 492.01,
-        "prev_close": 485.5,
-        "ts_ms": 1764363600000,
+        "price": 486.74,
+        "prev_close": 492.01,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -46,17 +46,17 @@
     "category": "CORE",
     "best": {
       "symbol": "NVDA",
-      "price": 177.0,
-      "prev_close": 180.26,
-      "ts_ms": 1764363600000,
+      "price": 179.92,
+      "prev_close": 177.0,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "NVDA",
-        "price": 177.0,
-        "prev_close": 180.26,
-        "ts_ms": 1764363600000,
+        "price": 179.92,
+        "prev_close": 177.0,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -67,17 +67,17 @@
     "category": "CORE",
     "best": {
       "symbol": "GOOGL",
-      "price": 320.18,
-      "prev_close": 319.95,
-      "ts_ms": 1764363600000,
+      "price": 314.89,
+      "prev_close": 320.18,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "GOOGL",
-        "price": 320.18,
-        "prev_close": 319.95,
-        "ts_ms": 1764363600000,
+        "price": 314.89,
+        "prev_close": 320.18,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -88,17 +88,17 @@
     "category": "CORE",
     "best": {
       "symbol": "META",
-      "price": 647.95,
-      "prev_close": 633.61,
-      "ts_ms": 1764363600000,
+      "price": 640.87,
+      "prev_close": 647.95,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "META",
-        "price": 647.95,
-        "prev_close": 633.61,
-        "ts_ms": 1764363600000,
+        "price": 640.87,
+        "prev_close": 647.95,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -109,17 +109,17 @@
     "category": "CORE",
     "best": {
       "symbol": "AMZN",
-      "price": 233.22,
-      "prev_close": 229.16,
-      "ts_ms": 1764363600000,
+      "price": 233.88,
+      "prev_close": 233.22,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "AMZN",
-        "price": 233.22,
-        "prev_close": 229.16,
-        "ts_ms": 1764363600000,
+        "price": 233.88,
+        "prev_close": 233.22,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -130,17 +130,17 @@
     "category": "CORE",
     "best": {
       "symbol": "TSLA",
-      "price": 430.17,
-      "prev_close": 426.58,
-      "ts_ms": 1764363600000,
+      "price": 430.14,
+      "prev_close": 430.17,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "TSLA",
-        "price": 430.17,
-        "prev_close": 426.58,
-        "ts_ms": 1764363600000,
+        "price": 430.14,
+        "prev_close": 430.17,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -151,17 +151,17 @@
     "category": "CORE",
     "best": {
       "symbol": "AMD",
-      "price": 217.53,
-      "prev_close": 214.24,
-      "ts_ms": 1764363600000,
+      "price": 219.76,
+      "prev_close": 217.53,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "AMD",
-        "price": 217.53,
-        "prev_close": 214.24,
-        "ts_ms": 1764363600000,
+        "price": 219.76,
+        "prev_close": 217.53,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -172,17 +172,17 @@
     "category": "CORE",
     "best": {
       "symbol": "NFLX",
-      "price": 107.58,
-      "prev_close": 106.14,
-      "ts_ms": 1764363600000,
+      "price": 109.13,
+      "prev_close": 107.58,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "NFLX",
-        "price": 107.58,
-        "prev_close": 106.14,
-        "ts_ms": 1764363600000,
+        "price": 109.13,
+        "prev_close": 107.58,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -193,17 +193,17 @@
     "category": "CORE",
     "best": {
       "symbol": "ORCL",
-      "price": 201.95,
-      "prev_close": 204.96,
-      "ts_ms": 1764363600000,
+      "price": 200.94,
+      "prev_close": 201.95,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "ORCL",
-        "price": 201.95,
-        "prev_close": 204.96,
-        "ts_ms": 1764363600000,
+        "price": 200.94,
+        "prev_close": 201.95,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -214,17 +214,17 @@
     "category": "CORE",
     "best": {
       "symbol": "IBM",
-      "price": 308.58,
-      "prev_close": 303.21,
-      "ts_ms": 1764363600000,
+      "price": 305.67,
+      "prev_close": 308.58,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "IBM",
-        "price": 308.58,
-        "prev_close": 303.21,
-        "ts_ms": 1764363600000,
+        "price": 305.67,
+        "prev_close": 308.58,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -235,17 +235,17 @@
     "category": "CORE",
     "best": {
       "symbol": "AVGO",
-      "price": 402.96,
-      "prev_close": 397.57,
-      "ts_ms": 1764363600000,
+      "price": 386.08,
+      "prev_close": 402.96,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "AVGO",
-        "price": 402.96,
-        "prev_close": 397.57,
-        "ts_ms": 1764363600000,
+        "price": 386.08,
+        "prev_close": 402.96,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -256,17 +256,17 @@
     "category": "CORE",
     "best": {
       "symbol": "QCOM",
-      "price": 168.09,
-      "prev_close": 165.14,
-      "ts_ms": 1764363600000,
+      "price": 168.04,
+      "prev_close": 168.09,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "QCOM",
-        "price": 168.09,
-        "prev_close": 165.14,
-        "ts_ms": 1764363600000,
+        "price": 168.04,
+        "prev_close": 168.09,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -277,17 +277,17 @@
     "category": "CORE",
     "best": {
       "symbol": "INTC",
-      "price": 40.56,
-      "prev_close": 36.81,
-      "ts_ms": 1764363600000,
+      "price": 40.01,
+      "prev_close": 40.56,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "INTC",
-        "price": 40.56,
-        "prev_close": 36.81,
-        "ts_ms": 1764363600000,
+        "price": 40.01,
+        "prev_close": 40.56,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -298,17 +298,17 @@
     "category": "CORE",
     "best": {
       "symbol": "NOW",
-      "price": 812.41,
-      "prev_close": 802.72,
-      "ts_ms": 1764363600000,
+      "price": 822.07,
+      "prev_close": 812.41,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "NOW",
-        "price": 812.41,
-        "prev_close": 802.72,
-        "ts_ms": 1764363600000,
+        "price": 822.07,
+        "prev_close": 812.41,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -319,17 +319,17 @@
     "category": "CORE",
     "best": {
       "symbol": "COIN",
-      "price": 272.82,
-      "prev_close": 264.97,
-      "ts_ms": 1764363600000,
+      "price": 259.84,
+      "prev_close": 272.82,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "COIN",
-        "price": 272.82,
-        "prev_close": 264.97,
-        "ts_ms": 1764363600000,
+        "price": 259.84,
+        "prev_close": 272.82,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -340,17 +340,17 @@
     "category": "CORE",
     "best": {
       "symbol": "PLTR",
-      "price": 168.45,
-      "prev_close": 165.77,
-      "ts_ms": 1764363600000,
+      "price": 167.49,
+      "prev_close": 168.45,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "PLTR",
-        "price": 168.45,
-        "prev_close": 165.77,
-        "ts_ms": 1764363600000,
+        "price": 167.49,
+        "prev_close": 168.45,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -361,17 +361,17 @@
     "category": "CORE",
     "best": {
       "symbol": "MU",
-      "price": 236.48,
-      "prev_close": 230.26,
-      "ts_ms": 1764363600000,
+      "price": 240.46,
+      "prev_close": 236.48,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "MU",
-        "price": 236.48,
-        "prev_close": 230.26,
-        "ts_ms": 1764363600000,
+        "price": 240.46,
+        "prev_close": 236.48,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -382,17 +382,17 @@
     "category": "CORE",
     "best": {
       "symbol": "CRWD",
-      "price": 509.16,
-      "prev_close": 501.54,
-      "ts_ms": 1764363600000,
+      "price": 504.13,
+      "prev_close": 509.16,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "CRWD",
-        "price": 509.16,
-        "prev_close": 501.54,
-        "ts_ms": 1764363600000,
+        "price": 504.13,
+        "prev_close": 509.16,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -403,17 +403,17 @@
     "category": "CORE",
     "best": {
       "symbol": "BBAI",
-      "price": 6.34,
-      "prev_close": 6.02,
-      "ts_ms": 1764363600000,
+      "price": 6.05,
+      "prev_close": 6.34,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "BBAI",
-        "price": 6.34,
-        "prev_close": 6.02,
-        "ts_ms": 1764363600000,
+        "price": 6.05,
+        "prev_close": 6.34,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -424,17 +424,17 @@
     "category": "CORE",
     "best": {
       "symbol": "RGTI",
-      "price": 25.57,
+      "price": 23.45,
       "prev_close": 25.57,
-      "ts_ms": 1764363600000,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "RGTI",
-        "price": 25.57,
+        "price": 23.45,
         "prev_close": 25.57,
-        "ts_ms": 1764363600000,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -445,17 +445,17 @@
     "category": "CORE",
     "best": {
       "symbol": "INSM",
-      "price": 207.77,
-      "prev_close": 204.51,
-      "ts_ms": 1764353700000,
+      "price": 211.41,
+      "prev_close": 207.77,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "INSM",
-        "price": 207.77,
-        "prev_close": 204.51,
-        "ts_ms": 1764353700000,
+        "price": 211.41,
+        "prev_close": 207.77,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -466,17 +466,17 @@
     "category": "CORE",
     "best": {
       "symbol": "OPEN",
-      "price": 7.7,
-      "prev_close": 7.78,
-      "ts_ms": 1764363600000,
+      "price": 7.14,
+      "prev_close": 7.7,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "OPEN",
-        "price": 7.7,
-        "prev_close": 7.78,
-        "ts_ms": 1764363600000,
+        "price": 7.14,
+        "prev_close": 7.7,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -487,17 +487,17 @@
     "category": "CORE",
     "best": {
       "symbol": "HOOD",
-      "price": 128.49,
-      "prev_close": 128.2,
-      "ts_ms": 1764363600000,
+      "price": 123.24,
+      "prev_close": 128.49,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "HOOD",
-        "price": 128.49,
-        "prev_close": 128.2,
-        "ts_ms": 1764363600000,
+        "price": 123.24,
+        "prev_close": 128.49,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -515,17 +515,17 @@
     "category": "CORE",
     "best": {
       "symbol": "CHPT",
-      "price": 8.19,
-      "prev_close": 7.93,
-      "ts_ms": 1764363600000,
+      "price": 7.63,
+      "prev_close": 8.19,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "CHPT",
-        "price": 8.19,
-        "prev_close": 7.93,
-        "ts_ms": 1764363600000,
+        "price": 7.63,
+        "prev_close": 8.19,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -536,17 +536,17 @@
     "category": "CORE",
     "best": {
       "symbol": "ALGS",
-      "price": 9.58,
-      "prev_close": 9.86,
-      "ts_ms": 1764363600000,
+      "price": 9.3,
+      "prev_close": 9.58,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "ALGS",
-        "price": 9.58,
-        "prev_close": 9.86,
-        "ts_ms": 1764363600000,
+        "price": 9.3,
+        "prev_close": 9.58,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -557,17 +557,17 @@
     "category": "CORE",
     "best": {
       "symbol": "JPM",
-      "price": 313.08,
-      "prev_close": 307.64,
-      "ts_ms": 1764363600000,
+      "price": 308.92,
+      "prev_close": 313.08,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "JPM",
-        "price": 313.08,
-        "prev_close": 307.64,
-        "ts_ms": 1764363600000,
+        "price": 308.92,
+        "prev_close": 313.08,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -578,17 +578,17 @@
     "category": "CORE",
     "best": {
       "symbol": "BAC",
-      "price": 53.65,
-      "prev_close": 52.99,
-      "ts_ms": 1764363600000,
+      "price": 53.24,
+      "prev_close": 53.65,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "BAC",
-        "price": 53.65,
-        "prev_close": 52.99,
-        "ts_ms": 1764363600000,
+        "price": 53.24,
+        "prev_close": 53.65,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -599,17 +599,17 @@
     "category": "CORE",
     "best": {
       "symbol": "GS",
-      "price": 826.04,
-      "prev_close": 816.01,
-      "ts_ms": 1764363600000,
+      "price": 810.86,
+      "prev_close": 826.04,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "GS",
-        "price": 826.04,
-        "prev_close": 816.01,
-        "ts_ms": 1764363600000,
+        "price": 810.86,
+        "prev_close": 826.04,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -620,17 +620,17 @@
     "category": "CORE",
     "best": {
       "symbol": "MS",
-      "price": 169.66,
-      "prev_close": 167.94,
-      "ts_ms": 1764363600000,
+      "price": 168.47,
+      "prev_close": 169.66,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "MS",
-        "price": 169.66,
-        "prev_close": 167.94,
-        "ts_ms": 1764363600000,
+        "price": 168.47,
+        "prev_close": 169.66,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -641,17 +641,17 @@
     "category": "CORE",
     "best": {
       "symbol": "WFC",
-      "price": 85.85,
-      "prev_close": 85.56,
-      "ts_ms": 1764363600000,
+      "price": 85.4,
+      "prev_close": 85.85,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "WFC",
-        "price": 85.85,
-        "prev_close": 85.56,
-        "ts_ms": 1764363600000,
+        "price": 85.4,
+        "prev_close": 85.85,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -662,17 +662,17 @@
     "category": "CORE",
     "best": {
       "symbol": "XOM",
-      "price": 115.92,
-      "prev_close": 114.77,
-      "ts_ms": 1764363600000,
+      "price": 116.63,
+      "prev_close": 115.92,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "XOM",
-        "price": 115.92,
-        "prev_close": 114.77,
-        "ts_ms": 1764363600000,
+        "price": 116.63,
+        "prev_close": 115.92,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -683,17 +683,17 @@
     "category": "CORE",
     "best": {
       "symbol": "CVX",
-      "price": 151.13,
-      "prev_close": 149.51,
-      "ts_ms": 1764363600000,
+      "price": 152.54,
+      "prev_close": 151.13,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "CVX",
-        "price": 151.13,
-        "prev_close": 149.51,
-        "ts_ms": 1764363600000,
+        "price": 152.54,
+        "prev_close": 151.13,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -704,17 +704,17 @@
     "category": "CORE",
     "best": {
       "symbol": "COP",
-      "price": 88.69,
-      "prev_close": 87.09,
-      "ts_ms": 1764363600000,
+      "price": 90.26,
+      "prev_close": 88.69,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "COP",
-        "price": 88.69,
-        "prev_close": 87.09,
-        "ts_ms": 1764363600000,
+        "price": 90.26,
+        "prev_close": 88.69,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -725,17 +725,17 @@
     "category": "CORE",
     "best": {
       "symbol": "SLB",
-      "price": 36.24,
-      "prev_close": 35.66,
-      "ts_ms": 1764363600000,
+      "price": 36.6,
+      "prev_close": 36.24,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "SLB",
-        "price": 36.24,
-        "prev_close": 35.66,
-        "ts_ms": 1764363600000,
+        "price": 36.6,
+        "prev_close": 36.24,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -746,17 +746,17 @@
     "category": "CORE",
     "best": {
       "symbol": "CAT",
-      "price": 575.76,
-      "prev_close": 573.73,
-      "ts_ms": 1764363600000,
+      "price": 568.06,
+      "prev_close": 575.76,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "CAT",
-        "price": 575.76,
-        "prev_close": 573.73,
-        "ts_ms": 1764363600000,
+        "price": 568.06,
+        "prev_close": 575.76,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -767,17 +767,17 @@
     "category": "CORE",
     "best": {
       "symbol": "BA",
-      "price": 189.0,
-      "prev_close": 186.92,
-      "ts_ms": 1764363600000,
+      "price": 186.46,
+      "prev_close": 189.0,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "BA",
-        "price": 189.0,
-        "prev_close": 186.92,
-        "ts_ms": 1764363600000,
+        "price": 186.46,
+        "prev_close": 189.0,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -788,17 +788,17 @@
     "category": "CORE",
     "best": {
       "symbol": "GE",
-      "price": 298.45,
-      "prev_close": 296.62,
-      "ts_ms": 1764363600000,
+      "price": 288.45,
+      "prev_close": 298.45,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "GE",
-        "price": 298.45,
-        "prev_close": 296.62,
-        "ts_ms": 1764363600000,
+        "price": 288.45,
+        "prev_close": 298.45,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -809,17 +809,17 @@
     "category": "CORE",
     "best": {
       "symbol": "HON",
-      "price": 192.19,
-      "prev_close": 189.99,
-      "ts_ms": 1764357981000,
+      "price": 190.22,
+      "prev_close": 192.19,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "HON",
-        "price": 192.19,
-        "prev_close": 189.99,
-        "ts_ms": 1764357981000,
+        "price": 190.22,
+        "prev_close": 192.19,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -830,17 +830,17 @@
     "category": "CORE",
     "best": {
       "symbol": "UNH",
-      "price": 329.77,
-      "prev_close": 329.71,
-      "ts_ms": 1764363600000,
+      "price": 323.21,
+      "prev_close": 329.77,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "UNH",
-        "price": 329.77,
-        "prev_close": 329.71,
-        "ts_ms": 1764363600000,
+        "price": 323.21,
+        "prev_close": 329.77,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -851,17 +851,17 @@
     "category": "CORE",
     "best": {
       "symbol": "JNJ",
-      "price": 206.92,
-      "prev_close": 207.56,
-      "ts_ms": 1764363600000,
+      "price": 205.34,
+      "prev_close": 206.92,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "JNJ",
-        "price": 206.92,
-        "prev_close": 207.56,
-        "ts_ms": 1764363600000,
+        "price": 205.34,
+        "prev_close": 206.92,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -872,17 +872,17 @@
     "category": "CORE",
     "best": {
       "symbol": "PFE",
-      "price": 25.74,
-      "prev_close": 25.71,
-      "ts_ms": 1764363600000,
+      "price": 25.27,
+      "prev_close": 25.74,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "PFE",
-        "price": 25.74,
-        "prev_close": 25.71,
-        "ts_ms": 1764363600000,
+        "price": 25.27,
+        "prev_close": 25.74,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -893,17 +893,17 @@
     "category": "CORE",
     "best": {
       "symbol": "MRK",
-      "price": 104.83,
-      "prev_close": 104.63,
-      "ts_ms": 1764363600000,
+      "price": 101.83,
+      "prev_close": 104.83,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "MRK",
-        "price": 104.83,
-        "prev_close": 104.63,
-        "ts_ms": 1764363600000,
+        "price": 101.83,
+        "prev_close": 104.83,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -914,17 +914,17 @@
     "category": "CORE",
     "best": {
       "symbol": "LLY",
-      "price": 1075.47,
-      "prev_close": 1104.34,
-      "ts_ms": 1764363600000,
+      "price": 1057.89,
+      "prev_close": 1075.47,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "LLY",
-        "price": 1075.47,
-        "prev_close": 1104.34,
-        "ts_ms": 1764363600000,
+        "price": 1057.89,
+        "prev_close": 1075.47,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -935,17 +935,17 @@
     "category": "CORE",
     "best": {
       "symbol": "PG",
-      "price": 148.16,
-      "prev_close": 148.25,
-      "ts_ms": 1764363600000,
+      "price": 147.44,
+      "prev_close": 148.16,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "PG",
-        "price": 148.16,
-        "prev_close": 148.25,
-        "ts_ms": 1764363600000,
+        "price": 147.44,
+        "prev_close": 148.16,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -956,17 +956,17 @@
     "category": "CORE",
     "best": {
       "symbol": "KO",
-      "price": 73.12,
-      "prev_close": 72.88,
-      "ts_ms": 1764363600000,
+      "price": 71.95,
+      "prev_close": 73.12,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "KO",
-        "price": 73.12,
-        "prev_close": 72.88,
-        "ts_ms": 1764363600000,
+        "price": 71.95,
+        "prev_close": 73.12,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -977,17 +977,17 @@
     "category": "CORE",
     "best": {
       "symbol": "PEP",
-      "price": 148.74,
-      "prev_close": 147.98,
-      "ts_ms": 1764363600000,
+      "price": 149.51,
+      "prev_close": 148.74,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "PEP",
-        "price": 148.74,
-        "prev_close": 147.98,
-        "ts_ms": 1764363600000,
+        "price": 149.51,
+        "prev_close": 148.74,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -998,17 +998,17 @@
     "category": "CORE",
     "best": {
       "symbol": "MCD",
-      "price": 311.82,
-      "prev_close": 312.4,
-      "ts_ms": 1764363600000,
+      "price": 303.57,
+      "prev_close": 311.82,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "MCD",
-        "price": 311.82,
-        "prev_close": 312.4,
-        "ts_ms": 1764363600000,
+        "price": 303.57,
+        "prev_close": 311.82,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1019,17 +1019,17 @@
     "category": "CORE",
     "best": {
       "symbol": "NKE",
-      "price": 64.63,
-      "prev_close": 64.33,
-      "ts_ms": 1764363600000,
+      "price": 65.39,
+      "prev_close": 64.63,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "NKE",
-        "price": 64.63,
-        "prev_close": 64.33,
-        "ts_ms": 1764363600000,
+        "price": 65.39,
+        "prev_close": 64.63,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1040,17 +1040,17 @@
     "category": "CORE",
     "best": {
       "symbol": "COST",
-      "price": 913.59,
-      "prev_close": 908.26,
-      "ts_ms": 1764363600000,
+      "price": 911.96,
+      "prev_close": 913.59,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "COST",
-        "price": 913.59,
-        "prev_close": 908.26,
-        "ts_ms": 1764363600000,
+        "price": 911.96,
+        "prev_close": 913.59,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1061,17 +1061,17 @@
     "category": "CORE",
     "best": {
       "symbol": "SPY",
-      "price": 683.39,
-      "prev_close": 679.68,
-      "ts_ms": 1764363600000,
+      "price": 680.27,
+      "prev_close": 683.39,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "SPY",
-        "price": 683.39,
-        "prev_close": 679.68,
-        "ts_ms": 1764363600000,
+        "price": 680.27,
+        "prev_close": 683.39,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1082,17 +1082,17 @@
     "category": "CORE",
     "best": {
       "symbol": "QQQ",
-      "price": 619.25,
-      "prev_close": 614.27,
-      "ts_ms": 1764363600000,
+      "price": 617.17,
+      "prev_close": 619.25,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "QQQ",
-        "price": 619.25,
-        "prev_close": 614.27,
-        "ts_ms": 1764363600000,
+        "price": 617.17,
+        "prev_close": 619.25,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1103,17 +1103,17 @@
     "category": "CORE",
     "best": {
       "symbol": "DIA",
-      "price": 477.18,
-      "prev_close": 474.35,
-      "ts_ms": 1764363600000,
+      "price": 473.32,
+      "prev_close": 477.18,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "DIA",
-        "price": 477.18,
-        "prev_close": 474.35,
-        "ts_ms": 1764363600000,
+        "price": 473.32,
+        "prev_close": 477.18,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1124,17 +1124,17 @@
     "category": "CORE",
     "best": {
       "symbol": "IWM",
-      "price": 248.75,
-      "prev_close": 247.3,
-      "ts_ms": 1764363600000,
+      "price": 245.62,
+      "prev_close": 248.75,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
         "symbol": "IWM",
-        "price": 248.75,
-        "prev_close": 247.3,
-        "ts_ms": 1764363600000,
+        "price": 245.62,
+        "prev_close": 248.75,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
@@ -1148,80 +1148,66 @@
     "error": "no_price"
   },
   {
-    "symbol": "BOX",
+    "symbol": "PLBC",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "BOX",
-      "price": 29.54,
-      "prev_close": 29.68,
-      "ts_ms": 1764363600000,
+      "symbol": "PLBC",
+      "price": 43.59,
+      "prev_close": 43.41,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "BOX",
-        "price": 29.54,
-        "prev_close": 29.68,
-        "ts_ms": 1764363600000,
+        "symbol": "PLBC",
+        "price": 43.59,
+        "prev_close": 43.41,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
     "error": null
   },
   {
-    "symbol": "COCO",
+    "symbol": "PACH",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "COCO",
-      "price": 53.41,
-      "prev_close": 53.83,
-      "ts_ms": 1764353729000,
+      "symbol": "PACH",
+      "price": 10.14,
+      "prev_close": 10.11,
+      "ts_ms": 1764620288000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "COCO",
-        "price": 53.41,
-        "prev_close": 53.83,
-        "ts_ms": 1764353729000,
+        "symbol": "PACH",
+        "price": 10.14,
+        "prev_close": 10.11,
+        "ts_ms": 1764620288000,
         "source": "finnhub"
       }
     ],
     "error": null
   },
   {
-    "symbol": "SKYU",
+    "symbol": "AMDL",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SKYU",
-      "price": 36.4406,
-      "prev_close": 35.8769,
-      "ts_ms": 1764353700000,
+      "symbol": "AMDL",
+      "price": 16.68,
+      "prev_close": 16.35,
+      "ts_ms": 1764622800000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SKYU",
-        "price": 36.4406,
-        "prev_close": 35.8769,
-        "ts_ms": 1764353700000,
+        "symbol": "AMDL",
+        "price": 16.68,
+        "prev_close": 16.35,
+        "ts_ms": 1764622800000,
         "source": "finnhub"
       }
     ],
     "error": null
-  },
-  {
-    "symbol": "ECCF",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "WTIU",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
   }
 ]
