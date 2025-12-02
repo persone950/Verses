@@ -1,1 +1,13 @@
 Ticker,Time (ET),Price,% vs Close,Volume xAvg?,Tag,Suggested Action
+RGTI,07:29:59,23.45,-8.29%,N/A,PRE-SURGE,Monitor/Hedge
+OPEN,07:29:59,7.14,-7.27%,N/A,PRE-SURGE,Monitor/Hedge
+CHPT,07:29:59,7.63,-6.84%,N/A,PRE-SURGE,Monitor/Hedge
+COIN,07:29:59,259.84,-4.76%,N/A,PRE-SURGE,Monitor/Hedge
+BBAI,07:29:59,6.05,-4.57%,N/A,PRE-SURGE,Monitor/Hedge
+AVGO,07:29:59,386.08,-4.19%,N/A,PRE-SURGE,Monitor/Hedge
+HOOD,07:29:59,123.24,-4.09%,N/A,PRE-SURGE,Monitor/Hedge
+GE,07:29:59,288.45,-3.35%,N/A,PRE-SURGE,Monitor/Hedge
+ALGS,07:29:59,9.30,-2.92%,N/A,PRE-SURGE,Monitor/Hedge
+MRK,07:29:59,101.83,-2.86%,N/A,PRE-SURGE,Monitor/Hedge
+MCD,07:29:59,303.57,-2.65%,N/A,PRE-SURGE,Monitor/Hedge
+AMDL,07:29:59,16.68,+2.02%,N/A,PRE-SURGE,Momentum Probe
