@@ -1,9 +1,9 @@
 [
   {
-    "timestamp_et": "2025-12-01 02:14:36 EST",
+    "timestamp_et": "2025-12-02 07:29:59 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "INTC",
+    "ticker": "RGTI",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -18,14 +18,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-12-01 02:14:36 ESTINTC—",
+    "checksum": "2025-12-02 07:29:59 ESTRGTI—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-12-01 02:14:36 EST",
+    "timestamp_et": "2025-12-02 07:29:59 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "BBAI",
+    "ticker": "OPEN",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-12-01 02:14:36 ESTBBAI—",
+    "checksum": "2025-12-02 07:29:59 ESTOPEN—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-12-01 02:14:36 EST",
+    "timestamp_et": "2025-12-02 07:29:59 EST",
     "broker": "—",
     "acct": "—",
     "ticker": "CHPT",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-12-01 02:14:36 ESTCHPT—",
+    "checksum": "2025-12-02 07:29:59 ESTCHPT—",
     "notes": "auto-generated placeholder"
   }
 ]
