@@ -1,9 +1,9 @@
 [
   {
-    "timestamp_et": "2025-12-02 07:29:59 EST",
+    "timestamp_et": "2025-12-02 20:57:02 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "RGTI",
+    "ticker": "BA",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -18,14 +18,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-12-02 07:29:59 ESTRGTI—",
+    "checksum": "2025-12-02 20:57:02 ESTBA—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-12-02 07:29:59 EST",
+    "timestamp_et": "2025-12-02 20:57:02 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "OPEN",
+    "ticker": "INTC",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -40,14 +40,14 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-12-02 07:29:59 ESTOPEN—",
+    "checksum": "2025-12-02 20:57:02 ESTINTC—",
     "notes": "auto-generated placeholder"
   },
   {
-    "timestamp_et": "2025-12-02 07:29:59 EST",
+    "timestamp_et": "2025-12-02 20:57:02 EST",
     "broker": "—",
     "acct": "—",
-    "ticker": "CHPT",
+    "ticker": "BBAI",
     "action": "buy",
     "asset": "option",
     "qty": "—",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2025-12-02 07:29:59 ESTCHPT—",
+    "checksum": "2025-12-02 20:57:02 ESTBBAI—",
     "notes": "auto-generated placeholder"
   }
 ]
