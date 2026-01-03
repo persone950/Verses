@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2026-01-03 01:26:26 EST",
+    "timestamp_et": "2026-01-03 02:06:28 EST",
     "broker": "\u2014",
     "acct": "\u2014",
     "ticker": "NVDA",
@@ -18,11 +18,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2026-01-03 01:26:26 ESTNVDAC195.0000",
+    "checksum": "2026-01-03 02:06:28 ESTNVDAC195.0000",
     "notes": "auto-generated (portfolio_ticket_core)"
   },
   {
-    "timestamp_et": "2026-01-03 01:26:26 EST",
+    "timestamp_et": "2026-01-03 02:06:28 EST",
     "broker": "\u2014",
     "acct": "\u2014",
     "ticker": "META",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2026-01-03 01:26:26 ESTMETAC660.0000",
+    "checksum": "2026-01-03 02:06:28 ESTMETAC660.0000",
     "notes": "auto-generated (portfolio_ticket_core)"
   },
   {
-    "timestamp_et": "2026-01-03 01:26:26 EST",
+    "timestamp_et": "2026-01-03 02:06:28 EST",
     "broker": "\u2014",
     "acct": "\u2014",
     "ticker": "NVDA",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2026-01-03 01:26:26 ESTNVDAP185.0000",
+    "checksum": "2026-01-03 02:06:28 ESTNVDAP185.0000",
     "notes": "auto-generated (portfolio_ticket_core)"
   }
 ]
