@@ -1,4 +1,1 @@
-symbol,% vs close,price,source
-NEXM,-3.70%,3.64,finnhub
-MBSX,+2.89%,27.07,finnhub
-SPIN,+0.20%,32.25,finnhub
+rank,ts_et,symbol,ref,pct_move,price,volume,dollar_vol,spread_pct,options_eligible,source
