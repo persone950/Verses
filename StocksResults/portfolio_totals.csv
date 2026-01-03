@@ -1,5 +1,3 @@
-segment,value,change_pct,alloc_pct
-Stocks,1900.00,,99.28
-Options,5.50,,0.29
-Hedges,8.25,,0.43
-Total,1913.75,,100.00
+Portfolio,StocksValue,OptionsValue,CryptoValue,CashValue,TotalValue
+RH Portfolio,10047.55,4456.0,24830.14,0.0,39333.69
+Total Portfolio,10047.55,4456.0,24830.14,0.0,39333.69
