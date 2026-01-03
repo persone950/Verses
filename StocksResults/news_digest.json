@@ -2,15 +2,37 @@
   "digest": {
     "AAPL": [
       {
-        "headline": "'We've got personality and a cracking asset with a bunny on our energy drinks'",
-        "link": "https://uk.finance.yahoo.com/news/sneak-energy-powder-drinks-060045298.html?.tsrc=rss",
+        "headline": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
+        "link": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 06:00:45 +0000",
-        "title": "'We've got personality and a cracking asset with a bunny on our energy drinks'",
-        "ts": "2026-01-03T06:00:45Z",
-        "url": "https://uk.finance.yahoo.com/news/sneak-energy-powder-drinks-060045298.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 14:06:00 +0000",
+        "title": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
+        "ts": "2026-01-03T14:06:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/?.tsrc=rss"
+      },
+      {
+        "headline": "Apple's (NASDAQ:AAPL) investors will be pleased with their solid 112% return over the last three years",
+        "link": "https://finance.yahoo.com/news/apples-nasdaq-aapl-investors-pleased-120018791.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 12:00:18 +0000",
+        "title": "Apple's (NASDAQ:AAPL) investors will be pleased with their solid 112% return over the last three years",
+        "ts": "2026-01-03T12:00:18Z",
+        "url": "https://finance.yahoo.com/news/apples-nasdaq-aapl-investors-pleased-120018791.html?.tsrc=rss"
+      },
+      {
+        "headline": "Jim Grant once said Warren Buffett was trying to warn Americans about US stocks, and he's leaning into this asset class",
+        "link": "https://finance.yahoo.com/news/jim-grant-once-said-warren-102300163.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 10:23:00 +0000",
+        "title": "Jim Grant once said Warren Buffett was trying to warn Americans about US stocks, and he's leaning into this asset class",
+        "ts": "2026-01-03T10:23:00Z",
+        "url": "https://finance.yahoo.com/news/jim-grant-once-said-warren-102300163.html?.tsrc=rss"
       },
       {
         "headline": "Apple Stock Initiated At Neutral. Here's Why.",
@@ -44,41 +66,19 @@
         "title": "OpenAI Is Taking On Apple\u2019s App Store. It\u2019s Got a Long Way to Go.",
         "ts": "2026-01-02T19:50:00Z",
         "url": "https://finance.yahoo.com/m/89dafb06-8207-31cf-9853-e4296c4fc90b/openai-is-taking-on-apple%E2%80%99s.html?.tsrc=rss"
-      },
-      {
-        "headline": "Apple Quietly Pulls Back on Vision Pro",
-        "link": "https://finance.yahoo.com/news/apple-quietly-pulls-back-vision-193411645.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 19:34:11 +0000",
-        "title": "Apple Quietly Pulls Back on Vision Pro",
-        "ts": "2026-01-02T19:34:11Z",
-        "url": "https://finance.yahoo.com/news/apple-quietly-pulls-back-vision-193411645.html?.tsrc=rss"
-      },
-      {
-        "headline": "Apple Leans Deeper Into Fitness in 2026",
-        "link": "https://finance.yahoo.com/news/apple-leans-deeper-fitness-2026-193359453.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 19:33:59 +0000",
-        "title": "Apple Leans Deeper Into Fitness in 2026",
-        "ts": "2026-01-02T19:33:59Z",
-        "url": "https://finance.yahoo.com/news/apple-leans-deeper-fitness-2026-193359453.html?.tsrc=rss"
       }
     ],
     "AMD": [
       {
-        "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+        "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-        "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "ts": "2026-01-03T03:55:18Z",
-        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "ts": "2026-01-03T18:03:23Z",
+        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
         "headline": "December jobs report, earnings, CES 2026: What to Watch",
@@ -138,70 +138,70 @@
     ],
     "AMZN": [
       {
-        "headline": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
-        "link": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss",
+        "headline": "Best Stock to Buy Right Now: Amazon vs. Costco",
+        "link": "https://www.fool.com/investing/2026/01/03/best-stock-to-buy-right-now-amazon-vs-costco/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 06:55:00 +0000",
-        "title": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
-        "ts": "2026-01-03T06:55:00Z",
-        "url": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 18:05:00 +0000",
+        "title": "Best Stock to Buy Right Now: Amazon vs. Costco",
+        "ts": "2026-01-03T18:05:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/best-stock-to-buy-right-now-amazon-vs-costco/?.tsrc=rss"
       },
       {
-        "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-        "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
+        "headline": "History of Costco: Company timeline and facts",
+        "link": "https://www.thestreet.com/retail/costco-history-timeline?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 02:01:09 +0000",
-        "title": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-        "ts": "2026-01-03T02:01:09Z",
-        "url": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 16:36:00 +0000",
+        "title": "History of Costco: Company timeline and facts",
+        "ts": "2026-01-03T16:36:00Z",
+        "url": "https://www.thestreet.com/retail/costco-history-timeline?.tsrc=rss"
       },
       {
-        "headline": "Amazon (AMZN) Stock Falls Amid Market Uptick: What Investors Need to Know",
-        "link": "https://finance.yahoo.com/news/amazon-amzn-stock-falls-amid-224505894.html?.tsrc=rss",
+        "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+        "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:45:05 +0000",
-        "title": "Amazon (AMZN) Stock Falls Amid Market Uptick: What Investors Need to Know",
-        "ts": "2026-01-02T22:45:05Z",
-        "url": "https://finance.yahoo.com/news/amazon-amzn-stock-falls-amid-224505894.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 15:45:33 +0000",
+        "title": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+        "ts": "2026-01-03T15:45:33Z",
+        "url": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss"
       },
       {
-        "headline": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-        "link": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss",
+        "headline": "Stock Funds Rose 14.6% in 2025",
+        "link": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:31:09 +0000",
-        "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-        "ts": "2026-01-02T22:31:09Z",
-        "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 15:00:00 +0000",
+        "title": "Stock Funds Rose 14.6% in 2025",
+        "ts": "2026-01-03T15:00:00Z",
+        "url": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss"
       },
       {
-        "headline": "How AI-driven pricing inflates consumer costs: Consumer Reports",
-        "link": "https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html?.tsrc=rss",
+        "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:30:00 +0000",
-        "title": "How AI-driven pricing inflates consumer costs: Consumer Reports",
-        "ts": "2026-01-02T22:30:00Z",
-        "url": "https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+        "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "ts": "2026-01-03T14:31:13Z",
+        "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
       },
       {
-        "headline": "Forget 2025: These 3 Growth Stocks Could Soar in 2026",
-        "link": "https://www.fool.com/investing/2026/01/02/forget-2025-buy-3-growth-stocks-2026/?.tsrc=rss",
+        "headline": "Where Will Amazon (AMZN) Stock Be in 3 Years?",
+        "link": "https://www.fool.com/investing/2026/01/03/where-will-amazon-amzn-stock-be-in-3-years/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:25:00 +0000",
-        "title": "Forget 2025: These 3 Growth Stocks Could Soar in 2026",
-        "ts": "2026-01-02T22:25:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/forget-2025-buy-3-growth-stocks-2026/?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:53:00 +0000",
+        "title": "Where Will Amazon (AMZN) Stock Be in 3 Years?",
+        "ts": "2026-01-03T13:53:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/where-will-amazon-amzn-stock-be-in-3-years/?.tsrc=rss"
       }
     ],
     "AVGO": [
@@ -342,6 +342,39 @@
     ],
     "COIN": [
       {
+        "headline": "After A Miserable 2025 First Trust SkyBridge Crypto ETF Looks Ready To Soar in 2026",
+        "link": "https://247wallst.com/investing/2026/01/03/after-a-miserable-2025-first-trust-skybridge-crypto-etf-looks-ready-to-soar-in-2026/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 14:30:08 +0000",
+        "title": "After A Miserable 2025 First Trust SkyBridge Crypto ETF Looks Ready To Soar in 2026",
+        "ts": "2026-01-03T14:30:08Z",
+        "url": "https://247wallst.com/investing/2026/01/03/after-a-miserable-2025-first-trust-skybridge-crypto-etf-looks-ready-to-soar-in-2026/?.tsrc=rss"
+      },
+      {
+        "headline": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+        "link": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 13:00:00 +0000",
+        "title": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+        "ts": "2026-01-03T13:00:00Z",
+        "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss"
+      },
+      {
+        "headline": "CLARITY Act More Complex Than Stablecoin Bill, Coinbase Says",
+        "link": "https://cryptonews.com/news/clarity-act-more-complex-than-stablecoin-bill-coinbase-says/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 12:36:40 +0000",
+        "title": "CLARITY Act More Complex Than Stablecoin Bill, Coinbase Says",
+        "ts": "2026-01-03T12:36:40Z",
+        "url": "https://cryptonews.com/news/clarity-act-more-complex-than-stablecoin-bill-coinbase-says/?.tsrc=rss"
+      },
+      {
         "headline": "Charles Schwab Is Back on Offense. Its Stock Is a Buy.",
         "link": "https://finance.yahoo.com/m/7b0ef232-447c-317f-89e0-f5d0a77bd97f/charles-schwab-is-back-on.html?.tsrc=rss",
         "source": "yahoo",
@@ -373,42 +406,20 @@
         "title": "What BlackRock, Coinbase and 11 other industry giants predict for crypto in 2026",
         "ts": "2026-01-02T15:11:31Z",
         "url": "https://www.dlnews.com/articles/markets/blackrock-coinbase-and-others-share-2026-predictions/?.tsrc=rss"
-      },
-      {
-        "headline": "Coinbase Plans All-in-One Exchange for Crypto, Stocks, and Commodities in 2026",
-        "link": "https://cryptonews.com/news/coinbase-plans-all-in-one-exchange-for-crypto-stocks-and-commodities-in-2026/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 15:05:15 +0000",
-        "title": "Coinbase Plans All-in-One Exchange for Crypto, Stocks, and Commodities in 2026",
-        "ts": "2026-01-02T15:05:15Z",
-        "url": "https://cryptonews.com/news/coinbase-plans-all-in-one-exchange-for-crypto-stocks-and-commodities-in-2026/?.tsrc=rss"
-      },
-      {
-        "headline": "Coinbase Targeting Stablecoin Growth, Onchain Adoption in 2026: Brian Armstrong",
-        "link": "https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 15:01:03 +0000",
-        "title": "Coinbase Targeting Stablecoin Growth, Onchain Adoption in 2026: Brian Armstrong",
-        "ts": "2026-01-02T15:01:03Z",
-        "url": "https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong?.tsrc=rss"
-      },
-      {
-        "headline": "Armstrong Aims to Make Coinbase the \u201cEverything Exchange\u201d in 2026",
-        "link": "https://www.coinspeaker.com/armstrong-aims-to-make-coinbase-the-everything-exchange-in-2026/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 14:29:11 +0000",
-        "title": "Armstrong Aims to Make Coinbase the \u201cEverything Exchange\u201d in 2026",
-        "ts": "2026-01-02T14:29:11Z",
-        "url": "https://www.coinspeaker.com/armstrong-aims-to-make-coinbase-the-everything-exchange-in-2026/?.tsrc=rss"
       }
     ],
     "CRWD": [
+      {
+        "headline": "3 Cybersecurity Stocks to Watch in 2026 as Identity and Endpoint Converge",
+        "link": "https://www.marketbeat.com/stock-ideas/3-cybersecurity-stocks-to-watch-in-2026-as-identity-and-endpoint-converge/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Fri, 02 Jan 2026 17:28:00 +0000",
+        "title": "3 Cybersecurity Stocks to Watch in 2026 as Identity and Endpoint Converge",
+        "ts": "2026-01-02T17:28:00Z",
+        "url": "https://www.marketbeat.com/stock-ideas/3-cybersecurity-stocks-to-watch-in-2026-as-identity-and-endpoint-converge/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+      },
       {
         "headline": "3 Top Cybersecurity Stocks to Buy in January",
         "link": "https://www.fool.com/investing/2026/01/01/3-top-cybersecurity-stocks-to-buy-in-january/?.tsrc=rss",
@@ -463,17 +474,6 @@
         "title": "J.P. Morgan Maintains Bullish Stance on CrowdStrike Holdings (CRWD) Stock",
         "ts": "2025-12-31T16:56:57Z",
         "url": "https://finance.yahoo.com/news/j-p-morgan-maintains-bullish-165657960.html?.tsrc=rss"
-      },
-      {
-        "headline": "The 5 Best Stocks to Play AI in 2026, According to Wall Street\u2019s Loudest Tech Bull",
-        "link": "https://finance.yahoo.com/m/28d2698d-113c-3f0f-ba02-5714d5c4b4be/the-5-best-stocks-to-play-ai.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Wed, 31 Dec 2025 13:20:00 +0000",
-        "title": "The 5 Best Stocks to Play AI in 2026, According to Wall Street\u2019s Loudest Tech Bull",
-        "ts": "2025-12-31T13:20:00Z",
-        "url": "https://finance.yahoo.com/m/28d2698d-113c-3f0f-ba02-5714d5c4b4be/the-5-best-stocks-to-play-ai.html?.tsrc=rss"
       }
     ],
     "GLOBAL": [
@@ -546,73 +546,95 @@
     ],
     "GOOGL": [
       {
-        "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-        "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
+        "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+        "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 02:01:09 +0000",
-        "title": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-        "ts": "2026-01-03T02:01:09Z",
-        "url": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 15:45:33 +0000",
+        "title": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+        "ts": "2026-01-03T15:45:33Z",
+        "url": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss"
       },
       {
-        "headline": "Short interest in Trump Media climbs after recent rally, S3 Partners says",
-        "link": "https://finance.yahoo.com/news/short-interest-trump-media-climbs-232105935.html?.tsrc=rss",
+        "headline": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+        "link": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 23:21:05 +0000",
-        "title": "Short interest in Trump Media climbs after recent rally, S3 Partners says",
-        "ts": "2026-01-02T23:21:05Z",
-        "url": "https://finance.yahoo.com/news/short-interest-trump-media-climbs-232105935.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 15:10:24 +0000",
+        "title": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+        "ts": "2026-01-03T15:10:24Z",
+        "url": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss"
       },
       {
-        "headline": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-        "link": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss",
+        "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:31:09 +0000",
-        "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-        "ts": "2026-01-02T22:31:09Z",
-        "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+        "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "ts": "2026-01-03T14:31:13Z",
+        "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
       },
       {
-        "headline": "Shaquille O\u2019Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More",
-        "link": "https://finance.yahoo.com/news/shaquille-o-neal-making-more-222957773.html?.tsrc=rss",
+        "headline": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+        "link": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:29:57 +0000",
-        "title": "Shaquille O\u2019Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More",
-        "ts": "2026-01-02T22:29:57Z",
-        "url": "https://finance.yahoo.com/news/shaquille-o-neal-making-more-222957773.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:52:00 +0000",
+        "title": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+        "ts": "2026-01-03T13:52:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss"
       },
       {
-        "headline": "4 Under-the-Radar AI Stocks to Buy for 2026",
-        "link": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss",
+        "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+        "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:31:07 +0000",
-        "title": "4 Under-the-Radar AI Stocks to Buy for 2026",
-        "ts": "2026-01-02T21:31:07Z",
-        "url": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:02:39 +0000",
+        "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+        "ts": "2026-01-03T13:02:39Z",
+        "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
       },
       {
-        "headline": "Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026",
-        "link": "https://finance.yahoo.com/m/71f3d475-6903-3aca-93e5-8bed1409eaf4/google%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
+        "headline": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
+        "link": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:25:27 +0000",
-        "title": "Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026",
-        "ts": "2026-01-02T21:25:27Z",
-        "url": "https://finance.yahoo.com/m/71f3d475-6903-3aca-93e5-8bed1409eaf4/google%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:00:57 +0000",
+        "title": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
+        "ts": "2026-01-03T13:00:57Z",
+        "url": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss"
       }
     ],
     "HOOD": [
+      {
+        "headline": "Here Are 3 Financial Stocks Making Big AI Moves in 2026",
+        "link": "https://www.fool.com/investing/2026/01/03/here-are-3-financial-stocks-making-big-ai-moves-in/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 17:55:00 +0000",
+        "title": "Here Are 3 Financial Stocks Making Big AI Moves in 2026",
+        "ts": "2026-01-03T17:55:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/here-are-3-financial-stocks-making-big-ai-moves-in/?.tsrc=rss"
+      },
+      {
+        "headline": "2 Monster Stocks to Hold for the Next 20 Years",
+        "link": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 10:05:00 +0000",
+        "title": "2 Monster Stocks to Hold for the Next 20 Years",
+        "ts": "2026-01-03T10:05:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss"
+      },
       {
         "headline": "Charles Schwab Is Back on Offense. Its Stock Is a Buy.",
         "link": "https://finance.yahoo.com/m/7b0ef232-447c-317f-89e0-f5d0a77bd97f/charles-schwab-is-back-on.html?.tsrc=rss",
@@ -656,28 +678,6 @@
         "title": "Is Robinhood Stock Your Ticket to Becoming a Millionaire?",
         "ts": "2026-01-02T10:50:00Z",
         "url": "https://www.fool.com/investing/2026/01/02/is-robinhood-stock-your-ticket-to-becoming-a-milli/?.tsrc=rss"
-      },
-      {
-        "headline": "Prediction: Robinhood Stock Is Going to Plunge in 2026",
-        "link": "https://www.fool.com/investing/2026/01/02/prediction-robinhood-stock-is-going-to-plunge-2026/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 09:49:00 +0000",
-        "title": "Prediction: Robinhood Stock Is Going to Plunge in 2026",
-        "ts": "2026-01-02T09:49:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/prediction-robinhood-stock-is-going-to-plunge-2026/?.tsrc=rss"
-      },
-      {
-        "headline": "Robinhood (HOOD) Has a Great IRA Product, Says Jim Cramer",
-        "link": "https://finance.yahoo.com/news/robinhood-hood-great-ira-product-134237582.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Thu, 01 Jan 2026 13:42:37 +0000",
-        "title": "Robinhood (HOOD) Has a Great IRA Product, Says Jim Cramer",
-        "ts": "2026-01-01T13:42:37Z",
-        "url": "https://finance.yahoo.com/news/robinhood-hood-great-ira-product-134237582.html?.tsrc=rss"
       }
     ],
     "IBM": [
@@ -691,6 +691,17 @@
         "title": "Stock Market News for Jan 2, 2026",
         "ts": "2026-01-02T13:22:00Z",
         "url": "https://finance.yahoo.com/news/stock-market-news-jan-2-132200429.html?.tsrc=rss"
+      },
+      {
+        "headline": "D-Wave vs. IonQ vs. IBM vs. Google: Which Quantum Bets Will Win 2026?",
+        "link": "https://www.marketbeat.com/originals/d-wave-vs-ionq-vs-ibm-vs-google-which-quantum-bets-will-win-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Fri, 02 Jan 2026 12:11:00 +0000",
+        "title": "D-Wave vs. IonQ vs. IBM vs. Google: Which Quantum Bets Will Win 2026?",
+        "ts": "2026-01-02T12:11:00Z",
+        "url": "https://www.marketbeat.com/originals/d-wave-vs-ionq-vs-ibm-vs-google-which-quantum-bets-will-win-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
       },
       {
         "headline": "3 Artificial Intelligence Stocks to Buy in 2026 and Hold for the Rest of the Decade",
@@ -735,17 +746,6 @@
         "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
         "ts": "2025-12-31T19:41:00Z",
         "url": "https://finance.yahoo.com/m/50ab4bb3-d215-3154-902d-25a47ff088b5/dogs-of-the-dow-had-a-strong.html?.tsrc=rss"
-      },
-      {
-        "headline": "Wall Street Has a Mixed Opinion in International Business Machines (IBM), Here\u2019s Why",
-        "link": "https://finance.yahoo.com/news/wall-street-mixed-opinion-international-164210154.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Wed, 31 Dec 2025 16:42:10 +0000",
-        "title": "Wall Street Has a Mixed Opinion in International Business Machines (IBM), Here\u2019s Why",
-        "ts": "2025-12-31T16:42:10Z",
-        "url": "https://finance.yahoo.com/news/wall-street-mixed-opinion-international-164210154.html?.tsrc=rss"
       }
     ],
     "INSM": [
@@ -818,6 +818,17 @@
     ],
     "INTC": [
       {
+        "headline": "Intel (INTC) Draws Strategic Nvidia Investment as Chip Testing Plans Shift",
+        "link": "https://finance.yahoo.com/news/intel-intc-draws-strategic-nvidia-120401205.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 12:04:01 +0000",
+        "title": "Intel (INTC) Draws Strategic Nvidia Investment as Chip Testing Plans Shift",
+        "ts": "2026-01-03T12:04:01Z",
+        "url": "https://finance.yahoo.com/news/intel-intc-draws-strategic-nvidia-120401205.html?.tsrc=rss"
+      },
+      {
         "headline": "Stock Market Today, Jan. 2: Dow Climbs After Industrials Outperform on Rotation Away From Mega Cap Tech",
         "link": "https://www.fool.com/coverage/stock-market-today/2026/01/02/stock-market-today-jan-2-dow-climbs-after-industrials-outperform-on-rotation-away-from-mega-cap-tech/?.tsrc=rss",
         "source": "yahoo",
@@ -871,20 +882,53 @@
         "title": "Why Are Super Micro (SMCI) Shares Soaring Today",
         "ts": "2026-01-02T18:46:16Z",
         "url": "https://finance.yahoo.com/news/why-super-micro-smci-shares-184616327.html?.tsrc=rss"
-      },
-      {
-        "headline": "Bitcoin pushes above $90,000 as traders eye change in pattern",
-        "link": "https://www.coindesk.com/markets/2026/01/02/bitcoin-pushes-above-usd90-000-as-traders-eye-change-in-pattern?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 16:16:55 +0000",
-        "title": "Bitcoin pushes above $90,000 as traders eye change in pattern",
-        "ts": "2026-01-02T16:16:55Z",
-        "url": "https://www.coindesk.com/markets/2026/01/02/bitcoin-pushes-above-usd90-000-as-traders-eye-change-in-pattern?.tsrc=rss"
       }
     ],
     "META": [
+      {
+        "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+        "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 15:45:33 +0000",
+        "title": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+        "ts": "2026-01-03T15:45:33Z",
+        "url": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss"
+      },
+      {
+        "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+        "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "ts": "2026-01-03T14:31:13Z",
+        "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
+      },
+      {
+        "headline": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+        "link": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 11:45:35 +0000",
+        "title": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+        "ts": "2026-01-03T11:45:35Z",
+        "url": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss"
+      },
+      {
+        "headline": "Manus-Meta deal may draw Beijing scrutiny over tech exports controls, experts say",
+        "link": "https://finance.yahoo.com/news/manus-meta-deal-may-draw-093000335.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 09:30:00 +0000",
+        "title": "Manus-Meta deal may draw Beijing scrutiny over tech exports controls, experts say",
+        "ts": "2026-01-03T09:30:00Z",
+        "url": "https://finance.yahoo.com/news/manus-meta-deal-may-draw-093000335.html?.tsrc=rss"
+      },
       {
         "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
         "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
@@ -906,53 +950,31 @@
         "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
         "ts": "2026-01-02T22:31:09Z",
         "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
-      },
-      {
-        "headline": "Tech, Media & Telecom Roundup",
-        "link": "https://finance.yahoo.com/m/372c290c-1fa2-3ede-9a0e-57f73246dc9c/tech%2C-media-%26-telecom-roundup.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:24:00 +0000",
-        "title": "Tech, Media & Telecom Roundup",
-        "ts": "2026-01-02T22:24:00Z",
-        "url": "https://finance.yahoo.com/m/372c290c-1fa2-3ede-9a0e-57f73246dc9c/tech%2C-media-%26-telecom-roundup.html?.tsrc=rss"
-      },
-      {
-        "headline": "4 Under-the-Radar AI Stocks to Buy for 2026",
-        "link": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:31:07 +0000",
-        "title": "4 Under-the-Radar AI Stocks to Buy for 2026",
-        "ts": "2026-01-02T21:31:07Z",
-        "url": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss"
-      },
-      {
-        "headline": "Meta Platforms vs. Pinterest: Which Social Media Stock Will Outperform in 2026?",
-        "link": "https://www.fool.com/investing/2026/01/02/meta-platforms-vs-pinterest-which-social-media/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 20:50:00 +0000",
-        "title": "Meta Platforms vs. Pinterest: Which Social Media Stock Will Outperform in 2026?",
-        "ts": "2026-01-02T20:50:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/meta-platforms-vs-pinterest-which-social-media/?.tsrc=rss"
-      },
-      {
-        "headline": "5 Cheap Tech Stocks to Buy Right Now",
-        "link": "https://www.fool.com/investing/2026/01/02/5-cheap-tech-stocks-to-buy-right-now/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 20:05:00 +0000",
-        "title": "5 Cheap Tech Stocks to Buy Right Now",
-        "ts": "2026-01-02T20:05:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/5-cheap-tech-stocks-to-buy-right-now/?.tsrc=rss"
       }
     ],
     "MSFT": [
+      {
+        "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+        "link": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 11:52:38 +0000",
+        "title": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+        "ts": "2026-01-03T11:52:38Z",
+        "url": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss"
+      },
+      {
+        "headline": "Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO",
+        "link": "https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 09:15:00 +0000",
+        "title": "Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO",
+        "ts": "2026-01-03T09:15:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/?.tsrc=rss"
+      },
       {
         "headline": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know",
         "link": "https://finance.yahoo.com/news/microsoft-msft-stock-falls-amid-224508690.html?.tsrc=rss",
@@ -996,41 +1018,19 @@
         "title": "How major US stock indexes fared Friday, 1/2/2026",
         "ts": "2026-01-02T21:27:31Z",
         "url": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html?.tsrc=rss"
-      },
-      {
-        "headline": "What Wall Street Thinks Amazon Will Be Worth 1 Year From Now. 1 Reason They Might Be Right",
-        "link": "https://www.fool.com/investing/2026/01/02/what-wall-street-thinks-amazon-will-be-worth-1-yea/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 19:35:00 +0000",
-        "title": "What Wall Street Thinks Amazon Will Be Worth 1 Year From Now. 1 Reason They Might Be Right",
-        "ts": "2026-01-02T19:35:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/what-wall-street-thinks-amazon-will-be-worth-1-yea/?.tsrc=rss"
-      },
-      {
-        "headline": "Chip Stocks Are Rallying, but Software Is Getting Crushed",
-        "link": "https://finance.yahoo.com/m/566365c1-5e19-322e-8519-57700a2208e3/chip-stocks-are-rallying%2C-but.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 19:11:10 +0000",
-        "title": "Chip Stocks Are Rallying, but Software Is Getting Crushed",
-        "ts": "2026-01-02T19:11:10Z",
-        "url": "https://finance.yahoo.com/m/566365c1-5e19-322e-8519-57700a2208e3/chip-stocks-are-rallying%2C-but.html?.tsrc=rss"
       }
     ],
     "MU": [
       {
-        "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+        "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-        "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "ts": "2026-01-03T03:55:18Z",
-        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "ts": "2026-01-03T18:03:23Z",
+        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
         "headline": "Micron\u2019s (MU) 2026 Outlook Strengthens as Memory Pricing Improves",
@@ -1090,6 +1090,17 @@
     ],
     "NFLX": [
       {
+        "headline": "Netflix Stock Just Keeps Falling. Is It Finally a Buy?",
+        "link": "https://www.fool.com/investing/2026/01/03/netflix-stock-just-keeps-falling-is-it-finally-a-b/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 11:41:00 +0000",
+        "title": "Netflix Stock Just Keeps Falling. Is It Finally a Buy?",
+        "ts": "2026-01-03T11:41:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/netflix-stock-just-keeps-falling-is-it-finally-a-b/?.tsrc=rss"
+      },
+      {
         "headline": "Netflix (NFLX) Stock Slides as Market Rises: Facts to Know Before You Trade",
         "link": "https://finance.yahoo.com/news/netflix-nflx-stock-slides-market-224508428.html?.tsrc=rss",
         "source": "yahoo",
@@ -1143,17 +1154,6 @@
         "title": "2 Unstoppable Stocks to Buy in 2026 and Hold Forever",
         "ts": "2026-01-02T16:05:00Z",
         "url": "https://www.fool.com/investing/2026/01/02/2-unstoppable-stocks-buy-2026-hold-forever/?.tsrc=rss"
-      },
-      {
-        "headline": "AMC Theatres Declares Netflix\u2019s Stranger Things Series Finale Theatrical Event a Triumph; More Joint Netflix-AMC Cooperation Envisioned in 2026 and Beyond",
-        "link": "https://finance.yahoo.com/news/amc-theatres-declares-netflix-stranger-140900109.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 14:09:00 +0000",
-        "title": "AMC Theatres Declares Netflix\u2019s Stranger Things Series Finale Theatrical Event a Triumph; More Joint Netflix-AMC Cooperation Envisioned in 2026 and Beyond",
-        "ts": "2026-01-02T14:09:00Z",
-        "url": "https://finance.yahoo.com/news/amc-theatres-declares-netflix-stranger-140900109.html?.tsrc=rss"
       }
     ],
     "NOW": [
@@ -1226,70 +1226,70 @@
     ],
     "NVDA": [
       {
-        "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+        "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-        "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "ts": "2026-01-03T03:55:18Z",
-        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "ts": "2026-01-03T18:03:23Z",
+        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
-        "headline": "Boeing Stock Is a Long-Term Winner, Says Analyst. Plus, Nvidia, Aflac, and More.",
-        "link": "https://finance.yahoo.com/m/d91cb5eb-9f71-3f55-982c-4076350e2e47/boeing-stock-is-a-long-term.html?.tsrc=rss",
+        "headline": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+        "link": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 00:43:00 +0000",
-        "title": "Boeing Stock Is a Long-Term Winner, Says Analyst. Plus, Nvidia, Aflac, and More.",
-        "ts": "2026-01-03T00:43:00Z",
-        "url": "https://finance.yahoo.com/m/d91cb5eb-9f71-3f55-982c-4076350e2e47/boeing-stock-is-a-long-term.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 15:10:24 +0000",
+        "title": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+        "ts": "2026-01-03T15:10:24Z",
+        "url": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss"
       },
       {
-        "headline": "December jobs report, earnings, CES 2026: What to Watch",
-        "link": "https://finance.yahoo.com/video/december-jobs-report-earnings-ces-000046216.html?.tsrc=rss",
+        "headline": "Stock Funds Rose 14.6% in 2025",
+        "link": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 00:00:46 +0000",
-        "title": "December jobs report, earnings, CES 2026: What to Watch",
-        "ts": "2026-01-03T00:00:46Z",
-        "url": "https://finance.yahoo.com/video/december-jobs-report-earnings-ces-000046216.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 15:00:00 +0000",
+        "title": "Stock Funds Rose 14.6% in 2025",
+        "ts": "2026-01-03T15:00:00Z",
+        "url": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss"
       },
       {
-        "headline": "Major US stock indexes close mostly up on first trading day of 2026",
-        "link": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss",
+        "headline": "Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom",
+        "link": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 23:44:38 +0000",
-        "title": "Major US stock indexes close mostly up on first trading day of 2026",
-        "ts": "2026-01-02T23:44:38Z",
-        "url": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 14:21:00 +0000",
+        "title": "Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom",
+        "ts": "2026-01-03T14:21:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/?.tsrc=rss"
       },
       {
-        "headline": "Nvidia, AMD in focus ahead of key event",
-        "link": "https://www.thestreet.com/technology/nvidia-amd-in-focus-ahead-of-key-event?.tsrc=rss",
+        "headline": "Down 45%, Should You Buy the Dip on IonQ?",
+        "link": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 23:07:00 +0000",
-        "title": "Nvidia, AMD in focus ahead of key event",
-        "ts": "2026-01-02T23:07:00Z",
-        "url": "https://www.thestreet.com/technology/nvidia-amd-in-focus-ahead-of-key-event?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 14:01:00 +0000",
+        "title": "Down 45%, Should You Buy the Dip on IonQ?",
+        "ts": "2026-01-03T14:01:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss"
       },
       {
-        "headline": "Trump Blocks Chip Deal Over China Security Concerns",
-        "link": "https://finance.yahoo.com/m/093c6839-cc52-3ae9-9686-9ed976ee332c/trump-blocks-chip-deal-over.html?.tsrc=rss",
+        "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+        "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:50:02 +0000",
-        "title": "Trump Blocks Chip Deal Over China Security Concerns",
-        "ts": "2026-01-02T22:50:02Z",
-        "url": "https://finance.yahoo.com/m/093c6839-cc52-3ae9-9686-9ed976ee332c/trump-blocks-chip-deal-over.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:02:39 +0000",
+        "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+        "ts": "2026-01-03T13:02:39Z",
+        "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1362,6 +1362,28 @@
     ],
     "ORCL": [
       {
+        "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+        "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 13:02:39 +0000",
+        "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+        "ts": "2026-01-03T13:02:39Z",
+        "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
+      },
+      {
+        "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+        "link": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 11:52:38 +0000",
+        "title": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+        "ts": "2026-01-03T11:52:38Z",
+        "url": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss"
+      },
+      {
         "headline": "Investopedia's top stock picks for 2026, one is Berkshire Hathaway",
         "link": "https://finance.yahoo.com/video/investopedias-top-stock-picks-2026-173000069.html?.tsrc=rss",
         "source": "yahoo",
@@ -1404,96 +1426,74 @@
         "title": "Mizuho Reaffirms Oracle (ORCL) Outperform Rating Despite Mixed Fiscal Q2 Results",
         "ts": "2026-01-02T14:10:20Z",
         "url": "https://finance.yahoo.com/news/mizuho-reaffirms-oracle-orcl-outperform-141020676.html?.tsrc=rss"
-      },
-      {
-        "headline": "Latest News In Cloud AI - Duos Edge AI Expands To Texas And Illinois Markets",
-        "link": "https://finance.yahoo.com/news/latest-news-cloud-ai-duos-123711564.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 12:37:11 +0000",
-        "title": "Latest News In Cloud AI - Duos Edge AI Expands To Texas And Illinois Markets",
-        "ts": "2026-01-02T12:37:11Z",
-        "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-duos-123711564.html?.tsrc=rss"
-      },
-      {
-        "headline": "Why Oracle Was the Poster Child AI Stock of 2025 -- and Could Be Again in 2026",
-        "link": "https://www.fool.com/investing/2026/01/02/why-oracle-was-the-poster-child-ai-stock-of-2025-a/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 12:37:00 +0000",
-        "title": "Why Oracle Was the Poster Child AI Stock of 2025 -- and Could Be Again in 2026",
-        "ts": "2026-01-02T12:37:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/why-oracle-was-the-poster-child-ai-stock-of-2025-a/?.tsrc=rss"
       }
     ],
     "PLTR": [
       {
-        "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+        "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-        "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "ts": "2026-01-03T03:55:18Z",
-        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "ts": "2026-01-03T18:03:23Z",
+        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
-        "headline": "Palantir Technologies Inc. (PLTR) Stock Sinks As Market Gains: Here's Why",
-        "link": "https://finance.yahoo.com/news/palantir-technologies-inc-pltr-stock-224503801.html?.tsrc=rss",
+        "headline": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+        "link": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:45:03 +0000",
-        "title": "Palantir Technologies Inc. (PLTR) Stock Sinks As Market Gains: Here's Why",
-        "ts": "2026-01-02T22:45:03Z",
-        "url": "https://finance.yahoo.com/news/palantir-technologies-inc-pltr-stock-224503801.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:52:00 +0000",
+        "title": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+        "ts": "2026-01-03T13:52:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss"
       },
       {
-        "headline": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-        "link": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss",
+        "headline": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+        "link": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:51:00 +0000",
-        "title": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-        "ts": "2026-01-02T21:51:00Z",
-        "url": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:00:00 +0000",
+        "title": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+        "ts": "2026-01-03T13:00:00Z",
+        "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss"
       },
       {
-        "headline": "S&P 500 Posts Slight Weekly Decline as Calendar Turns to 2026",
-        "link": "https://finance.yahoo.com/news/p-500-posts-slight-weekly-213613312.html?.tsrc=rss",
+        "headline": "Surf Air (SRFM) Invests $26M to Develop SurfOS",
+        "link": "https://finance.yahoo.com/news/surf-air-srfm-invests-26m-111945205.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:36:13 +0000",
-        "title": "S&P 500 Posts Slight Weekly Decline as Calendar Turns to 2026",
-        "ts": "2026-01-02T21:36:13Z",
-        "url": "https://finance.yahoo.com/news/p-500-posts-slight-weekly-213613312.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 11:19:45 +0000",
+        "title": "Surf Air (SRFM) Invests $26M to Develop SurfOS",
+        "ts": "2026-01-03T11:19:45Z",
+        "url": "https://finance.yahoo.com/news/surf-air-srfm-invests-26m-111945205.html?.tsrc=rss"
       },
       {
-        "headline": "3 AI Stocks Poised to Surge on the January Effect",
-        "link": "https://finance.yahoo.com/news/3-ai-stocks-poised-surge-200000155.html?.tsrc=rss",
+        "headline": "2 Monster Stocks to Hold for the Next 20 Years",
+        "link": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 20:00:00 +0000",
-        "title": "3 AI Stocks Poised to Surge on the January Effect",
-        "ts": "2026-01-02T20:00:00Z",
-        "url": "https://finance.yahoo.com/news/3-ai-stocks-poised-surge-200000155.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 10:05:00 +0000",
+        "title": "2 Monster Stocks to Hold for the Next 20 Years",
+        "ts": "2026-01-03T10:05:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss"
       },
       {
-        "headline": "Why Palantir Fell Hard To Start 2026",
-        "link": "https://www.fool.com/investing/2026/01/02/why-palantir-fell-hard-to-start-2026/?.tsrc=rss",
+        "headline": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
+        "link": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 19:45:22 +0000",
-        "title": "Why Palantir Fell Hard To Start 2026",
-        "ts": "2026-01-02T19:45:22Z",
-        "url": "https://www.fool.com/investing/2026/01/02/why-palantir-fell-hard-to-start-2026/?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 09:47:00 +0000",
+        "title": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
+        "ts": "2026-01-03T09:47:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss"
       }
     ],
     "QCOM": [
@@ -1518,6 +1518,17 @@
         "title": "CES 2026: Nvidia, AMD, Intel, & more to make announcements",
         "ts": "2026-01-02T21:02:24Z",
         "url": "https://finance.yahoo.com/video/ces-2026-nvidia-amd-intel-210224074.html?.tsrc=rss"
+      },
+      {
+        "headline": "3 Cash-Flow Machines Investors May Want Heading Into 2026",
+        "link": "https://www.marketbeat.com/stock-ideas/3-cash-flow-machines-investors-may-want-heading-into-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Fri, 02 Jan 2026 18:45:00 +0000",
+        "title": "3 Cash-Flow Machines Investors May Want Heading Into 2026",
+        "ts": "2026-01-02T18:45:00Z",
+        "url": "https://www.marketbeat.com/stock-ideas/3-cash-flow-machines-investors-may-want-heading-into-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
       },
       {
         "headline": "CES 2026: What to expect from the tech industry\u2019s biggest show of the year",
@@ -1551,17 +1562,6 @@
         "title": "The Last Time This Happened, Qualcomm Fell 10%",
         "ts": "2026-01-01T19:38:00Z",
         "url": "https://www.marketbeat.com/originals/the-last-time-this-happened-qualcomm-fell-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-      },
-      {
-        "headline": "Why Qualcomm (QCOM) Dipped More Than Broader Market Today",
-        "link": "https://finance.yahoo.com/news/why-qualcomm-qcom-dipped-more-224507296.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Wed, 31 Dec 2025 22:45:07 +0000",
-        "title": "Why Qualcomm (QCOM) Dipped More Than Broader Market Today",
-        "ts": "2025-12-31T22:45:07Z",
-        "url": "https://finance.yahoo.com/news/why-qualcomm-qcom-dipped-more-224507296.html?.tsrc=rss"
       }
     ],
     "RGTI": [
@@ -1575,6 +1575,17 @@
         "title": "Meet the Cornerstone Quantum Computing Stock Billionaires Have Piled Into for 2026 (Hint: It's Not IonQ, Rigetti Computing, or D-Wave Quantum)",
         "ts": "2026-01-02T13:56:00Z",
         "url": "https://www.fool.com/investing/2026/01/02/quantum-computing-stock-billionaire-2026-ionq-rgti/?.tsrc=rss"
+      },
+      {
+        "headline": "Find the Next NVIDIA With This Semiconductor ETF",
+        "link": "https://www.marketbeat.com/originals/find-the-next-nvidia-with-this-semiconductor-etf/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Fri, 02 Jan 2026 13:20:00 +0000",
+        "title": "Find the Next NVIDIA With This Semiconductor ETF",
+        "ts": "2026-01-02T13:20:00Z",
+        "url": "https://www.marketbeat.com/originals/find-the-next-nvidia-with-this-semiconductor-etf/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
       },
       {
         "headline": "10 Stock Market Predictions for 2026",
@@ -1619,20 +1630,20 @@
         "title": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
         "ts": "2025-12-29T20:00:00Z",
         "url": "https://finance.yahoo.com/news/2026-big-tech-quantum-bets-200000979.html?.tsrc=rss"
-      },
-      {
-        "headline": "Can Rigetti Fund Aggressive R&D Without Straining Its Balance Sheet?",
-        "link": "https://finance.yahoo.com/news/rigetti-fund-aggressive-r-d-164000215.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 29 Dec 2025 16:40:00 +0000",
-        "title": "Can Rigetti Fund Aggressive R&D Without Straining Its Balance Sheet?",
-        "ts": "2025-12-29T16:40:00Z",
-        "url": "https://finance.yahoo.com/news/rigetti-fund-aggressive-r-d-164000215.html?.tsrc=rss"
       }
     ],
     "SLV": [
+      {
+        "headline": "Hi Ho Silver Away! Silver Breaks $80 as Poor Man's Gold Explodes",
+        "link": "https://www.marketbeat.com/originals/hi-ho-silver-away-silver-breaks-80-as-poor-mans-gold-explodes/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Fri, 02 Jan 2026 16:23:00 +0000",
+        "title": "Hi Ho Silver Away! Silver Breaks $80 as Poor Man's Gold Explodes",
+        "ts": "2026-01-02T16:23:00Z",
+        "url": "https://www.marketbeat.com/originals/hi-ho-silver-away-silver-breaks-80-as-poor-mans-gold-explodes/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+      },
       {
         "headline": "Exchange-Traded Funds, Equity Futures Higher Ahead of First Trading Day of 2026",
         "link": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-134635363.html?.tsrc=rss",
@@ -1687,101 +1698,114 @@
         "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday Ahead of Fed Meeting Minutes",
         "ts": "2025-12-30T13:47:07Z",
         "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-134707493.html?.tsrc=rss"
-      },
-      {
-        "headline": "Silver Hits Record, Then Retreats as Speculation Intensifies",
-        "link": "https://finance.yahoo.com/news/silver-hits-record-then-retreats-113751606.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 30 Dec 2025 11:37:51 +0000",
-        "title": "Silver Hits Record, Then Retreats as Speculation Intensifies",
-        "ts": "2025-12-30T11:37:51Z",
-        "url": "https://finance.yahoo.com/news/silver-hits-record-then-retreats-113751606.html?.tsrc=rss"
       }
     ],
     "TSLA": [
       {
-        "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+        "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-        "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-        "ts": "2026-01-03T03:55:18Z",
-        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+        "ts": "2026-01-03T18:03:23Z",
+        "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
-        "headline": "Tesla feels pressure from BYD in EV sales race",
-        "link": "https://www.thestreet.com/automotive/tesla-feels-pressure-from-byd-in-ev-sales-race?.tsrc=rss",
+        "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 01:37:00 +0000",
-        "title": "Tesla feels pressure from BYD in EV sales race",
-        "ts": "2026-01-03T01:37:00Z",
-        "url": "https://www.thestreet.com/automotive/tesla-feels-pressure-from-byd-in-ev-sales-race?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+        "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+        "ts": "2026-01-03T14:31:13Z",
+        "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
       },
       {
-        "headline": "Did Elon Musk Just Confirm He Is Funding The GOP For Midterms? 'America Is Toast If The...'",
-        "link": "https://finance.yahoo.com/news/did-elon-musk-just-confirm-003152087.html?.tsrc=rss",
+        "headline": "Elon Musk promised a \u2018major rebound\u2019 for Tesla in 2025. Instead it fell behind its biggest rival from China",
+        "link": "https://finance.yahoo.com/news/elon-musk-promised-major-rebound-134610311.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 00:31:52 +0000",
-        "title": "Did Elon Musk Just Confirm He Is Funding The GOP For Midterms? 'America Is Toast If The...'",
-        "ts": "2026-01-03T00:31:52Z",
-        "url": "https://finance.yahoo.com/news/did-elon-musk-just-confirm-003152087.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:46:10 +0000",
+        "title": "Elon Musk promised a \u2018major rebound\u2019 for Tesla in 2025. Instead it fell behind its biggest rival from China",
+        "ts": "2026-01-03T13:46:10Z",
+        "url": "https://finance.yahoo.com/news/elon-musk-promised-major-rebound-134610311.html?.tsrc=rss"
       },
       {
-        "headline": "Major US stock indexes close mostly up on first trading day of 2026",
-        "link": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss",
+        "headline": "Tesla is 'the transformative AI leader': The bull case",
+        "link": "https://finance.yahoo.com/video/tesla-transformative-ai-leader-bull-130042027.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 23:44:38 +0000",
-        "title": "Major US stock indexes close mostly up on first trading day of 2026",
-        "ts": "2026-01-02T23:44:38Z",
-        "url": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 13:00:42 +0000",
+        "title": "Tesla is 'the transformative AI leader': The bull case",
+        "ts": "2026-01-03T13:00:42Z",
+        "url": "https://finance.yahoo.com/video/tesla-transformative-ai-leader-bull-130042027.html?.tsrc=rss"
       },
       {
-        "headline": "Tesla Deliveries Plummet: What You Need to Know",
-        "link": "https://www.fool.com/investing/2026/01/02/tesla-deliveries-plummet-what-you-need-to-know/?.tsrc=rss",
+        "headline": "Tesla sales fall in France, Sweden, surge in Norway, Reuters reports",
+        "link": "https://finance.yahoo.com/news/tesla-sales-fall-france-sweden-124507311.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 23:29:24 +0000",
-        "title": "Tesla Deliveries Plummet: What You Need to Know",
-        "ts": "2026-01-02T23:29:24Z",
-        "url": "https://www.fool.com/investing/2026/01/02/tesla-deliveries-plummet-what-you-need-to-know/?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 12:45:07 +0000",
+        "title": "Tesla sales fall in France, Sweden, surge in Norway, Reuters reports",
+        "ts": "2026-01-03T12:45:07Z",
+        "url": "https://finance.yahoo.com/news/tesla-sales-fall-france-sweden-124507311.html?.tsrc=rss"
       },
       {
-        "headline": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
-        "link": "https://finance.yahoo.com/news/tesla-tsla-stock-sinks-market-224504106.html?.tsrc=rss",
+        "headline": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+        "link": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 22:45:04 +0000",
-        "title": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
-        "ts": "2026-01-02T22:45:04Z",
-        "url": "https://finance.yahoo.com/news/tesla-tsla-stock-sinks-market-224504106.html?.tsrc=rss"
+        "time": "Sat, 03 Jan 2026 11:45:35 +0000",
+        "title": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+        "ts": "2026-01-03T11:45:35Z",
+        "url": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-03T07:03:32Z",
+  "generated_at": "2026-01-03T18:53:24Z",
   "items": [
     {
-      "headline": "'We've got personality and a cracking asset with a bunny on our energy drinks'",
-      "link": "https://uk.finance.yahoo.com/news/sneak-energy-powder-drinks-060045298.html?.tsrc=rss",
+      "headline": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
+      "link": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AAPL",
-      "time": "Sat, 03 Jan 2026 06:00:45 +0000",
-      "title": "'We've got personality and a cracking asset with a bunny on our energy drinks'",
-      "ts": "2026-01-03T06:00:45Z",
-      "url": "https://uk.finance.yahoo.com/news/sneak-energy-powder-drinks-060045298.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 14:06:00 +0000",
+      "title": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
+      "ts": "2026-01-03T14:06:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/?.tsrc=rss"
+    },
+    {
+      "headline": "Apple's (NASDAQ:AAPL) investors will be pleased with their solid 112% return over the last three years",
+      "link": "https://finance.yahoo.com/news/apples-nasdaq-aapl-investors-pleased-120018791.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Sat, 03 Jan 2026 12:00:18 +0000",
+      "title": "Apple's (NASDAQ:AAPL) investors will be pleased with their solid 112% return over the last three years",
+      "ts": "2026-01-03T12:00:18Z",
+      "url": "https://finance.yahoo.com/news/apples-nasdaq-aapl-investors-pleased-120018791.html?.tsrc=rss"
+    },
+    {
+      "headline": "Jim Grant once said Warren Buffett was trying to warn Americans about US stocks, and he's leaning into this asset class",
+      "link": "https://finance.yahoo.com/news/jim-grant-once-said-warren-102300163.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Sat, 03 Jan 2026 10:23:00 +0000",
+      "title": "Jim Grant once said Warren Buffett was trying to warn Americans about US stocks, and he's leaning into this asset class",
+      "ts": "2026-01-03T10:23:00Z",
+      "url": "https://finance.yahoo.com/news/jim-grant-once-said-warren-102300163.html?.tsrc=rss"
     },
     {
       "headline": "Apple Stock Initiated At Neutral. Here's Why.",
@@ -1820,28 +1844,28 @@
       "url": "https://finance.yahoo.com/m/89dafb06-8207-31cf-9853-e4296c4fc90b/openai-is-taking-on-apple%E2%80%99s.html?.tsrc=rss"
     },
     {
-      "headline": "Apple Quietly Pulls Back on Vision Pro",
-      "link": "https://finance.yahoo.com/news/apple-quietly-pulls-back-vision-193411645.html?.tsrc=rss",
+      "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+      "link": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Fri, 02 Jan 2026 19:34:11 +0000",
-      "title": "Apple Quietly Pulls Back on Vision Pro",
-      "ts": "2026-01-02T19:34:11Z",
-      "url": "https://finance.yahoo.com/news/apple-quietly-pulls-back-vision-193411645.html?.tsrc=rss"
+      "ticker": "MSFT",
+      "time": "Sat, 03 Jan 2026 11:52:38 +0000",
+      "title": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+      "ts": "2026-01-03T11:52:38Z",
+      "url": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss"
     },
     {
-      "headline": "Apple Leans Deeper Into Fitness in 2026",
-      "link": "https://finance.yahoo.com/news/apple-leans-deeper-fitness-2026-193359453.html?.tsrc=rss",
+      "headline": "Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO",
+      "link": "https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Fri, 02 Jan 2026 19:33:59 +0000",
-      "title": "Apple Leans Deeper Into Fitness in 2026",
-      "ts": "2026-01-02T19:33:59Z",
-      "url": "https://finance.yahoo.com/news/apple-leans-deeper-fitness-2026-193359453.html?.tsrc=rss"
+      "ticker": "MSFT",
+      "time": "Sat, 03 Jan 2026 09:15:00 +0000",
+      "title": "Palantir Billionaire Peter Thiel Sells Nvidia and Tesla, and Buys an AI Stock Up 483,000% Since Its IPO",
+      "ts": "2026-01-03T09:15:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/peter-thiel-sell-nvidia-stock-buy-ai-stock-483000/?.tsrc=rss"
     },
     {
       "headline": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know",
@@ -1892,100 +1916,196 @@
       "url": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html?.tsrc=rss"
     },
     {
-      "headline": "What Wall Street Thinks Amazon Will Be Worth 1 Year From Now. 1 Reason They Might Be Right",
-      "link": "https://www.fool.com/investing/2026/01/02/what-wall-street-thinks-amazon-will-be-worth-1-yea/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "MSFT",
-      "time": "Fri, 02 Jan 2026 19:35:00 +0000",
-      "title": "What Wall Street Thinks Amazon Will Be Worth 1 Year From Now. 1 Reason They Might Be Right",
-      "ts": "2026-01-02T19:35:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/what-wall-street-thinks-amazon-will-be-worth-1-yea/?.tsrc=rss"
-    },
-    {
-      "headline": "Chip Stocks Are Rallying, but Software Is Getting Crushed",
-      "link": "https://finance.yahoo.com/m/566365c1-5e19-322e-8519-57700a2208e3/chip-stocks-are-rallying%2C-but.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "MSFT",
-      "time": "Fri, 02 Jan 2026 19:11:10 +0000",
-      "title": "Chip Stocks Are Rallying, but Software Is Getting Crushed",
-      "ts": "2026-01-02T19:11:10Z",
-      "url": "https://finance.yahoo.com/m/566365c1-5e19-322e-8519-57700a2208e3/chip-stocks-are-rallying%2C-but.html?.tsrc=rss"
-    },
-    {
-      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-      "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "ts": "2026-01-03T03:55:18Z",
-      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "ts": "2026-01-03T18:03:23Z",
+      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
-      "headline": "Boeing Stock Is a Long-Term Winner, Says Analyst. Plus, Nvidia, Aflac, and More.",
-      "link": "https://finance.yahoo.com/m/d91cb5eb-9f71-3f55-982c-4076350e2e47/boeing-stock-is-a-long-term.html?.tsrc=rss",
+      "headline": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+      "link": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Sat, 03 Jan 2026 00:43:00 +0000",
-      "title": "Boeing Stock Is a Long-Term Winner, Says Analyst. Plus, Nvidia, Aflac, and More.",
-      "ts": "2026-01-03T00:43:00Z",
-      "url": "https://finance.yahoo.com/m/d91cb5eb-9f71-3f55-982c-4076350e2e47/boeing-stock-is-a-long-term.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 15:10:24 +0000",
+      "title": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+      "ts": "2026-01-03T15:10:24Z",
+      "url": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss"
     },
     {
-      "headline": "December jobs report, earnings, CES 2026: What to Watch",
-      "link": "https://finance.yahoo.com/video/december-jobs-report-earnings-ces-000046216.html?.tsrc=rss",
+      "headline": "Stock Funds Rose 14.6% in 2025",
+      "link": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Sat, 03 Jan 2026 00:00:46 +0000",
-      "title": "December jobs report, earnings, CES 2026: What to Watch",
-      "ts": "2026-01-03T00:00:46Z",
-      "url": "https://finance.yahoo.com/video/december-jobs-report-earnings-ces-000046216.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 15:00:00 +0000",
+      "title": "Stock Funds Rose 14.6% in 2025",
+      "ts": "2026-01-03T15:00:00Z",
+      "url": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss"
     },
     {
-      "headline": "Major US stock indexes close mostly up on first trading day of 2026",
-      "link": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss",
+      "headline": "Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom",
+      "link": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Fri, 02 Jan 2026 23:44:38 +0000",
-      "title": "Major US stock indexes close mostly up on first trading day of 2026",
-      "ts": "2026-01-02T23:44:38Z",
-      "url": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 14:21:00 +0000",
+      "title": "Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom",
+      "ts": "2026-01-03T14:21:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/?.tsrc=rss"
     },
     {
-      "headline": "Nvidia, AMD in focus ahead of key event",
-      "link": "https://www.thestreet.com/technology/nvidia-amd-in-focus-ahead-of-key-event?.tsrc=rss",
+      "headline": "Down 45%, Should You Buy the Dip on IonQ?",
+      "link": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Fri, 02 Jan 2026 23:07:00 +0000",
-      "title": "Nvidia, AMD in focus ahead of key event",
-      "ts": "2026-01-02T23:07:00Z",
-      "url": "https://www.thestreet.com/technology/nvidia-amd-in-focus-ahead-of-key-event?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 14:01:00 +0000",
+      "title": "Down 45%, Should You Buy the Dip on IonQ?",
+      "ts": "2026-01-03T14:01:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss"
     },
     {
-      "headline": "Trump Blocks Chip Deal Over China Security Concerns",
-      "link": "https://finance.yahoo.com/m/093c6839-cc52-3ae9-9686-9ed976ee332c/trump-blocks-chip-deal-over.html?.tsrc=rss",
+      "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Fri, 02 Jan 2026 22:50:02 +0000",
-      "title": "Trump Blocks Chip Deal Over China Security Concerns",
-      "ts": "2026-01-02T22:50:02Z",
-      "url": "https://finance.yahoo.com/m/093c6839-cc52-3ae9-9686-9ed976ee332c/trump-blocks-chip-deal-over.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 13:02:39 +0000",
+      "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "ts": "2026-01-03T13:02:39Z",
+      "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
+    },
+    {
+      "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 15:45:33 +0000",
+      "title": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "ts": "2026-01-03T15:45:33Z",
+      "url": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss"
+    },
+    {
+      "headline": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+      "link": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 15:10:24 +0000",
+      "title": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
+      "ts": "2026-01-03T15:10:24Z",
+      "url": "https://247wallst.com/investing/2026/01/03/heres-why-taiwan-semiconductor-manufacturing-holds-the-keys-to-ais-explosive-growth/?.tsrc=rss"
+    },
+    {
+      "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+      "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "ts": "2026-01-03T14:31:13Z",
+      "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
+    },
+    {
+      "headline": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+      "link": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 13:52:00 +0000",
+      "title": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+      "ts": "2026-01-03T13:52:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss"
+    },
+    {
+      "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 13:02:39 +0000",
+      "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "ts": "2026-01-03T13:02:39Z",
+      "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
+    },
+    {
+      "headline": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
+      "link": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 13:00:57 +0000",
+      "title": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
+      "ts": "2026-01-03T13:00:57Z",
+      "url": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss"
+    },
+    {
+      "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "META",
+      "time": "Sat, 03 Jan 2026 15:45:33 +0000",
+      "title": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "ts": "2026-01-03T15:45:33Z",
+      "url": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss"
+    },
+    {
+      "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "META",
+      "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+      "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "ts": "2026-01-03T14:31:13Z",
+      "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
+    },
+    {
+      "headline": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+      "link": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "META",
+      "time": "Sat, 03 Jan 2026 11:45:35 +0000",
+      "title": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+      "ts": "2026-01-03T11:45:35Z",
+      "url": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss"
+    },
+    {
+      "headline": "Manus-Meta deal may draw Beijing scrutiny over tech exports controls, experts say",
+      "link": "https://finance.yahoo.com/news/manus-meta-deal-may-draw-093000335.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "META",
+      "time": "Sat, 03 Jan 2026 09:30:00 +0000",
+      "title": "Manus-Meta deal may draw Beijing scrutiny over tech exports controls, experts say",
+      "ts": "2026-01-03T09:30:00Z",
+      "url": "https://finance.yahoo.com/news/manus-meta-deal-may-draw-093000335.html?.tsrc=rss"
     },
     {
       "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
@@ -1993,78 +2113,6 @@
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sat, 03 Jan 2026 02:01:09 +0000",
-      "title": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-      "ts": "2026-01-03T02:01:09Z",
-      "url": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss"
-    },
-    {
-      "headline": "Short interest in Trump Media climbs after recent rally, S3 Partners says",
-      "link": "https://finance.yahoo.com/news/short-interest-trump-media-climbs-232105935.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Fri, 02 Jan 2026 23:21:05 +0000",
-      "title": "Short interest in Trump Media climbs after recent rally, S3 Partners says",
-      "ts": "2026-01-02T23:21:05Z",
-      "url": "https://finance.yahoo.com/news/short-interest-trump-media-climbs-232105935.html?.tsrc=rss"
-    },
-    {
-      "headline": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-      "link": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Fri, 02 Jan 2026 22:31:09 +0000",
-      "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-      "ts": "2026-01-02T22:31:09Z",
-      "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
-    },
-    {
-      "headline": "Shaquille O\u2019Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More",
-      "link": "https://finance.yahoo.com/news/shaquille-o-neal-making-more-222957773.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Fri, 02 Jan 2026 22:29:57 +0000",
-      "title": "Shaquille O\u2019Neal Is Making More Money Than He Did While In The NBA Through His Fast-Casual Chicken Chain And More",
-      "ts": "2026-01-02T22:29:57Z",
-      "url": "https://finance.yahoo.com/news/shaquille-o-neal-making-more-222957773.html?.tsrc=rss"
-    },
-    {
-      "headline": "4 Under-the-Radar AI Stocks to Buy for 2026",
-      "link": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Fri, 02 Jan 2026 21:31:07 +0000",
-      "title": "4 Under-the-Radar AI Stocks to Buy for 2026",
-      "ts": "2026-01-02T21:31:07Z",
-      "url": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss"
-    },
-    {
-      "headline": "Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026",
-      "link": "https://finance.yahoo.com/m/71f3d475-6903-3aca-93e5-8bed1409eaf4/google%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Fri, 02 Jan 2026 21:25:27 +0000",
-      "title": "Google, IBD Stock Of The Day, Eyes Big Catalysts In 2026",
-      "ts": "2026-01-02T21:25:27Z",
-      "url": "https://finance.yahoo.com/m/71f3d475-6903-3aca-93e5-8bed1409eaf4/google%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss"
-    },
-    {
-      "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-      "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
       "ticker": "META",
       "time": "Sat, 03 Jan 2026 02:01:09 +0000",
       "title": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
@@ -2084,208 +2132,160 @@
       "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
     },
     {
-      "headline": "Tech, Media & Telecom Roundup",
-      "link": "https://finance.yahoo.com/m/372c290c-1fa2-3ede-9a0e-57f73246dc9c/tech%2C-media-%26-telecom-roundup.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "META",
-      "time": "Fri, 02 Jan 2026 22:24:00 +0000",
-      "title": "Tech, Media & Telecom Roundup",
-      "ts": "2026-01-02T22:24:00Z",
-      "url": "https://finance.yahoo.com/m/372c290c-1fa2-3ede-9a0e-57f73246dc9c/tech%2C-media-%26-telecom-roundup.html?.tsrc=rss"
-    },
-    {
-      "headline": "4 Under-the-Radar AI Stocks to Buy for 2026",
-      "link": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "META",
-      "time": "Fri, 02 Jan 2026 21:31:07 +0000",
-      "title": "4 Under-the-Radar AI Stocks to Buy for 2026",
-      "ts": "2026-01-02T21:31:07Z",
-      "url": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss"
-    },
-    {
-      "headline": "Meta Platforms vs. Pinterest: Which Social Media Stock Will Outperform in 2026?",
-      "link": "https://www.fool.com/investing/2026/01/02/meta-platforms-vs-pinterest-which-social-media/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "META",
-      "time": "Fri, 02 Jan 2026 20:50:00 +0000",
-      "title": "Meta Platforms vs. Pinterest: Which Social Media Stock Will Outperform in 2026?",
-      "ts": "2026-01-02T20:50:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/meta-platforms-vs-pinterest-which-social-media/?.tsrc=rss"
-    },
-    {
-      "headline": "5 Cheap Tech Stocks to Buy Right Now",
-      "link": "https://www.fool.com/investing/2026/01/02/5-cheap-tech-stocks-to-buy-right-now/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "META",
-      "time": "Fri, 02 Jan 2026 20:05:00 +0000",
-      "title": "5 Cheap Tech Stocks to Buy Right Now",
-      "ts": "2026-01-02T20:05:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/5-cheap-tech-stocks-to-buy-right-now/?.tsrc=rss"
-    },
-    {
-      "headline": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
-      "link": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss",
+      "headline": "Best Stock to Buy Right Now: Amazon vs. Costco",
+      "link": "https://www.fool.com/investing/2026/01/03/best-stock-to-buy-right-now-amazon-vs-costco/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMZN",
-      "time": "Sat, 03 Jan 2026 06:55:00 +0000",
-      "title": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
-      "ts": "2026-01-03T06:55:00Z",
-      "url": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 18:05:00 +0000",
+      "title": "Best Stock to Buy Right Now: Amazon vs. Costco",
+      "ts": "2026-01-03T18:05:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/best-stock-to-buy-right-now-amazon-vs-costco/?.tsrc=rss"
     },
     {
-      "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-      "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
+      "headline": "History of Costco: Company timeline and facts",
+      "link": "https://www.thestreet.com/retail/costco-history-timeline?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMZN",
-      "time": "Sat, 03 Jan 2026 02:01:09 +0000",
-      "title": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
-      "ts": "2026-01-03T02:01:09Z",
-      "url": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 16:36:00 +0000",
+      "title": "History of Costco: Company timeline and facts",
+      "ts": "2026-01-03T16:36:00Z",
+      "url": "https://www.thestreet.com/retail/costco-history-timeline?.tsrc=rss"
     },
     {
-      "headline": "Amazon (AMZN) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "link": "https://finance.yahoo.com/news/amazon-amzn-stock-falls-amid-224505894.html?.tsrc=rss",
+      "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMZN",
-      "time": "Fri, 02 Jan 2026 22:45:05 +0000",
-      "title": "Amazon (AMZN) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "ts": "2026-01-02T22:45:05Z",
-      "url": "https://finance.yahoo.com/news/amazon-amzn-stock-falls-amid-224505894.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 15:45:33 +0000",
+      "title": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "ts": "2026-01-03T15:45:33Z",
+      "url": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss"
     },
     {
-      "headline": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-      "link": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss",
+      "headline": "Stock Funds Rose 14.6% in 2025",
+      "link": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMZN",
-      "time": "Fri, 02 Jan 2026 22:31:09 +0000",
-      "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
-      "ts": "2026-01-02T22:31:09Z",
-      "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 15:00:00 +0000",
+      "title": "Stock Funds Rose 14.6% in 2025",
+      "ts": "2026-01-03T15:00:00Z",
+      "url": "https://finance.yahoo.com/m/9ce19904-a207-303a-aa13-78c8f1c58503/stock-funds-rose-14.6%25-in-2025.html?.tsrc=rss"
     },
     {
-      "headline": "How AI-driven pricing inflates consumer costs: Consumer Reports",
-      "link": "https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html?.tsrc=rss",
+      "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMZN",
-      "time": "Fri, 02 Jan 2026 22:30:00 +0000",
-      "title": "How AI-driven pricing inflates consumer costs: Consumer Reports",
-      "ts": "2026-01-02T22:30:00Z",
-      "url": "https://finance.yahoo.com/video/ai-driven-pricing-inflates-consumer-223000258.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+      "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "ts": "2026-01-03T14:31:13Z",
+      "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
     },
     {
-      "headline": "Forget 2025: These 3 Growth Stocks Could Soar in 2026",
-      "link": "https://www.fool.com/investing/2026/01/02/forget-2025-buy-3-growth-stocks-2026/?.tsrc=rss",
+      "headline": "Where Will Amazon (AMZN) Stock Be in 3 Years?",
+      "link": "https://www.fool.com/investing/2026/01/03/where-will-amazon-amzn-stock-be-in-3-years/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMZN",
-      "time": "Fri, 02 Jan 2026 22:25:00 +0000",
-      "title": "Forget 2025: These 3 Growth Stocks Could Soar in 2026",
-      "ts": "2026-01-02T22:25:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/forget-2025-buy-3-growth-stocks-2026/?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 13:53:00 +0000",
+      "title": "Where Will Amazon (AMZN) Stock Be in 3 Years?",
+      "ts": "2026-01-03T13:53:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/where-will-amazon-amzn-stock-be-in-3-years/?.tsrc=rss"
     },
     {
-      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-      "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "ts": "2026-01-03T03:55:18Z",
-      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "ts": "2026-01-03T18:03:23Z",
+      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
-      "headline": "Tesla feels pressure from BYD in EV sales race",
-      "link": "https://www.thestreet.com/automotive/tesla-feels-pressure-from-byd-in-ev-sales-race?.tsrc=rss",
+      "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "link": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Sat, 03 Jan 2026 01:37:00 +0000",
-      "title": "Tesla feels pressure from BYD in EV sales race",
-      "ts": "2026-01-03T01:37:00Z",
-      "url": "https://www.thestreet.com/automotive/tesla-feels-pressure-from-byd-in-ev-sales-race?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 14:31:13 +0000",
+      "title": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
+      "ts": "2026-01-03T14:31:13Z",
+      "url": "https://finance.yahoo.com/news/gavin-newsom-says-trump-making-143113078.html?.tsrc=rss"
     },
     {
-      "headline": "Did Elon Musk Just Confirm He Is Funding The GOP For Midterms? 'America Is Toast If The...'",
-      "link": "https://finance.yahoo.com/news/did-elon-musk-just-confirm-003152087.html?.tsrc=rss",
+      "headline": "Elon Musk promised a \u2018major rebound\u2019 for Tesla in 2025. Instead it fell behind its biggest rival from China",
+      "link": "https://finance.yahoo.com/news/elon-musk-promised-major-rebound-134610311.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Sat, 03 Jan 2026 00:31:52 +0000",
-      "title": "Did Elon Musk Just Confirm He Is Funding The GOP For Midterms? 'America Is Toast If The...'",
-      "ts": "2026-01-03T00:31:52Z",
-      "url": "https://finance.yahoo.com/news/did-elon-musk-just-confirm-003152087.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 13:46:10 +0000",
+      "title": "Elon Musk promised a \u2018major rebound\u2019 for Tesla in 2025. Instead it fell behind its biggest rival from China",
+      "ts": "2026-01-03T13:46:10Z",
+      "url": "https://finance.yahoo.com/news/elon-musk-promised-major-rebound-134610311.html?.tsrc=rss"
     },
     {
-      "headline": "Major US stock indexes close mostly up on first trading day of 2026",
-      "link": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss",
+      "headline": "Tesla is 'the transformative AI leader': The bull case",
+      "link": "https://finance.yahoo.com/video/tesla-transformative-ai-leader-bull-130042027.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Fri, 02 Jan 2026 23:44:38 +0000",
-      "title": "Major US stock indexes close mostly up on first trading day of 2026",
-      "ts": "2026-01-02T23:44:38Z",
-      "url": "https://finance.yahoo.com/video/major-us-stock-indexes-close-234438799.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 13:00:42 +0000",
+      "title": "Tesla is 'the transformative AI leader': The bull case",
+      "ts": "2026-01-03T13:00:42Z",
+      "url": "https://finance.yahoo.com/video/tesla-transformative-ai-leader-bull-130042027.html?.tsrc=rss"
     },
     {
-      "headline": "Tesla Deliveries Plummet: What You Need to Know",
-      "link": "https://www.fool.com/investing/2026/01/02/tesla-deliveries-plummet-what-you-need-to-know/?.tsrc=rss",
+      "headline": "Tesla sales fall in France, Sweden, surge in Norway, Reuters reports",
+      "link": "https://finance.yahoo.com/news/tesla-sales-fall-france-sweden-124507311.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Fri, 02 Jan 2026 23:29:24 +0000",
-      "title": "Tesla Deliveries Plummet: What You Need to Know",
-      "ts": "2026-01-02T23:29:24Z",
-      "url": "https://www.fool.com/investing/2026/01/02/tesla-deliveries-plummet-what-you-need-to-know/?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 12:45:07 +0000",
+      "title": "Tesla sales fall in France, Sweden, surge in Norway, Reuters reports",
+      "ts": "2026-01-03T12:45:07Z",
+      "url": "https://finance.yahoo.com/news/tesla-sales-fall-france-sweden-124507311.html?.tsrc=rss"
     },
     {
-      "headline": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
-      "link": "https://finance.yahoo.com/news/tesla-tsla-stock-sinks-market-224504106.html?.tsrc=rss",
+      "headline": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+      "link": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Fri, 02 Jan 2026 22:45:04 +0000",
-      "title": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know",
-      "ts": "2026-01-02T22:45:04Z",
-      "url": "https://finance.yahoo.com/news/tesla-tsla-stock-sinks-market-224504106.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 11:45:35 +0000",
+      "title": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
+      "ts": "2026-01-03T11:45:35Z",
+      "url": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss"
     },
     {
-      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMD",
-      "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-      "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "ts": "2026-01-03T03:55:18Z",
-      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "ts": "2026-01-03T18:03:23Z",
+      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
       "headline": "December jobs report, earnings, CES 2026: What to Watch",
@@ -2348,6 +2348,18 @@
       "url": "https://finance.yahoo.com/news/amd-shares-climbing-ai-memory-193430129.html?.tsrc=rss"
     },
     {
+      "headline": "Netflix Stock Just Keeps Falling. Is It Finally a Buy?",
+      "link": "https://www.fool.com/investing/2026/01/03/netflix-stock-just-keeps-falling-is-it-finally-a-b/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NFLX",
+      "time": "Sat, 03 Jan 2026 11:41:00 +0000",
+      "title": "Netflix Stock Just Keeps Falling. Is It Finally a Buy?",
+      "ts": "2026-01-03T11:41:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/netflix-stock-just-keeps-falling-is-it-finally-a-b/?.tsrc=rss"
+    },
+    {
       "headline": "Netflix (NFLX) Stock Slides as Market Rises: Facts to Know Before You Trade",
       "link": "https://finance.yahoo.com/news/netflix-nflx-stock-slides-market-224508428.html?.tsrc=rss",
       "source": "yahoo",
@@ -2408,16 +2420,28 @@
       "url": "https://www.fool.com/investing/2026/01/02/2-unstoppable-stocks-buy-2026-hold-forever/?.tsrc=rss"
     },
     {
-      "headline": "AMC Theatres Declares Netflix\u2019s Stranger Things Series Finale Theatrical Event a Triumph; More Joint Netflix-AMC Cooperation Envisioned in 2026 and Beyond",
-      "link": "https://finance.yahoo.com/news/amc-theatres-declares-netflix-stranger-140900109.html?.tsrc=rss",
+      "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "NFLX",
-      "time": "Fri, 02 Jan 2026 14:09:00 +0000",
-      "title": "AMC Theatres Declares Netflix\u2019s Stranger Things Series Finale Theatrical Event a Triumph; More Joint Netflix-AMC Cooperation Envisioned in 2026 and Beyond",
-      "ts": "2026-01-02T14:09:00Z",
-      "url": "https://finance.yahoo.com/news/amc-theatres-declares-netflix-stranger-140900109.html?.tsrc=rss"
+      "ticker": "ORCL",
+      "time": "Sat, 03 Jan 2026 13:02:39 +0000",
+      "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "ts": "2026-01-03T13:02:39Z",
+      "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
+    },
+    {
+      "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+      "link": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "ORCL",
+      "time": "Sat, 03 Jan 2026 11:52:38 +0000",
+      "title": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+      "ts": "2026-01-03T11:52:38Z",
+      "url": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss"
     },
     {
       "headline": "Investopedia's top stock picks for 2026, one is Berkshire Hathaway",
@@ -2468,30 +2492,6 @@
       "url": "https://finance.yahoo.com/news/mizuho-reaffirms-oracle-orcl-outperform-141020676.html?.tsrc=rss"
     },
     {
-      "headline": "Latest News In Cloud AI - Duos Edge AI Expands To Texas And Illinois Markets",
-      "link": "https://finance.yahoo.com/news/latest-news-cloud-ai-duos-123711564.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "ORCL",
-      "time": "Fri, 02 Jan 2026 12:37:11 +0000",
-      "title": "Latest News In Cloud AI - Duos Edge AI Expands To Texas And Illinois Markets",
-      "ts": "2026-01-02T12:37:11Z",
-      "url": "https://finance.yahoo.com/news/latest-news-cloud-ai-duos-123711564.html?.tsrc=rss"
-    },
-    {
-      "headline": "Why Oracle Was the Poster Child AI Stock of 2025 -- and Could Be Again in 2026",
-      "link": "https://www.fool.com/investing/2026/01/02/why-oracle-was-the-poster-child-ai-stock-of-2025-a/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "ORCL",
-      "time": "Fri, 02 Jan 2026 12:37:00 +0000",
-      "title": "Why Oracle Was the Poster Child AI Stock of 2025 -- and Could Be Again in 2026",
-      "ts": "2026-01-02T12:37:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/why-oracle-was-the-poster-child-ai-stock-of-2025-a/?.tsrc=rss"
-    },
-    {
       "headline": "Stock Market News for Jan 2, 2026",
       "link": "https://finance.yahoo.com/news/stock-market-news-jan-2-132200429.html?.tsrc=rss",
       "source": "yahoo",
@@ -2502,6 +2502,18 @@
       "title": "Stock Market News for Jan 2, 2026",
       "ts": "2026-01-02T13:22:00Z",
       "url": "https://finance.yahoo.com/news/stock-market-news-jan-2-132200429.html?.tsrc=rss"
+    },
+    {
+      "headline": "D-Wave vs. IonQ vs. IBM vs. Google: Which Quantum Bets Will Win 2026?",
+      "link": "https://www.marketbeat.com/originals/d-wave-vs-ionq-vs-ibm-vs-google-which-quantum-bets-will-win-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "IBM",
+      "time": "Fri, 02 Jan 2026 12:11:00 +0000",
+      "title": "D-Wave vs. IonQ vs. IBM vs. Google: Which Quantum Bets Will Win 2026?",
+      "ts": "2026-01-02T12:11:00Z",
+      "url": "https://www.marketbeat.com/originals/d-wave-vs-ionq-vs-ibm-vs-google-which-quantum-bets-will-win-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
     },
     {
       "headline": "3 Artificial Intelligence Stocks to Buy in 2026 and Hold for the Rest of the Decade",
@@ -2550,18 +2562,6 @@
       "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
       "ts": "2025-12-31T19:41:00Z",
       "url": "https://finance.yahoo.com/m/50ab4bb3-d215-3154-902d-25a47ff088b5/dogs-of-the-dow-had-a-strong.html?.tsrc=rss"
-    },
-    {
-      "headline": "Wall Street Has a Mixed Opinion in International Business Machines (IBM), Here\u2019s Why",
-      "link": "https://finance.yahoo.com/news/wall-street-mixed-opinion-international-164210154.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "IBM",
-      "time": "Wed, 31 Dec 2025 16:42:10 +0000",
-      "title": "Wall Street Has a Mixed Opinion in International Business Machines (IBM), Here\u2019s Why",
-      "ts": "2025-12-31T16:42:10Z",
-      "url": "https://finance.yahoo.com/news/wall-street-mixed-opinion-international-164210154.html?.tsrc=rss"
     },
     {
       "headline": "Funds Plow Money Into AppLovin, Broadcom, Google \u2014 And This Top 100 Stock",
@@ -2660,6 +2660,18 @@
       "url": "https://finance.yahoo.com/video/ces-2026-nvidia-amd-intel-210224074.html?.tsrc=rss"
     },
     {
+      "headline": "3 Cash-Flow Machines Investors May Want Heading Into 2026",
+      "link": "https://www.marketbeat.com/stock-ideas/3-cash-flow-machines-investors-may-want-heading-into-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "QCOM",
+      "time": "Fri, 02 Jan 2026 18:45:00 +0000",
+      "title": "3 Cash-Flow Machines Investors May Want Heading Into 2026",
+      "ts": "2026-01-02T18:45:00Z",
+      "url": "https://www.marketbeat.com/stock-ideas/3-cash-flow-machines-investors-may-want-heading-into-2026/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+    },
+    {
       "headline": "CES 2026: What to expect from the tech industry\u2019s biggest show of the year",
       "link": "https://finance.yahoo.com/news/ces-2026-what-to-expect-from-the-tech-industrys-biggest-show-of-the-year-140552142.html?.tsrc=rss",
       "source": "yahoo",
@@ -2696,16 +2708,16 @@
       "url": "https://www.marketbeat.com/originals/the-last-time-this-happened-qualcomm-fell-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
     },
     {
-      "headline": "Why Qualcomm (QCOM) Dipped More Than Broader Market Today",
-      "link": "https://finance.yahoo.com/news/why-qualcomm-qcom-dipped-more-224507296.html?.tsrc=rss",
+      "headline": "Intel (INTC) Draws Strategic Nvidia Investment as Chip Testing Plans Shift",
+      "link": "https://finance.yahoo.com/news/intel-intc-draws-strategic-nvidia-120401205.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "QCOM",
-      "time": "Wed, 31 Dec 2025 22:45:07 +0000",
-      "title": "Why Qualcomm (QCOM) Dipped More Than Broader Market Today",
-      "ts": "2025-12-31T22:45:07Z",
-      "url": "https://finance.yahoo.com/news/why-qualcomm-qcom-dipped-more-224507296.html?.tsrc=rss"
+      "ticker": "INTC",
+      "time": "Sat, 03 Jan 2026 12:04:01 +0000",
+      "title": "Intel (INTC) Draws Strategic Nvidia Investment as Chip Testing Plans Shift",
+      "ts": "2026-01-03T12:04:01Z",
+      "url": "https://finance.yahoo.com/news/intel-intc-draws-strategic-nvidia-120401205.html?.tsrc=rss"
     },
     {
       "headline": "Stock Market Today, Jan. 2: Dow Climbs After Industrials Outperform on Rotation Away From Mega Cap Tech",
@@ -2766,18 +2778,6 @@
       "title": "Why Are Super Micro (SMCI) Shares Soaring Today",
       "ts": "2026-01-02T18:46:16Z",
       "url": "https://finance.yahoo.com/news/why-super-micro-smci-shares-184616327.html?.tsrc=rss"
-    },
-    {
-      "headline": "Bitcoin pushes above $90,000 as traders eye change in pattern",
-      "link": "https://www.coindesk.com/markets/2026/01/02/bitcoin-pushes-above-usd90-000-as-traders-eye-change-in-pattern?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "INTC",
-      "time": "Fri, 02 Jan 2026 16:16:55 +0000",
-      "title": "Bitcoin pushes above $90,000 as traders eye change in pattern",
-      "ts": "2026-01-02T16:16:55Z",
-      "url": "https://www.coindesk.com/markets/2026/01/02/bitcoin-pushes-above-usd90-000-as-traders-eye-change-in-pattern?.tsrc=rss"
     },
     {
       "headline": "ServiceNow (NOW) Stock Sinks As Market Gains: What You Should Know",
@@ -2852,6 +2852,42 @@
       "url": "https://finance.yahoo.com/news/servicenow-now-armis-acquisition-important-061020162.html?.tsrc=rss"
     },
     {
+      "headline": "After A Miserable 2025 First Trust SkyBridge Crypto ETF Looks Ready To Soar in 2026",
+      "link": "https://247wallst.com/investing/2026/01/03/after-a-miserable-2025-first-trust-skybridge-crypto-etf-looks-ready-to-soar-in-2026/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "COIN",
+      "time": "Sat, 03 Jan 2026 14:30:08 +0000",
+      "title": "After A Miserable 2025 First Trust SkyBridge Crypto ETF Looks Ready To Soar in 2026",
+      "ts": "2026-01-03T14:30:08Z",
+      "url": "https://247wallst.com/investing/2026/01/03/after-a-miserable-2025-first-trust-skybridge-crypto-etf-looks-ready-to-soar-in-2026/?.tsrc=rss"
+    },
+    {
+      "headline": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+      "link": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "COIN",
+      "time": "Sat, 03 Jan 2026 13:00:00 +0000",
+      "title": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+      "ts": "2026-01-03T13:00:00Z",
+      "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss"
+    },
+    {
+      "headline": "CLARITY Act More Complex Than Stablecoin Bill, Coinbase Says",
+      "link": "https://cryptonews.com/news/clarity-act-more-complex-than-stablecoin-bill-coinbase-says/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "COIN",
+      "time": "Sat, 03 Jan 2026 12:36:40 +0000",
+      "title": "CLARITY Act More Complex Than Stablecoin Bill, Coinbase Says",
+      "ts": "2026-01-03T12:36:40Z",
+      "url": "https://cryptonews.com/news/clarity-act-more-complex-than-stablecoin-bill-coinbase-says/?.tsrc=rss"
+    },
+    {
       "headline": "Charles Schwab Is Back on Offense. Its Stock Is a Buy.",
       "link": "https://finance.yahoo.com/m/7b0ef232-447c-317f-89e0-f5d0a77bd97f/charles-schwab-is-back-on.html?.tsrc=rss",
       "source": "yahoo",
@@ -2888,124 +2924,88 @@
       "url": "https://www.dlnews.com/articles/markets/blackrock-coinbase-and-others-share-2026-predictions/?.tsrc=rss"
     },
     {
-      "headline": "Coinbase Plans All-in-One Exchange for Crypto, Stocks, and Commodities in 2026",
-      "link": "https://cryptonews.com/news/coinbase-plans-all-in-one-exchange-for-crypto-stocks-and-commodities-in-2026/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "COIN",
-      "time": "Fri, 02 Jan 2026 15:05:15 +0000",
-      "title": "Coinbase Plans All-in-One Exchange for Crypto, Stocks, and Commodities in 2026",
-      "ts": "2026-01-02T15:05:15Z",
-      "url": "https://cryptonews.com/news/coinbase-plans-all-in-one-exchange-for-crypto-stocks-and-commodities-in-2026/?.tsrc=rss"
-    },
-    {
-      "headline": "Coinbase Targeting Stablecoin Growth, Onchain Adoption in 2026: Brian Armstrong",
-      "link": "https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "COIN",
-      "time": "Fri, 02 Jan 2026 15:01:03 +0000",
-      "title": "Coinbase Targeting Stablecoin Growth, Onchain Adoption in 2026: Brian Armstrong",
-      "ts": "2026-01-02T15:01:03Z",
-      "url": "https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong?.tsrc=rss"
-    },
-    {
-      "headline": "Armstrong Aims to Make Coinbase the \u201cEverything Exchange\u201d in 2026",
-      "link": "https://www.coinspeaker.com/armstrong-aims-to-make-coinbase-the-everything-exchange-in-2026/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "COIN",
-      "time": "Fri, 02 Jan 2026 14:29:11 +0000",
-      "title": "Armstrong Aims to Make Coinbase the \u201cEverything Exchange\u201d in 2026",
-      "ts": "2026-01-02T14:29:11Z",
-      "url": "https://www.coinspeaker.com/armstrong-aims-to-make-coinbase-the-everything-exchange-in-2026/?.tsrc=rss"
-    },
-    {
-      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-      "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "ts": "2026-01-03T03:55:18Z",
-      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "ts": "2026-01-03T18:03:23Z",
+      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
-      "headline": "Palantir Technologies Inc. (PLTR) Stock Sinks As Market Gains: Here's Why",
-      "link": "https://finance.yahoo.com/news/palantir-technologies-inc-pltr-stock-224503801.html?.tsrc=rss",
+      "headline": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+      "link": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Fri, 02 Jan 2026 22:45:03 +0000",
-      "title": "Palantir Technologies Inc. (PLTR) Stock Sinks As Market Gains: Here's Why",
-      "ts": "2026-01-02T22:45:03Z",
-      "url": "https://finance.yahoo.com/news/palantir-technologies-inc-pltr-stock-224503801.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 13:52:00 +0000",
+      "title": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
+      "ts": "2026-01-03T13:52:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss"
     },
     {
-      "headline": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-      "link": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss",
+      "headline": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+      "link": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Fri, 02 Jan 2026 21:51:00 +0000",
-      "title": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-      "ts": "2026-01-02T21:51:00Z",
-      "url": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 13:00:00 +0000",
+      "title": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+      "ts": "2026-01-03T13:00:00Z",
+      "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html?.tsrc=rss"
     },
     {
-      "headline": "S&P 500 Posts Slight Weekly Decline as Calendar Turns to 2026",
-      "link": "https://finance.yahoo.com/news/p-500-posts-slight-weekly-213613312.html?.tsrc=rss",
+      "headline": "Surf Air (SRFM) Invests $26M to Develop SurfOS",
+      "link": "https://finance.yahoo.com/news/surf-air-srfm-invests-26m-111945205.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Fri, 02 Jan 2026 21:36:13 +0000",
-      "title": "S&P 500 Posts Slight Weekly Decline as Calendar Turns to 2026",
-      "ts": "2026-01-02T21:36:13Z",
-      "url": "https://finance.yahoo.com/news/p-500-posts-slight-weekly-213613312.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 11:19:45 +0000",
+      "title": "Surf Air (SRFM) Invests $26M to Develop SurfOS",
+      "ts": "2026-01-03T11:19:45Z",
+      "url": "https://finance.yahoo.com/news/surf-air-srfm-invests-26m-111945205.html?.tsrc=rss"
     },
     {
-      "headline": "3 AI Stocks Poised to Surge on the January Effect",
-      "link": "https://finance.yahoo.com/news/3-ai-stocks-poised-surge-200000155.html?.tsrc=rss",
+      "headline": "2 Monster Stocks to Hold for the Next 20 Years",
+      "link": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Fri, 02 Jan 2026 20:00:00 +0000",
-      "title": "3 AI Stocks Poised to Surge on the January Effect",
-      "ts": "2026-01-02T20:00:00Z",
-      "url": "https://finance.yahoo.com/news/3-ai-stocks-poised-surge-200000155.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 10:05:00 +0000",
+      "title": "2 Monster Stocks to Hold for the Next 20 Years",
+      "ts": "2026-01-03T10:05:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss"
     },
     {
-      "headline": "Why Palantir Fell Hard To Start 2026",
-      "link": "https://www.fool.com/investing/2026/01/02/why-palantir-fell-hard-to-start-2026/?.tsrc=rss",
+      "headline": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
+      "link": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Fri, 02 Jan 2026 19:45:22 +0000",
-      "title": "Why Palantir Fell Hard To Start 2026",
-      "ts": "2026-01-02T19:45:22Z",
-      "url": "https://www.fool.com/investing/2026/01/02/why-palantir-fell-hard-to-start-2026/?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 09:47:00 +0000",
+      "title": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
+      "ts": "2026-01-03T09:47:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss"
     },
     {
-      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "MU",
-      "time": "Sat, 03 Jan 2026 03:55:18 +0000",
-      "title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
-      "ts": "2026-01-03T03:55:18Z",
-      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html?.tsrc=rss"
+      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "ts": "2026-01-03T18:03:23Z",
+      "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
       "headline": "Micron\u2019s (MU) 2026 Outlook Strengthens as Memory Pricing Improves",
@@ -3068,6 +3068,18 @@
       "url": "https://finance.yahoo.com/m/dfdea673-2a1f-3095-96ab-959584da4edd/these-stocks-moved-the-most.html?.tsrc=rss"
     },
     {
+      "headline": "3 Cybersecurity Stocks to Watch in 2026 as Identity and Endpoint Converge",
+      "link": "https://www.marketbeat.com/stock-ideas/3-cybersecurity-stocks-to-watch-in-2026-as-identity-and-endpoint-converge/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "CRWD",
+      "time": "Fri, 02 Jan 2026 17:28:00 +0000",
+      "title": "3 Cybersecurity Stocks to Watch in 2026 as Identity and Endpoint Converge",
+      "ts": "2026-01-02T17:28:00Z",
+      "url": "https://www.marketbeat.com/stock-ideas/3-cybersecurity-stocks-to-watch-in-2026-as-identity-and-endpoint-converge/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+    },
+    {
       "headline": "3 Top Cybersecurity Stocks to Buy in January",
       "link": "https://www.fool.com/investing/2026/01/01/3-top-cybersecurity-stocks-to-buy-in-january/?.tsrc=rss",
       "source": "yahoo",
@@ -3126,18 +3138,6 @@
       "title": "J.P. Morgan Maintains Bullish Stance on CrowdStrike Holdings (CRWD) Stock",
       "ts": "2025-12-31T16:56:57Z",
       "url": "https://finance.yahoo.com/news/j-p-morgan-maintains-bullish-165657960.html?.tsrc=rss"
-    },
-    {
-      "headline": "The 5 Best Stocks to Play AI in 2026, According to Wall Street\u2019s Loudest Tech Bull",
-      "link": "https://finance.yahoo.com/m/28d2698d-113c-3f0f-ba02-5714d5c4b4be/the-5-best-stocks-to-play-ai.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "CRWD",
-      "time": "Wed, 31 Dec 2025 13:20:00 +0000",
-      "title": "The 5 Best Stocks to Play AI in 2026, According to Wall Street\u2019s Loudest Tech Bull",
-      "ts": "2025-12-31T13:20:00Z",
-      "url": "https://finance.yahoo.com/m/28d2698d-113c-3f0f-ba02-5714d5c4b4be/the-5-best-stocks-to-play-ai.html?.tsrc=rss"
     },
     {
       "headline": "BigBear.ai to Strengthen Balance Sheet Through Significant Debt Reduction",
@@ -3224,6 +3224,18 @@
       "url": "https://www.fool.com/investing/2026/01/02/quantum-computing-stock-billionaire-2026-ionq-rgti/?.tsrc=rss"
     },
     {
+      "headline": "Find the Next NVIDIA With This Semiconductor ETF",
+      "link": "https://www.marketbeat.com/originals/find-the-next-nvidia-with-this-semiconductor-etf/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "RGTI",
+      "time": "Fri, 02 Jan 2026 13:20:00 +0000",
+      "title": "Find the Next NVIDIA With This Semiconductor ETF",
+      "ts": "2026-01-02T13:20:00Z",
+      "url": "https://www.marketbeat.com/originals/find-the-next-nvidia-with-this-semiconductor-etf/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+    },
+    {
       "headline": "10 Stock Market Predictions for 2026",
       "link": "https://www.fool.com/investing/2026/01/01/10-stock-market-predictions-for-2026/?.tsrc=rss",
       "source": "yahoo",
@@ -3270,18 +3282,6 @@
       "title": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
       "ts": "2025-12-29T20:00:00Z",
       "url": "https://finance.yahoo.com/news/2026-big-tech-quantum-bets-200000979.html?.tsrc=rss"
-    },
-    {
-      "headline": "Can Rigetti Fund Aggressive R&D Without Straining Its Balance Sheet?",
-      "link": "https://finance.yahoo.com/news/rigetti-fund-aggressive-r-d-164000215.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "RGTI",
-      "time": "Mon, 29 Dec 2025 16:40:00 +0000",
-      "title": "Can Rigetti Fund Aggressive R&D Without Straining Its Balance Sheet?",
-      "ts": "2025-12-29T16:40:00Z",
-      "url": "https://finance.yahoo.com/news/rigetti-fund-aggressive-r-d-164000215.html?.tsrc=rss"
     },
     {
       "headline": "INSM Stock Up 78% in 6 Months: Here's What You Need to Know",
@@ -3428,6 +3428,30 @@
       "url": "https://finance.yahoo.com/news/randian-capital-eyes-tsa-overhaul-184939924.html?.tsrc=rss"
     },
     {
+      "headline": "Here Are 3 Financial Stocks Making Big AI Moves in 2026",
+      "link": "https://www.fool.com/investing/2026/01/03/here-are-3-financial-stocks-making-big-ai-moves-in/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "HOOD",
+      "time": "Sat, 03 Jan 2026 17:55:00 +0000",
+      "title": "Here Are 3 Financial Stocks Making Big AI Moves in 2026",
+      "ts": "2026-01-03T17:55:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/here-are-3-financial-stocks-making-big-ai-moves-in/?.tsrc=rss"
+    },
+    {
+      "headline": "2 Monster Stocks to Hold for the Next 20 Years",
+      "link": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "HOOD",
+      "time": "Sat, 03 Jan 2026 10:05:00 +0000",
+      "title": "2 Monster Stocks to Hold for the Next 20 Years",
+      "ts": "2026-01-03T10:05:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss"
+    },
+    {
       "headline": "Charles Schwab Is Back on Offense. Its Stock Is a Buy.",
       "link": "https://finance.yahoo.com/m/7b0ef232-447c-317f-89e0-f5d0a77bd97f/charles-schwab-is-back-on.html?.tsrc=rss",
       "source": "yahoo",
@@ -3476,28 +3500,16 @@
       "url": "https://www.fool.com/investing/2026/01/02/is-robinhood-stock-your-ticket-to-becoming-a-milli/?.tsrc=rss"
     },
     {
-      "headline": "Prediction: Robinhood Stock Is Going to Plunge in 2026",
-      "link": "https://www.fool.com/investing/2026/01/02/prediction-robinhood-stock-is-going-to-plunge-2026/?.tsrc=rss",
+      "headline": "Hi Ho Silver Away! Silver Breaks $80 as Poor Man's Gold Explodes",
+      "link": "https://www.marketbeat.com/originals/hi-ho-silver-away-silver-breaks-80-as-poor-mans-gold-explodes/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "HOOD",
-      "time": "Fri, 02 Jan 2026 09:49:00 +0000",
-      "title": "Prediction: Robinhood Stock Is Going to Plunge in 2026",
-      "ts": "2026-01-02T09:49:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/prediction-robinhood-stock-is-going-to-plunge-2026/?.tsrc=rss"
-    },
-    {
-      "headline": "Robinhood (HOOD) Has a Great IRA Product, Says Jim Cramer",
-      "link": "https://finance.yahoo.com/news/robinhood-hood-great-ira-product-134237582.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "HOOD",
-      "time": "Thu, 01 Jan 2026 13:42:37 +0000",
-      "title": "Robinhood (HOOD) Has a Great IRA Product, Says Jim Cramer",
-      "ts": "2026-01-01T13:42:37Z",
-      "url": "https://finance.yahoo.com/news/robinhood-hood-great-ira-product-134237582.html?.tsrc=rss"
+      "ticker": "SLV",
+      "time": "Fri, 02 Jan 2026 16:23:00 +0000",
+      "title": "Hi Ho Silver Away! Silver Breaks $80 as Poor Man's Gold Explodes",
+      "ts": "2026-01-02T16:23:00Z",
+      "url": "https://www.marketbeat.com/originals/hi-ho-silver-away-silver-breaks-80-as-poor-mans-gold-explodes/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
     },
     {
       "headline": "Exchange-Traded Funds, Equity Futures Higher Ahead of First Trading Day of 2026",
@@ -3558,18 +3570,6 @@
       "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday Ahead of Fed Meeting Minutes",
       "ts": "2025-12-30T13:47:07Z",
       "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-134707493.html?.tsrc=rss"
-    },
-    {
-      "headline": "Silver Hits Record, Then Retreats as Speculation Intensifies",
-      "link": "https://finance.yahoo.com/news/silver-hits-record-then-retreats-113751606.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "SLV",
-      "time": "Tue, 30 Dec 2025 11:37:51 +0000",
-      "title": "Silver Hits Record, Then Retreats as Speculation Intensifies",
-      "ts": "2025-12-30T11:37:51Z",
-      "url": "https://finance.yahoo.com/news/silver-hits-record-then-retreats-113751606.html?.tsrc=rss"
     },
     {
       "headline": "\ud83d\udcc8\ud83d\udc40 3 Insiders Buy $10M of Gamestop",
