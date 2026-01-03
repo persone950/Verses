@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-03T07:03:32Z",
+  "signals": {
+    "AAPL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "'We've got personality and a cracking asset with a bunny on our energy drinks'",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Funds Plow Money Into AppLovin, Broadcom, Google \u2014 And This Top 100 Stock",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "BigBear.ai to Strengthen Balance Sheet Through Significant Debt Reduction",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Charles Schwab Is Back on Offense. Its Stock Is a Buy.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "3 Top Cybersecurity Stocks to Buy in January",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "GOOGL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Charles Schwab Is Back on Offense. Its Stock Is a Buy.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market News for Jan 2, 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "INSM Stock Up 78% in 6 Months: Here's What You Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market Today, Jan. 2: Dow Climbs After Industrials Outperform on Rotation Away From Mega Cap Tech",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Netflix (NFLX) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "ServiceNow (NOW) Stock Sinks As Market Gains: What You Should Know",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Small-Cap Stock Worth Your Attention and 2 Facing Challenges",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Investopedia's top stock picks for 2026, one is Berkshire Hathaway",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "December jobs report, earnings, CES 2026: What to Watch",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Meet the Cornerstone Quantum Computing Stock Billionaires Have Piled Into for 2026 (Hint: It's Not IonQ, Rigetti Computing, or D-Wave Quantum)",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Ahead of First Trading Day of 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
