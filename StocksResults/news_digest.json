@@ -138,6 +138,17 @@
     ],
     "AMZN": [
       {
+        "headline": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
+        "link": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 06:55:00 +0000",
+        "title": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
+        "ts": "2026-01-03T06:55:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss"
+      },
+      {
         "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
         "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
         "source": "yahoo",
@@ -191,17 +202,6 @@
         "title": "Forget 2025: These 3 Growth Stocks Could Soar in 2026",
         "ts": "2026-01-02T22:25:00Z",
         "url": "https://www.fool.com/investing/2026/01/02/forget-2025-buy-3-growth-stocks-2026/?.tsrc=rss"
-      },
-      {
-        "headline": "4 Under-the-Radar AI Stocks to Buy for 2026",
-        "link": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:31:07 +0000",
-        "title": "4 Under-the-Radar AI Stocks to Buy for 2026",
-        "ts": "2026-01-02T21:31:07Z",
-        "url": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss"
       }
     ],
     "AVGO": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-03T06:25:51Z",
+  "generated_at": "2026-01-03T07:03:32Z",
   "items": [
     {
       "headline": "'We've got personality and a cracking asset with a bunny on our energy drinks'",
@@ -2132,6 +2132,18 @@
       "url": "https://www.fool.com/investing/2026/01/02/5-cheap-tech-stocks-to-buy-right-now/?.tsrc=rss"
     },
     {
+      "headline": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
+      "link": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AMZN",
+      "time": "Sat, 03 Jan 2026 06:55:00 +0000",
+      "title": "Is Amazon Stock Still a Buy After Hitting an All-Time High?",
+      "ts": "2026-01-03T06:55:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/is-amazon-stock-still-a-buy-after-hitting-an-all-t/?.tsrc=rss"
+    },
+    {
       "headline": "Dave Ramsey Says Belief That Becoming Wealthy Is 'Blind Luck' Is 'Moronic' And 'Demotivating' \u2013 Thinks It 'Rolls Socialism In With A Red Carpet'",
       "link": "https://finance.yahoo.com/news/dave-ramsey-says-belief-becoming-020109131.html?.tsrc=rss",
       "source": "yahoo",
@@ -2190,18 +2202,6 @@
       "title": "Forget 2025: These 3 Growth Stocks Could Soar in 2026",
       "ts": "2026-01-02T22:25:00Z",
       "url": "https://www.fool.com/investing/2026/01/02/forget-2025-buy-3-growth-stocks-2026/?.tsrc=rss"
-    },
-    {
-      "headline": "4 Under-the-Radar AI Stocks to Buy for 2026",
-      "link": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AMZN",
-      "time": "Fri, 02 Jan 2026 21:31:07 +0000",
-      "title": "4 Under-the-Radar AI Stocks to Buy for 2026",
-      "ts": "2026-01-02T21:31:07Z",
-      "url": "https://finance.yahoo.com/news/4-under-radar-ai-stocks-213107196.html?.tsrc=rss"
     },
     {
       "headline": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
