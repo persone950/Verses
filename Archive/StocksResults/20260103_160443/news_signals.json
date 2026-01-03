@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-03T18:53:24Z",
+  "signals": {
+    "AAPL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Best Stock to Buy Right Now: Amazon vs. Costco",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Funds Plow Money Into AppLovin, Broadcom, Google \u2014 And This Top 100 Stock",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "BigBear.ai to Strengthen Balance Sheet Through Significant Debt Reduction",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "After A Miserable 2025 First Trust SkyBridge Crypto ETF Looks Ready To Soar in 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "3 Cybersecurity Stocks to Watch in 2026 as Identity and Endpoint Converge",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "GOOGL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Here Are 3 Financial Stocks Making Big AI Moves in 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market News for Jan 2, 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "INSM Stock Up 78% in 6 Months: Here's What You Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Intel (INTC) Draws Strategic Nvidia Investment as Chip Testing Plans Shift",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Netflix Stock Just Keeps Falling. Is It Finally a Buy?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "ServiceNow (NOW) Stock Sinks As Market Gains: What You Should Know",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Small-Cap Stock Worth Your Attention and 2 Facing Challenges",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "December jobs report, earnings, CES 2026: What to Watch",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Meet the Cornerstone Quantum Computing Stock Billionaires Have Piled Into for 2026 (Hint: It's Not IonQ, Rigetti Computing, or D-Wave Quantum)",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Hi Ho Silver Away! Silver Breaks $80 as Poor Man's Gold Explodes",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    }
+  },
+  "status": "ok"
+}
