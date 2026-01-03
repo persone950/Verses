@@ -228,11 +228,11 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "MGM": {
+    "ADBE": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SCHW": {
+    "MA": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
@@ -240,7 +240,11 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "MA": {
+    "T": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "AFRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
