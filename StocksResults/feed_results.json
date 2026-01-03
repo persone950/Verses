@@ -1410,7 +1410,7 @@
       "symbol": "SPY",
       "price": 683.17,
       "prev_close": 681.92,
-      "open": 685.72,
+      "open": 685.71,
       "high": 686.87,
       "low": 679.82,
       "ts_ms": 1767387600000,
@@ -1421,7 +1421,7 @@
         "symbol": "SPY",
         "price": 683.17,
         "prev_close": 681.92,
-        "open": 685.72,
+        "open": 685.71,
         "high": 686.87,
         "low": 679.82,
         "ts_ms": 1767387600000,
@@ -1437,7 +1437,7 @@
       "symbol": "QQQ",
       "price": 613.12,
       "prev_close": 614.31,
-      "open": 620.0699999999999,
+      "open": 620.06,
       "high": 622.85,
       "low": 610.15,
       "ts_ms": 1767387600000,
@@ -1448,7 +1448,7 @@
         "symbol": "QQQ",
         "price": 613.12,
         "prev_close": 614.31,
-        "open": 620.0699999999999,
+        "open": 620.06,
         "high": 622.85,
         "low": 610.15,
         "ts_ms": 1767387600000,
@@ -1464,7 +1464,7 @@
       "symbol": "DIA",
       "price": 483.63,
       "prev_close": 480.57,
-      "open": 481.86,
+      "open": 481.85,
       "high": 483.95,
       "low": 478.38,
       "ts_ms": 1767387600000,
@@ -1475,7 +1475,7 @@
         "symbol": "DIA",
         "price": 483.63,
         "prev_close": 480.57,
-        "open": 481.86,
+        "open": 481.85,
         "high": 483.95,
         "low": 478.38,
         "ts_ms": 1767387600000,
@@ -1491,7 +1491,7 @@
       "symbol": "IWM",
       "price": 248.78,
       "prev_close": 246.16,
-      "open": 247.64,
+      "open": 247.63,
       "high": 249.09,
       "low": 245.86,
       "ts_ms": 1767387600000,
@@ -1502,7 +1502,7 @@
         "symbol": "IWM",
         "price": 248.78,
         "prev_close": 246.16,
-        "open": 247.64,
+        "open": 247.63,
         "high": 249.09,
         "low": 245.86,
         "ts_ms": 1767387600000,
@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "AI",
+    "symbol": "AMAT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "AI",
-      "price": 13.75,
-      "prev_close": 13.48,
-      "open": 13.59,
-      "high": 13.84,
-      "low": 13.38,
+      "symbol": "AMAT",
+      "price": 268.87,
+      "prev_close": 256.99,
+      "open": 267.08,
+      "high": 271.23,
+      "low": 265.1,
       "ts_ms": 1767387600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "AI",
-        "price": 13.75,
-        "prev_close": 13.48,
-        "open": 13.59,
-        "high": 13.84,
-        "low": 13.38,
+        "symbol": "AMAT",
+        "price": 268.87,
+        "prev_close": 256.99,
+        "open": 267.08,
+        "high": 271.23,
+        "low": 265.1,
         "ts_ms": 1767387600000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "ZS",
+    "symbol": "OXY",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ZS",
-      "price": 220.57,
-      "prev_close": 224.92,
-      "open": 226.73,
-      "high": 226.73,
-      "low": 217.2341,
+      "symbol": "OXY",
+      "price": 42.38,
+      "prev_close": 41.12,
+      "open": 41.24,
+      "high": 42.735,
+      "low": 41.025,
       "ts_ms": 1767387600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ZS",
-        "price": 220.57,
-        "prev_close": 224.92,
-        "open": 226.73,
-        "high": 226.73,
-        "low": 217.2341,
+        "symbol": "OXY",
+        "price": 42.38,
+        "prev_close": 41.12,
+        "open": 41.24,
+        "high": 42.735,
+        "low": 41.025,
         "ts_ms": 1767387600000,
         "source": "finnhub"
       }
@@ -1573,17 +1573,30 @@
     "error": null
   },
   {
-    "symbol": "C",
+    "symbol": "T",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "DIS",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "T",
+      "price": 24.56,
+      "prev_close": 24.84,
+      "open": 24.79,
+      "high": 24.81,
+      "low": 24.5,
+      "ts_ms": 1767387600000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "T",
+        "price": 24.56,
+        "prev_close": 24.84,
+        "open": 24.79,
+        "high": 24.81,
+        "low": 24.5,
+        "ts_ms": 1767387600000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   }
 ]
