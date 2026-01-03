@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AI": {
+    "AMAT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ZS": {
+    "OXY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "C": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "DIS": {
+    "T": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
