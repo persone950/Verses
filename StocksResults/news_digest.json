@@ -2,6 +2,28 @@
   "digest": {
     "AAPL": [
       {
+        "headline": "Apple CEO Tim Cook Just Loaded Up on Nike Stock. Should You?",
+        "link": "https://www.fool.com/investing/2026/01/03/apple-ceo-tim-cook-just-loaded-up-on-nike-stock-sh/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 20:38:48 +0000",
+        "title": "Apple CEO Tim Cook Just Loaded Up on Nike Stock. Should You?",
+        "ts": "2026-01-03T20:38:48Z",
+        "url": "https://www.fool.com/investing/2026/01/03/apple-ceo-tim-cook-just-loaded-up-on-nike-stock-sh/?.tsrc=rss"
+      },
+      {
+        "headline": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+        "link": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 18:50:03 +0000",
+        "title": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+        "ts": "2026-01-03T18:50:03Z",
+        "url": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss"
+      },
+      {
         "headline": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
         "link": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/?.tsrc=rss",
         "source": "yahoo",
@@ -44,28 +66,6 @@
         "title": "Apple Stock Initiated At Neutral. Here's Why.",
         "ts": "2026-01-02T21:23:30Z",
         "url": "https://finance.yahoo.com/m/589555f0-f81f-3e59-8789-bdeee505777d/apple-stock-initiated-at.html?.tsrc=rss"
-      },
-      {
-        "headline": "Apple CEO Tim Cook Just Doubled Down on This Iconic Value Stock in His Personal Portfolio With a Fresh $3 Million Investment",
-        "link": "https://www.fool.com/investing/2026/01/02/apple-ceo-tim-cook-just-doubled-down-on-this-iconi/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 20:25:00 +0000",
-        "title": "Apple CEO Tim Cook Just Doubled Down on This Iconic Value Stock in His Personal Portfolio With a Fresh $3 Million Investment",
-        "ts": "2026-01-02T20:25:00Z",
-        "url": "https://www.fool.com/investing/2026/01/02/apple-ceo-tim-cook-just-doubled-down-on-this-iconi/?.tsrc=rss"
-      },
-      {
-        "headline": "OpenAI Is Taking On Apple\u2019s App Store. It\u2019s Got a Long Way to Go.",
-        "link": "https://finance.yahoo.com/m/89dafb06-8207-31cf-9853-e4296c4fc90b/openai-is-taking-on-apple%E2%80%99s.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 19:50:00 +0000",
-        "title": "OpenAI Is Taking On Apple\u2019s App Store. It\u2019s Got a Long Way to Go.",
-        "ts": "2026-01-02T19:50:00Z",
-        "url": "https://finance.yahoo.com/m/89dafb06-8207-31cf-9853-e4296c4fc90b/openai-is-taking-on-apple%E2%80%99s.html?.tsrc=rss"
       }
     ],
     "AMD": [
@@ -75,9 +75,9 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "time": "Sat, 03 Jan 2026 20:08:43 +0000",
         "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-        "ts": "2026-01-03T18:03:23Z",
+        "ts": "2026-01-03T20:08:43Z",
         "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
@@ -546,6 +546,28 @@
     ],
     "GOOGL": [
       {
+        "headline": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+        "link": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 19:07:00 +0000",
+        "title": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+        "ts": "2026-01-03T19:07:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss"
+      },
+      {
+        "headline": "GOOGL Stock Rocked in 2025, But Is Google\u2019s 2026 Forecast as Bright?",
+        "link": "https://www.barchart.com/story/news/36871752/googl-stock-rocked-in-2025-but-is-googles-2026-forecast-as-bright?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 17:00:02 +0000",
+        "title": "GOOGL Stock Rocked in 2025, But Is Google\u2019s 2026 Forecast as Bright?",
+        "ts": "2026-01-03T17:00:02Z",
+        "url": "https://www.barchart.com/story/news/36871752/googl-stock-rocked-in-2025-but-is-googles-2026-forecast-as-bright?.tsrc=rss"
+      },
+      {
         "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
         "link": "https://finance.yahoo.com/news/grant-cardone-compares-bitcoin-printing-154533087.html?.tsrc=rss",
         "source": "yahoo",
@@ -588,28 +610,6 @@
         "title": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
         "ts": "2026-01-03T13:52:00Z",
         "url": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss"
-      },
-      {
-        "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-        "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 13:02:39 +0000",
-        "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-        "ts": "2026-01-03T13:02:39Z",
-        "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
-      },
-      {
-        "headline": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
-        "link": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 13:00:57 +0000",
-        "title": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
-        "ts": "2026-01-03T13:00:57Z",
-        "url": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -954,6 +954,28 @@
     ],
     "MSFT": [
       {
+        "headline": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+        "link": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 19:07:00 +0000",
+        "title": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+        "ts": "2026-01-03T19:07:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss"
+      },
+      {
+        "headline": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+        "link": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 18:50:03 +0000",
+        "title": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+        "ts": "2026-01-03T18:50:03Z",
+        "url": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss"
+      },
+      {
         "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
         "link": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html?.tsrc=rss",
         "source": "yahoo",
@@ -996,28 +1018,6 @@
         "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race\u2014 'You Don't Have The Downside Risk Of...'",
         "ts": "2026-01-02T22:31:09Z",
         "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
-      },
-      {
-        "headline": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-        "link": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:51:00 +0000",
-        "title": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-        "ts": "2026-01-02T21:51:00Z",
-        "url": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss"
-      },
-      {
-        "headline": "How major US stock indexes fared Friday, 1/2/2026",
-        "link": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 02 Jan 2026 21:27:31 +0000",
-        "title": "How major US stock indexes fared Friday, 1/2/2026",
-        "ts": "2026-01-02T21:27:31Z",
-        "url": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html?.tsrc=rss"
       }
     ],
     "MU": [
@@ -1027,9 +1027,9 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "time": "Sat, 03 Jan 2026 20:08:43 +0000",
         "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-        "ts": "2026-01-03T18:03:23Z",
+        "ts": "2026-01-03T20:08:43Z",
         "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
       },
       {
@@ -1231,10 +1231,32 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "time": "Sat, 03 Jan 2026 20:08:43 +0000",
         "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-        "ts": "2026-01-03T18:03:23Z",
+        "ts": "2026-01-03T20:08:43Z",
         "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
+      },
+      {
+        "headline": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+        "link": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 19:07:00 +0000",
+        "title": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+        "ts": "2026-01-03T19:07:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss"
+      },
+      {
+        "headline": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+        "link": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 18:50:03 +0000",
+        "title": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+        "ts": "2026-01-03T18:50:03Z",
+        "url": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss"
       },
       {
         "headline": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
@@ -1268,28 +1290,6 @@
         "title": "Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom",
         "ts": "2026-01-03T14:21:00Z",
         "url": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/?.tsrc=rss"
-      },
-      {
-        "headline": "Down 45%, Should You Buy the Dip on IonQ?",
-        "link": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 14:01:00 +0000",
-        "title": "Down 45%, Should You Buy the Dip on IonQ?",
-        "ts": "2026-01-03T14:01:00Z",
-        "url": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss"
-      },
-      {
-        "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-        "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 13:02:39 +0000",
-        "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-        "ts": "2026-01-03T13:02:39Z",
-        "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1435,10 +1435,21 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "time": "Sat, 03 Jan 2026 20:08:43 +0000",
         "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-        "ts": "2026-01-03T18:03:23Z",
+        "ts": "2026-01-03T20:08:43Z",
         "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
+      },
+      {
+        "headline": "Cathie Wood's ARK Fintech ETF Defies Industry Downturn, Soaring 30% In 2025",
+        "link": "https://finance.yahoo.com/news/cathie-woods-ark-fintech-etf-193030955.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 19:30:30 +0000",
+        "title": "Cathie Wood's ARK Fintech ETF Defies Industry Downturn, Soaring 30% In 2025",
+        "ts": "2026-01-03T19:30:30Z",
+        "url": "https://finance.yahoo.com/news/cathie-woods-ark-fintech-etf-193030955.html?.tsrc=rss"
       },
       {
         "headline": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
@@ -1483,17 +1494,6 @@
         "title": "2 Monster Stocks to Hold for the Next 20 Years",
         "ts": "2026-01-03T10:05:00Z",
         "url": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss"
-      },
-      {
-        "headline": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
-        "link": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 09:47:00 +0000",
-        "title": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
-        "ts": "2026-01-03T09:47:00Z",
-        "url": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss"
       }
     ],
     "QCOM": [
@@ -1566,6 +1566,17 @@
     ],
     "RGTI": [
       {
+        "headline": "Is Rigetti Computing a Buy in 2026?",
+        "link": "https://www.fool.com/investing/2026/01/03/is-rigetti-computing-a-buy-in-2026/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 20:20:00 +0000",
+        "title": "Is Rigetti Computing a Buy in 2026?",
+        "ts": "2026-01-03T20:20:00Z",
+        "url": "https://www.fool.com/investing/2026/01/03/is-rigetti-computing-a-buy-in-2026/?.tsrc=rss"
+      },
+      {
         "headline": "Meet the Cornerstone Quantum Computing Stock Billionaires Have Piled Into for 2026 (Hint: It's Not IonQ, Rigetti Computing, or D-Wave Quantum)",
         "link": "https://www.fool.com/investing/2026/01/02/quantum-computing-stock-billionaire-2026-ionq-rgti/?.tsrc=rss",
         "source": "yahoo",
@@ -1619,17 +1630,6 @@
         "title": "4 Quantum Stocks for a Future That Is Now",
         "ts": "2025-12-30T13:20:00Z",
         "url": "https://finance.yahoo.com/m/9fc97ccd-898d-3ae9-883a-e79a87072451/4-quantum-stocks-for-a-future.html?.tsrc=rss"
-      },
-      {
-        "headline": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
-        "link": "https://finance.yahoo.com/news/2026-big-tech-quantum-bets-200000979.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 29 Dec 2025 20:00:00 +0000",
-        "title": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
-        "ts": "2025-12-29T20:00:00Z",
-        "url": "https://finance.yahoo.com/news/2026-big-tech-quantum-bets-200000979.html?.tsrc=rss"
       }
     ],
     "SLV": [
@@ -1707,10 +1707,21 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+        "time": "Sat, 03 Jan 2026 20:08:43 +0000",
         "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-        "ts": "2026-01-03T18:03:23Z",
+        "ts": "2026-01-03T20:08:43Z",
         "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
+      },
+      {
+        "headline": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi",
+        "link": "https://finance.yahoo.com/m/2d0cb659-5f6f-3d91-bdce-872cc6472646/tesla-q4-vehicle-deliveries.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 03 Jan 2026 19:19:04 +0000",
+        "title": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi",
+        "ts": "2026-01-03T19:19:04Z",
+        "url": "https://finance.yahoo.com/m/2d0cb659-5f6f-3d91-bdce-872cc6472646/tesla-q4-vehicle-deliveries.html?.tsrc=rss"
       },
       {
         "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
@@ -1755,22 +1766,35 @@
         "title": "Tesla sales fall in France, Sweden, surge in Norway, Reuters reports",
         "ts": "2026-01-03T12:45:07Z",
         "url": "https://finance.yahoo.com/news/tesla-sales-fall-france-sweden-124507311.html?.tsrc=rss"
-      },
-      {
-        "headline": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
-        "link": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 03 Jan 2026 11:45:35 +0000",
-        "title": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
-        "ts": "2026-01-03T11:45:35Z",
-        "url": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-03T18:53:24Z",
+  "generated_at": "2026-01-03T21:04:33Z",
   "items": [
+    {
+      "headline": "Apple CEO Tim Cook Just Loaded Up on Nike Stock. Should You?",
+      "link": "https://www.fool.com/investing/2026/01/03/apple-ceo-tim-cook-just-loaded-up-on-nike-stock-sh/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Sat, 03 Jan 2026 20:38:48 +0000",
+      "title": "Apple CEO Tim Cook Just Loaded Up on Nike Stock. Should You?",
+      "ts": "2026-01-03T20:38:48Z",
+      "url": "https://www.fool.com/investing/2026/01/03/apple-ceo-tim-cook-just-loaded-up-on-nike-stock-sh/?.tsrc=rss"
+    },
+    {
+      "headline": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+      "link": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Sat, 03 Jan 2026 18:50:03 +0000",
+      "title": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+      "ts": "2026-01-03T18:50:03Z",
+      "url": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss"
+    },
     {
       "headline": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today",
       "link": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/?.tsrc=rss",
@@ -1820,28 +1844,28 @@
       "url": "https://finance.yahoo.com/m/589555f0-f81f-3e59-8789-bdeee505777d/apple-stock-initiated-at.html?.tsrc=rss"
     },
     {
-      "headline": "Apple CEO Tim Cook Just Doubled Down on This Iconic Value Stock in His Personal Portfolio With a Fresh $3 Million Investment",
-      "link": "https://www.fool.com/investing/2026/01/02/apple-ceo-tim-cook-just-doubled-down-on-this-iconi/?.tsrc=rss",
+      "headline": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+      "link": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Fri, 02 Jan 2026 20:25:00 +0000",
-      "title": "Apple CEO Tim Cook Just Doubled Down on This Iconic Value Stock in His Personal Portfolio With a Fresh $3 Million Investment",
-      "ts": "2026-01-02T20:25:00Z",
-      "url": "https://www.fool.com/investing/2026/01/02/apple-ceo-tim-cook-just-doubled-down-on-this-iconi/?.tsrc=rss"
+      "ticker": "MSFT",
+      "time": "Sat, 03 Jan 2026 19:07:00 +0000",
+      "title": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+      "ts": "2026-01-03T19:07:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss"
     },
     {
-      "headline": "OpenAI Is Taking On Apple\u2019s App Store. It\u2019s Got a Long Way to Go.",
-      "link": "https://finance.yahoo.com/m/89dafb06-8207-31cf-9853-e4296c4fc90b/openai-is-taking-on-apple%E2%80%99s.html?.tsrc=rss",
+      "headline": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+      "link": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Fri, 02 Jan 2026 19:50:00 +0000",
-      "title": "OpenAI Is Taking On Apple\u2019s App Store. It\u2019s Got a Long Way to Go.",
-      "ts": "2026-01-02T19:50:00Z",
-      "url": "https://finance.yahoo.com/m/89dafb06-8207-31cf-9853-e4296c4fc90b/openai-is-taking-on-apple%E2%80%99s.html?.tsrc=rss"
+      "ticker": "MSFT",
+      "time": "Sat, 03 Jan 2026 18:50:03 +0000",
+      "title": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+      "ts": "2026-01-03T18:50:03Z",
+      "url": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss"
     },
     {
       "headline": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
@@ -1892,40 +1916,40 @@
       "url": "https://finance.yahoo.com/news/why-analyst-prefers-microsoft-over-223109843.html?.tsrc=rss"
     },
     {
-      "headline": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-      "link": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "MSFT",
-      "time": "Fri, 02 Jan 2026 21:51:00 +0000",
-      "title": "Energy Stocks, Utilities Take Lead on First Trading Day of 2026, While Tech Lags",
-      "ts": "2026-01-02T21:51:00Z",
-      "url": "https://finance.yahoo.com/m/124b4b5e-c22e-3968-ab13-25758c33eeee/energy-stocks%2C-utilities-take.html?.tsrc=rss"
-    },
-    {
-      "headline": "How major US stock indexes fared Friday, 1/2/2026",
-      "link": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "MSFT",
-      "time": "Fri, 02 Jan 2026 21:27:31 +0000",
-      "title": "How major US stock indexes fared Friday, 1/2/2026",
-      "ts": "2026-01-02T21:27:31Z",
-      "url": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html?.tsrc=rss"
-    },
-    {
       "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
       "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "time": "Sat, 03 Jan 2026 20:08:43 +0000",
       "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-      "ts": "2026-01-03T18:03:23Z",
+      "ts": "2026-01-03T20:08:43Z",
       "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
+    },
+    {
+      "headline": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+      "link": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Sat, 03 Jan 2026 19:07:00 +0000",
+      "title": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+      "ts": "2026-01-03T19:07:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss"
+    },
+    {
+      "headline": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+      "link": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Sat, 03 Jan 2026 18:50:03 +0000",
+      "title": "XLK Offers Broader Tech Diversification, While SOXX Targets Semiconductor Stocks. Which Is the Better Investment?",
+      "ts": "2026-01-03T18:50:03Z",
+      "url": "https://www.fool.com/coverage/etfs/2026/01/03/xlk-offers-broader-tech-diversification-while-soxx-targets-semiconductor-stocks-which-is-the-better-investment/?.tsrc=rss"
     },
     {
       "headline": "Here\u2019s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI\u2019s Explosive Growth",
@@ -1964,28 +1988,28 @@
       "url": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/?.tsrc=rss"
     },
     {
-      "headline": "Down 45%, Should You Buy the Dip on IonQ?",
-      "link": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss",
+      "headline": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+      "link": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sat, 03 Jan 2026 14:01:00 +0000",
-      "title": "Down 45%, Should You Buy the Dip on IonQ?",
-      "ts": "2026-01-03T14:01:00Z",
-      "url": "https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/?.tsrc=rss"
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 19:07:00 +0000",
+      "title": "IonQ Stock in 5 Years: Moon Shot or Crash Landing?",
+      "ts": "2026-01-03T19:07:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/ionq-stock-in-5-years-moon-shot-or-crash-landing/?.tsrc=rss"
     },
     {
-      "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-      "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
+      "headline": "GOOGL Stock Rocked in 2025, But Is Google\u2019s 2026 Forecast as Bright?",
+      "link": "https://www.barchart.com/story/news/36871752/googl-stock-rocked-in-2025-but-is-googles-2026-forecast-as-bright?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sat, 03 Jan 2026 13:02:39 +0000",
-      "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-      "ts": "2026-01-03T13:02:39Z",
-      "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
+      "ticker": "GOOGL",
+      "time": "Sat, 03 Jan 2026 17:00:02 +0000",
+      "title": "GOOGL Stock Rocked in 2025, But Is Google\u2019s 2026 Forecast as Bright?",
+      "ts": "2026-01-03T17:00:02Z",
+      "url": "https://www.barchart.com/story/news/36871752/googl-stock-rocked-in-2025-but-is-googles-2026-forecast-as-bright?.tsrc=rss"
     },
     {
       "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
@@ -2034,30 +2058,6 @@
       "title": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
       "ts": "2026-01-03T13:52:00Z",
       "url": "https://www.fool.com/investing/2026/01/03/missed-out-on-palantir-1-no-brainer-artificial-int/?.tsrc=rss"
-    },
-    {
-      "headline": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-      "link": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sat, 03 Jan 2026 13:02:39 +0000",
-      "title": "There Might Not Be a Spectacular Bursting of an AI Bubble\u2014Here\u2019s What May Happen Instead",
-      "ts": "2026-01-03T13:02:39Z",
-      "url": "https://247wallst.com/investing/2026/01/03/there-might-not-be-a-spectacular-bursting-of-an-ai-bubble-heres-what-may-happen-instead/?.tsrc=rss"
-    },
-    {
-      "headline": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
-      "link": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sat, 03 Jan 2026 13:00:57 +0000",
-      "title": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026",
-      "ts": "2026-01-03T13:00:57Z",
-      "url": "https://finance.yahoo.com/m/74f4b9be-cc39-3bd0-8029-9725e1aca8c2/google%2C-other-ai-stocks-trade.html?.tsrc=rss"
     },
     {
       "headline": "Grant Cardone Compares Bitcoin To Printing Press, Telephone, Internet, Says It Advances Money",
@@ -2210,10 +2210,22 @@
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "TSLA",
-      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "time": "Sat, 03 Jan 2026 20:08:43 +0000",
       "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-      "ts": "2026-01-03T18:03:23Z",
+      "ts": "2026-01-03T20:08:43Z",
       "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
+    },
+    {
+      "headline": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi",
+      "link": "https://finance.yahoo.com/m/2d0cb659-5f6f-3d91-bdce-872cc6472646/tesla-q4-vehicle-deliveries.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "TSLA",
+      "time": "Sat, 03 Jan 2026 19:19:04 +0000",
+      "title": "Tesla Q4 Vehicle Deliveries Fall 16% But Analysts Say It's All About The Robotaxi",
+      "ts": "2026-01-03T19:19:04Z",
+      "url": "https://finance.yahoo.com/m/2d0cb659-5f6f-3d91-bdce-872cc6472646/tesla-q4-vehicle-deliveries.html?.tsrc=rss"
     },
     {
       "headline": "Gavin Newsom Says Trump Making Gaming More Expensive Amid Chip Price Surge",
@@ -2264,27 +2276,15 @@
       "url": "https://finance.yahoo.com/news/tesla-sales-fall-france-sweden-124507311.html?.tsrc=rss"
     },
     {
-      "headline": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
-      "link": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Sat, 03 Jan 2026 11:45:35 +0000",
-      "title": "Bill Ackman's 'Best Idea' For 2026: Freedom For Fannie and Freddie",
-      "ts": "2026-01-03T11:45:35Z",
-      "url": "https://finance.yahoo.com/news/bill-ackmans-best-idea-2026-114535784.html?.tsrc=rss"
-    },
-    {
       "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
       "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "AMD",
-      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "time": "Sat, 03 Jan 2026 20:08:43 +0000",
       "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-      "ts": "2026-01-03T18:03:23Z",
+      "ts": "2026-01-03T20:08:43Z",
       "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
@@ -2930,10 +2930,22 @@
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "PLTR",
-      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "time": "Sat, 03 Jan 2026 20:08:43 +0000",
       "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-      "ts": "2026-01-03T18:03:23Z",
+      "ts": "2026-01-03T20:08:43Z",
       "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
+    },
+    {
+      "headline": "Cathie Wood's ARK Fintech ETF Defies Industry Downturn, Soaring 30% In 2025",
+      "link": "https://finance.yahoo.com/news/cathie-woods-ark-fintech-etf-193030955.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "PLTR",
+      "time": "Sat, 03 Jan 2026 19:30:30 +0000",
+      "title": "Cathie Wood's ARK Fintech ETF Defies Industry Downturn, Soaring 30% In 2025",
+      "ts": "2026-01-03T19:30:30Z",
+      "url": "https://finance.yahoo.com/news/cathie-woods-ark-fintech-etf-193030955.html?.tsrc=rss"
     },
     {
       "headline": "Missed Out on Investing in Palantir? 1 No-Brainer Artificial Intelligence Stock to Buy Before It Soars in 2026.",
@@ -2984,27 +2996,15 @@
       "url": "https://www.fool.com/investing/2026/01/03/2-monster-stocks-to-hold-for-the-next-20-years/?.tsrc=rss"
     },
     {
-      "headline": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
-      "link": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "PLTR",
-      "time": "Sat, 03 Jan 2026 09:47:00 +0000",
-      "title": "2 Spectacular Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2026, According to Wall Street",
-      "ts": "2026-01-03T09:47:00Z",
-      "url": "https://www.fool.com/investing/2026/01/03/2-spectacular-ai-stocks-buy-hand-2026-wall-street/?.tsrc=rss"
-    },
-    {
       "headline": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
       "link": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "MU",
-      "time": "Sat, 03 Jan 2026 18:03:23 +0000",
+      "time": "Sat, 03 Jan 2026 20:08:43 +0000",
       "title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
-      "ts": "2026-01-03T18:03:23Z",
+      "ts": "2026-01-03T20:08:43Z",
       "url": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html?.tsrc=rss"
     },
     {
@@ -3212,6 +3212,18 @@
       "url": "https://finance.yahoo.com/news/macys-adt-highlighted-zacks-bull-133200132.html?.tsrc=rss"
     },
     {
+      "headline": "Is Rigetti Computing a Buy in 2026?",
+      "link": "https://www.fool.com/investing/2026/01/03/is-rigetti-computing-a-buy-in-2026/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "RGTI",
+      "time": "Sat, 03 Jan 2026 20:20:00 +0000",
+      "title": "Is Rigetti Computing a Buy in 2026?",
+      "ts": "2026-01-03T20:20:00Z",
+      "url": "https://www.fool.com/investing/2026/01/03/is-rigetti-computing-a-buy-in-2026/?.tsrc=rss"
+    },
+    {
       "headline": "Meet the Cornerstone Quantum Computing Stock Billionaires Have Piled Into for 2026 (Hint: It's Not IonQ, Rigetti Computing, or D-Wave Quantum)",
       "link": "https://www.fool.com/investing/2026/01/02/quantum-computing-stock-billionaire-2026-ionq-rgti/?.tsrc=rss",
       "source": "yahoo",
@@ -3270,18 +3282,6 @@
       "title": "4 Quantum Stocks for a Future That Is Now",
       "ts": "2025-12-30T13:20:00Z",
       "url": "https://finance.yahoo.com/m/9fc97ccd-898d-3ae9-883a-e79a87072451/4-quantum-stocks-for-a-future.html?.tsrc=rss"
-    },
-    {
-      "headline": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
-      "link": "https://finance.yahoo.com/news/2026-big-tech-quantum-bets-200000979.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "RGTI",
-      "time": "Mon, 29 Dec 2025 20:00:00 +0000",
-      "title": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
-      "ts": "2025-12-29T20:00:00Z",
-      "url": "https://finance.yahoo.com/news/2026-big-tech-quantum-bets-200000979.html?.tsrc=rss"
     },
     {
       "headline": "INSM Stock Up 78% in 6 Months: Here's What You Need to Know",
