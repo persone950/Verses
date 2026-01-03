@@ -1,1 +1,1 @@
-Ticker,Type,Strike,Exp,DTE,Bid,Ask,Mid,IV,Delta,OI,Volume
+ticker,type,strike,expiration,bid,ask,mid,iv,ivr,delta,volume,open_interest
