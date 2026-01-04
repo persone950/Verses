@@ -1,11 +1,35 @@
 {
-  "ts": "2026-01-03T21:04:05.421160-05:00",
+  "ts": "2026-01-04T04:20:31.351287-05:00",
   "files": {
     "options_chain.csv": {
       "exists": true,
-      "rows_loaded": 1000,
+      "rows_loaded": 5000,
       "header": [
+        "underlying",
         "ticker",
+        "symbol",
+        "type",
+        "strike",
+        "expiration",
+        "dte",
+        "bid",
+        "ask",
+        "mid",
+        "last",
+        "iv",
+        "delta",
+        "theta",
+        "volume",
+        "open_interest",
+        "underlying_price",
+        "premium"
+      ]
+    },
+    "options_summary.csv": {
+      "exists": true,
+      "rows_loaded": 5000,
+      "header": [
+        "underlying",
         "type",
         "strike",
         "expiration",
@@ -13,30 +37,13 @@
         "ask",
         "mid",
         "iv",
-        "ivr",
         "delta",
+        "theta",
         "volume",
-        "open_interest"
-      ]
-    },
-    "options_summary.csv": {
-      "exists": true,
-      "rows_loaded": 0,
-      "header": [
-        "Ticker",
-        "Type",
-        "Strike",
-        "Exp",
-        "Premium",
-        "BE",
-        "% to BE",
-        "Today %",
-        "Entry",
-        "Stop",
-        "Target",
-        "Hedge",
-        "Yield",
-        "Comment"
+        "open_interest",
+        "dte",
+        "underlying_price",
+        "source"
       ]
     }
   },
@@ -52,24 +59,18 @@
     "underlying_price"
   ],
   "summary_coverage": {
-    "underlying": 0,
-    "type": 0,
-    "strike": 0,
-    "expiration": 0,
-    "mid": 0,
-    "iv": 0,
-    "delta": 0,
-    "dte": 0,
-    "underlying_price": 0,
-    "bid": 0,
-    "ask": 0
+    "underlying": 5000,
+    "type": 5000,
+    "strike": 5000,
+    "expiration": 5000,
+    "mid": 5000,
+    "iv": 5000,
+    "delta": 5000,
+    "dte": 5000,
+    "underlying_price": 5000,
+    "bid": 5000,
+    "ask": 5000
   },
-  "summary_blockers": [
-    "No usable pricing: mid missing and bid/ask not both present",
-    "Missing required numeric field across all rows: iv",
-    "Missing required numeric field across all rows: delta",
-    "Missing required numeric field across all rows: dte",
-    "Missing required numeric field across all rows: underlying_price"
-  ],
+  "summary_blockers": [],
   "sample_missing_rows": []
 }
