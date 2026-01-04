@@ -1,23 +1,10 @@
 {
-  "ts": "2026-01-03T18:43:50.136658-05:00",
+  "ts": "2026-01-03T20:08:18.379884-05:00",
   "files": {
     "options_chain.csv": {
-      "exists": true,
+      "exists": false,
       "rows_loaded": 0,
-      "header": [
-        "ticker",
-        "type",
-        "strike",
-        "expiration",
-        "bid",
-        "ask",
-        "mid",
-        "iv",
-        "ivr",
-        "delta",
-        "volume",
-        "open_interest"
-      ]
+      "header": []
     },
     "options_summary.csv": {
       "exists": true,
