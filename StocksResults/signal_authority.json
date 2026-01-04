@@ -228,11 +228,11 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AI": {
+    "OXY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "BKNG": {
+    "ARM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
@@ -240,11 +240,11 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLF": {
+    "VZ": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LRCX": {
+    "F": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
