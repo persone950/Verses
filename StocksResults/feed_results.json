@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "RBLX",
+    "symbol": "AXP",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "RBLX",
-      "price": 80.95,
-      "prev_close": 81.03,
-      "open": 81.45,
-      "high": 81.78,
-      "low": 78.8,
+      "symbol": "AXP",
+      "price": 372.73,
+      "prev_close": 369.95,
+      "open": 369.5,
+      "high": 372.87,
+      "low": 367.25,
       "ts_ms": 1767387600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "RBLX",
-        "price": 80.95,
-        "prev_close": 81.03,
-        "open": 81.45,
-        "high": 81.78,
-        "low": 78.8,
+        "symbol": "AXP",
+        "price": 372.73,
+        "prev_close": 369.95,
+        "open": 369.5,
+        "high": 372.87,
+        "low": 367.25,
         "ts_ms": 1767387600000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "C",
+    "symbol": "SHOP",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "C",
-      "price": 118.7,
-      "prev_close": 116.69,
-      "open": 117.21,
-      "high": 118.72,
-      "low": 116.6,
+      "symbol": "SHOP",
+      "price": 157.2,
+      "prev_close": 160.97,
+      "open": 162.19,
+      "high": 164.3,
+      "low": 155.15,
       "ts_ms": 1767387600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "C",
-        "price": 118.7,
-        "prev_close": 116.69,
-        "open": 117.21,
-        "high": 118.72,
-        "low": 116.6,
+        "symbol": "SHOP",
+        "price": 157.2,
+        "prev_close": 160.97,
+        "open": 162.19,
+        "high": 164.3,
+        "low": 155.15,
         "ts_ms": 1767387600000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,21 @@
     "error": null
   },
   {
-    "symbol": "OXY",
+    "symbol": "RTX",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "AMGN",
+    "symbol": "XBI",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "TSM",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
