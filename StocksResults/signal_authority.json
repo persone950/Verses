@@ -228,23 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "OXY": {
+    "TMO": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ARM": {
+    "LOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNOW": {
+    "RIVN": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "VZ": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "F": {
+    "CRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
