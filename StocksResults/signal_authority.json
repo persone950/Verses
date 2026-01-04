@@ -228,19 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RBLX": {
+    "AXP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "C": {
+    "SHOP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "OXY": {
+    "RTX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AMGN": {
+    "XBI": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "TSM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
