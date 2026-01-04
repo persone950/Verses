@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "AI",
+    "symbol": "OXY",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "AI",
-      "price": 13.75,
-      "prev_close": 13.48,
-      "open": 13.58,
-      "high": 13.84,
-      "low": 13.38,
+      "symbol": "OXY",
+      "price": 42.38,
+      "prev_close": 41.12,
+      "open": 41.24,
+      "high": 42.735,
+      "low": 41.025,
       "ts_ms": 1767387600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "AI",
-        "price": 13.75,
-        "prev_close": 13.48,
-        "open": 13.58,
-        "high": 13.84,
-        "low": 13.38,
+        "symbol": "OXY",
+        "price": 42.38,
+        "prev_close": 41.12,
+        "open": 41.24,
+        "high": 42.735,
+        "low": 41.025,
         "ts_ms": 1767387600000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "BKNG",
+    "symbol": "ARM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "BKNG",
-      "price": 5323.2,
-      "prev_close": 5355.33,
-      "open": 5356.79,
-      "high": 5358.56,
-      "low": 5251.32,
+      "symbol": "ARM",
+      "price": 114.73,
+      "prev_close": 109.31,
+      "open": 112.83,
+      "high": 116.29,
+      "low": 112.83,
       "ts_ms": 1767387600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "BKNG",
-        "price": 5323.2,
-        "prev_close": 5355.33,
-        "open": 5356.79,
-        "high": 5358.56,
-        "low": 5251.32,
+        "symbol": "ARM",
+        "price": 114.73,
+        "prev_close": 109.31,
+        "open": 112.83,
+        "high": 116.29,
+        "low": 112.83,
         "ts_ms": 1767387600000,
         "source": "finnhub"
       }
@@ -1580,14 +1580,14 @@
     "error": "http 429"
   },
   {
-    "symbol": "XLF",
+    "symbol": "VZ",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "LRCX",
+    "symbol": "F",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
