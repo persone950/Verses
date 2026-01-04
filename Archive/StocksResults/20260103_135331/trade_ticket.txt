@@ -1,1 +1,0 @@
-NVDA C 195.0000 2026-01-23 | Action=IGNORE Size%=0.0 Score=3.932200

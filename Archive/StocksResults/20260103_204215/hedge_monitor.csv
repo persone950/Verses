@@ -1,5 +1,0 @@
-Metric,Value,Status,Reason
-Drawdown (<= -5%),—,🟨 —,Missing drawdown in portfolio_totals.csv
-Long-delta ratio (> 0.70),—,🟨 —,Missing long-delta ratio in portfolio_totals.csv
-Vol complex (VIX/VVIX/RVX >= +5%),VIX=— VVIX=— RVX=—,🟨 —,Missing vol complex tickers/columns in feed_results_table.csv
-Hedge Decision,HEDGE / REDUCE RISK,🟥 DEFENSIVE,drawdown column not found | long-delta ratio column not found | feed table missing % change column (chg_pct/pct_change/etc.) | drawdown unavailable | long-delta ratio unavailable | vol complex changes unavailable
