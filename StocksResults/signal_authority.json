@@ -228,23 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AXP": {
+    "AI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SHOP": {
+    "BKNG": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RTX": {
+    "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XBI": {
+    "XLF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TSM": {
+    "LRCX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
