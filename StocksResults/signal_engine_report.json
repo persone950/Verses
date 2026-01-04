@@ -1,6 +1,6 @@
 {
-  "ts": "2026-01-04T04:18:08.661638-05:00",
-  "phase": "OFF-CYCLE",
+  "ts": "2026-01-04T14:47:10.807886-05:00",
+  "phase": "INTRADAY",
   "alpha": 0.1,
   "inputs": {
     "top10_render_csv": "/private/var/mobile/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/StocksOptions/StocksResults/top10_render.csv",
