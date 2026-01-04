@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-01-03T20:08:18.373725-05:00",
+  "mode_selected": "BALANCED",
+  "relaxed": true,
+  "input_rows": 0,
+  "strict_pass": 0,
+  "balanced_pass": 0,
+  "final_pass": 0,
+  "per_reason": {},
+  "core_requested": 5,
+  "movers_requested": 5,
+  "core_selected": [],
+  "movers_selected": [],
+  "per_ticker_target": 4,
+  "per_side_target": 2,
+  "target_total_rows": 40,
+  "actual_total_rows": 0
+}
