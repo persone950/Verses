@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "LCID",
+    "symbol": "V",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LCID",
-      "price": 11.0,
-      "prev_close": 11.6,
-      "open": 11.6,
-      "high": 11.61,
-      "low": 10.84,
+      "symbol": "V",
+      "price": 355.88,
+      "prev_close": 357.56,
+      "open": 357.15,
+      "high": 358.28,
+      "low": 354.51,
       "ts_ms": 1767819600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LCID",
-        "price": 11.0,
-        "prev_close": 11.6,
-        "open": 11.6,
-        "high": 11.61,
-        "low": 10.84,
+        "symbol": "V",
+        "price": 355.88,
+        "prev_close": 357.56,
+        "open": 357.15,
+        "high": 358.28,
+        "low": 354.51,
         "ts_ms": 1767819600000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "CRM",
+    "symbol": "AMGN",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CRM",
-      "price": 266.12,
-      "prev_close": 262.9,
-      "open": 263.5,
-      "high": 267.825,
-      "low": 263.5,
+      "symbol": "AMGN",
+      "price": 341.64,
+      "prev_close": 330.17,
+      "open": 332.1,
+      "high": 343.05,
+      "low": 332.1,
       "ts_ms": 1767819600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CRM",
-        "price": 266.12,
-        "prev_close": 262.9,
-        "open": 263.5,
-        "high": 267.825,
-        "low": 263.5,
+        "symbol": "AMGN",
+        "price": 341.64,
+        "prev_close": 330.17,
+        "open": 332.1,
+        "high": 343.05,
+        "low": 332.1,
         "ts_ms": 1767819600000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,7 @@
     "error": null
   },
   {
-    "symbol": "SNAP",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "SNOW",
+    "symbol": "COF",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
