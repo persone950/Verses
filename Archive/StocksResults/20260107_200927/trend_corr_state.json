@@ -1,0 +1,18 @@
+{
+  "timestamp_utc": "2026-01-08T00:46:29.702439+00:00",
+  "source_feed": "feed_results_table.csv",
+  "tickers": [
+    "OPEN",
+    "ALGS",
+    "BBAI",
+    "INTC",
+    "LCID",
+    "CRWD",
+    "CAT",
+    "AG",
+    "LLY",
+    "HOOD"
+  ],
+  "rows": 10,
+  "note": "trend snapshot only; no correlation time-series"
+}
