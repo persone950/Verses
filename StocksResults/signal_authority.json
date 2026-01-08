@@ -228,19 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ADBE": {
+    "LCID": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "MA": {
+    "CRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AMAT": {
+    "SNAP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMO": {
+    "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
