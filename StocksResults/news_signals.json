@@ -1,74 +1,76 @@
 {
-  "generated_at": "2026-01-08T01:09:05Z",
+  "generated_at": "2026-01-08T23:34:39Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Market Fades Off Highs; Eli Lilly Breaks Out, Google Trumps Apple",
+      "headline": "Stock Market Today, Jan. 8: Apple Slips After Alphabet Overtakes it on Market Cap",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "AMD": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 7: Intel Surges After Panther Lake AI PC Chips Spark Investor Optimism",
-      "news_score": 2,
+      "headline": "Stock Market Today, Jan. 8: Nvidia Slides as AI Demand Forecasts Top $500 Billion",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "AMZN": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Can AI Legally Turn $100,000 Into $1 Million? Microsoft AI CEO Mustafa Suleyman Says That's The Real Test Of Intelligence",
-      "news_score": 2,
+      "headline": "Amazon quietly fixed a massive customer service problem",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "AVGO": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 Red-Hot Growth Stocks to Buy in 2026",
+      "headline": "Why Broadcom Stock Fell 14.1% in December",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "BBAI": {
-      "cat": "\u2014",
+      "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is BigBear.ai Stock Your Ticket to Becoming a Millionaire?",
-      "news_score": 0,
-      "risk_flags": [],
-      "tag": ""
+      "headline": "Is BigBear.ai a NVIDIA-like AI Stock and Top 2026 Buy?",
+      "news_score": -3,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
     },
     "COIN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Coinbase exec names 2 factors driving bitcoin back toward highs in 2026",
-      "news_score": 0,
+      "headline": "Walmart welcomes new board member, Coinbase downgraded at BofA",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "CRWD": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Are CrowdStrike (CRWD) Shares Soaring Today",
-      "news_score": 3,
+      "headline": "This Cybersecurity Leader Is Poised to Capture a $300 Billion Market by 2030",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "GOOGL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Can AI Legally Turn $100,000 Into $1 Million? Microsoft AI CEO Mustafa Suleyman Says That's The Real Test Of Intelligence",
+      "headline": "The Best Stocks to Invest $1,000 in Right Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -77,7 +79,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is It Too Late To Consider Robinhood Markets (HOOD) After A 200% One Year Surge?",
+      "headline": "Robinhood Markets, Inc. (HOOD) Is a Trending Stock: Facts to Know Before Betting on It",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -86,7 +88,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 Must-Own Artificial Intelligence Stocks for 2026",
+      "headline": "RBC Sees AI Tailwinds Building for IBM as Enterprise Spending Stabilizes",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -95,26 +97,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What Catalysts Are Quietly Shifting The Narrative For Insmed (INSM)?",
+      "headline": "Jim Cramer on Insmed: \u201cThis One Is Worth Keeping an Eye On\u201d",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "INTC": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures trade flat after Wall Street's early 2026 rally stalls",
-      "news_score": 2,
+      "headline": "Stock Market Today, Jan. 8: Nvidia Slides as AI Demand Forecasts Top $500 Billion",
+      "news_score": -1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "META": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Can AI Legally Turn $100,000 Into $1 Million? Microsoft AI CEO Mustafa Suleyman Says That's The Real Test Of Intelligence",
-      "news_score": 1,
+      "headline": "Microsoft\u2019s (MSFT) AI Strategy Reinforces Its Position as a Long-Term Winner, Analyst Says",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -122,7 +124,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Can AI Legally Turn $100,000 Into $1 Million? Microsoft AI CEO Mustafa Suleyman Says That's The Real Test Of Intelligence",
+      "headline": "This Cybersecurity Leader Is Poised to Capture a $300 Billion Market by 2030",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -131,43 +133,43 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Forget Tesla and Buy 3 Artificial Intelligence (AI) Stocks Instead?",
-      "news_score": 1,
-      "risk_flags": [],
-      "tag": ""
-    },
-    "NFLX": {
-      "cat": "\u2014",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "WWE fans forced to switch platforms after major Netflix change",
+      "headline": "Stock Market Today, Jan. 8: Defense Stocks Rally and Tech Retreats",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
-    "NOW": {
+    "NFLX": {
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "ServiceNow (NOW) Rises As Market Takes a Dip: Key Facts",
-      "news_score": 3,
-      "risk_flags": [],
-      "tag": "NEWS+"
-    },
-    "NVDA": {
-      "cat": "NEWS+",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Markets Settle Mixed on Big Day for Data",
+      "headline": "Why Netflix Stock Lost 12.9% In December 2025",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
+    },
+    "NOW": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is ServiceNow (NOW) Offering A Chance After Recent Share Price Weakness",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Jobs Data, Trump Tariffs Ruling Loom After Small Caps Lead Split Market",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
     },
     "OPEN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "How Buying Opendoor Stock Today Could 10x Your Net Worth",
+      "headline": "A Look At Opendoor Technologies (OPEN) Valuation After Recent Share Price Volatility",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -176,7 +178,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Warner Bros Rejected Paramount\u2019s Latest Offer in Favor of Netflix",
+      "headline": "Microsoft\u2019s (MSFT) AI Strategy Reinforces Its Position as a Long-Term Winner, Analyst Says",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -185,7 +187,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nvidia vs. Palantir: Which Is the Better AI Stock for 2026?",
+      "headline": "Defense Stocks Surge On Trump's $500 Billion Budget-Hike Push",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -194,8 +196,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Qualcomm (QCOM) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "news_score": 0,
+      "headline": "Top Analyst Reports for Johnson & Johnson, Caterpillar and Qualcomm",
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
@@ -203,8 +205,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Can Rigetti Computing Stock Turn a $10,000 Investment Into $1 Million?",
-      "news_score": 1,
+      "headline": "Down 54%, Should You Buy the Dip in Rigetti Computing (RGTI) Stock?",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -212,7 +214,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Silver ETF (SLV) Hits New 52-Week High",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Key Labor Reports",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -221,7 +223,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Waymo\u2019s Robo-Taxi Lead Widens as Tesla Plays Catch-Up in the Autonomous Race",
+      "headline": "Archer Aviation Stock Pops. Nvidia\u2019s AI Chips Will Fly Air Taxis.",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
