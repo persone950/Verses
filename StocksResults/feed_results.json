@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "ADBE",
+    "symbol": "LCID",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ADBE",
-      "price": 338.1,
-      "prev_close": 335.99,
-      "open": 336.24,
-      "high": 342.78,
-      "low": 334.6226,
+      "symbol": "LCID",
+      "price": 11.0,
+      "prev_close": 11.6,
+      "open": 11.6,
+      "high": 11.61,
+      "low": 10.84,
       "ts_ms": 1767819600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ADBE",
-        "price": 338.1,
-        "prev_close": 335.99,
-        "open": 336.24,
-        "high": 342.78,
-        "low": 334.6226,
+        "symbol": "LCID",
+        "price": 11.0,
+        "prev_close": 11.6,
+        "open": 11.6,
+        "high": 11.61,
+        "low": 10.84,
         "ts_ms": 1767819600000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "MA",
+    "symbol": "CRM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "MA",
-      "price": 579.92,
-      "prev_close": 580.34,
-      "open": 579.27,
-      "high": 585.28,
-      "low": 577.62,
+      "symbol": "CRM",
+      "price": 266.12,
+      "prev_close": 262.9,
+      "open": 263.5,
+      "high": 267.825,
+      "low": 263.5,
       "ts_ms": 1767819600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "MA",
-        "price": 579.92,
-        "prev_close": 580.34,
-        "open": 579.27,
-        "high": 585.28,
-        "low": 577.62,
+        "symbol": "CRM",
+        "price": 266.12,
+        "prev_close": 262.9,
+        "open": 263.5,
+        "high": 267.825,
+        "low": 263.5,
         "ts_ms": 1767819600000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,14 @@
     "error": null
   },
   {
-    "symbol": "AMAT",
+    "symbol": "SNAP",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "TMO",
+    "symbol": "SNOW",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
