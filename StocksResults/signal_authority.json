@@ -228,19 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
+    "ADBE": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "MA": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "AMAT": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
     "TMO": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LOW": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RIVN": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "CRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
