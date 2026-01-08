@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LCID": {
+    "V": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CRM": {
+    "AMGN": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNAP": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "SNOW": {
+    "COF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
