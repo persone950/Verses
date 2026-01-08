@@ -1,17 +1,17 @@
 {
-  "timestamp_utc": "2026-01-04T19:47:24.263239+00:00",
+  "timestamp_utc": "2026-01-08T00:29:15.720296+00:00",
   "source_feed": "feed_results_table.csv",
   "tickers": [
-    "MU",
+    "OPEN",
+    "ALGS",
     "BBAI",
     "INTC",
-    "RGTI",
-    "CHPT",
-    "PLTR",
-    "BA",
-    "SLB",
-    "COIN",
-    "CAT"
+    "CRWD",
+    "CAT",
+    "AG",
+    "LLY",
+    "HOOD",
+    "SLV"
   ],
   "rows": 10,
   "note": "trend snapshot only; no correlation time-series"
