@@ -228,15 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "V": {
+    "VZ": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AMGN": {
+    "SHOP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "XBI": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "CSCO": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
