@@ -1,17 +1,17 @@
 {
-  "timestamp_utc": "2026-01-09T18:03:31.576085+00:00",
+  "timestamp_utc": "2026-01-09T23:51:07.145924+00:00",
   "source_feed": "feed_results_table.csv",
   "tickers": [
-    "QQQ",
-    "SPY",
-    "SNOW",
-    "COST",
-    "IWM",
-    "F",
-    "ARKK",
-    "DIA",
-    "OXY",
-    "ZS"
+    "OPEN",
+    "ALGS",
+    "INTC",
+    "AG",
+    "MU",
+    "ORCL",
+    "SLV",
+    "AVGO",
+    "INSM",
+    "BA"
   ],
   "rows": 10,
   "note": "trend snapshot only; no correlation time-series"
