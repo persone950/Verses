@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-01-09T18:03:09Z",
+  "generated_at": "2026-01-09T23:48:26Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Apple CEO Pay Dips as Board Opposes China Audit",
-      "news_score": 0,
+      "headline": "Senator Dumps Apple, Google, Microsoft To End 2025\u2014But Refuses To Sell This Mag 7 Underperformer",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "AMD": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "TSMC's December Dip Isn't the Real Story",
-      "news_score": 0,
+      "headline": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "AMZN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer Says He Is \u201cLooking for Amazon to Put Up Much Bigger Gains in 2026\u201d",
-      "news_score": 0,
+      "headline": "Senator Dumps Apple, Google, Microsoft To End 2025\u2014But Refuses To Sell This Mag 7 Underperformer",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer Says He\u2019d Rather Own Broadcom (AVGO)",
+      "headline": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -52,7 +52,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Coinbase Global (COIN) Is Up 8.6% After Wall Street Upgrades On \u2018Everything Exchange\u2019 Pivot - Has The Bull Case Changed?",
+      "headline": "Is Coinbase Global (COIN) Pricing Reflect Long Term Value After Recent Share Swings",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -70,7 +70,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer on Meta: \u201cI Think It\u2019s Going to Be Positive for You if You Own the Stock\u201d",
+      "headline": "Dow Jones Futures: It's A Broad, Strong Rally, Do Your Stocks Reflect That? JPMorgan, Goldman, Delta, Taiwan Semi Loom",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -79,7 +79,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "How to Trade the Next Earnings Season? Goldman Says Try Options",
+      "headline": "These Are the 3 Biggest Financial Stock Winners of 2025. Can They Carry the Momentum Into 2026?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -88,7 +88,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "RBC Sees AI Tailwinds Building for IBM as Enterprise Spending Stabilizes",
+      "headline": "Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -103,19 +103,19 @@
       "tag": ""
     },
     "INTC": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Intel Rises After Trump Meeting as Markets Await Jobs Data",
-      "news_score": 0,
+      "headline": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "META": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Meta Nuclear Deal Sends Vistra and Oklo Stocks Soaring",
+      "headline": "Why Oracle Stock Crushed it on Friday",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -124,7 +124,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Musk\u2019s xAI Burns Almost $8 Billion, Reveals Optimus Plan",
+      "headline": "Why a $13 Million MercadoLibre Exit Means for Investors After a 25% Run",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -133,7 +133,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "From Chips to Data Centers, AI Investors See the Next Breakout in This Stock",
+      "headline": "Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -142,7 +142,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Stock Is Pricey Even After Warner Bros.-Induced Selloff",
+      "headline": "Netflix Shares Slide as Warner Bros. Bid Weighs on Valuation",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
@@ -151,34 +151,34 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "ServiceNow, Inc. (NOW) is Attracting Investor Attention: Here is What You Should Know",
+      "headline": "Jim Cramer Discusses ServiceNow (NOW)\u2019s Business",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
     "NVDA": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Musk\u2019s xAI Burns Almost $8 Billion, Reveals Optimus Plan",
-      "news_score": 0,
+      "headline": "Dow Jones Futures: It's A Broad, Strong Rally, Do Your Stocks Reflect That? JPMorgan, Goldman, Delta, Taiwan Semi Loom",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "OPEN": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "These Stocks Are Moving the Most Today: Oklo, Vistra, Opendoor, Intel, GM, Revolution Medicines, Tilray, and More",
-      "news_score": 0,
+      "headline": "Why Opendoor Stock Popped Today",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "ORCL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Oracle Stock Just Made A Death Cross \u2014 Should Ken Fisher Be Worried?",
+      "headline": "Why Oracle Stock Crushed it on Friday",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -187,21 +187,19 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Palantir, Two Other Defense Names Head Toward Wins After Volatile Industry Week",
-      "news_score": 0,
+      "headline": "Stock Market Today, Jan. 9: S&P 500 Sets New High and Intel Rallies",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "QCOM": {
-      "cat": "NEWS_RISK",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Intel Rises After Trump Meeting as Markets Await Jobs Data",
-      "news_score": -2,
-      "risk_flags": [
-        "NEWS_RISK"
-      ],
-      "tag": "NEWS_RISK"
+      "headline": "CES 2026 was dominated by these 3 tech themes",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
     },
     "RGTI": {
       "cat": "\u2014",
@@ -225,7 +223,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Musk\u2019s xAI Burns Almost $8 Billion, Reveals Optimus Plan",
+      "headline": "Senator Dumps Apple, Google, Microsoft To End 2025\u2014But Refuses To Sell This Mag 7 Underperformer",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
