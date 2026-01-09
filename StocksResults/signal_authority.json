@@ -228,15 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SHOP": {
+    "F": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ADBE": {
+    "ARKK": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PYPL": {
+    "SNOW": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "OXY": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ZS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
