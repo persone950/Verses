@@ -1,2 +1,1 @@
-Reason
-Missing SEC_USER_AGENT in live_feeds.env
+Ticker,FilingDate,TxnDate,Insider,Title,Role,Code,AcqDisp,Shares,Price,Value,Is10b5,AgeDays,Notes,SourceURL
