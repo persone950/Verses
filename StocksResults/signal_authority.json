@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LYFT": {
+    "SHOP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RTX": {
+    "ADBE": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CSCO": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LMT": {
+    "PYPL": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
