@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T01:18:31Z",
+  "generated_at": "2026-01-09T18:03:09Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 8: Apple Slips After Alphabet Overtakes it on Market Cap",
+      "headline": "Apple CEO Pay Dips as Board Opposes China Audit",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -14,7 +14,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 No-Brainer Next-Gen Technology Stocks to Buy Right Now",
+      "headline": "TSMC's December Dip Isn't the Real Story",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Mizuho Raises Walmart (WMT) Target as Consumer Spending Shows Mixed Signals",
+      "headline": "Jim Cramer Says He Is \u201cLooking for Amazon to Put Up Much Bigger Gains in 2026\u201d",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Wall Street ends mixed as tech dips, defense stocks rally",
+      "headline": "Jim Cramer Says He\u2019d Rather Own Broadcom (AVGO)",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -41,8 +41,8 @@
       "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is BigBear.ai a NVIDIA-like AI Stock and Top 2026 Buy?",
-      "news_score": -3,
+      "headline": "BigBear.ai Partners with the Kraft Group and New England Patriots to Drive Digital Transformation Efficiencies",
+      "news_score": -2,
       "risk_flags": [
         "NEWS_RISK"
       ],
@@ -52,8 +52,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Walmart welcomes new board member, Coinbase downgraded at BofA",
-      "news_score": 1,
+      "headline": "Coinbase Global (COIN) Is Up 8.6% After Wall Street Upgrades On \u2018Everything Exchange\u2019 Pivot - Has The Bull Case Changed?",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -61,7 +61,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "This Cybersecurity Leader Is Poised to Capture a $300 Billion Market by 2030",
+      "headline": "2 Stocks That Don\u2019t Have Enough AI Priced in",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -70,7 +70,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
+      "headline": "Jim Cramer on Meta: \u201cI Think It\u2019s Going to Be Positive for You if You Own the Stock\u201d",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -79,8 +79,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Robinhood Markets, Inc. (HOOD) Is a Trending Stock: Facts to Know Before Betting on It",
-      "news_score": 1,
+      "headline": "How to Trade the Next Earnings Season? Goldman Says Try Options",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -97,7 +97,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer on Insmed: \u201cThis One Is Worth Keeping an Eye On\u201d",
+      "headline": "Healthcare dealmakers head to San Francisco hoping for megamergers in 2026",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -106,8 +106,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 8: Nvidia Slides as AI Demand Forecasts Top $500 Billion",
-      "news_score": -1,
+      "headline": "Intel Rises After Trump Meeting as Markets Await Jobs Data",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -115,7 +115,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Microsoft\u2019s (MSFT) AI Strategy Reinforces Its Position as a Long-Term Winner, Analyst Says",
+      "headline": "Meta Nuclear Deal Sends Vistra and Oklo Stocks Soaring",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -124,7 +124,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Wall Street ends mixed as tech dips, defense stocks rally",
+      "headline": "Musk\u2019s xAI Burns Almost $8 Billion, Reveals Optimus Plan",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -133,25 +133,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
+      "headline": "From Chips to Data Centers, AI Investors See the Next Breakout in This Stock",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "NFLX": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Netflix Stock Lost 12.9% In December 2025",
-      "news_score": 2,
+      "headline": "Netflix Stock Is Pricey Even After Warner Bros.-Induced Selloff",
+      "news_score": -1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "NOW": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is ServiceNow (NOW) Offering A Chance After Recent Share Price Weakness",
+      "headline": "ServiceNow, Inc. (NOW) is Attracting Investor Attention: Here is What You Should Know",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
@@ -160,7 +160,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Jobs Data, Trump Tariffs Ruling Loom After Small Caps Lead Split Market",
+      "headline": "Musk\u2019s xAI Burns Almost $8 Billion, Reveals Optimus Plan",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -169,7 +169,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "A Look At Opendoor Technologies (OPEN) Valuation After Recent Share Price Volatility",
+      "headline": "These Stocks Are Moving the Most Today: Oklo, Vistra, Opendoor, Intel, GM, Revolution Medicines, Tilray, and More",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -178,7 +178,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Microsoft\u2019s (MSFT) AI Strategy Reinforces Its Position as a Long-Term Winner, Analyst Says",
+      "headline": "Oracle Stock Just Made A Death Cross \u2014 Should Ken Fisher Be Worried?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -187,25 +187,27 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Wall Street looks to jobs report, Supreme Court tariff decision",
-      "news_score": 1,
+      "headline": "Palantir, Two Other Defense Names Head Toward Wins After Volatile Industry Week",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "QCOM": {
-      "cat": "\u2014",
+      "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Top Analyst Reports for Johnson & Johnson, Caterpillar and Qualcomm",
-      "news_score": -1,
-      "risk_flags": [],
-      "tag": ""
+      "headline": "Intel Rises After Trump Meeting as Markets Await Jobs Data",
+      "news_score": -2,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
     },
     "RGTI": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Down 54%, Should You Buy the Dip in Rigetti Computing (RGTI) Stock?",
+      "headline": "Beyond the Hype: 5 Reasons Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Can Crash in 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -214,7 +216,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Key Labor Reports",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Jobs Report Release",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -223,7 +225,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Randstad's CEO Says AI Is Wiping Out Entry-Level Office Roles For New Graduates: 'Path That Used To Work For A Long Time Is Starting To Break'",
+      "headline": "Musk\u2019s xAI Burns Almost $8 Billion, Reveals Optimus Plan",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
