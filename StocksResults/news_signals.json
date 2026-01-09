@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T23:34:39Z",
+  "generated_at": "2026-01-09T01:03:12Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -14,7 +14,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 8: Nvidia Slides as AI Demand Forecasts Top $500 Billion",
+      "headline": "Is Advanced Micro Devices (AMD) Still Attractive After Recent Pullback And Lofty P/E Ratio?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Amazon quietly fixed a massive customer service problem",
+      "headline": "Mizuho Raises Walmart (WMT) Target as Consumer Spending Shows Mixed Signals",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Broadcom Stock Fell 14.1% in December",
+      "headline": "Wall Street ends mixed as tech dips, defense stocks rally",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -62,7 +62,7 @@
       "catalyst_flags": [],
       "confidence": "MED",
       "headline": "This Cybersecurity Leader Is Poised to Capture a $300 Billion Market by 2030",
-      "news_score": 1,
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -70,7 +70,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "The Best Stocks to Invest $1,000 in Right Now",
+      "headline": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -124,7 +124,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "This Cybersecurity Leader Is Poised to Capture a $300 Billion Market by 2030",
+      "headline": "Wall Street ends mixed as tech dips, defense stocks rally",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -133,7 +133,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 8: Defense Stocks Rally and Tech Retreats",
+      "headline": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -184,13 +184,13 @@
       "tag": ""
     },
     "PLTR": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Defense Stocks Surge On Trump's $500 Billion Budget-Hike Push",
-      "news_score": 2,
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Wall Street looks to jobs report, Supreme Court tariff decision",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "QCOM": {
       "cat": "\u2014",
@@ -223,7 +223,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Archer Aviation Stock Pops. Nvidia\u2019s AI Chips Will Fly Air Taxis.",
+      "headline": "Randstad's CEO Says AI Is Wiping Out Entry-Level Office Roles For New Graduates: 'Path That Used To Work For A Long Time Is Starting To Break'",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
