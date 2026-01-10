@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "INTU",
+    "symbol": "CMCSA",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "INTU",
-      "price": 646.9,
-      "prev_close": 652.75,
-      "open": 650.45,
-      "high": 652.71,
-      "low": 636.0,
+      "symbol": "CMCSA",
+      "price": 28.37,
+      "prev_close": 28.21,
+      "open": 28.13,
+      "high": 28.55,
+      "low": 27.78,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "INTU",
-        "price": 646.9,
-        "prev_close": 652.75,
-        "open": 650.45,
-        "high": 652.71,
-        "low": 636.0,
+        "symbol": "CMCSA",
+        "price": 28.37,
+        "prev_close": 28.21,
+        "open": 28.13,
+        "high": 28.55,
+        "low": 27.78,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "OKTA",
+    "symbol": "TGT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "OKTA",
-      "price": 92.23,
-      "prev_close": 93.93,
-      "open": 94.25,
-      "high": 94.25,
-      "low": 91.57,
+      "symbol": "TGT",
+      "price": 105.52,
+      "prev_close": 106.33,
+      "open": 105.625,
+      "high": 107.3,
+      "low": 104.14,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "OKTA",
-        "price": 92.23,
-        "prev_close": 93.93,
-        "open": 94.25,
-        "high": 94.25,
-        "low": 91.57,
+        "symbol": "TGT",
+        "price": 105.52,
+        "prev_close": 106.33,
+        "open": 105.625,
+        "high": 107.3,
+        "low": 104.14,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,7 +1573,14 @@
     "error": null
   },
   {
-    "symbol": "PANW",
+    "symbol": "XLF",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "SCHW",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
