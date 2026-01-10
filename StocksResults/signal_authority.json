@@ -228,23 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LOW": {
+    "RBLX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "LMT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMO": {
+    "ARM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SMH": {
+    "OKTA": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "T": {
+    "RTX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
