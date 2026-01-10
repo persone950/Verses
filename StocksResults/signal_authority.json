@@ -228,15 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DKNG": {
+    "AI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "UBER": {
+    "LYFT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LOW": {
+    "ADBE": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
