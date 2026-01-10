@@ -274,6 +274,17 @@
     ],
     "BBAI": [
       {
+        "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+        "link": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 10 Jan 2026 05:20:00 +0000",
+        "title": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+        "ts": "2026-01-10T05:20:00Z",
+        "url": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss"
+      },
+      {
         "headline": "BigBear.ai Partners with the Kraft Group and New England Patriots to Drive Digital Transformation Efficiencies",
         "link": "https://finance.yahoo.com/news/bigbear-ai-partners-kraft-group-141500238.html?.tsrc=rss",
         "source": "yahoo",
@@ -327,17 +338,6 @@
         "title": "BigBear.ai Cut After Revenue Slide",
         "ts": "2026-01-08T16:23:13Z",
         "url": "https://finance.yahoo.com/news/bigbear-ai-cut-revenue-slide-162313239.html?.tsrc=rss"
-      },
-      {
-        "headline": "A Look At BigBear.ai (BBAI) Valuation After Cantor Downgrade And Convertible Note Dilution Concerns",
-        "link": "https://finance.yahoo.com/news/look-bigbear-ai-bbai-valuation-061051983.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Thu, 08 Jan 2026 06:10:51 +0000",
-        "title": "A Look At BigBear.ai (BBAI) Valuation After Cantor Downgrade And Convertible Note Dilution Concerns",
-        "ts": "2026-01-08T06:10:51Z",
-        "url": "https://finance.yahoo.com/news/look-bigbear-ai-bbai-valuation-061051983.html?.tsrc=rss"
       }
     ],
     "COIN": [
@@ -1430,6 +1430,17 @@
     ],
     "PLTR": [
       {
+        "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+        "link": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 10 Jan 2026 05:20:00 +0000",
+        "title": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+        "ts": "2026-01-10T05:20:00Z",
+        "url": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss"
+      },
+      {
         "headline": "Investor Michael Burry Reveals Options Bet Against Oracle",
         "link": "https://finance.yahoo.com/news/investor-michael-burry-reveals-options-003350357.html?.tsrc=rss",
         "source": "yahoo",
@@ -1483,17 +1494,6 @@
         "title": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
         "ts": "2026-01-09T20:36:00Z",
         "url": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss"
-      },
-      {
-        "headline": "Demand For Google, Palantir Is Mere Peanuts Next To These 3 Stocks",
-        "link": "https://finance.yahoo.com/m/5671a2a6-3e87-3485-a124-b18fd9494254/demand-for-google%2C-palantir.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 09 Jan 2026 20:28:17 +0000",
-        "title": "Demand For Google, Palantir Is Mere Peanuts Next To These 3 Stocks",
-        "ts": "2026-01-09T20:28:17Z",
-        "url": "https://finance.yahoo.com/m/5671a2a6-3e87-3485-a124-b18fd9494254/demand-for-google%2C-palantir.html?.tsrc=rss"
       }
     ],
     "QCOM": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-10T04:57:32Z",
+  "generated_at": "2026-01-10T05:56:27Z",
   "items": [
     {
       "headline": "Nvidia Soared by 39% in 2025, but Here's Another Super Semiconductor Stock to Buy in 2026",
@@ -2924,6 +2924,18 @@
       "url": "https://finance.yahoo.com/news/alphabet-upgraded-nike-downgraded-wall-143555511.html?.tsrc=rss"
     },
     {
+      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+      "link": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "PLTR",
+      "time": "Sat, 10 Jan 2026 05:20:00 +0000",
+      "title": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+      "ts": "2026-01-10T05:20:00Z",
+      "url": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss"
+    },
+    {
       "headline": "Investor Michael Burry Reveals Options Bet Against Oracle",
       "link": "https://finance.yahoo.com/news/investor-michael-burry-reveals-options-003350357.html?.tsrc=rss",
       "source": "yahoo",
@@ -2982,18 +2994,6 @@
       "title": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
       "ts": "2026-01-09T20:36:00Z",
       "url": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss"
-    },
-    {
-      "headline": "Demand For Google, Palantir Is Mere Peanuts Next To These 3 Stocks",
-      "link": "https://finance.yahoo.com/m/5671a2a6-3e87-3485-a124-b18fd9494254/demand-for-google%2C-palantir.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "PLTR",
-      "time": "Fri, 09 Jan 2026 20:28:17 +0000",
-      "title": "Demand For Google, Palantir Is Mere Peanuts Next To These 3 Stocks",
-      "ts": "2026-01-09T20:28:17Z",
-      "url": "https://finance.yahoo.com/m/5671a2a6-3e87-3485-a124-b18fd9494254/demand-for-google%2C-palantir.html?.tsrc=rss"
     },
     {
       "headline": "Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors",
@@ -3140,6 +3140,18 @@
       "url": "https://www.fool.com/investing/2026/01/08/cybersecurity-leader-capture-300-billion-market/?.tsrc=rss"
     },
     {
+      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+      "link": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "BBAI",
+      "time": "Sat, 10 Jan 2026 05:20:00 +0000",
+      "title": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+      "ts": "2026-01-10T05:20:00Z",
+      "url": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss"
+    },
+    {
       "headline": "BigBear.ai Partners with the Kraft Group and New England Patriots to Drive Digital Transformation Efficiencies",
       "link": "https://finance.yahoo.com/news/bigbear-ai-partners-kraft-group-141500238.html?.tsrc=rss",
       "source": "yahoo",
@@ -3198,18 +3210,6 @@
       "title": "BigBear.ai Cut After Revenue Slide",
       "ts": "2026-01-08T16:23:13Z",
       "url": "https://finance.yahoo.com/news/bigbear-ai-cut-revenue-slide-162313239.html?.tsrc=rss"
-    },
-    {
-      "headline": "A Look At BigBear.ai (BBAI) Valuation After Cantor Downgrade And Convertible Note Dilution Concerns",
-      "link": "https://finance.yahoo.com/news/look-bigbear-ai-bbai-valuation-061051983.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "BBAI",
-      "time": "Thu, 08 Jan 2026 06:10:51 +0000",
-      "title": "A Look At BigBear.ai (BBAI) Valuation After Cantor Downgrade And Convertible Note Dilution Concerns",
-      "ts": "2026-01-08T06:10:51Z",
-      "url": "https://finance.yahoo.com/news/look-bigbear-ai-bbai-valuation-061051983.html?.tsrc=rss"
     },
     {
       "headline": "Rigetti Computing, Inc. (RGTI) Stock Drops Despite Market Gains: Important Facts to Note",
