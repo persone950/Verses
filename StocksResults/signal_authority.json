@@ -228,15 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SQ": {
+    "DIS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SBUX": {
+    "SNAP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AMGN": {
+    "PYPL": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "XLF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
