@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
+    "SQ": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
     "SBUX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMO": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ROKU": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ABNB": {
+    "AMGN": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
