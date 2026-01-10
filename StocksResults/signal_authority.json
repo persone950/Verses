@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AI": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
     "LYFT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ADBE": {
+    "AMAT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "TSM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
