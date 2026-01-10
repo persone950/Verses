@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-10T02:47:14Z",
+  "generated_at": "2026-01-10T04:14:26Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -14,7 +14,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
+      "headline": "From SpaceX to Anthropic, 2026 Looks Like a Big Year for IPOs",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
+      "headline": "Could Investing $10,000 in ASML Make You a Millionaire?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -160,7 +160,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "The Best Growth Index ETF to Invest $100 in Right Now",
+      "headline": "Could Investing $10,000 in ASML Make You a Millionaire?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
