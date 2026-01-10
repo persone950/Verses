@@ -228,23 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RBLX": {
+    "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LMT": {
+    "SQ": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ARM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "OKTA": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RTX": {
+    "XLK": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
