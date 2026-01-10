@@ -1519,33 +1519,6 @@
     "error": "no_price"
   },
   {
-    "symbol": "AI",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "AI",
-      "price": 14.02,
-      "prev_close": 13.83,
-      "open": 13.96,
-      "high": 14.245,
-      "low": 13.6,
-      "ts_ms": 1767992400000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "AI",
-        "price": 14.02,
-        "prev_close": 13.83,
-        "open": 13.96,
-        "high": 14.245,
-        "low": 13.6,
-        "ts_ms": 1767992400000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
     "symbol": "LYFT",
     "category": "ADDON_RANDOM",
     "best": {
@@ -1573,14 +1546,34 @@
     "error": null
   },
   {
-    "symbol": "ADBE",
+    "symbol": "AMAT",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "AMAT",
+      "price": 301.18,
+      "prev_close": 281.64,
+      "open": 288.4,
+      "high": 302.78,
+      "low": 286.5,
+      "ts_ms": 1767992400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "AMAT",
+        "price": 301.18,
+        "prev_close": 281.64,
+        "open": 288.4,
+        "high": 302.78,
+        "low": 286.5,
+        "ts_ms": 1767992400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
-    "symbol": "COF",
+    "symbol": "TSM",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
