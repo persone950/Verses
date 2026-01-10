@@ -228,15 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNOW": {
+    "ETSY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SQ": {
+    "SNAP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLK": {
+    "HD": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "SHOP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
