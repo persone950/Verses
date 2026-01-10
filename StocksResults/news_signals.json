@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-10T04:57:32Z",
+  "generated_at": "2026-01-10T05:56:27Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -38,15 +38,13 @@
       "tag": ""
     },
     "BBAI": {
-      "cat": "NEWS_RISK",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "BigBear.ai Partners with the Kraft Group and New England Patriots to Drive Digital Transformation Efficiencies",
-      "news_score": -2,
-      "risk_flags": [
-        "NEWS_RISK"
-      ],
-      "tag": "NEWS_RISK"
+      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
     },
     "COIN": {
       "cat": "\u2014",
@@ -187,7 +185,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Investor Michael Burry Reveals Options Bet Against Oracle",
+      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
