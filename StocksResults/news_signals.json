@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T06:25:59Z",
+  "generated_at": "2026-01-10T15:01:54Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nvidia Soared by 39% in 2025, but Here's Another Super Semiconductor Stock to Buy in 2026",
+      "headline": "BofA Reiterates Buy on Apple (AAPL) With $325 Target",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Could Investing $10,000 in ASML Make You a Millionaire?",
+      "headline": "Charlie Munger Says His Financial Success Came From These 'Tricks' He 'Got Into By Accident in Life'",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -32,26 +32,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "How Broadcom\u2019s AI\u2011Ready Wi\u2011Fi 8 Launch And $6.75 Billion Debt Raise At Broadcom (AVGO) Has Changed Its Investment Story",
+      "headline": "The Best Trillion-Dollar Stock to Buy for 2026, According to Wall Street",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "BBAI": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
-      "news_score": 0,
+      "headline": "BigBear.ai forms AI-driven partnership with Kraft Group and Patriots",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "COIN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Coinbase Global (COIN) Pricing Reflect Long Term Value After Recent Share Swings",
-      "news_score": 0,
+      "headline": "Asset tokenization: The 'most convenient' option usually wins",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -68,7 +68,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
+      "headline": "Charlie Munger Says His Financial Success Came From These 'Tricks' He 'Got Into By Accident in Life'",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -104,7 +104,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Intel Stock Soared Today",
+      "headline": "Morning Movers: Oklo, Vistra climb following Meta nuclear energy deals",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -113,8 +113,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
-      "news_score": 1,
+      "headline": "Charlie Munger Says His Financial Success Came From These 'Tricks' He 'Got Into By Accident in Life'",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -122,7 +122,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Investor Michael Burry Reveals Options Bet Against Oracle",
+      "headline": "CoreWeave (CRWV) Emerges as an AI Infrastructure Stock to Watch After Truist Initiation",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -131,8 +131,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Si2\u2019s OpenAccess Coalition Announces 2026 Board of Directors",
-      "news_score": 0,
+      "headline": "Micron (MU) Price Target Raised on Tight Memory Supply Through 2026",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -140,7 +140,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Stock Has A January Superpower \u2014 And The Numbers Prove It",
+      "headline": "What Makes Netflix Inc. (NFLX) Attractive",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -149,7 +149,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer Discusses ServiceNow (NOW)\u2019s Business",
+      "headline": "ServiceNow (NOW) Stock Finds Support as Analysts See Upside to 2027 Growth",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
@@ -158,19 +158,19 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Prediction: 2 Ways To Capitalize on AI Stocks in 2026",
+      "headline": "Why Analysts See Nvidia\u2019s AI Roadmap Driving EPS Upside Into 2027",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "OPEN": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Opendoor Stock Popped Today",
-      "news_score": 2,
+      "headline": "Morning Movers: Oklo, Vistra climb following Meta nuclear energy deals",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "ORCL": {
       "cat": "\u2014",
@@ -185,8 +185,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
-      "news_score": 1,
+      "headline": "Prediction: These 2 AI Stocks Will Be Worth More Than Palantir by the End of 2026",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -221,7 +221,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
+      "headline": "If You Invested $500 or More in Tesla Stock at the Beginning of 2025, Here\u2019s How Much You\u2019d Have Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
