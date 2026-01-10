@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "RBLX",
+    "symbol": "SNOW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "RBLX",
-      "price": 73.27,
-      "prev_close": 73.89,
-      "open": 73.75,
-      "high": 74.0,
-      "low": 72.06,
+      "symbol": "SNOW",
+      "price": 219.09,
+      "prev_close": 223.79,
+      "open": 224.4,
+      "high": 226.83,
+      "low": 218.2,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "RBLX",
-        "price": 73.27,
-        "prev_close": 73.89,
-        "open": 73.75,
-        "high": 74.0,
-        "low": 72.06,
+        "symbol": "SNOW",
+        "price": 219.09,
+        "prev_close": 223.79,
+        "open": 224.4,
+        "high": 226.83,
+        "low": 218.2,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,48 +1546,14 @@
     "error": null
   },
   {
-    "symbol": "LMT",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "LMT",
-      "price": 542.92,
-      "prev_close": 518.44,
-      "open": 525.88,
-      "high": 546.07,
-      "low": 525.88,
-      "ts_ms": 1767992400000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "LMT",
-        "price": 542.92,
-        "prev_close": 518.44,
-        "open": 525.88,
-        "high": 546.07,
-        "low": 525.88,
-        "ts_ms": 1767992400000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "ARM",
+    "symbol": "SQ",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
-    "error": "http 429"
+    "error": "no_price"
   },
   {
-    "symbol": "OKTA",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "RTX",
+    "symbol": "XLK",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
