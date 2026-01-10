@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-10T01:46:57Z",
+  "generated_at": "2026-01-10T02:47:14Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Stock Has A January Superpower \u2014 And The Numbers Prove It",
+      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -70,7 +70,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Stock Has A January Superpower \u2014 And The Numbers Prove It",
+      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -115,8 +115,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Stock Has A January Superpower \u2014 And The Numbers Prove It",
-      "news_score": 0,
+      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -124,7 +124,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why a $13 Million MercadoLibre Exit Means for Investors After a 25% Run",
+      "headline": "Investor Michael Burry Reveals Options Bet Against Oracle",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -157,13 +157,13 @@
       "tag": ""
     },
     "NVDA": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nvidia Soared by 39% in 2025, but Here's Another Super Semiconductor Stock to Buy in 2026",
-      "news_score": 2,
+      "headline": "The Best Growth Index ETF to Invest $100 in Right Now",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "OPEN": {
       "cat": "NEWS+",
@@ -223,7 +223,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Gary Black Says Tesla Won't Be Alone In Solving Autonomy After Nvidia's Alpamayo Reveal: 'Expect Unsupervised Autonomy To Be Democratized Quickly'",
+      "headline": "Mark Zuckerberg's Mom Predicted It, His Sister Bet On It: The Story Behind Meta CEO's Harvard Dropout",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
