@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "DKNG",
+    "symbol": "AI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "DKNG",
-      "price": 35.17,
-      "prev_close": 35.98,
-      "open": 36.515,
-      "high": 36.95,
-      "low": 35.07,
+      "symbol": "AI",
+      "price": 14.02,
+      "prev_close": 13.83,
+      "open": 13.96,
+      "high": 14.245,
+      "low": 13.6,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "DKNG",
-        "price": 35.17,
-        "prev_close": 35.98,
-        "open": 36.515,
-        "high": 36.95,
-        "low": 35.07,
+        "symbol": "AI",
+        "price": 14.02,
+        "prev_close": 13.83,
+        "open": 13.96,
+        "high": 14.245,
+        "low": 13.6,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "UBER",
+    "symbol": "LYFT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "UBER",
-      "price": 85.44,
-      "prev_close": 87.59,
-      "open": 87.27,
-      "high": 87.28,
-      "low": 84.8838,
+      "symbol": "LYFT",
+      "price": 19.21,
+      "prev_close": 19.44,
+      "open": 19.48,
+      "high": 19.58,
+      "low": 18.97,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "UBER",
-        "price": 85.44,
-        "prev_close": 87.59,
-        "open": 87.27,
-        "high": 87.28,
-        "low": 84.8838,
+        "symbol": "LYFT",
+        "price": 19.21,
+        "prev_close": 19.44,
+        "open": 19.48,
+        "high": 19.58,
+        "low": 18.97,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,7 +1573,7 @@
     "error": null
   },
   {
-    "symbol": "LOW",
+    "symbol": "ADBE",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
