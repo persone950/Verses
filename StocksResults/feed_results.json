@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "DIS",
+    "symbol": "LOW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "DIS",
-      "price": 115.88,
-      "prev_close": 114.17,
-      "open": 114.31,
-      "high": 115.98,
-      "low": 113.9,
+      "symbol": "LOW",
+      "price": 267.21,
+      "prev_close": 256.21,
+      "open": 259.95,
+      "high": 268.045,
+      "low": 259.13,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "DIS",
-        "price": 115.88,
-        "prev_close": 114.17,
-        "open": 114.31,
-        "high": 115.98,
-        "low": 113.9,
+        "symbol": "LOW",
+        "price": 267.21,
+        "prev_close": 256.21,
+        "open": 259.95,
+        "high": 268.045,
+        "low": 259.13,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "SNAP",
+    "symbol": "COF",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SNAP",
-      "price": 8.21,
-      "prev_close": 8.4,
-      "open": 8.47,
-      "high": 8.59,
-      "low": 8.17,
+      "symbol": "COF",
+      "price": 249.2,
+      "prev_close": 255.68,
+      "open": 256.0,
+      "high": 256.51,
+      "low": 249.09,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SNAP",
-        "price": 8.21,
-        "prev_close": 8.4,
-        "open": 8.47,
-        "high": 8.59,
-        "low": 8.17,
+        "symbol": "COF",
+        "price": 249.2,
+        "prev_close": 255.68,
+        "open": 256.0,
+        "high": 256.51,
+        "low": 249.09,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,21 @@
     "error": null
   },
   {
-    "symbol": "PYPL",
+    "symbol": "TMO",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "XLF",
+    "symbol": "SMH",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "T",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
