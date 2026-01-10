@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "LOW",
+    "symbol": "RBLX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LOW",
-      "price": 267.21,
-      "prev_close": 256.21,
-      "open": 259.95,
-      "high": 268.045,
-      "low": 259.13,
+      "symbol": "RBLX",
+      "price": 73.27,
+      "prev_close": 73.89,
+      "open": 73.75,
+      "high": 74.0,
+      "low": 72.06,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LOW",
-        "price": 267.21,
-        "prev_close": 256.21,
-        "open": 259.95,
-        "high": 268.045,
-        "low": 259.13,
+        "symbol": "RBLX",
+        "price": 73.27,
+        "prev_close": 73.89,
+        "open": 73.75,
+        "high": 74.0,
+        "low": 72.06,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "COF",
+    "symbol": "LMT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "COF",
-      "price": 249.2,
-      "prev_close": 255.68,
-      "open": 256.0,
-      "high": 256.51,
-      "low": 249.09,
+      "symbol": "LMT",
+      "price": 542.92,
+      "prev_close": 518.44,
+      "open": 525.88,
+      "high": 546.07,
+      "low": 525.88,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "COF",
-        "price": 249.2,
-        "prev_close": 255.68,
-        "open": 256.0,
-        "high": 256.51,
-        "low": 249.09,
+        "symbol": "LMT",
+        "price": 542.92,
+        "prev_close": 518.44,
+        "open": 525.88,
+        "high": 546.07,
+        "low": 525.88,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,21 +1573,21 @@
     "error": null
   },
   {
-    "symbol": "TMO",
+    "symbol": "ARM",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "SMH",
+    "symbol": "OKTA",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "T",
+    "symbol": "RTX",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
