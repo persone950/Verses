@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "CMCSA",
+    "symbol": "SBUX",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CMCSA",
-      "price": 28.37,
-      "prev_close": 28.21,
-      "open": 28.13,
-      "high": 28.55,
-      "low": 27.78,
+      "symbol": "SBUX",
+      "price": 88.88,
+      "prev_close": 88.18,
+      "open": 88.35,
+      "high": 89.1,
+      "low": 86.79,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CMCSA",
-        "price": 28.37,
-        "prev_close": 28.21,
-        "open": 28.13,
-        "high": 28.55,
-        "low": 27.78,
+        "symbol": "SBUX",
+        "price": 88.88,
+        "prev_close": 88.18,
+        "open": 88.35,
+        "high": 89.1,
+        "low": 86.79,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "TGT",
+    "symbol": "TMO",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TGT",
-      "price": 105.52,
-      "prev_close": 106.33,
-      "open": 105.625,
-      "high": 107.3,
-      "low": 104.14,
+      "symbol": "TMO",
+      "price": 618.86,
+      "prev_close": 606.5,
+      "open": 608.61,
+      "high": 622.4,
+      "low": 604.55,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TGT",
-        "price": 105.52,
-        "prev_close": 106.33,
-        "open": 105.625,
-        "high": 107.3,
-        "low": 104.14,
+        "symbol": "TMO",
+        "price": 618.86,
+        "prev_close": 606.5,
+        "open": 608.61,
+        "high": 622.4,
+        "low": 604.55,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,14 @@
     "error": null
   },
   {
-    "symbol": "XLF",
+    "symbol": "ROKU",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "SCHW",
+    "symbol": "ABNB",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
