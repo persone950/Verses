@@ -1519,6 +1519,13 @@
     "error": "no_price"
   },
   {
+    "symbol": "SQ",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "no_price"
+  },
+  {
     "symbol": "SBUX",
     "category": "ADDON_RANDOM",
     "best": {
@@ -1546,41 +1553,7 @@
     "error": null
   },
   {
-    "symbol": "TMO",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "TMO",
-      "price": 618.86,
-      "prev_close": 606.5,
-      "open": 608.61,
-      "high": 622.4,
-      "low": 604.55,
-      "ts_ms": 1767992400000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "TMO",
-        "price": 618.86,
-        "prev_close": 606.5,
-        "open": 608.61,
-        "high": 622.4,
-        "low": 604.55,
-        "ts_ms": 1767992400000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "ROKU",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "ABNB",
+    "symbol": "AMGN",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
