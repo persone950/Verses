@@ -228,19 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DIS": {
+    "LOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNAP": {
+    "COF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PYPL": {
+    "TMO": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLF": {
+    "SMH": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "T": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
