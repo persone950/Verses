@@ -1,1 +1,2 @@
-Window,Rank,Ticker,CIK,Form4Count,MostRecentFilingUTC
+Window,Rank,Ticker,CIK,Form4Count,MostRecentFilingUTC,Status
+LAST_7D,—,—,—,—,—,DISCOVERY_EMPTY
