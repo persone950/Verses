@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-01-09T23:48:26Z",
+  "generated_at": "2026-01-10T01:07:24Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Senator Dumps Apple, Google, Microsoft To End 2025\u2014But Refuses To Sell This Mag 7 Underperformer",
-      "news_score": 1,
+      "headline": "Nvidia Soared by 39% in 2025, but Here's Another Super Semiconductor Stock to Buy in 2026",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
+      "headline": "How Broadcom\u2019s AI\u2011Ready Wi\u2011Fi 8 Launch And $6.75 Billion Debt Raise At Broadcom (AVGO) Has Changed Its Investment Story",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -70,7 +70,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: It's A Broad, Strong Rally, Do Your Stocks Reflect That? JPMorgan, Goldman, Delta, Taiwan Semi Loom",
+      "headline": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting \u2018extortion\u2019",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -106,7 +106,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
+      "headline": "Why Intel Stock Soared Today",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -115,7 +115,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Oracle Stock Crushed it on Friday",
+      "headline": "Review & Preview: Lackluster Jobs, Lively Market",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -142,8 +142,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Shares Slide as Warner Bros. Bid Weighs on Valuation",
-      "news_score": -1,
+      "headline": "Netflix (NFLX) Stock Sinks As Market Gains: Here's Why",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -160,7 +160,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: It's A Broad, Strong Rally, Do Your Stocks Reflect That? JPMorgan, Goldman, Delta, Taiwan Semi Loom",
+      "headline": "Nvidia Soared by 39% in 2025, but Here's Another Super Semiconductor Stock to Buy in 2026",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -187,7 +187,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 9: S&P 500 Sets New High and Intel Rallies",
+      "headline": "Palantir Billionaire Peter Thiel Bought 2 Stocks Warren Buffett and Bill Gates Sold. Who's Right?",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -205,7 +205,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Beyond the Hype: 5 Reasons Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Can Crash in 2026",
+      "headline": "Rigetti Computing, Inc. (RGTI) Stock Drops Despite Market Gains: Important Facts to Note",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -223,7 +223,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Senator Dumps Apple, Google, Microsoft To End 2025\u2014But Refuses To Sell This Mag 7 Underperformer",
+      "headline": "Gary Black Says Tesla Won't Be Alone In Solving Autonomy After Nvidia's Alpamayo Reveal: 'Expect Unsupervised Autonomy To Be Democratized Quickly'",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
