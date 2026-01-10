@@ -228,15 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RBLX": {
+    "DKNG": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "NET": {
+    "UBER": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "BKNG": {
+    "LOW": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "COF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
