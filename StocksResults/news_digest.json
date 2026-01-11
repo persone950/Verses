@@ -138,6 +138,17 @@
     ],
     "AMZN": [
       {
+        "headline": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+        "link": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 20:11:16 +0000",
+        "title": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+        "ts": "2026-01-11T20:11:16Z",
+        "url": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss"
+      },
+      {
         "headline": "Trump Pardoned Ross Ulbricht And Changpeng Zhao, But Won't Touch SBF \u2014 Here's Why",
         "link": "https://finance.yahoo.com/news/trump-pardoned-ross-ulbricht-changpeng-193113524.html?.tsrc=rss",
         "source": "yahoo",
@@ -191,17 +202,6 @@
         "title": "Google, Shopify Build Momentum In Agentic AI Shopping At NRF 2026",
         "ts": "2026-01-11T15:01:45Z",
         "url": "https://finance.yahoo.com/m/c4dae9f1-ff3b-37c9-8f62-7c647d04aefe/google%2C-shopify-build.html?.tsrc=rss"
-      },
-      {
-        "headline": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-        "link": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 12:30:00 +0000",
-        "title": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-        "ts": "2026-01-11T12:30:00Z",
-        "url": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss"
       }
     ],
     "AVGO": [
@@ -546,6 +546,17 @@
     ],
     "GOOGL": [
       {
+        "headline": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+        "link": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 20:11:16 +0000",
+        "title": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+        "ts": "2026-01-11T20:11:16Z",
+        "url": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss"
+      },
+      {
         "headline": "Dow Jones Futures Loom; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
         "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-loom%3B.html?.tsrc=rss",
         "source": "yahoo",
@@ -599,17 +610,6 @@
         "title": "'Americans Are Eager for a New Year's Reset.' Nearly Half of Adults' Finances Worsened in 2025 But Tax Season May Offer a Lifeline, Survey Says",
         "ts": "2026-01-11T15:32:53Z",
         "url": "https://finance.yahoo.com/news/americans-eager-years-reset-nearly-153253636.html?.tsrc=rss"
-      },
-      {
-        "headline": "Shopify Stock Rallied On AI Shopping. Now It\u2019s Doubling Down With Gemini and Copilot.",
-        "link": "https://finance.yahoo.com/m/1869d406-2207-3ba5-b1be-d9ede1c58ced/shopify-stock-rallied-on-ai.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 15:22:00 +0000",
-        "title": "Shopify Stock Rallied On AI Shopping. Now It\u2019s Doubling Down With Gemini and Copilot.",
-        "ts": "2026-01-11T15:22:00Z",
-        "url": "https://finance.yahoo.com/m/1869d406-2207-3ba5-b1be-d9ede1c58ced/shopify-stock-rallied-on-ai.html?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-11T20:11:40Z",
+  "generated_at": "2026-01-11T20:17:14Z",
   "items": [
     {
       "headline": "A 2025 security breach exposed over 184 million private passwords. How to stay safe while you browse",
@@ -1988,6 +1988,18 @@
       "url": "https://247wallst.com/investing/2026/01/11/5-companies-racing-to-dethrone-tesla-and-the-one-already-winning/?.tsrc=rss"
     },
     {
+      "headline": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+      "link": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sun, 11 Jan 2026 20:11:16 +0000",
+      "title": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+      "ts": "2026-01-11T20:11:16Z",
+      "url": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss"
+    },
+    {
       "headline": "Dow Jones Futures Loom; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
       "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-loom%3B.html?.tsrc=rss",
       "source": "yahoo",
@@ -2046,18 +2058,6 @@
       "title": "'Americans Are Eager for a New Year's Reset.' Nearly Half of Adults' Finances Worsened in 2025 But Tax Season May Offer a Lifeline, Survey Says",
       "ts": "2026-01-11T15:32:53Z",
       "url": "https://finance.yahoo.com/news/americans-eager-years-reset-nearly-153253636.html?.tsrc=rss"
-    },
-    {
-      "headline": "Shopify Stock Rallied On AI Shopping. Now It\u2019s Doubling Down With Gemini and Copilot.",
-      "link": "https://finance.yahoo.com/m/1869d406-2207-3ba5-b1be-d9ede1c58ced/shopify-stock-rallied-on-ai.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sun, 11 Jan 2026 15:22:00 +0000",
-      "title": "Shopify Stock Rallied On AI Shopping. Now It\u2019s Doubling Down With Gemini and Copilot.",
-      "ts": "2026-01-11T15:22:00Z",
-      "url": "https://finance.yahoo.com/m/1869d406-2207-3ba5-b1be-d9ede1c58ced/shopify-stock-rallied-on-ai.html?.tsrc=rss"
     },
     {
       "headline": "Trump Pardoned Ross Ulbricht And Changpeng Zhao, But Won't Touch SBF \u2014 Here's Why",
@@ -2132,6 +2132,18 @@
       "url": "https://www.fool.com/investing/2026/01/11/3-dividend-stocks-to-buy-in-2026-and-hold-forever/?.tsrc=rss"
     },
     {
+      "headline": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+      "link": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AMZN",
+      "time": "Sun, 11 Jan 2026 20:11:16 +0000",
+      "title": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+      "ts": "2026-01-11T20:11:16Z",
+      "url": "https://finance.yahoo.com/news/jeff-bezos-larry-page-sergey-201116016.html?.tsrc=rss"
+    },
+    {
       "headline": "Trump Pardoned Ross Ulbricht And Changpeng Zhao, But Won't Touch SBF \u2014 Here's Why",
       "link": "https://finance.yahoo.com/news/trump-pardoned-ross-ulbricht-changpeng-193113524.html?.tsrc=rss",
       "source": "yahoo",
@@ -2190,18 +2202,6 @@
       "title": "Google, Shopify Build Momentum In Agentic AI Shopping At NRF 2026",
       "ts": "2026-01-11T15:01:45Z",
       "url": "https://finance.yahoo.com/m/c4dae9f1-ff3b-37c9-8f62-7c647d04aefe/google%2C-shopify-build.html?.tsrc=rss"
-    },
-    {
-      "headline": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-      "link": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AMZN",
-      "time": "Sun, 11 Jan 2026 12:30:00 +0000",
-      "title": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-      "ts": "2026-01-11T12:30:00Z",
-      "url": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss"
     },
     {
       "headline": "How Elon Musk Turned $2,000 at 17 Into One of the World's Biggest Fortunes",
