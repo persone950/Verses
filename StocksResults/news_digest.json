@@ -1362,6 +1362,17 @@
     ],
     "ORCL": [
       {
+        "headline": "'Big Short' Investor Michael Burry Bets Against Oracle\u2014Here's His Advice",
+        "link": "https://finance.yahoo.com/news/big-short-investor-michael-burry-205630446.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 20:56:30 +0000",
+        "title": "'Big Short' Investor Michael Burry Bets Against Oracle\u2014Here's His Advice",
+        "ts": "2026-01-11T20:56:30Z",
+        "url": "https://finance.yahoo.com/news/big-short-investor-michael-burry-205630446.html?.tsrc=rss"
+      },
+      {
         "headline": "Vitalik Buterin Flags Major Risks in Decentralized Stablecoins, Here's What It Means for You",
         "link": "https://finance.yahoo.com/news/vitalik-buterin-flags-major-risks-192142841.html?.tsrc=rss",
         "source": "yahoo",
@@ -1415,17 +1426,6 @@
         "title": "Retailers Help Mitigate Risk with Oracle's AI-Driven Supply Chain Collaboration",
         "ts": "2026-01-11T13:00:00Z",
         "url": "https://finance.yahoo.com/news/retailers-help-mitigate-risk-oracles-130000190.html?.tsrc=rss"
-      },
-      {
-        "headline": "How Recent AI And Cloud Shifts Are Rewriting The Story For Oracle (ORCL)",
-        "link": "https://finance.yahoo.com/news/recent-ai-cloud-shifts-rewriting-111039061.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 11:10:39 +0000",
-        "title": "How Recent AI And Cloud Shifts Are Rewriting The Story For Oracle (ORCL)",
-        "ts": "2026-01-11T11:10:39Z",
-        "url": "https://finance.yahoo.com/news/recent-ai-cloud-shifts-rewriting-111039061.html?.tsrc=rss"
       }
     ],
     "PLTR": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-11T21:02:09Z",
+  "generated_at": "2026-01-11T21:20:42Z",
   "items": [
     {
       "headline": "A 2025 security breach exposed over 184 million private passwords. How to stay safe while you browse",
@@ -2420,6 +2420,18 @@
       "url": "https://www.fool.com/investing/2026/01/10/2-unstoppable-stock-split-growth-stocks-that-could/?.tsrc=rss"
     },
     {
+      "headline": "'Big Short' Investor Michael Burry Bets Against Oracle\u2014Here's His Advice",
+      "link": "https://finance.yahoo.com/news/big-short-investor-michael-burry-205630446.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "ORCL",
+      "time": "Sun, 11 Jan 2026 20:56:30 +0000",
+      "title": "'Big Short' Investor Michael Burry Bets Against Oracle\u2014Here's His Advice",
+      "ts": "2026-01-11T20:56:30Z",
+      "url": "https://finance.yahoo.com/news/big-short-investor-michael-burry-205630446.html?.tsrc=rss"
+    },
+    {
       "headline": "Vitalik Buterin Flags Major Risks in Decentralized Stablecoins, Here's What It Means for You",
       "link": "https://finance.yahoo.com/news/vitalik-buterin-flags-major-risks-192142841.html?.tsrc=rss",
       "source": "yahoo",
@@ -2478,18 +2490,6 @@
       "title": "Retailers Help Mitigate Risk with Oracle's AI-Driven Supply Chain Collaboration",
       "ts": "2026-01-11T13:00:00Z",
       "url": "https://finance.yahoo.com/news/retailers-help-mitigate-risk-oracles-130000190.html?.tsrc=rss"
-    },
-    {
-      "headline": "How Recent AI And Cloud Shifts Are Rewriting The Story For Oracle (ORCL)",
-      "link": "https://finance.yahoo.com/news/recent-ai-cloud-shifts-rewriting-111039061.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "ORCL",
-      "time": "Sun, 11 Jan 2026 11:10:39 +0000",
-      "title": "How Recent AI And Cloud Shifts Are Rewriting The Story For Oracle (ORCL)",
-      "ts": "2026-01-11T11:10:39Z",
-      "url": "https://finance.yahoo.com/news/recent-ai-cloud-shifts-rewriting-111039061.html?.tsrc=rss"
     },
     {
       "headline": "Want to Invest in Quantum Computing? These 3 Stocks Are Great Buys Right Now.",
