@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T01:24:32Z",
+  "generated_at": "2026-01-11T04:03:40Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -23,7 +23,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
+      "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
       "news_score": 3,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
+      "headline": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -68,8 +68,8 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
-      "news_score": 3,
+      "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
     },
@@ -95,26 +95,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "The Bull Case For Insmed (INSM) Could Change Following Bold 2025 Revenue Guidance Hike - Learn Why",
-      "news_score": 0,
+      "headline": "Is It Too Late To Reassess Insmed (INSM) After Its Huge Share Price Surge?",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "INTC": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "President Trump\u2019s Stock Bets Have Crushed the Market. Should You Buy Them Now?",
-      "news_score": 2,
+      "headline": "Trump Says Federal Intel Stake Has Made 'Tens Of Billions': Stock Climbs",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "META": {
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
-      "news_score": 3,
+      "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
     },
@@ -158,7 +158,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should CoreWeave Investors Worry About Michael Intrator's Latest Move?",
+      "headline": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -185,7 +185,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
+      "headline": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
