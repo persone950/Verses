@@ -1,17 +1,17 @@
 {
-  "timestamp_utc": "2026-01-11T01:29:26.360120+00:00",
+  "timestamp_utc": "2026-01-11T04:08:48.577648+00:00",
   "source_feed": "feed_results_table.csv",
   "tickers": [
     "OPEN",
     "ALGS",
     "INTC",
-    "KLAC",
     "AG",
     "MU",
     "ORCL",
-    "HD",
     "SLV",
-    "AVGO"
+    "AVGO",
+    "INSM",
+    "BA"
   ],
   "rows": 10,
   "note": "trend snapshot only; no correlation time-series"
