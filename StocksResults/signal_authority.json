@@ -228,19 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLF": {
+    "TMUS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AMGN": {
+    "ABNB": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNAP": {
+    "INTU": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "KLAC": {
+    "F": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "XLE": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
