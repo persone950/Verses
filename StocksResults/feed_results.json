@@ -1519,33 +1519,6 @@
     "error": "no_price"
   },
   {
-    "symbol": "XLF",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "XLF",
-      "price": 55.73,
-      "prev_close": 55.9,
-      "open": 55.98,
-      "high": 56.16,
-      "low": 55.72,
-      "ts_ms": 1767992400000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "XLF",
-        "price": 55.73,
-        "prev_close": 55.9,
-        "open": 55.98,
-        "high": 56.16,
-        "low": 55.72,
-        "ts_ms": 1767992400000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
     "symbol": "AFRM",
     "category": "ADDON_RANDOM",
     "best": {
@@ -1573,21 +1546,48 @@
     "error": null
   },
   {
-    "symbol": "OKTA",
+    "symbol": "AMGN",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "AMGN",
+      "price": 326.1,
+      "prev_close": 330.11,
+      "open": 328.81,
+      "high": 332.075,
+      "low": 323.89,
+      "ts_ms": 1767992400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "AMGN",
+        "price": 326.1,
+        "prev_close": 330.11,
+        "open": 328.81,
+        "high": 332.075,
+        "low": 323.89,
+        "ts_ms": 1767992400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "ETSY",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "V",
+    "symbol": "TMO",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "C",
+    "symbol": "SOFI",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
