@@ -138,6 +138,17 @@
     ],
     "AMZN": [
       {
+        "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+        "link": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 02:01:14 +0000",
+        "title": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+        "ts": "2026-01-11T02:01:14Z",
+        "url": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss"
+      },
+      {
         "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
         "link": "https://finance.yahoo.com/news/inverse-cramer-wins-again-opposite-003304004.html?.tsrc=rss",
         "source": "yahoo",
@@ -191,20 +202,31 @@
         "title": "Sam Altman Weighs An $830B\u2013$1T IPO And Admits Running A Public Company Could Be 'Really Annoying'",
         "ts": "2026-01-10T19:01:09Z",
         "url": "https://finance.yahoo.com/news/sam-altman-weighs-830b-1t-190109072.html?.tsrc=rss"
-      },
-      {
-        "headline": "Trump's 'Carrot And Stick' Defense Push: Which Stock Is Best Priced For $1.5 Trillion Budget?",
-        "link": "https://finance.yahoo.com/news/trumps-carrot-stick-defense-push-173121540.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 17:31:21 +0000",
-        "title": "Trump's 'Carrot And Stick' Defense Push: Which Stock Is Best Priced For $1.5 Trillion Budget?",
-        "ts": "2026-01-10T17:31:21Z",
-        "url": "https://finance.yahoo.com/news/trumps-carrot-stick-defense-push-173121540.html?.tsrc=rss"
       }
     ],
     "AVGO": [
+      {
+        "headline": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+        "link": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 01:50:00 +0000",
+        "title": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+        "ts": "2026-01-11T01:50:00Z",
+        "url": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss"
+      },
+      {
+        "headline": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+        "link": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 00:32:00 +0000",
+        "title": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+        "ts": "2026-01-11T00:32:00Z",
+        "url": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss"
+      },
       {
         "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
         "link": "https://finance.yahoo.com/news/cathie-wood-invest-dumps-over-203125995.html?.tsrc=rss",
@@ -248,28 +270,6 @@
         "title": "The Best Trillion-Dollar Stock to Buy for 2026, According to Wall Street",
         "ts": "2026-01-10T13:47:00Z",
         "url": "https://www.fool.com/investing/2026/01/10/best-trillion-dollar-stock-buy-2026-microsoft/?.tsrc=rss"
-      },
-      {
-        "headline": "How Broadcom\u2019s AI\u2011Ready Wi\u2011Fi 8 Launch And $6.75 Billion Debt Raise At Broadcom (AVGO) Has Changed Its Investment Story",
-        "link": "https://finance.yahoo.com/news/broadcom-ai-ready-wi-fi-001926985.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 00:19:26 +0000",
-        "title": "How Broadcom\u2019s AI\u2011Ready Wi\u2011Fi 8 Launch And $6.75 Billion Debt Raise At Broadcom (AVGO) Has Changed Its Investment Story",
-        "ts": "2026-01-10T00:19:26Z",
-        "url": "https://finance.yahoo.com/news/broadcom-ai-ready-wi-fi-001926985.html?.tsrc=rss"
-      },
-      {
-        "headline": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
-        "link": "https://finance.yahoo.com/video/p-500-notches-record-high-231127319.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 09 Jan 2026 23:11:27 +0000",
-        "title": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
-        "ts": "2026-01-09T23:11:27Z",
-        "url": "https://finance.yahoo.com/video/p-500-notches-record-high-231127319.html?.tsrc=rss"
       }
     ],
     "BBAI": [
@@ -546,6 +546,28 @@
     ],
     "GOOGL": [
       {
+        "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+        "link": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 02:01:14 +0000",
+        "title": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+        "ts": "2026-01-11T02:01:14Z",
+        "url": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss"
+      },
+      {
+        "headline": "Prediction: Alphabet Will Soar Over the Next Decade. Here's 1 Reason Why.",
+        "link": "https://www.fool.com/investing/2026/01/10/prediction-alphabet-soar-over-next-decade-1-reason/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 01:28:00 +0000",
+        "title": "Prediction: Alphabet Will Soar Over the Next Decade. Here's 1 Reason Why.",
+        "ts": "2026-01-11T01:28:00Z",
+        "url": "https://www.fool.com/investing/2026/01/10/prediction-alphabet-soar-over-next-decade-1-reason/?.tsrc=rss"
+      },
+      {
         "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
         "link": "https://finance.yahoo.com/news/inverse-cramer-wins-again-opposite-003304004.html?.tsrc=rss",
         "source": "yahoo",
@@ -588,28 +610,6 @@
         "title": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
         "ts": "2026-01-10T20:31:25Z",
         "url": "https://finance.yahoo.com/news/cathie-wood-invest-dumps-over-203125995.html?.tsrc=rss"
-      },
-      {
-        "headline": "Want to Invest in Quantum Computing? These 3 Stocks Are Great Buys Right Now.",
-        "link": "https://www.fool.com/investing/2026/01/10/want-to-invest-in-quantum-computing-these-3-stocks/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 19:51:00 +0000",
-        "title": "Want to Invest in Quantum Computing? These 3 Stocks Are Great Buys Right Now.",
-        "ts": "2026-01-10T19:51:00Z",
-        "url": "https://www.fool.com/investing/2026/01/10/want-to-invest-in-quantum-computing-these-3-stocks/?.tsrc=rss"
-      },
-      {
-        "headline": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-        "link": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 19:31:53 +0000",
-        "title": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-        "ts": "2026-01-10T19:31:53Z",
-        "url": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -750,6 +750,17 @@
     ],
     "INSM": [
       {
+        "headline": "Is It Too Late To Reassess Insmed (INSM) After Its Huge Share Price Surge?",
+        "link": "https://finance.yahoo.com/news/too-reassess-insmed-insm-huge-031343602.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 03:13:43 +0000",
+        "title": "Is It Too Late To Reassess Insmed (INSM) After Its Huge Share Price Surge?",
+        "ts": "2026-01-11T03:13:43Z",
+        "url": "https://finance.yahoo.com/news/too-reassess-insmed-insm-huge-031343602.html?.tsrc=rss"
+      },
+      {
         "headline": "The Bull Case For Insmed (INSM) Could Change Following Bold 2025 Revenue Guidance Hike - Learn Why",
         "link": "https://finance.yahoo.com/news/bull-case-insmed-insm-could-231238975.html?.tsrc=rss",
         "source": "yahoo",
@@ -803,20 +814,20 @@
         "title": "Jim Cramer on Insmed: \u201cThis One Is Worth Keeping an Eye On\u201d",
         "ts": "2026-01-08T12:20:20Z",
         "url": "https://finance.yahoo.com/news/jim-cramer-insmed-one-worth-122020473.html?.tsrc=rss"
-      },
-      {
-        "headline": "What Catalysts Are Quietly Shifting The Narrative For Insmed (INSM)?",
-        "link": "https://finance.yahoo.com/news/catalysts-quietly-shifting-narrative-insmed-231543935.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 06 Jan 2026 23:15:43 +0000",
-        "title": "What Catalysts Are Quietly Shifting The Narrative For Insmed (INSM)?",
-        "ts": "2026-01-06T23:15:43Z",
-        "url": "https://finance.yahoo.com/news/catalysts-quietly-shifting-narrative-insmed-231543935.html?.tsrc=rss"
       }
     ],
     "INTC": [
+      {
+        "headline": "Trump Says Federal Intel Stake Has Made 'Tens Of Billions': Stock Climbs",
+        "link": "https://finance.yahoo.com/news/trump-says-federal-intel-stake-023115672.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 02:31:15 +0000",
+        "title": "Trump Says Federal Intel Stake Has Made 'Tens Of Billions': Stock Climbs",
+        "ts": "2026-01-11T02:31:15Z",
+        "url": "https://finance.yahoo.com/news/trump-says-federal-intel-stake-023115672.html?.tsrc=rss"
+      },
       {
         "headline": "President Trump\u2019s Stock Bets Have Crushed the Market. Should You Buy Them Now?",
         "link": "https://247wallst.com/investing/2026/01/10/president-trumps-stock-bets-have-crushed-the-market-should-you-buy-them-now/?.tsrc=rss",
@@ -871,20 +882,20 @@
         "title": "Why Intel Stock Soared Today",
         "ts": "2026-01-10T00:36:13Z",
         "url": "https://www.fool.com/investing/2026/01/09/why-intel-stock-is-up-today/?.tsrc=rss"
-      },
-      {
-        "headline": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
-        "link": "https://www.fool.com/coverage/stock-market-today/2026/01/09/stock-market-today-jan-9-intel-surges-after-trump-praises-ceo-lip-bu-tan-and-touts-u-s-chip-leadership/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 09 Jan 2026 22:53:27 +0000",
-        "title": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
-        "ts": "2026-01-09T22:53:27Z",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/01/09/stock-market-today-jan-9-intel-surges-after-trump-praises-ceo-lip-bu-tan-and-touts-u-s-chip-leadership/?.tsrc=rss"
       }
     ],
     "META": [
+      {
+        "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+        "link": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 02:01:14 +0000",
+        "title": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+        "ts": "2026-01-11T02:01:14Z",
+        "url": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss"
+      },
       {
         "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
         "link": "https://finance.yahoo.com/news/inverse-cramer-wins-again-opposite-003304004.html?.tsrc=rss",
@@ -939,17 +950,6 @@
         "title": "As Meta Delays New Ray-Ban Display Glasses, Should You Buy, Sell, or Hold META Stock?",
         "ts": "2026-01-10T20:19:10Z",
         "url": "https://www.barchart.com/story/news/36984366/as-meta-delays-new-ray-ban-display-glasses-should-you-buy-sell-or-hold-meta-stock?.tsrc=rss"
-      },
-      {
-        "headline": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-        "link": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 19:31:53 +0000",
-        "title": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-        "ts": "2026-01-10T19:31:53Z",
-        "url": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss"
       }
     ],
     "MSFT": [
@@ -1226,6 +1226,17 @@
     ],
     "NVDA": [
       {
+        "headline": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+        "link": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 01:50:00 +0000",
+        "title": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+        "ts": "2026-01-11T01:50:00Z",
+        "url": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss"
+      },
+      {
         "headline": "Should CoreWeave Investors Worry About Michael Intrator's Latest Move?",
         "link": "https://www.fool.com/investing/2026/01/10/should-coreweave-investors-worry-intrators-move/?.tsrc=rss",
         "source": "yahoo",
@@ -1279,17 +1290,6 @@
         "title": "Jim Cramer on Procter & Gamble: \u201cIt Has the Opportunity to Shake Things Up\u201d",
         "ts": "2026-01-10T19:56:41Z",
         "url": "https://finance.yahoo.com/news/jim-cramer-procter-gamble-opportunity-195641824.html?.tsrc=rss"
-      },
-      {
-        "headline": "Jim Cramer Discusses CrowdStrike After Jensen Huang\u2019s Endorsement",
-        "link": "https://finance.yahoo.com/news/jim-cramer-discusses-crowdstrike-jensen-195638777.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 19:56:38 +0000",
-        "title": "Jim Cramer Discusses CrowdStrike After Jensen Huang\u2019s Endorsement",
-        "ts": "2026-01-10T19:56:38Z",
-        "url": "https://finance.yahoo.com/news/jim-cramer-discusses-crowdstrike-jensen-195638777.html?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1430,6 +1430,17 @@
     ],
     "PLTR": [
       {
+        "headline": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+        "link": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 00:32:00 +0000",
+        "title": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+        "ts": "2026-01-11T00:32:00Z",
+        "url": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss"
+      },
+      {
         "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
         "link": "https://finance.yahoo.com/news/cathie-wood-invest-dumps-over-203125995.html?.tsrc=rss",
         "source": "yahoo",
@@ -1483,17 +1494,6 @@
         "title": "Truist Initiates Palantir (PLTR) as Buy, Calls It a \u201cBest-in-Class\u201d Asset",
         "ts": "2026-01-10T08:05:27Z",
         "url": "https://finance.yahoo.com/news/truist-initiates-palantir-pltr-buy-080527385.html?.tsrc=rss"
-      },
-      {
-        "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
-        "link": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 05:20:00 +0000",
-        "title": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
-        "ts": "2026-01-10T05:20:00Z",
-        "url": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss"
       }
     ],
     "QCOM": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-11T01:24:32Z",
+  "generated_at": "2026-01-11T04:03:40Z",
   "items": [
     {
       "headline": "Palantir Billionaire Peter Thiel Dumped Nvidia and Bought This Other Magnificent Stock Instead -- Even as Warren Buffett Was Selling It Before Retiring",
@@ -1916,6 +1916,18 @@
       "url": "https://finance.yahoo.com/news/senator-dumps-apple-google-microsoft-223108948.html?.tsrc=rss"
     },
     {
+      "headline": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+      "link": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Sun, 11 Jan 2026 01:50:00 +0000",
+      "title": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+      "ts": "2026-01-11T01:50:00Z",
+      "url": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss"
+    },
+    {
       "headline": "Should CoreWeave Investors Worry About Michael Intrator's Latest Move?",
       "link": "https://www.fool.com/investing/2026/01/10/should-coreweave-investors-worry-intrators-move/?.tsrc=rss",
       "source": "yahoo",
@@ -1976,16 +1988,28 @@
       "url": "https://finance.yahoo.com/news/jim-cramer-procter-gamble-opportunity-195641824.html?.tsrc=rss"
     },
     {
-      "headline": "Jim Cramer Discusses CrowdStrike After Jensen Huang\u2019s Endorsement",
-      "link": "https://finance.yahoo.com/news/jim-cramer-discusses-crowdstrike-jensen-195638777.html?.tsrc=rss",
+      "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "link": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sat, 10 Jan 2026 19:56:38 +0000",
-      "title": "Jim Cramer Discusses CrowdStrike After Jensen Huang\u2019s Endorsement",
-      "ts": "2026-01-10T19:56:38Z",
-      "url": "https://finance.yahoo.com/news/jim-cramer-discusses-crowdstrike-jensen-195638777.html?.tsrc=rss"
+      "ticker": "GOOGL",
+      "time": "Sun, 11 Jan 2026 02:01:14 +0000",
+      "title": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "ts": "2026-01-11T02:01:14Z",
+      "url": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss"
+    },
+    {
+      "headline": "Prediction: Alphabet Will Soar Over the Next Decade. Here's 1 Reason Why.",
+      "link": "https://www.fool.com/investing/2026/01/10/prediction-alphabet-soar-over-next-decade-1-reason/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sun, 11 Jan 2026 01:28:00 +0000",
+      "title": "Prediction: Alphabet Will Soar Over the Next Decade. Here's 1 Reason Why.",
+      "ts": "2026-01-11T01:28:00Z",
+      "url": "https://www.fool.com/investing/2026/01/10/prediction-alphabet-soar-over-next-decade-1-reason/?.tsrc=rss"
     },
     {
       "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
@@ -2036,28 +2060,16 @@
       "url": "https://finance.yahoo.com/news/cathie-wood-invest-dumps-over-203125995.html?.tsrc=rss"
     },
     {
-      "headline": "Want to Invest in Quantum Computing? These 3 Stocks Are Great Buys Right Now.",
-      "link": "https://www.fool.com/investing/2026/01/10/want-to-invest-in-quantum-computing-these-3-stocks/?.tsrc=rss",
+      "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "link": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sat, 10 Jan 2026 19:51:00 +0000",
-      "title": "Want to Invest in Quantum Computing? These 3 Stocks Are Great Buys Right Now.",
-      "ts": "2026-01-10T19:51:00Z",
-      "url": "https://www.fool.com/investing/2026/01/10/want-to-invest-in-quantum-computing-these-3-stocks/?.tsrc=rss"
-    },
-    {
-      "headline": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-      "link": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sat, 10 Jan 2026 19:31:53 +0000",
-      "title": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-      "ts": "2026-01-10T19:31:53Z",
-      "url": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss"
+      "ticker": "META",
+      "time": "Sun, 11 Jan 2026 02:01:14 +0000",
+      "title": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "ts": "2026-01-11T02:01:14Z",
+      "url": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss"
     },
     {
       "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
@@ -2120,16 +2132,16 @@
       "url": "https://www.barchart.com/story/news/36984366/as-meta-delays-new-ray-ban-display-glasses-should-you-buy-sell-or-hold-meta-stock?.tsrc=rss"
     },
     {
-      "headline": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-      "link": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss",
+      "headline": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "link": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "META",
-      "time": "Sat, 10 Jan 2026 19:31:53 +0000",
-      "title": "Vistra Wins Mega Nuclear Deal With Meta, Stock Jumps",
-      "ts": "2026-01-10T19:31:53Z",
-      "url": "https://finance.yahoo.com/news/vistra-wins-mega-nuclear-deal-193153850.html?.tsrc=rss"
+      "ticker": "AMZN",
+      "time": "Sun, 11 Jan 2026 02:01:14 +0000",
+      "title": "She Married Into $1M Of Debt And Asked, 'How Do I Not Murder Him?' Dave Ramsey Fires Back Without Sympathy. 'It's Not His Fault'",
+      "ts": "2026-01-11T02:01:14Z",
+      "url": "https://finance.yahoo.com/news/she-married-1m-debt-asked-020114134.html?.tsrc=rss"
     },
     {
       "headline": "Inverse Cramer Wins Again: Opposite Picks Of Investor Beat Nancy Pelosi In 2025",
@@ -2190,18 +2202,6 @@
       "title": "Sam Altman Weighs An $830B\u2013$1T IPO And Admits Running A Public Company Could Be 'Really Annoying'",
       "ts": "2026-01-10T19:01:09Z",
       "url": "https://finance.yahoo.com/news/sam-altman-weighs-830b-1t-190109072.html?.tsrc=rss"
-    },
-    {
-      "headline": "Trump's 'Carrot And Stick' Defense Push: Which Stock Is Best Priced For $1.5 Trillion Budget?",
-      "link": "https://finance.yahoo.com/news/trumps-carrot-stick-defense-push-173121540.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AMZN",
-      "time": "Sat, 10 Jan 2026 17:31:21 +0000",
-      "title": "Trump's 'Carrot And Stick' Defense Push: Which Stock Is Best Priced For $1.5 Trillion Budget?",
-      "ts": "2026-01-10T17:31:21Z",
-      "url": "https://finance.yahoo.com/news/trumps-carrot-stick-defense-push-173121540.html?.tsrc=rss"
     },
     {
       "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
@@ -2564,6 +2564,30 @@
       "url": "https://finance.yahoo.com/news/ibms-long-term-wimbledon-commitment-144800844.html?.tsrc=rss"
     },
     {
+      "headline": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+      "link": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AVGO",
+      "time": "Sun, 11 Jan 2026 01:50:00 +0000",
+      "title": "The \"Safest\" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now",
+      "ts": "2026-01-11T01:50:00Z",
+      "url": "https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/?.tsrc=rss"
+    },
+    {
+      "headline": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+      "link": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AVGO",
+      "time": "Sun, 11 Jan 2026 00:32:00 +0000",
+      "title": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+      "ts": "2026-01-11T00:32:00Z",
+      "url": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss"
+    },
+    {
       "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
       "link": "https://finance.yahoo.com/news/cathie-wood-invest-dumps-over-203125995.html?.tsrc=rss",
       "source": "yahoo",
@@ -2610,30 +2634,6 @@
       "title": "The Best Trillion-Dollar Stock to Buy for 2026, According to Wall Street",
       "ts": "2026-01-10T13:47:00Z",
       "url": "https://www.fool.com/investing/2026/01/10/best-trillion-dollar-stock-buy-2026-microsoft/?.tsrc=rss"
-    },
-    {
-      "headline": "How Broadcom\u2019s AI\u2011Ready Wi\u2011Fi 8 Launch And $6.75 Billion Debt Raise At Broadcom (AVGO) Has Changed Its Investment Story",
-      "link": "https://finance.yahoo.com/news/broadcom-ai-ready-wi-fi-001926985.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AVGO",
-      "time": "Sat, 10 Jan 2026 00:19:26 +0000",
-      "title": "How Broadcom\u2019s AI\u2011Ready Wi\u2011Fi 8 Launch And $6.75 Billion Debt Raise At Broadcom (AVGO) Has Changed Its Investment Story",
-      "ts": "2026-01-10T00:19:26Z",
-      "url": "https://finance.yahoo.com/news/broadcom-ai-ready-wi-fi-001926985.html?.tsrc=rss"
-    },
-    {
-      "headline": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
-      "link": "https://finance.yahoo.com/video/p-500-notches-record-high-231127319.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AVGO",
-      "time": "Fri, 09 Jan 2026 23:11:27 +0000",
-      "title": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
-      "ts": "2026-01-09T23:11:27Z",
-      "url": "https://finance.yahoo.com/video/p-500-notches-record-high-231127319.html?.tsrc=rss"
     },
     {
       "headline": "CES 2026 was dominated by these 3 tech themes",
@@ -2708,6 +2708,18 @@
       "url": "https://finance.yahoo.com/m/1b4e23bf-be7f-38be-9342-e5323be40ca0/jpmorgan-stock%2C-this-ai-chip.html?.tsrc=rss"
     },
     {
+      "headline": "Trump Says Federal Intel Stake Has Made 'Tens Of Billions': Stock Climbs",
+      "link": "https://finance.yahoo.com/news/trump-says-federal-intel-stake-023115672.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "INTC",
+      "time": "Sun, 11 Jan 2026 02:31:15 +0000",
+      "title": "Trump Says Federal Intel Stake Has Made 'Tens Of Billions': Stock Climbs",
+      "ts": "2026-01-11T02:31:15Z",
+      "url": "https://finance.yahoo.com/news/trump-says-federal-intel-stake-023115672.html?.tsrc=rss"
+    },
+    {
       "headline": "President Trump\u2019s Stock Bets Have Crushed the Market. Should You Buy Them Now?",
       "link": "https://247wallst.com/investing/2026/01/10/president-trumps-stock-bets-have-crushed-the-market-should-you-buy-them-now/?.tsrc=rss",
       "source": "yahoo",
@@ -2766,18 +2778,6 @@
       "title": "Why Intel Stock Soared Today",
       "ts": "2026-01-10T00:36:13Z",
       "url": "https://www.fool.com/investing/2026/01/09/why-intel-stock-is-up-today/?.tsrc=rss"
-    },
-    {
-      "headline": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/01/09/stock-market-today-jan-9-intel-surges-after-trump-praises-ceo-lip-bu-tan-and-touts-u-s-chip-leadership/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "INTC",
-      "time": "Fri, 09 Jan 2026 22:53:27 +0000",
-      "title": "Stock Market Today, Jan. 9: Intel Surges After Trump Praises CEO Lip-Bu Tan and Touts U.S. Chip Leadership",
-      "ts": "2026-01-09T22:53:27Z",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/01/09/stock-market-today-jan-9-intel-surges-after-trump-praises-ceo-lip-bu-tan-and-touts-u-s-chip-leadership/?.tsrc=rss"
     },
     {
       "headline": "AI is no \u2018business killer\u2019: Why Wall Street is buying software stocks in 2026",
@@ -2924,6 +2924,18 @@
       "url": "https://finance.yahoo.com/video/walmart-welcomes-board-member-coinbase-191757559.html?.tsrc=rss"
     },
     {
+      "headline": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+      "link": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "PLTR",
+      "time": "Sun, 11 Jan 2026 00:32:00 +0000",
+      "title": "Cathie Wood\u2019s ARK Takes a New Stake in Broadcom\u2014and Sold Another Hot Stock",
+      "ts": "2026-01-11T00:32:00Z",
+      "url": "https://finance.yahoo.com/m/86d9a4e4-28ef-3a14-b646-8a7b84e4aeff/cathie-wood%E2%80%99s-ark-takes-a-new.html?.tsrc=rss"
+    },
+    {
       "headline": "Cathie Wood Invest Dumps Over $10 Million Of Palantir Stock Amid Talk Of 'Cramer Curse' \u2014 Buys This Hot AI Stock Instead",
       "link": "https://finance.yahoo.com/news/cathie-wood-invest-dumps-over-203125995.html?.tsrc=rss",
       "source": "yahoo",
@@ -2982,18 +2994,6 @@
       "title": "Truist Initiates Palantir (PLTR) as Buy, Calls It a \u201cBest-in-Class\u201d Asset",
       "ts": "2026-01-10T08:05:27Z",
       "url": "https://finance.yahoo.com/news/truist-initiates-palantir-pltr-buy-080527385.html?.tsrc=rss"
-    },
-    {
-      "headline": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
-      "link": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "PLTR",
-      "time": "Sat, 10 Jan 2026 05:20:00 +0000",
-      "title": "Down 20%, Should You Buy the Dip on BigBear.ai (BBAI) Stock?",
-      "ts": "2026-01-10T05:20:00Z",
-      "url": "https://www.fool.com/investing/2026/01/10/down-20-should-you-buy-the-dip-on-bigbearai-bbai-s/?.tsrc=rss"
     },
     {
       "headline": "This Tiny ETF Is One Of The Best Ways To Bet On AI Stocks Right Now",
@@ -3284,6 +3284,18 @@
       "url": "https://www.fool.com/investing/2026/01/08/down-54-should-you-buy-the-dip-in-rigetti-computin/?.tsrc=rss"
     },
     {
+      "headline": "Is It Too Late To Reassess Insmed (INSM) After Its Huge Share Price Surge?",
+      "link": "https://finance.yahoo.com/news/too-reassess-insmed-insm-huge-031343602.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "INSM",
+      "time": "Sun, 11 Jan 2026 03:13:43 +0000",
+      "title": "Is It Too Late To Reassess Insmed (INSM) After Its Huge Share Price Surge?",
+      "ts": "2026-01-11T03:13:43Z",
+      "url": "https://finance.yahoo.com/news/too-reassess-insmed-insm-huge-031343602.html?.tsrc=rss"
+    },
+    {
       "headline": "The Bull Case For Insmed (INSM) Could Change Following Bold 2025 Revenue Guidance Hike - Learn Why",
       "link": "https://finance.yahoo.com/news/bull-case-insmed-insm-could-231238975.html?.tsrc=rss",
       "source": "yahoo",
@@ -3342,18 +3354,6 @@
       "title": "Jim Cramer on Insmed: \u201cThis One Is Worth Keeping an Eye On\u201d",
       "ts": "2026-01-08T12:20:20Z",
       "url": "https://finance.yahoo.com/news/jim-cramer-insmed-one-worth-122020473.html?.tsrc=rss"
-    },
-    {
-      "headline": "What Catalysts Are Quietly Shifting The Narrative For Insmed (INSM)?",
-      "link": "https://finance.yahoo.com/news/catalysts-quietly-shifting-narrative-insmed-231543935.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "INSM",
-      "time": "Tue, 06 Jan 2026 23:15:43 +0000",
-      "title": "What Catalysts Are Quietly Shifting The Narrative For Insmed (INSM)?",
-      "ts": "2026-01-06T23:15:43Z",
-      "url": "https://finance.yahoo.com/news/catalysts-quietly-shifting-narrative-insmed-231543935.html?.tsrc=rss"
     },
     {
       "headline": "Morning Movers: Oklo, Vistra climb following Meta nuclear energy deals",
