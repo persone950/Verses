@@ -228,23 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
+    "MGM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
     "RTX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "KLAC": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RBLX": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "TMO": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "AMAT": {
+    "AFRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
