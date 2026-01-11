@@ -1519,61 +1519,75 @@
     "error": "no_price"
   },
   {
+    "symbol": "AMGN",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "AMGN",
+      "price": 326.1,
+      "prev_close": 330.11,
+      "open": 328.81,
+      "high": 332.075,
+      "low": 323.89,
+      "ts_ms": 1767992400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "AMGN",
+        "price": 326.1,
+        "prev_close": 330.11,
+        "open": 328.81,
+        "high": 332.075,
+        "low": 323.89,
+        "ts_ms": 1767992400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "ADBE",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "ADBE",
+      "price": 333.95,
+      "prev_close": 339.04,
+      "open": 335.875,
+      "high": 335.875,
+      "low": 328.0,
+      "ts_ms": 1767992400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "ADBE",
+        "price": 333.95,
+        "prev_close": 339.04,
+        "open": 335.875,
+        "high": 335.875,
+        "low": 328.0,
+        "ts_ms": 1767992400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
     "symbol": "SNOW",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "SNOW",
-      "price": 219.09,
-      "prev_close": 223.79,
-      "open": 224.4,
-      "high": 226.83,
-      "low": 218.2,
-      "ts_ms": 1767992400000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "SNOW",
-        "price": 219.09,
-        "prev_close": 223.79,
-        "open": 224.4,
-        "high": 226.83,
-        "low": 218.2,
-        "ts_ms": 1767992400000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   },
   {
-    "symbol": "OXY",
+    "symbol": "KLAC",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "OXY",
-      "price": 42.86,
-      "prev_close": 43.23,
-      "open": 43.6,
-      "high": 43.86,
-      "low": 42.681,
-      "ts_ms": 1767992400000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "OXY",
-        "price": 42.86,
-        "prev_close": 43.23,
-        "open": 43.6,
-        "high": 43.86,
-        "low": 42.681,
-        "ts_ms": 1767992400000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
+    "best": null,
+    "raw": [],
+    "error": "http 429"
   },
   {
-    "symbol": "DIS",
+    "symbol": "NET",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
