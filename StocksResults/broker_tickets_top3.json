@@ -1,6 +1,6 @@
 [
   {
-    "timestamp_et": "2026-01-10 23:08:48 EST",
+    "timestamp_et": "2026-01-10 23:18:55 EST",
     "broker": "\u2014",
     "acct": "\u2014",
     "ticker": "AAPL",
@@ -18,11 +18,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2026-01-10 23:08:48 ESTAAPLP255.0000",
+    "checksum": "2026-01-10 23:18:55 ESTAAPLP255.0000",
     "notes": "auto-generated (portfolio_ticket_core)"
   },
   {
-    "timestamp_et": "2026-01-10 23:08:48 EST",
+    "timestamp_et": "2026-01-10 23:18:55 EST",
     "broker": "\u2014",
     "acct": "\u2014",
     "ticker": "NVDA",
@@ -40,11 +40,11 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2026-01-10 23:08:48 ESTNVDAC190.0000",
+    "checksum": "2026-01-10 23:18:55 ESTNVDAC190.0000",
     "notes": "auto-generated (portfolio_ticket_core)"
   },
   {
-    "timestamp_et": "2026-01-10 23:08:48 EST",
+    "timestamp_et": "2026-01-10 23:18:55 EST",
     "broker": "\u2014",
     "acct": "\u2014",
     "ticker": "NVDA",
@@ -62,7 +62,7 @@
     "tag": "swing",
     "status": "pending",
     "mode": "LIVE",
-    "checksum": "2026-01-10 23:08:48 ESTNVDAP180.0000",
+    "checksum": "2026-01-10 23:18:55 ESTNVDAP180.0000",
     "notes": "auto-generated (portfolio_ticket_core)"
   }
 ]
