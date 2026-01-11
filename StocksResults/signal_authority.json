@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "SMCI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNOW": {
+    "GM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TSM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RBLX": {
+    "PINS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
