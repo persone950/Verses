@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CSCO": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RTX": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "SOFI": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
     "SNOW": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "OXY": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "DIS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
