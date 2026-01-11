@@ -228,15 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
+    "AMGN": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ADBE": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
     "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "OXY": {
+    "KLAC": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DIS": {
+    "NET": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
