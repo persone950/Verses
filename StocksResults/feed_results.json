@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "COF",
+    "symbol": "SMCI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "COF",
-      "price": 249.2,
-      "prev_close": 255.68,
-      "open": 256.01,
-      "high": 256.51,
-      "low": 249.09,
+      "symbol": "SMCI",
+      "price": 30.16,
+      "prev_close": 29.9,
+      "open": 30.040000000000003,
+      "high": 31.025,
+      "low": 29.55,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "COF",
-        "price": 249.2,
-        "prev_close": 255.68,
-        "open": 256.01,
-        "high": 256.51,
-        "low": 249.09,
+        "symbol": "SMCI",
+        "price": 30.16,
+        "prev_close": 29.9,
+        "open": 30.040000000000003,
+        "high": 31.025,
+        "low": 29.55,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "SNOW",
+    "symbol": "GM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SNOW",
-      "price": 219.09,
-      "prev_close": 223.79,
-      "open": 224.41,
-      "high": 226.83,
-      "low": 218.2,
+      "symbol": "GM",
+      "price": 82.87,
+      "prev_close": 85.13,
+      "open": 83.52000000000001,
+      "high": 84.41,
+      "low": 81.0,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SNOW",
-        "price": 219.09,
-        "prev_close": 223.79,
-        "open": 224.41,
-        "high": 226.83,
-        "low": 218.2,
+        "symbol": "GM",
+        "price": 82.87,
+        "prev_close": 85.13,
+        "open": 83.52000000000001,
+        "high": 84.41,
+        "low": 81.0,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,7 @@
     "error": null
   },
   {
-    "symbol": "TSM",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "RBLX",
+    "symbol": "PINS",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
