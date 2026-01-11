@@ -228,15 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SMCI": {
+    "CSCO": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "GM": {
+    "RTX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PINS": {
+    "SOFI": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
