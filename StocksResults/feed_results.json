@@ -1519,6 +1519,33 @@
     "error": "no_price"
   },
   {
+    "symbol": "XLF",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "XLF",
+      "price": 55.73,
+      "prev_close": 55.9,
+      "open": 55.98,
+      "high": 56.16,
+      "low": 55.72,
+      "ts_ms": 1767992400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "XLF",
+        "price": 55.73,
+        "prev_close": 55.9,
+        "open": 55.98,
+        "high": 56.16,
+        "low": 55.72,
+        "ts_ms": 1767992400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
     "symbol": "AMGN",
     "category": "ADDON_RANDOM",
     "best": {
@@ -1546,26 +1573,26 @@
     "error": null
   },
   {
-    "symbol": "ADBE",
+    "symbol": "SNAP",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ADBE",
-      "price": 333.95,
-      "prev_close": 339.04,
-      "open": 335.875,
-      "high": 335.875,
-      "low": 328.0,
+      "symbol": "SNAP",
+      "price": 8.21,
+      "prev_close": 8.4,
+      "open": 8.47,
+      "high": 8.59,
+      "low": 8.17,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ADBE",
-        "price": 333.95,
-        "prev_close": 339.04,
-        "open": 335.875,
-        "high": 335.875,
-        "low": 328.0,
+        "symbol": "SNAP",
+        "price": 8.21,
+        "prev_close": 8.4,
+        "open": 8.47,
+        "high": 8.59,
+        "low": 8.17,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,24 +1600,30 @@
     "error": null
   },
   {
-    "symbol": "SNOW",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
     "symbol": "KLAC",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "NET",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "KLAC",
+      "price": 1400.0,
+      "prev_close": 1324.6,
+      "open": 1357.42,
+      "high": 1404.46,
+      "low": 1336.0,
+      "ts_ms": 1767992400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "KLAC",
+        "price": 1400.0,
+        "prev_close": 1324.6,
+        "open": 1357.42,
+        "high": 1404.46,
+        "low": 1336.0,
+        "ts_ms": 1767992400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   }
 ]
