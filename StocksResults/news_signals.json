@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T20:34:30Z",
+  "generated_at": "2026-01-11T21:02:09Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+      "headline": "2 Dominant Tech Stocks to Buy in January and Hold for 5 Years",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -68,7 +68,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jeff Bezos, Larry Page and Sergey Brin on the Verge Of $300 Billion Club",
+      "headline": "2 Dominant Tech Stocks to Buy in January and Hold for 5 Years",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -159,7 +159,7 @@
       "catalyst_flags": [],
       "confidence": "MED",
       "headline": "Dow Jones Futures Loom; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "news_score": 0,
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
@@ -177,7 +177,7 @@
       "catalyst_flags": [],
       "confidence": "MED",
       "headline": "Vitalik Buterin Flags Major Risks in Decentralized Stablecoins, Here's What It Means for You",
-      "news_score": 0,
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
