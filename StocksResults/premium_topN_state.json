@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-11T16:32:15.979094-05:00",
+  "generated_at": "2026-01-11T16:50:53.040611-05:00",
   "mode": "STRICT",
   "relaxed": false,
   "input_rows": 142347,
-  "strict_pass": 3366,
-  "balanced_pass": 10604,
+  "strict_pass": 3356,
+  "balanced_pass": 10523,
   "final_candidates": 20,
   "target_total_rows": 40,
   "actual_total_rows": 20,
