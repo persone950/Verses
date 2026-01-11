@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T21:50:39Z",
+  "generated_at": "2026-01-11T23:52:02Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -68,7 +68,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "2 Dominant Tech Stocks to Buy in January and Hold for 5 Years",
+      "headline": "Google co-founders may be leaving California",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -122,7 +122,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Billionaire Bill Gates Has 59% of His Foundation's $38 Billion Portfolio Invested in 3 Phenomenal Stocks",
+      "headline": "Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -158,8 +158,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?",
-      "news_score": -1,
+      "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
