@@ -228,23 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AXP": {
+    "COF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SOFI": {
+    "PYPL": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "GM": {
+    "ABT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PINS": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "T": {
+    "BKNG": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
