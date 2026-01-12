@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T00:58:20Z",
+  "generated_at": "2026-01-12T01:49:51Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
@@ -68,7 +68,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "headline": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -158,8 +158,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "news_score": 1,
+      "headline": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
