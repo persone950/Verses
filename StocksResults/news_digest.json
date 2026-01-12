@@ -546,15 +546,15 @@
     ],
     "GOOGL": [
       {
-        "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-        "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss",
+        "headline": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
+        "link": "https://finance.yahoo.com/news/ant-international-partners-google-universal-011500575.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Mon, 12 Jan 2026 00:48:26 +0000",
-        "title": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-        "ts": "2026-01-12T00:48:26Z",
-        "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss"
+        "time": "Mon, 12 Jan 2026 01:15:00 +0000",
+        "title": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
+        "ts": "2026-01-12T01:15:00Z",
+        "url": "https://finance.yahoo.com/news/ant-international-partners-google-universal-011500575.html?.tsrc=rss"
       },
       {
         "headline": "'That's A Dumb Thing To Think,' Dave Ramsey Snaps As 29-Year-Old Making $50K Explains Why She Took On A $14K Car Loan With $77K In Debt",
@@ -1226,15 +1226,26 @@
     ],
     "NVDA": [
       {
-        "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-        "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss",
+        "headline": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+        "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Mon, 12 Jan 2026 00:48:26 +0000",
-        "title": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-        "ts": "2026-01-12T00:48:26Z",
-        "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss"
+        "time": "Mon, 12 Jan 2026 01:43:39 +0000",
+        "title": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+        "ts": "2026-01-12T01:43:39Z",
+        "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss"
+      },
+      {
+        "headline": "My Top 5 Predictions for Nvidia in 2026",
+        "link": "https://www.fool.com/investing/2026/01/11/my-top-5-predictions-for-nvidia-in-2026/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 12 Jan 2026 01:30:00 +0000",
+        "title": "My Top 5 Predictions for Nvidia in 2026",
+        "ts": "2026-01-12T01:30:00Z",
+        "url": "https://www.fool.com/investing/2026/01/11/my-top-5-predictions-for-nvidia-in-2026/?.tsrc=rss"
       },
       {
         "headline": "X Plans \u2018Smart Cashtags\u2019 to Link Crypto and Stock Tickers to Live Prices",
@@ -1279,17 +1290,6 @@
         "title": "PepsiCo (PEP) Partners with Siemens and NVIDIA to Modernize Plants Using Digital Twins",
         "ts": "2026-01-11T22:10:10Z",
         "url": "https://finance.yahoo.com/news/pepsico-pep-partners-siemens-nvidia-221010626.html?.tsrc=rss"
-      },
-      {
-        "headline": "Is Archer Aviation's Deal With Nvidia a Game Changer?",
-        "link": "https://www.fool.com/investing/2026/01/11/archer-aviation-deal-nvidia-game-changer/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 22:05:00 +0000",
-        "title": "Is Archer Aviation's Deal With Nvidia a Game Changer?",
-        "ts": "2026-01-11T22:05:00Z",
-        "url": "https://www.fool.com/investing/2026/01/11/archer-aviation-deal-nvidia-game-changer/?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1724,6 +1724,17 @@
         "url": "https://finance.yahoo.com/news/nuclear-startups-back-vogue-small-161500959.html?.tsrc=rss"
       },
       {
+        "headline": "5 Companies Racing to Dethrone Tesla\u2014And the One Already Winning",
+        "link": "https://247wallst.com/investing/2026/01/11/5-companies-racing-to-dethrone-tesla-and-the-one-already-winning/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 11 Jan 2026 16:14:21 +0000",
+        "title": "5 Companies Racing to Dethrone Tesla\u2014And the One Already Winning",
+        "ts": "2026-01-11T16:14:21Z",
+        "url": "https://247wallst.com/investing/2026/01/11/5-companies-racing-to-dethrone-tesla-and-the-one-already-winning/?.tsrc=rss"
+      },
+      {
         "headline": "This Money Expert Is Sending Warning Signs About the Economy \u2014 and How To Protect Yourself",
         "link": "https://finance.yahoo.com/news/money-expert-sending-warning-signs-150720870.html?.tsrc=rss",
         "source": "yahoo",
@@ -1755,21 +1766,10 @@
         "title": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
         "ts": "2026-01-11T13:08:12Z",
         "url": "https://finance.yahoo.com/video/waymo-zoox-tesla-wins-robotaxi-130812499.html?.tsrc=rss"
-      },
-      {
-        "headline": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-        "link": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 12:30:00 +0000",
-        "title": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-        "ts": "2026-01-11T12:30:00Z",
-        "url": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-12T00:58:20Z",
+  "generated_at": "2026-01-12T01:49:51Z",
   "items": [
     {
       "headline": "A 2025 security breach exposed over 184 million private passwords. How to stay safe while you browse",
@@ -1916,16 +1916,28 @@
       "url": "https://finance.yahoo.com/m/1869d406-2207-3ba5-b1be-d9ede1c58ced/shopify-stock-rallied-on-ai.html?.tsrc=rss"
     },
     {
-      "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss",
+      "headline": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Mon, 12 Jan 2026 00:48:26 +0000",
-      "title": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "ts": "2026-01-12T00:48:26Z",
-      "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss"
+      "time": "Mon, 12 Jan 2026 01:43:39 +0000",
+      "title": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "ts": "2026-01-12T01:43:39Z",
+      "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss"
+    },
+    {
+      "headline": "My Top 5 Predictions for Nvidia in 2026",
+      "link": "https://www.fool.com/investing/2026/01/11/my-top-5-predictions-for-nvidia-in-2026/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Mon, 12 Jan 2026 01:30:00 +0000",
+      "title": "My Top 5 Predictions for Nvidia in 2026",
+      "ts": "2026-01-12T01:30:00Z",
+      "url": "https://www.fool.com/investing/2026/01/11/my-top-5-predictions-for-nvidia-in-2026/?.tsrc=rss"
     },
     {
       "headline": "X Plans \u2018Smart Cashtags\u2019 to Link Crypto and Stock Tickers to Live Prices",
@@ -1976,28 +1988,16 @@
       "url": "https://finance.yahoo.com/news/pepsico-pep-partners-siemens-nvidia-221010626.html?.tsrc=rss"
     },
     {
-      "headline": "Is Archer Aviation's Deal With Nvidia a Game Changer?",
-      "link": "https://www.fool.com/investing/2026/01/11/archer-aviation-deal-nvidia-game-changer/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sun, 11 Jan 2026 22:05:00 +0000",
-      "title": "Is Archer Aviation's Deal With Nvidia a Game Changer?",
-      "ts": "2026-01-11T22:05:00Z",
-      "url": "https://www.fool.com/investing/2026/01/11/archer-aviation-deal-nvidia-game-changer/?.tsrc=rss"
-    },
-    {
-      "headline": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss",
+      "headline": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
+      "link": "https://finance.yahoo.com/news/ant-international-partners-google-universal-011500575.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "GOOGL",
-      "time": "Mon, 12 Jan 2026 00:48:26 +0000",
-      "title": "Dow Jones Futures Fall; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "ts": "2026-01-12T00:48:26Z",
-      "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall%3B.html?.tsrc=rss"
+      "time": "Mon, 12 Jan 2026 01:15:00 +0000",
+      "title": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
+      "ts": "2026-01-12T01:15:00Z",
+      "url": "https://finance.yahoo.com/news/ant-international-partners-google-universal-011500575.html?.tsrc=rss"
     },
     {
       "headline": "'That's A Dumb Thing To Think,' Dave Ramsey Snaps As 29-Year-Old Making $50K Explains Why She Took On A $14K Car Loan With $77K In Debt",
@@ -2228,6 +2228,18 @@
       "url": "https://finance.yahoo.com/news/nuclear-startups-back-vogue-small-161500959.html?.tsrc=rss"
     },
     {
+      "headline": "5 Companies Racing to Dethrone Tesla\u2014And the One Already Winning",
+      "link": "https://247wallst.com/investing/2026/01/11/5-companies-racing-to-dethrone-tesla-and-the-one-already-winning/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "TSLA",
+      "time": "Sun, 11 Jan 2026 16:14:21 +0000",
+      "title": "5 Companies Racing to Dethrone Tesla\u2014And the One Already Winning",
+      "ts": "2026-01-11T16:14:21Z",
+      "url": "https://247wallst.com/investing/2026/01/11/5-companies-racing-to-dethrone-tesla-and-the-one-already-winning/?.tsrc=rss"
+    },
+    {
       "headline": "This Money Expert Is Sending Warning Signs About the Economy \u2014 and How To Protect Yourself",
       "link": "https://finance.yahoo.com/news/money-expert-sending-warning-signs-150720870.html?.tsrc=rss",
       "source": "yahoo",
@@ -2262,18 +2274,6 @@
       "title": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
       "ts": "2026-01-11T13:08:12Z",
       "url": "https://finance.yahoo.com/video/waymo-zoox-tesla-wins-robotaxi-130812499.html?.tsrc=rss"
-    },
-    {
-      "headline": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-      "link": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Sun, 11 Jan 2026 12:30:00 +0000",
-      "title": "With the global robotaxi industry projected to hit $105 billion by 2035, here's what potential investors need to know",
-      "ts": "2026-01-11T12:30:00Z",
-      "url": "https://finance.yahoo.com/news/global-robotaxi-industry-projected-hit-123000005.html?.tsrc=rss"
     },
     {
       "headline": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?",
