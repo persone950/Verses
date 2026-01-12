@@ -1,70 +1,26 @@
 Ticker,FilingDate,TxnDate,Insider,Title,Role,Code,AcqDisp,Shares,Price,Value,Is10b5,AgeDays,Notes,SourceURL
-WRBY,2026-01-09,2026-01-07,Gilboa David Abraham,Co-Chief Executive Officer,CEO,S,D,75000,27.09,2031750,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926002586/tm262781-2_4seq1.xml
-WRBY,2026-01-09,2026-01-09,Gilboa David Abraham,Co-Chief Executive Officer,CEO,S,D,19906,29.09,579066,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926002586/tm262781-2_4seq1.xml
-WRBY,2026-01-09,2026-01-07,Blumenthal Neil Harris,Co-Chief Executive Officer,CEO,S,D,50000,27.08,1354000,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926002584/tm262781-1_4seq1.xml
-WDAY,2026-01-09,2026-01-08,DUFFIELD DAVID A,,10%,S,D,8360,207.66,1736077,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000093807126000004/wk-form4_1768006224.xml
-WDAY,2026-01-09,2026-01-08,DUFFIELD DAVID A,,10%,S,D,9240,208.42,1925800,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000093807126000004/wk-form4_1768006224.xml
-WDAY,2026-01-09,2026-01-08,DUFFIELD DAVID A,,10%,S,D,27639,209.68,5795384,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000093807126000004/wk-form4_1768006224.xml
-WDAY,2026-01-09,2026-01-08,DUFFIELD DAVID A,,10%,S,D,28462,210.43,5989370,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000093807126000004/wk-form4_1768006224.xml
-WDAY,2026-01-09,2026-01-08,DUFFIELD DAVID A,,10%,S,D,9183,211.10,1938566,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000093807126000004/wk-form4_1768006224.xml
-WDAY,2026-01-09,2026-01-08,Garfield Mark S.,Chief Accounting Officer,OFFICER,S,D,953,209.56,199711,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000160231526000004/wk-form4_1768006180.xml
-SERV,2026-01-09,2026-01-08,Read Brian,Chief Financial Officer,CFO,S,D,220,14.30,3146,Y,2,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1832483/000202185426000002/wk-form4_1767996857.xml
-SERV,2026-01-09,2026-01-08,Read Brian,Chief Financial Officer,CFO,S,D,4528,15.88,71905,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1832483/000202185426000002/wk-form4_1767996857.xml
-SERV,2026-01-09,2026-01-08,Abraham Euan,Chief Hardware & Mftg Offcr,OFFICER,S,D,1171,14.30,16745,N,2,,https://www.sec.gov/Archives/edgar/data/1832483/000198355426000002/wk-form4_1767996844.xml
-SERV,2026-01-09,2026-01-08,Parang Touraj,President & COO,PRESIDENT,S,D,4008,14.30,57314,N,2,,https://www.sec.gov/Archives/edgar/data/1832483/000198344126000002/wk-form4_1767996828.xml
-SERV,2026-01-09,2026-01-08,Kashani Ali,Chief Executive Officer,CEO,S,D,9088,14.30,129958,N,2,,https://www.sec.gov/Archives/edgar/data/1832483/000198348926000002/wk-form4_1767996810.xml
-RVLV,2026-01-09,2026-01-07,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,72337,31.16,2254021,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009224/ownership.xml
-RVLV,2026-01-09,2026-01-08,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,52864,31.32,1655700,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009224/ownership.xml
-RVLV,2026-01-09,2026-01-09,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,64655,30.66,1982322,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009224/ownership.xml
-RVLV,2026-01-09,2026-01-09,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,4340,31.05,134757,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009224/ownership.xml
-RVLV,2026-01-09,2026-01-07,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,72337,31.16,2254021,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009223/ownership.xml
-RVLV,2026-01-09,2026-01-08,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,52864,31.32,1655700,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009223/ownership.xml
-RVLV,2026-01-09,2026-01-09,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,64655,30.66,1982322,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009223/ownership.xml
-RVLV,2026-01-09,2026-01-09,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,4340,31.05,134757,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009223/ownership.xml
-RVLV,2026-01-09,2026-01-07,"MMMK Development, Inc.",,OWNER,S,D,72337,31.16,2254021,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009222/ownership.xml
-RVLV,2026-01-09,2026-01-08,"MMMK Development, Inc.",,OWNER,S,D,52864,31.32,1655700,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009222/ownership.xml
-RVLV,2026-01-09,2026-01-09,"MMMK Development, Inc.",,OWNER,S,D,64655,30.66,1982322,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009222/ownership.xml
-RVLV,2026-01-09,2026-01-09,"MMMK Development, Inc.",,OWNER,S,D,4340,31.05,134757,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526009222/ownership.xml
-RNA,2026-01-09,2026-01-07,Boyce Sarah,President and CEO,PRESIDENT,S,D,8576,72.23,619444,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000014/wk-form4_1767996793.xml
-RNA,2026-01-09,2026-01-07,Calderaro Charles III,Chief Technical Officer,OFFICER,S,D,3727,72.23,269201,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000013/wk-form4_1767996787.xml
-RNA,2026-01-09,2026-01-07,McCarthy Teresa,Chief Human Resources Officer,OFFICER,S,D,1965,72.23,141932,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000012/wk-form4_1767996780.xml
-RNA,2026-01-09,2026-01-07,Moriarty John B,Chief Legal Officer,OFFICER,S,D,2374,72.23,171474,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000011/wk-form4_1767996774.xml
-RNA,2026-01-09,2026-01-07,MacLean Michael F,Chief Financial Officer,CFO,S,D,1974,72.23,142582,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000010/wk-form4_1767996769.xml
-RNA,2026-01-09,2026-01-07,Hughes Steven George,Chief Medical Officer,OFFICER,S,D,2373,72.23,171402,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000009/wk-form4_1767996760.xml
-RNA,2026-01-09,2026-01-07,Flanagan W. Michael,Chief Scientific Officer,OFFICER,S,D,2373,72.23,171402,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1599901/000159990126000008/wk-form4_1767996754.xml
-NAVN,2026-01-09,2026-01-07,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,46337,18.11,839163,N,2,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000037/form4-01092026_050119.xml
-NAVN,2026-01-09,2026-01-07,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,46337,18.11,839163,N,2,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000036/form4-01092026_050112.xml
-NAVN,2026-01-09,2026-01-07,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,46337,18.11,839163,N,2,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000035/form4-01092026_050104.xml
-NAVN,2026-01-09,2026-01-07,HOROWITZ BENJAMIN A,,OWNER,P,A,46337,18.11,839163,N,2,,https://www.sec.gov/Archives/edgar/data/1639723/000116658626000004/form4-01092026_050101.xml
 NAMS,2026-01-09,2026-01-07,Davidson Michael H.,Chief Executive Officer,CEO,S,D,11582,,,N,2,,https://www.sec.gov/Archives/edgar/data/1936258/000119312526009272/ownership.xml
-KTOS,2026-01-09,2026-01-07,MILLS THOMAS E IV,"President, C5ISR Division",PRESIDENT,S,D,3323,91.65,304561,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108099726000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,MILLS THOMAS E IV,"President, C5ISR Division",PRESIDENT,S,D,1000,92.56,92564,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108099726000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,MILLS THOMAS E IV,"President, C5ISR Division",PRESIDENT,S,D,2100,93.62,196598,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108099726000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,MILLS THOMAS E IV,"President, C5ISR Division",PRESIDENT,S,D,2100,94.63,198728,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108099726000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,Carter David M,"President, DRSS Division",PRESIDENT,S,D,1800,91.71,165072,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,Carter David M,"President, DRSS Division",PRESIDENT,S,D,700,93.15,65205,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,Carter David M,"President, DRSS Division",PRESIDENT,S,D,1200,94.28,113139,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-07,Carter David M,"President, DRSS Division",PRESIDENT,S,D,300,95.03,28508,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,200,100.03,20005,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,200,102.14,20427,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,1883,103.90,195638,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,2001,104.94,209981,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,1600,105.90,169440,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,1337,106.90,142927,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,602,107.98,65002,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-KTOS,2026-01-09,2026-01-08,Carter David M,"President, DRSS Division",PRESIDENT,S,D,300,109.24,32773,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150941226000002/primary_doc.xml
-EQ,2026-01-09,2026-01-08,Tom Penny,Principal Accounting Officer,OTHER,S,D,6533,1.29,8428,Y,2,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746466/000201218026000001/form4-01092026_100107.xml
-ARLO,2026-01-09,2026-01-09,Busse Brian,GENERAL COUNSEL,OTHER,S,D,18841,13.69,257920,N,2,,https://www.sec.gov/Archives/edgar/data/1736946/000174675126000002/form4-01102026_120135.xml
-ARLO,2026-01-09,2026-01-09,Binder Kurtis Joseph,CHIEF FINANCIAL OFFICER,CFO,S,D,55043,13.69,753500,N,2,,https://www.sec.gov/Archives/edgar/data/1736946/000165473726000003/form4-01102026_120149.xml
-ARLO,2026-01-09,2026-01-09,MCRAE MATTHEW BLAKE,CEO,CEO,S,D,90089,13.69,1233255,N,2,,https://www.sec.gov/Archives/edgar/data/1736946/000165473326000002/form4-01102026_120147.xml
 ANAB,2026-01-09,2026-01-08,Lizzul Paul F.,Chief Medical Officer,OTHER,S,D,3650,44.71,163192,N,2,,https://www.sec.gov/Archives/edgar/data/1370053/000171146226000006/form4-01102026_120159.xml
 ANAB,2026-01-09,2026-01-08,MULROY DENNIS,CHIEF FINANCIAL OFFICER,CFO,S,D,2515,44.71,112446,N,2,,https://www.sec.gov/Archives/edgar/data/1370053/000127684026000006/form4-01102026_120148.xml
 ANAB,2026-01-09,2026-01-08,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,2210,44.71,98809,N,2,,https://www.sec.gov/Archives/edgar/data/1370053/000123964826000006/form4-01102026_120125.xml
 ANAB,2026-01-09,2026-01-08,Faga Daniel,"President, CEO",PRESIDENT,S,D,14281,44.71,638504,N,2,,https://www.sec.gov/Archives/edgar/data/1370053/000167352826000006/form4-01102026_120114.xml
-ZNTL,2026-01-08,2025-12-31,WALTERS GROUP,,10%,P,A,6459973,1.20,7751968,N,3,,https://www.sec.gov/Archives/edgar/data/1725160/000121390026002567/ownership.xml
-RVLV,2026-01-08,2026-01-06,Timmermans Jesse,CHIEF FINANCIAL OFFICER,CFO,S,D,12053,31.51,379790,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526008019/ownership.xml
-RVLV,2026-01-08,2026-01-07,Timmermans Jesse,CHIEF FINANCIAL OFFICER,CFO,S,D,3880,31.50,122220,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526008019/ownership.xml
-RVLV,2026-01-08,2026-01-08,Timmermans Jesse,CHIEF FINANCIAL OFFICER,CFO,S,D,5349,31.51,168547,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312526008019/ownership.xml
+VAC,2026-01-08,2026-01-06,Fitzgerald John D.,See Remarks,OFFICER,P,A,44,61.06,2657,N,3,,https://www.sec.gov/Archives/edgar/data/1524358/000209931126000002/wk-form4_1767913177.xml
+VAC,2026-01-08,2026-01-07,Fitzgerald John D.,See Remarks,OFFICER,P,A,52,61.15,3200,N,3,,https://www.sec.gov/Archives/edgar/data/1524358/000209931126000002/wk-form4_1767913177.xml
+VAC,2026-01-08,2026-01-07,Fitzgerald John D.,See Remarks,OFFICER,P,A,13,61.15,800,N,3,,https://www.sec.gov/Archives/edgar/data/1524358/000209931126000002/wk-form4_1767913177.xml
+QSR,2026-01-08,2026-01-07,Granat Jill,See Remarks,OFFICER,S,D,1925,67.44,129828,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000155202226000006/wk-form4_1767907972.xml
+QSR,2026-01-08,2026-01-07,Friesner Jacqueline,See Remarks,OFFICER,S,D,816,67.44,55015,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000155205126000006/wk-form4_1767907964.xml
+QSR,2026-01-08,2026-01-07,Kobza Joshua,Chief Executive Officer,CEO,S,D,3443,67.44,232220,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000157477126000006/wk-form4_1767907956.xml
+QSR,2026-01-08,2026-01-07,CURTIS THOMAS BENJAMIN,"Pres., BK US & CA",OFFICER,S,D,1172,67.44,79012,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000180472926000007/wk-form4_1767907948.xml
+QSR,2026-01-08,2026-01-07,SANTELMO THIAGO T,"President, International",PRESIDENT,S,D,699,67.44,47152,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000201593626000006/wk-form4_1767907940.xml
+QSR,2026-01-08,2026-01-07,PERDUE PETER,"President, Popeyes-US & Canada",PRESIDENT,S,D,396,67.44,26683,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000209696126000006/wk-form4_1767907931.xml
+QSR,2026-01-08,2026-01-07,Schwan Axel,"Pres., Tim Hortons Americas",OFFICER,S,D,2187,67.44,147475,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000159497726000006/wk-form4_1767907923.xml
+QSR,2026-01-08,2026-01-07,Fulton Duncan,Chief Corporate Officer,OFFICER,S,D,1775,67.48,119799,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000190810226000006/wk-form4_1767907906.xml
+QSR,2026-01-08,2026-01-07,Siddiqui Sami A.,Chief Financial Officer,CFO,S,D,977,67.44,65868,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000182935326000006/wk-form4_1767907898.xml
+QSR,2026-01-08,2026-01-07,Housman Jeffrey,See Remarks,OFFICER,S,D,1483,67.44,100043,N,3,,https://www.sec.gov/Archives/edgar/data/1618756/000190810126000006/wk-form4_1767907889.xml
+MAA,2026-01-08,2026-01-08,Carpenter Melanie,EVP & CHRO,OFFICER,S,D,145,134.98,19572,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000036/form4.xml
+MAA,2026-01-08,2026-01-08,Fairbanks Amber,"EVP, Property Management",OFFICER,S,D,185,134.98,24971,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000032/form4.xml
+MAA,2026-01-08,2026-01-08,Holder Aubrey Clay,"EVP, CFO",OFFICER,S,D,73,134.98,9854,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000030/form4.xml
+MAA,2026-01-08,2026-01-08,Argo Timothy,"EVP, Chief Strategy & Analysis",OFFICER,S,D,53,134.98,7154,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000026/form4.xml
 ANAB,2026-01-08,2026-01-07,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,2017,45.11,90987,Y,3,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1370053/000123964826000004/form4-01082026_090136.xml
 ANAB,2026-01-08,2026-01-07,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,5281,45.38,239672,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964826000004/form4-01082026_090136.xml
 ANAB,2026-01-08,2026-01-07,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,1841,46.13,84926,Y,3,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964826000004/form4-01082026_090136.xml
@@ -72,132 +28,70 @@ ANAB,2026-01-08,2026-01-07,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,500,47.2
 ANAB,2026-01-08,2026-01-07,Lizzul Paul F.,Chief Medical Officer,OTHER,S,D,2235,45.11,100821,N,3,,https://www.sec.gov/Archives/edgar/data/1370053/000171146226000004/form4-01082026_090121.xml
 ANAB,2026-01-08,2026-01-07,Faga Daniel,"President, CEO",PRESIDENT,S,D,9202,45.11,415102,N,3,,https://www.sec.gov/Archives/edgar/data/1370053/000167352826000004/form4-01082026_090111.xml
 ANAB,2026-01-08,2026-01-07,MULROY DENNIS,CHIEF FINANCIAL OFFICER,CFO,S,D,1908,45.11,86070,N,3,,https://www.sec.gov/Archives/edgar/data/1370053/000127684026000004/form4-01082026_090154.xml
-WDAY,2026-01-07,2026-01-05,Eschenbach Carl M.,CEO,CEO,S,D,3125,210.00,656250,Y,4,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000140932426000002/wk-form4_1767830326.xml
-WDAY,2026-01-07,2026-01-06,Kazmaier Gerrit S,"President, Prod. and Tech.",PRESIDENT,S,D,300,206.78,62034,Y,4,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000206077426000002/wk-form4_1767824488.xml
-WDAY,2026-01-07,2026-01-06,Kazmaier Gerrit S,"President, Prod. and Tech.",PRESIDENT,S,D,1200,207.63,249162,Y,4,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000206077426000002/wk-form4_1767824488.xml
-WDAY,2026-01-07,2026-01-06,Kazmaier Gerrit S,"President, Prod. and Tech.",PRESIDENT,S,D,1437,209.27,300720,Y,4,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000206077426000002/wk-form4_1767824488.xml
-WDAY,2026-01-07,2026-01-06,Kazmaier Gerrit S,"President, Prod. and Tech.",PRESIDENT,S,D,822,210.11,172710,Y,4,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1327811/000206077426000002/wk-form4_1767824488.xml
-SERV,2026-01-07,2026-01-06,Dunn Evan,General Counsel,OFFICER,S,D,598,12.81,7660,N,4,,https://www.sec.gov/Archives/edgar/data/1832483/000204043626000002/wk-form4_1767822828.xml
 NAMS,2026-01-07,2026-01-05,Kastelein Johannes Jacob Pieter,Chief Scientific Officer,OTHER,S,D,6000,33.25,199500,N,4,,https://www.sec.gov/Archives/edgar/data/1936258/000119312526006662/ownership.xml
-NAMS,2026-01-07,2026-01-05,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,2647,33.25,88013,N,4,,https://www.sec.gov/Archives/edgar/data/1936258/000119312526006659/ownership.xml
-NAMS,2026-01-07,2026-01-05,Somaiya Mayur Ian,Chief Financial Officer,CFO,S,D,5118,33.25,170174,N,4,,https://www.sec.gov/Archives/edgar/data/1936258/000119312526006658/ownership.xml
-WRBY,2026-01-06,2026-01-06,Blumenthal Neil Harris,Co-Chief Executive Officer,CEO,S,D,50000,24.29,1214500,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926001506/tm262233-2_4seq1.xml
-WRBY,2026-01-06,2026-01-06,Blumenthal Neil Harris,Co-Chief Executive Officer,CEO,S,D,50000,24.99,1249500,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926001506/tm262233-2_4seq1.xml
-WRBY,2026-01-06,2026-01-06,Blumenthal Neil Harris,Co-Chief Executive Officer,CEO,S,D,50000,25.99,1299500,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926001506/tm262233-2_4seq1.xml
-WRBY,2026-01-06,2026-01-02,Gilboa David Abraham,Co-Chief Executive Officer,CEO,S,D,25000,22.46,561500,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926001504/tm262233-1_4seq1.xml
-WRBY,2026-01-06,2026-01-06,Gilboa David Abraham,Co-Chief Executive Officer,CEO,S,D,50000,24.29,1214500,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465926001504/tm262233-1_4seq1.xml
-NAVN,2026-01-06,2026-01-02,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,466058,16.27,7582764,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000015/form4-01062026_060117.xml
-NAVN,2026-01-06,2026-01-05,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,202729,15.77,3197036,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000015/form4-01062026_060117.xml
-NAVN,2026-01-06,2026-01-06,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,308188,16.74,5159067,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000015/form4-01062026_060117.xml
-NAVN,2026-01-06,2026-01-02,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,466058,16.27,7582764,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000014/form4-01062026_060110.xml
-NAVN,2026-01-06,2026-01-05,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,202729,15.77,3197036,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000014/form4-01062026_060110.xml
-NAVN,2026-01-06,2026-01-06,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,308188,16.74,5159067,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000014/form4-01062026_060110.xml
-NAVN,2026-01-06,2026-01-02,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,466058,16.27,7582764,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000013/form4-01062026_060104.xml
-NAVN,2026-01-06,2026-01-05,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,202729,15.77,3197036,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000013/form4-01062026_060104.xml
-NAVN,2026-01-06,2026-01-06,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,308188,16.74,5159067,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000123191926000013/form4-01062026_060104.xml
-NAVN,2026-01-06,2026-01-02,HOROWITZ BENJAMIN A,,OWNER,P,A,466058,16.27,7582764,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000116658626000002/form4-01062026_060102.xml
-NAVN,2026-01-06,2026-01-05,HOROWITZ BENJAMIN A,,OWNER,P,A,202729,15.77,3197036,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000116658626000002/form4-01062026_060102.xml
-NAVN,2026-01-06,2026-01-06,HOROWITZ BENJAMIN A,,OWNER,P,A,308188,16.74,5159067,N,5,,https://www.sec.gov/Archives/edgar/data/1639723/000116658626000002/form4-01062026_060102.xml
-KTOS,2026-01-06,2026-01-05,DEMARCO ERIC M,President & CEO,PRESIDENT,S,D,8301,90.00,747102,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108244026000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-06,DEMARCO ERIC M,President & CEO,PRESIDENT,S,D,189824,90.27,17136039,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108244026000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-06,DEMARCO ERIC M,President & CEO,PRESIDENT,S,D,1875,91.02,170665,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108244026000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-02,Lund Deanna H,EVP & CFO,OFFICER,S,D,800,75.33,60260,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000109471826000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-02,Lund Deanna H,EVP & CFO,OFFICER,S,D,400,76.52,30607,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000109471826000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-02,Lund Deanna H,EVP & CFO,OFFICER,S,D,1796,78.05,140183,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000109471826000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-02,Lund Deanna H,EVP & CFO,OFFICER,S,D,1804,79.04,142589,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000109471826000001/primary_doc.xml
-KTOS,2026-01-06,2026-01-02,Lund Deanna H,EVP & CFO,OFFICER,S,D,200,79.61,15922,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000109471826000001/primary_doc.xml
-HAL,2026-01-06,2026-01-05,Pope Lawrence J,EVP and Chief Admin Officer,OFFICER,S,D,100000,32.25,3225000,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/45012/000135064726000002/wk-form4_1767716507.xml
+NAMS,2026-01-07,2026-01-05,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,2647,33.25,88013,N,5,,https://www.sec.gov/Archives/edgar/data/1936258/000119312526006659/ownership.xml
+NAMS,2026-01-07,2026-01-05,Somaiya Mayur Ian,Chief Financial Officer,CFO,S,D,5118,33.25,170174,N,5,,https://www.sec.gov/Archives/edgar/data/1936258/000119312526006658/ownership.xml
+MAA,2026-01-06,2026-01-06,Fairbanks Amber,"EVP, Property Management",OFFICER,S,D,233,136.50,31804,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000022/form4.xml
+MAA,2026-01-06,2026-01-06,Argo Timothy,"EVP, Chief Strategy & Analysis",OFFICER,S,D,58,136.50,7917,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000020/form4.xml
+MAA,2026-01-06,2026-01-06,Holder Aubrey Clay,"EVP, CFO",OFFICER,S,D,51,136.50,6962,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000014/form4.xml
+MAA,2026-01-06,2026-01-06,Carpenter Melanie,EVP & CHRO,OFFICER,S,D,290,136.50,39585,Y,5,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000009/form4.xml
+HAL,2026-01-06,2026-01-05,Pope Lawrence J,EVP and Chief Admin Officer,OFFICER,S,D,100000,32.25,3225000,Y,6,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/45012/000135064726000002/wk-form4_1767716507.xml
 ANAB,2026-01-06,2026-01-05,Faga Daniel,"President, CEO",PRESIDENT,S,D,15309,43.26,662267,N,5,,https://www.sec.gov/Archives/edgar/data/1370053/000167352826000002/form4-01072026_020125.xml
 ANAB,2026-01-06,2026-01-05,MULROY DENNIS,CHIEF FINANCIAL OFFICER,CFO,S,D,3363,43.26,145483,N,5,,https://www.sec.gov/Archives/edgar/data/1370053/000127684026000002/form4-01072026_020152.xml
 ANAB,2026-01-06,2026-01-05,Lizzul Paul F.,Chief Medical Officer,OTHER,S,D,4219,43.26,182514,N,5,,https://www.sec.gov/Archives/edgar/data/1370053/000171146226000002/form4-01072026_020144.xml
 ANAB,2026-01-06,2026-01-05,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,2983,43.26,129045,N,5,,https://www.sec.gov/Archives/edgar/data/1370053/000123964826000002/form4-01072026_020121.xml
-XENE,2026-01-02,2026-01-02,MORTIMER IAN,PRESIDENT & CEO,PRESIDENT,S,D,37938,44.40,1684447,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1582313/000119312526001172/ownership.xml
-XENE,2026-01-02,2026-01-02,MORTIMER IAN,PRESIDENT & CEO,PRESIDENT,S,D,2062,44.93,92646,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1582313/000119312526001172/ownership.xml
-SERV,2025-12-31,2025-12-31,Read Brian,Chief Financial Officer,CFO,S,D,1863,10.37,19319,N,11,,https://www.sec.gov/Archives/edgar/data/1832483/000202185425000025/wk-form4_1767218805.xml
-KTOS,2025-12-31,2025-12-29,Fendley Steven S.,"President, US Division",PRESIDENT,S,D,6000,76.44,458630,Y,11,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000169543425000019/primary_doc.xml
-KTOS,2025-12-31,2025-12-29,Fendley Steven S.,"President, US Division",PRESIDENT,S,D,1000,77.33,77332,Y,11,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000169543425000019/primary_doc.xml
-NAVN,2025-12-29,2025-12-22,HOROWITZ BENJAMIN A,,OWNER,P,A,334112,15.90,5312381,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000011/form4-12292025_061221.xml
-NAVN,2025-12-29,2025-12-23,HOROWITZ BENJAMIN A,,OWNER,P,A,225484,15.84,3571667,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000011/form4-12292025_061221.xml
-NAVN,2025-12-29,2025-12-24,HOROWITZ BENJAMIN A,,OWNER,P,A,167519,15.83,2651826,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000011/form4-12292025_061221.xml
-NAVN,2025-12-29,2025-12-26,HOROWITZ BENJAMIN A,,OWNER,P,A,229917,15.57,3579808,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000011/form4-12292025_061221.xml
-NAVN,2025-12-29,2025-12-29,HOROWITZ BENJAMIN A,,OWNER,P,A,99502,16.16,1607952,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000011/form4-12292025_061221.xml
-NAVN,2025-12-29,2025-12-22,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,334112,15.90,5312381,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000664/form4-12292025_061215.xml
-NAVN,2025-12-29,2025-12-23,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,225484,15.84,3571667,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000664/form4-12292025_061215.xml
-NAVN,2025-12-29,2025-12-24,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,167519,15.83,2651826,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000664/form4-12292025_061215.xml
-NAVN,2025-12-29,2025-12-26,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,229917,15.57,3579808,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000664/form4-12292025_061215.xml
-NAVN,2025-12-29,2025-12-29,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,99502,16.16,1607952,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000664/form4-12292025_061215.xml
-NAVN,2025-12-29,2025-12-22,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,334112,15.90,5312381,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000663/form4-12292025_061209.xml
-NAVN,2025-12-29,2025-12-23,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,225484,15.84,3571667,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000663/form4-12292025_061209.xml
-NAVN,2025-12-29,2025-12-24,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,167519,15.83,2651826,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000663/form4-12292025_061209.xml
-NAVN,2025-12-29,2025-12-26,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,229917,15.57,3579808,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000663/form4-12292025_061209.xml
-NAVN,2025-12-29,2025-12-29,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,99502,16.16,1607952,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000663/form4-12292025_061209.xml
-NAVN,2025-12-29,2025-12-22,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,334112,15.90,5312381,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000662/form4-12292025_061201.xml
-NAVN,2025-12-29,2025-12-23,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,225484,15.84,3571667,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000662/form4-12292025_061201.xml
-NAVN,2025-12-29,2025-12-24,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,167519,15.83,2651826,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000662/form4-12292025_061201.xml
-NAVN,2025-12-29,2025-12-26,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,229917,15.57,3579808,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000662/form4-12292025_061201.xml
-NAVN,2025-12-29,2025-12-29,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,99502,16.16,1607952,N,13,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000662/form4-12292025_061201.xml
-NAMS,2025-12-29,2025-12-23,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,75117,36.21,2719987,N,13,,https://www.sec.gov/Archives/edgar/data/1936258/000119312525335513/ownership.xml
-NAMS,2025-12-29,2025-12-24,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,26011,35.68,928072,N,13,,https://www.sec.gov/Archives/edgar/data/1936258/000119312525335513/ownership.xml
-NAMS,2025-12-29,2025-12-26,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,43872,35.30,1548682,N,13,,https://www.sec.gov/Archives/edgar/data/1936258/000119312525335513/ownership.xml
-KTOS,2025-12-23,2025-12-22,DEMARCO ERIC M,President & CEO,PRESIDENT,S,D,169441,80.42,13626377,Y,19,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108244025000008/primary_doc.xml
-KTOS,2025-12-23,2025-12-22,DEMARCO ERIC M,President & CEO,PRESIDENT,S,D,30559,81.16,2480175,Y,19,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000108244025000008/primary_doc.xml
-EQ,2025-12-23,2025-12-23,Zedelmayer Christine,Sr. Vice President and COO,PRESIDENT,S,D,100000,1.50,150000,Y,19,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746466/000179781825000007/form4-12232025_091202.xml
+MAA,2026-01-05,2026-01-02,DelPriore Robert J.,"EVP, General Counsel",OFFICER,S,D,5426,138.23,750036,Y,6,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/912595/000091259526000004/form4.xml
+NAMS,2025-12-29,2025-12-23,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,75117,36.21,2719987,N,14,,https://www.sec.gov/Archives/edgar/data/1936258/000119312525335513/ownership.xml
+NAMS,2025-12-29,2025-12-24,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,26011,35.68,928072,N,14,,https://www.sec.gov/Archives/edgar/data/1936258/000119312525335513/ownership.xml
+NAMS,2025-12-29,2025-12-26,Kooij Louise Frederika,Chief Accounting Officer,OTHER,S,D,43872,35.30,1548682,N,14,,https://www.sec.gov/Archives/edgar/data/1936258/000119312525335513/ownership.xml
 ANAB,2025-12-23,2025-12-23,Ware J. Anthony,,OWNER,S,D,3900,49.58,193342,N,19,,https://www.sec.gov/Archives/edgar/data/1370053/000171542925000003/form4-12232025_091216.xml
 ANAB,2025-12-23,2025-12-22,Lizzul Paul F.,Chief Medical Officer,OTHER,S,D,1500,50.00,75000,Y,19,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000171146225000003/form4-12232025_091241.xml
 ANAB,2025-12-23,2025-12-22,MULROY DENNIS,CHIEF FINANCIAL OFFICER,CFO,S,D,10000,50.00,500000,Y,19,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000127684025000004/form4-12232025_091206.xml
 ANAB,2025-12-23,2025-12-22,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,10000,51.00,510000,Y,19,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964825000006/form4-12232025_091230.xml
-RVLV,2025-12-22,2025-12-18,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,88444,28.41,2512694,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329069/ownership.xml
-RVLV,2025-12-22,2025-12-19,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,78619,28.78,2262655,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329069/ownership.xml
-RVLV,2025-12-22,2025-12-22,Mente Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,63045,29.67,1870545,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329069/ownership.xml
-RVLV,2025-12-22,2025-12-18,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,88444,28.41,2512694,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329067/ownership.xml
-RVLV,2025-12-22,2025-12-19,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,78619,28.78,2262655,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329067/ownership.xml
-RVLV,2025-12-22,2025-12-22,Karanikolas Michael,CO-CHIEF EXECUTIVE OFFICER,CEO,S,D,63045,29.67,1870545,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329067/ownership.xml
-RVLV,2025-12-22,2025-12-18,"MMMK Development, Inc.",,OWNER,S,D,88444,28.41,2512694,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329066/ownership.xml
-RVLV,2025-12-22,2025-12-19,"MMMK Development, Inc.",,OWNER,S,D,78619,28.78,2262655,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329066/ownership.xml
-RVLV,2025-12-22,2025-12-22,"MMMK Development, Inc.",,OWNER,S,D,63045,29.67,1870545,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746618/000119312525329066/ownership.xml
-NAVN,2025-12-19,2025-12-17,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,347600,12.65,4397140,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000650/form4-12192025_081216.xml
-NAVN,2025-12-19,2025-12-18,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,103960,13.61,1414896,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000650/form4-12192025_081216.xml
-NAVN,2025-12-19,2025-12-19,"Andreessen Horowitz Fund V, L.P.",,OWNER,P,A,240835,14.70,3540274,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000650/form4-12192025_081216.xml
-NAVN,2025-12-19,2025-12-17,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,347600,12.65,4397140,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000649/form4-12192025_081210.xml
-NAVN,2025-12-19,2025-12-18,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,103960,13.61,1414896,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000649/form4-12192025_081210.xml
-NAVN,2025-12-19,2025-12-19,"Andreessen Horowitz LSV Fund III, L.P.",,OWNER,P,A,240835,14.70,3540274,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000649/form4-12192025_081210.xml
-NAVN,2025-12-19,2025-12-17,HOROWITZ BENJAMIN A,,OWNER,P,A,347600,12.65,4397140,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000009/form4-12192025_081208.xml
-NAVN,2025-12-19,2025-12-18,HOROWITZ BENJAMIN A,,OWNER,P,A,103960,13.61,1414896,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000009/form4-12192025_081208.xml
-NAVN,2025-12-19,2025-12-19,HOROWITZ BENJAMIN A,,OWNER,P,A,240835,14.70,3540274,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000116658625000009/form4-12192025_081208.xml
-NAVN,2025-12-19,2025-12-17,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,347600,12.65,4397140,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000648/form4-12192025_081201.xml
-NAVN,2025-12-19,2025-12-18,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,103960,13.61,1414896,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000648/form4-12192025_081201.xml
-NAVN,2025-12-19,2025-12-19,"Andreessen Horowitz LSV Fund I, L.P.",,OWNER,P,A,240835,14.70,3540274,N,23,,https://www.sec.gov/Archives/edgar/data/1639723/000123191925000648/form4-12192025_081201.xml
-MARA,2025-12-19,2025-12-17,Thiel Frederick G,Chief Executive Officer,CEO,S,D,27505,10.77,296229,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1507605/000149315225028616/ownership.xml
-KTOS,2025-12-19,2025-12-18,Rock Stacey G,"President, KTT Division",PRESIDENT,S,D,2671,70.92,189433,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000134201725000014/primary_doc.xml
-KTOS,2025-12-19,2025-12-18,Rock Stacey G,"President, KTT Division",PRESIDENT,S,D,5878,71.69,421398,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000134201725000014/primary_doc.xml
-WRBY,2025-12-18,2025-12-16,Cutler Joel E,,OWNER,S,D,19932,26.01,518477,N,24,,https://www.sec.gov/Archives/edgar/data/1504776/000090514825004426/form4.xml
-NAVN,2025-12-18,2025-12-17,Williams Anre D,,OWNER,P,A,100000,12.72,1272480,N,24,,https://www.sec.gov/Archives/edgar/data/1639723/000130317025000010/form4-12182025_091236.xml
+TWO,2025-12-22,2025-12-22,Dellal William,Chief Financial Officer,CFO,S,D,7087,11.44,81099,Y,20,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058530/wk-form4_1766438106.xml
+TWO,2025-12-19,2025-12-19,Sandberg Rebecca B,Chief Legal Officer,OFFICER,S,D,27370,11.43,312787,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058360/wk-form4_1766183304.xml
+TWO,2025-12-19,2025-12-19,RUSH ROBERT,Chief Risk Officer,OFFICER,S,D,23594,11.43,269561,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058358/wk-form4_1766183272.xml
+TWO,2025-12-19,2025-12-19,LETICA NICHOLAS,Chief Investment Officer,OFFICER,S,D,55488,11.42,633723,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058356/wk-form4_1766183237.xml
+TWO,2025-12-19,2025-12-19,HANSON ALECIA,Chief Administrative Officer,OFFICER,S,D,10768,11.41,122913,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058354/wk-form4_1766183199.xml
+TWO,2025-12-19,2025-12-19,GREENBERG WILLIAM ROSS,Chief Executive Officer,CEO,S,D,103893,11.42,1186458,Y,23,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058352/wk-form4_1766183157.xml
 ANAB,2025-12-18,2025-12-16,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,8305,44.68,371031,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964825000005/form4-12182025_091200.xml
 ANAB,2025-12-18,2025-12-16,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,4195,45.24,189769,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964825000005/form4-12182025_091200.xml
 ANAB,2025-12-18,2025-12-17,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,10000,46.00,460000,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964825000005/form4-12182025_091200.xml
 ANAB,2025-12-18,2025-12-18,LOUMEAU ERIC J,CHIEF LEGAL OFFICER,OTHER,S,D,141,46.99,6626,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000123964825000005/form4-12182025_091200.xml
 ANAB,2025-12-18,2025-12-16,MULROY DENNIS,CHIEF FINANCIAL OFFICER,CFO,S,D,9365,44.62,417821,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000127684025000003/form4-12182025_091222.xml
 ANAB,2025-12-18,2025-12-16,MULROY DENNIS,CHIEF FINANCIAL OFFICER,CFO,S,D,6360,45.21,287511,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1370053/000127684025000003/form4-12182025_091222.xml
-MARA,2025-12-17,2025-12-15,Khan Salman Hassan,Chief Financial Officer,CFO,S,D,34732,11.48,398723,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1507605/000149315225028231/ownership.xml
-KTOS,2025-12-17,2025-12-15,Mendoza Marie,SVP & General Counsel,OFFICER,S,D,1567,76.27,119515,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000166011225000013/primary_doc.xml
-KTOS,2025-12-17,2025-12-15,Carrai Phillip D,"President, STC Division",PRESIDENT,S,D,4241,75.77,321351,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150940925000013/primary_doc.xml
-KTOS,2025-12-17,2025-12-15,Carrai Phillip D,"President, STC Division",PRESIDENT,S,D,1759,76.24,134100,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000150940925000013/primary_doc.xml
-KTOS,2025-12-17,2025-12-15,ANDERSON SCOTT I,,DIRECTOR,S,D,6300,73.86,465326,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000124362125000004/primary_doc.xml
-KTOS,2025-12-17,2025-12-15,ANDERSON SCOTT I,,DIRECTOR,S,D,6641,74.60,495406,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000124362125000004/primary_doc.xml
-KTOS,2025-12-17,2025-12-15,ANDERSON SCOTT I,,DIRECTOR,S,D,1800,75.77,136392,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000124362125000004/primary_doc.xml
-KTOS,2025-12-17,2025-12-15,ANDERSON SCOTT I,,DIRECTOR,S,D,660,76.30,50358,Y,25,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1069258/000124362125000004/primary_doc.xml
-SERV,2025-12-16,2025-12-15,Armenta Anthony,Chief Software & Data Officer,OFFICER,S,D,5003,11.96,59836,N,26,,https://www.sec.gov/Archives/edgar/data/1832483/000204452025000005/wk-form4_1765922568.xml
+QSR,2025-12-17,2025-12-15,Friesner Jacqueline,See Remarks,OFFICER,S,D,751,70.87,53204,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000155205125000007/wk-form4_1766012184.xml
+QSR,2025-12-17,2025-12-15,Friesner Jacqueline,See Remarks,OFFICER,S,D,689,70.87,48826,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000155205125000007/wk-form4_1766012184.xml
+QSR,2025-12-17,2025-12-15,Friesner Jacqueline,See Remarks,OFFICER,S,D,446,70.87,31608,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000155205125000007/wk-form4_1766012184.xml
+QSR,2025-12-17,2025-12-15,SANTELMO THIAGO T,"President, International",PRESIDENT,S,D,786,70.87,55712,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000201593625000007/wk-form4_1766012176.xml
+QSR,2025-12-17,2025-12-15,SANTELMO THIAGO T,"President, International",PRESIDENT,S,D,545,70.87,38624,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000201593625000007/wk-form4_1766012176.xml
+QSR,2025-12-17,2025-12-15,SANTELMO THIAGO T,"President, International",PRESIDENT,S,D,665,70.87,47160,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000201593625000007/wk-form4_1766012176.xml
+QSR,2025-12-17,2025-12-15,Schwan Axel,"Pres., Tim Hortons Americas",OFFICER,S,D,2300,70.87,162981,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000159497725000008/wk-form4_1766012170.xml
+QSR,2025-12-17,2025-12-15,Schwan Axel,"Pres., Tim Hortons Americas",OFFICER,S,D,1899,70.87,134577,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000159497725000008/wk-form4_1766012170.xml
+QSR,2025-12-17,2025-12-15,Schwan Axel,"Pres., Tim Hortons Americas",OFFICER,S,D,1662,70.87,117767,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000159497725000008/wk-form4_1766012170.xml
+QSR,2025-12-17,2025-12-15,Granat Jill,See Remarks,OFFICER,S,D,4058,70.87,287613,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000155202225000008/wk-form4_1766012163.xml
+QSR,2025-12-17,2025-12-15,Granat Jill,See Remarks,OFFICER,S,D,1257,70.87,89111,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000155202225000008/wk-form4_1766012163.xml
+QSR,2025-12-17,2025-12-15,Siddiqui Sami A.,Chief Financial Officer,CFO,S,D,3164,70.87,224240,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000182935325000007/wk-form4_1766012157.xml
+QSR,2025-12-17,2025-12-15,Siddiqui Sami A.,Chief Financial Officer,CFO,S,D,5549,70.87,393253,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000182935325000007/wk-form4_1766012157.xml
+QSR,2025-12-17,2025-12-15,Siddiqui Sami A.,Chief Financial Officer,CFO,S,D,2200,70.88,155931,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000182935325000007/wk-form4_1766012157.xml
+QSR,2025-12-17,2025-12-15,Kobza Joshua,Chief Executive Officer,CEO,S,D,7937,70.87,562533,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000157477125000007/wk-form4_1766012151.xml
+QSR,2025-12-17,2025-12-15,Kobza Joshua,Chief Executive Officer,CEO,S,D,12315,70.87,872820,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000157477125000007/wk-form4_1766012151.xml
+QSR,2025-12-17,2025-12-15,Kobza Joshua,Chief Executive Officer,CEO,S,D,5220,71.04,370854,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000157477125000007/wk-form4_1766012151.xml
+QSR,2025-12-17,2025-12-15,PERDUE PETER,"President, Popeyes-US & Canada",PRESIDENT,S,D,194,70.87,13777,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000209696125000004/wk-form4_1766012143.xml
+QSR,2025-12-17,2025-12-15,PERDUE PETER,"President, Popeyes-US & Canada",PRESIDENT,S,D,422,70.87,29936,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000209696125000004/wk-form4_1766012143.xml
+QSR,2025-12-17,2025-12-15,PERDUE PETER,"President, Popeyes-US & Canada",PRESIDENT,S,D,291,70.87,20604,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000209696125000004/wk-form4_1766012143.xml
+QSR,2025-12-17,2025-12-15,Housman Jeffrey,See Remarks,OFFICER,S,D,2781,70.87,197093,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000190810125000006/wk-form4_1766012135.xml
+QSR,2025-12-17,2025-12-15,Housman Jeffrey,See Remarks,OFFICER,S,D,3054,70.87,216426,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000190810125000006/wk-form4_1766012135.xml
+QSR,2025-12-17,2025-12-15,Fulton Duncan,Chief Corporate Officer,OFFICER,S,D,1303,70.89,92380,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000190810225000006/wk-form4_1766012126.xml
+QSR,2025-12-17,2025-12-15,Fulton Duncan,Chief Corporate Officer,OFFICER,S,D,1365,70.89,96802,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000190810225000006/wk-form4_1766012126.xml
+QSR,2025-12-17,2025-12-15,Fulton Duncan,Chief Corporate Officer,OFFICER,S,D,862,70.89,61116,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000190810225000006/wk-form4_1766012126.xml
+QSR,2025-12-17,2025-12-15,CURTIS THOMAS BENJAMIN,"Pres., BK US & CA",OFFICER,S,D,979,70.87,69404,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000180472925000007/wk-form4_1766012118.xml
+QSR,2025-12-17,2025-12-15,CURTIS THOMAS BENJAMIN,"Pres., BK US & CA",OFFICER,S,D,1517,70.87,107515,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000180472925000007/wk-form4_1766012118.xml
+QSR,2025-12-17,2025-12-15,CURTIS THOMAS BENJAMIN,"Pres., BK US & CA",OFFICER,S,D,949,70.87,67228,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000180472925000007/wk-form4_1766012118.xml
+QSR,2025-12-17,2025-12-17,CURTIS THOMAS BENJAMIN,"Pres., BK US & CA",OFFICER,S,D,4250,70.48,299540,N,25,,https://www.sec.gov/Archives/edgar/data/1618756/000180472925000007/wk-form4_1766012118.xml
+UMH,2025-12-16,2025-12-15,Carus Jeffrey A,,OWNER,P,A,33,15.25,500,N,26,,https://www.sec.gov/Archives/edgar/data/752642/000075264225000118/form4.xml
+UMH,2025-12-16,2025-12-15,Carus Jeffrey A,,OWNER,P,A,33,15.25,500,N,26,,https://www.sec.gov/Archives/edgar/data/752642/000075264225000118/form4.xml
 MPW,2025-12-16,2025-12-15,Hooper Rosa Handley,SVP of Operations,OTHER,S,D,2000,5.00,10000,N,26,,https://www.sec.gov/Archives/edgar/data/1287865/000119312525321276/ownership.xml
-ZNTL,2025-12-15,2025-12-15,"Matrix Capital Management Company, LP",,10%,S,D,7500000,1.33,9975000,N,27,,https://www.sec.gov/Archives/edgar/data/1725160/000090266425005288/ownership.xml
-WRBY,2025-12-15,2025-12-11,Moon Youngme E,,DIRECTOR,S,D,38832,29.07,1128846,N,27,,https://www.sec.gov/Archives/edgar/data/1504776/000110465925121256/tm2533549-4_4seq1.xml
-WRBY,2025-12-15,2025-12-11,Blumenthal Neil Harris,Co-Chief Executive Officer,CEO,S,D,100000,30.29,3029000,Y,27,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465925121254/tm2533549-3_4seq1.xml
-WRBY,2025-12-15,2025-12-12,Raider Jeffrey Jacob,,DIRECTOR,S,D,25000,27.42,685500,N,27,,https://www.sec.gov/Archives/edgar/data/1504776/000110465925121251/tm2533549-2_4seq1.xml
-WRBY,2025-12-15,2025-12-11,Gilboa David Abraham,Co-Chief Executive Officer,CEO,S,D,200000,30.20,6040000,Y,27,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1504776/000110465925121250/tm2533549-1_4seq1.xml
-SERV,2025-12-15,2025-12-11,Abraham Euan,Chief Hardware & Mftg Offcr,OFFICER,S,D,1917,11.87,22755,N,27,,https://www.sec.gov/Archives/edgar/data/1832483/000198355425000017/wk-form4_1765834831.xml
-SERV,2025-12-15,2025-12-11,Read Brian,Chief Financial Officer,CFO,S,D,371,11.87,4404,N,27,,https://www.sec.gov/Archives/edgar/data/1832483/000202185425000023/wk-form4_1765834811.xml
-SERV,2025-12-15,2025-12-12,Read Brian,Chief Financial Officer,CFO,S,D,6700,13.15,88105,N,27,,https://www.sec.gov/Archives/edgar/data/1832483/000202185425000023/wk-form4_1765834811.xml
-SERV,2025-12-15,2025-12-11,Parang Touraj,President & COO,PRESIDENT,S,D,6300,11.87,74781,N,27,,https://www.sec.gov/Archives/edgar/data/1832483/000198344125000011/wk-form4_1765834791.xml
-SERV,2025-12-15,2025-12-12,Parang Touraj,President & COO,PRESIDENT,S,D,5000,13.07,65350,N,27,,https://www.sec.gov/Archives/edgar/data/1832483/000198344125000011/wk-form4_1765834791.xml
-SERV,2025-12-15,2025-12-11,Kashani Ali,Chief Executive Officer,CEO,S,D,16730,11.87,198585,N,27,,https://www.sec.gov/Archives/edgar/data/1832483/000198348925000011/wk-form4_1765834762.xml
-EQ,2025-12-15,2025-12-12,Zedelmayer Christine,Sr. Vice President and COO,PRESIDENT,S,D,23804,1.34,31897,Y,27,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746466/000179781825000005/form4-12152025_101234.xml
-EQ,2025-12-15,2025-12-15,Zedelmayer Christine,Sr. Vice President and COO,PRESIDENT,S,D,11900,1.31,15589,Y,27,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1746466/000179781825000005/form4-12152025_101234.xml
+AVA,2025-12-16,2025-12-16,Manuel Wayne O,Senior Vice President,PRESIDENT,S,D,1785,38.74,69151,N,26,,https://www.sec.gov/Archives/edgar/data/104918/000197884025000004/primary_doc.xml
+MAA,2025-12-15,2025-12-12,Hill Adrian,"EVP, Chief Investment Officer",OFFICER,P,A,758,131.83,99927,N,27,,https://www.sec.gov/Archives/edgar/data/912595/000091259525000028/form4.xml
+AVA,2025-12-12,2025-12-12,Widmann Janet D.,,DIRECTOR,S,D,7400,38.63,285875,N,30,,https://www.sec.gov/Archives/edgar/data/104918/000161379325000003/primary_doc.xml
