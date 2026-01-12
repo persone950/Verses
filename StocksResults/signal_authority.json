@@ -232,11 +232,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "GM": {
+    "XBI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "INTU": {
+    "PANW": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "TMUS": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "BKNG": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "MDT": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ABT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
