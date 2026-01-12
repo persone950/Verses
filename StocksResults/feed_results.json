@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "GM",
+    "symbol": "XBI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "GM",
-      "price": 82.87,
-      "prev_close": 85.13,
-      "open": 83.51,
-      "high": 84.41,
-      "low": 81.0,
+      "symbol": "XBI",
+      "price": 124.5,
+      "prev_close": 123.71,
+      "open": 125.2,
+      "high": 126.01,
+      "low": 124.15,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "GM",
-        "price": 82.87,
-        "prev_close": 85.13,
-        "open": 83.51,
-        "high": 84.41,
-        "low": 81.0,
+        "symbol": "XBI",
+        "price": 124.5,
+        "prev_close": 123.71,
+        "open": 125.2,
+        "high": 126.01,
+        "low": 124.15,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,7 +1573,35 @@
     "error": null
   },
   {
-    "symbol": "INTU",
+    "symbol": "PANW",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "TMUS",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "BKNG",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "MDT",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "ABT",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
