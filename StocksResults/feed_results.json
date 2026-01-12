@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "AI",
+    "symbol": "CRM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "AI",
-      "price": 14.02,
-      "prev_close": 13.83,
-      "open": 13.96,
-      "high": 14.245,
-      "low": 13.6,
+      "symbol": "CRM",
+      "price": 259.94,
+      "prev_close": 260.53,
+      "open": 260.0,
+      "high": 261.02,
+      "low": 256.509,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "AI",
-        "price": 14.02,
-        "prev_close": 13.83,
-        "open": 13.96,
-        "high": 14.245,
-        "low": 13.6,
+        "symbol": "CRM",
+        "price": 259.94,
+        "prev_close": 260.53,
+        "open": 260.0,
+        "high": 261.02,
+        "low": 256.509,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "CSCO",
+    "symbol": "GM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "CSCO",
-      "price": 73.88,
-      "prev_close": 73.96,
-      "open": 73.45,
-      "high": 74.3281,
-      "low": 73.335,
+      "symbol": "GM",
+      "price": 82.87,
+      "prev_close": 85.13,
+      "open": 83.51,
+      "high": 84.41,
+      "low": 81.0,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "CSCO",
-        "price": 73.88,
-        "prev_close": 73.96,
-        "open": 73.45,
-        "high": 74.3281,
-        "low": 73.335,
+        "symbol": "GM",
+        "price": 82.87,
+        "prev_close": 85.13,
+        "open": 83.51,
+        "high": 84.41,
+        "low": 81.0,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,7 @@
     "error": null
   },
   {
-    "symbol": "CMCSA",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "PINS",
+    "symbol": "INTU",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
