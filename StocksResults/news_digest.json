@@ -2,6 +2,17 @@
   "digest": {
     "AAPL": [
       {
+        "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+        "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "ts": "2026-01-12T02:31:08Z",
+        "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+      },
+      {
         "headline": "A 2025 security breach exposed over 184 million private passwords. How to stay safe while you browse",
         "link": "https://finance.yahoo.com/news/2025-security-breach-exposed-over-161500826.html?.tsrc=rss",
         "source": "yahoo",
@@ -55,17 +66,6 @@
         "title": "Prediction: These 2 Unstoppable Stocks Will Join Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club by 2027",
         "ts": "2026-01-11T08:22:00Z",
         "url": "https://www.fool.com/investing/2026/01/11/prediction-2-unstoppable-stocks-3-trillion/?.tsrc=rss"
-      },
-      {
-        "headline": "'There were huge markups in diamond rings before we came along'",
-        "link": "https://uk.finance.yahoo.com/news/diamonds-online-price-rings-uk-business-060014031.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 06:00:14 +0000",
-        "title": "'There were huge markups in diamond rings before we came along'",
-        "ts": "2026-01-11T06:00:14Z",
-        "url": "https://uk.finance.yahoo.com/news/diamonds-online-price-rings-uk-business-060014031.html?.tsrc=rss"
       }
     ],
     "AMD": [
@@ -818,6 +818,17 @@
     ],
     "INTC": [
       {
+        "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+        "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "ts": "2026-01-12T02:31:08Z",
+        "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+      },
+      {
         "headline": "Top AI stock picks: Is it Nvidia or bust?",
         "link": "https://finance.yahoo.com/video/top-ai-stock-picks-nvidia-130035690.html?.tsrc=rss",
         "source": "yahoo",
@@ -871,17 +882,6 @@
         "title": "Intel Vs. Nvidia At CES 2026: Two Paths Into The $10 Trillion AI Era",
         "ts": "2026-01-10T12:31:08Z",
         "url": "https://finance.yahoo.com/news/intel-vs-nvidia-ces-2026-123108149.html?.tsrc=rss"
-      },
-      {
-        "headline": "Intel Stock Just Keeps Soaring. Is It Too Late to Buy?",
-        "link": "https://www.fool.com/investing/2026/01/10/intel-stock-just-keeps-soaring-is-it-too-late-to-b/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 10 Jan 2026 09:25:00 +0000",
-        "title": "Intel Stock Just Keeps Soaring. Is It Too Late to Buy?",
-        "ts": "2026-01-10T09:25:00Z",
-        "url": "https://www.fool.com/investing/2026/01/10/intel-stock-just-keeps-soaring-is-it-too-late-to-b/?.tsrc=rss"
       }
     ],
     "META": [
@@ -1226,14 +1226,36 @@
     ],
     "NVDA": [
       {
+        "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+        "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "ts": "2026-01-12T02:31:08Z",
+        "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+      },
+      {
+        "headline": "Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026",
+        "link": "https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 12 Jan 2026 02:31:00 +0000",
+        "title": "Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026",
+        "ts": "2026-01-12T02:31:00Z",
+        "url": "https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/?.tsrc=rss"
+      },
+      {
         "headline": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
         "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss",
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Mon, 12 Jan 2026 01:43:39 +0000",
+        "time": "Mon, 12 Jan 2026 02:17:17 +0000",
         "title": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-        "ts": "2026-01-12T01:43:39Z",
+        "ts": "2026-01-12T02:17:17Z",
         "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss"
       },
       {
@@ -1268,28 +1290,6 @@
         "title": "If You'd Invested $100 in Nvidia 10 Years Ago, Here's How Much You'd Have Today",
         "ts": "2026-01-11T23:05:00Z",
         "url": "https://www.fool.com/investing/2026/01/11/if-invest-100-nvidia-stock-10-years-how-much/?.tsrc=rss"
-      },
-      {
-        "headline": "SoundHound AI: Buy or Sell in 2026?",
-        "link": "https://www.fool.com/investing/2026/01/11/soundhound-ai-buy-or-sell-in-2026/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 22:50:00 +0000",
-        "title": "SoundHound AI: Buy or Sell in 2026?",
-        "ts": "2026-01-11T22:50:00Z",
-        "url": "https://www.fool.com/investing/2026/01/11/soundhound-ai-buy-or-sell-in-2026/?.tsrc=rss"
-      },
-      {
-        "headline": "PepsiCo (PEP) Partners with Siemens and NVIDIA to Modernize Plants Using Digital Twins",
-        "link": "https://finance.yahoo.com/news/pepsico-pep-partners-siemens-nvidia-221010626.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 22:10:10 +0000",
-        "title": "PepsiCo (PEP) Partners with Siemens and NVIDIA to Modernize Plants Using Digital Twins",
-        "ts": "2026-01-11T22:10:10Z",
-        "url": "https://finance.yahoo.com/news/pepsico-pep-partners-siemens-nvidia-221010626.html?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1702,6 +1702,17 @@
     ],
     "TSLA": [
       {
+        "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+        "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+        "ts": "2026-01-12T02:31:08Z",
+        "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+      },
+      {
         "headline": "How Elon Musk Turned $2,000 at 17 Into One of the World's Biggest Fortunes",
         "link": "https://finance.yahoo.com/news/elon-musk-turned-2-000-193610541.html?.tsrc=rss",
         "source": "yahoo",
@@ -1755,22 +1766,23 @@
         "title": "3 Reasons to Watch Lucid Stock in 2026",
         "ts": "2026-01-11T13:39:00Z",
         "url": "https://www.fool.com/investing/2026/01/11/3-reasons-to-watch-lucid-stock-in-2026/?.tsrc=rss"
-      },
-      {
-        "headline": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
-        "link": "https://finance.yahoo.com/video/waymo-zoox-tesla-wins-robotaxi-130812499.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 13:08:12 +0000",
-        "title": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
-        "ts": "2026-01-11T13:08:12Z",
-        "url": "https://finance.yahoo.com/video/waymo-zoox-tesla-wins-robotaxi-130812499.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-12T01:49:51Z",
+  "generated_at": "2026-01-12T02:44:37Z",
   "items": [
+    {
+      "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+      "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "ts": "2026-01-12T02:31:08Z",
+      "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+    },
     {
       "headline": "A 2025 security breach exposed over 184 million private passwords. How to stay safe while you browse",
       "link": "https://finance.yahoo.com/news/2025-security-breach-exposed-over-161500826.html?.tsrc=rss",
@@ -1830,18 +1842,6 @@
       "title": "Prediction: These 2 Unstoppable Stocks Will Join Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club by 2027",
       "ts": "2026-01-11T08:22:00Z",
       "url": "https://www.fool.com/investing/2026/01/11/prediction-2-unstoppable-stocks-3-trillion/?.tsrc=rss"
-    },
-    {
-      "headline": "'There were huge markups in diamond rings before we came along'",
-      "link": "https://uk.finance.yahoo.com/news/diamonds-online-price-rings-uk-business-060014031.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Sun, 11 Jan 2026 06:00:14 +0000",
-      "title": "'There were huge markups in diamond rings before we came along'",
-      "ts": "2026-01-11T06:00:14Z",
-      "url": "https://uk.finance.yahoo.com/news/diamonds-online-price-rings-uk-business-060014031.html?.tsrc=rss"
     },
     {
       "headline": "Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.",
@@ -1916,15 +1916,39 @@
       "url": "https://finance.yahoo.com/m/1869d406-2207-3ba5-b1be-d9ede1c58ced/shopify-stock-rallied-on-ai.html?.tsrc=rss"
     },
     {
+      "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+      "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "ts": "2026-01-12T02:31:08Z",
+      "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+    },
+    {
+      "headline": "Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026",
+      "link": "https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Mon, 12 Jan 2026 02:31:00 +0000",
+      "title": "Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026",
+      "ts": "2026-01-12T02:31:00Z",
+      "url": "https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/?.tsrc=rss"
+    },
+    {
       "headline": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
       "link": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "NVDA",
-      "time": "Mon, 12 Jan 2026 01:43:39 +0000",
+      "time": "Mon, 12 Jan 2026 02:17:17 +0000",
       "title": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
-      "ts": "2026-01-12T01:43:39Z",
+      "ts": "2026-01-12T02:17:17Z",
       "url": "https://finance.yahoo.com/m/4b46cb61-5537-3f77-8a86-2784a83a1040/dow-jones-futures-fall-as-fed.html?.tsrc=rss"
     },
     {
@@ -1962,30 +1986,6 @@
       "title": "If You'd Invested $100 in Nvidia 10 Years Ago, Here's How Much You'd Have Today",
       "ts": "2026-01-11T23:05:00Z",
       "url": "https://www.fool.com/investing/2026/01/11/if-invest-100-nvidia-stock-10-years-how-much/?.tsrc=rss"
-    },
-    {
-      "headline": "SoundHound AI: Buy or Sell in 2026?",
-      "link": "https://www.fool.com/investing/2026/01/11/soundhound-ai-buy-or-sell-in-2026/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sun, 11 Jan 2026 22:50:00 +0000",
-      "title": "SoundHound AI: Buy or Sell in 2026?",
-      "ts": "2026-01-11T22:50:00Z",
-      "url": "https://www.fool.com/investing/2026/01/11/soundhound-ai-buy-or-sell-in-2026/?.tsrc=rss"
-    },
-    {
-      "headline": "PepsiCo (PEP) Partners with Siemens and NVIDIA to Modernize Plants Using Digital Twins",
-      "link": "https://finance.yahoo.com/news/pepsico-pep-partners-siemens-nvidia-221010626.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sun, 11 Jan 2026 22:10:10 +0000",
-      "title": "PepsiCo (PEP) Partners with Siemens and NVIDIA to Modernize Plants Using Digital Twins",
-      "ts": "2026-01-11T22:10:10Z",
-      "url": "https://finance.yahoo.com/news/pepsico-pep-partners-siemens-nvidia-221010626.html?.tsrc=rss"
     },
     {
       "headline": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
@@ -2204,6 +2204,18 @@
       "url": "https://www.thestreet.com/investing/stocks/micron-building-massive-memory-fabs-in-new-york-as-supercycle-ramps?.tsrc=rss"
     },
     {
+      "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "TSLA",
+      "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+      "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "ts": "2026-01-12T02:31:08Z",
+      "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+    },
+    {
       "headline": "How Elon Musk Turned $2,000 at 17 Into One of the World's Biggest Fortunes",
       "link": "https://finance.yahoo.com/news/elon-musk-turned-2-000-193610541.html?.tsrc=rss",
       "source": "yahoo",
@@ -2262,18 +2274,6 @@
       "title": "3 Reasons to Watch Lucid Stock in 2026",
       "ts": "2026-01-11T13:39:00Z",
       "url": "https://www.fool.com/investing/2026/01/11/3-reasons-to-watch-lucid-stock-in-2026/?.tsrc=rss"
-    },
-    {
-      "headline": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
-      "link": "https://finance.yahoo.com/video/waymo-zoox-tesla-wins-robotaxi-130812499.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Sun, 11 Jan 2026 13:08:12 +0000",
-      "title": "Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?",
-      "ts": "2026-01-11T13:08:12Z",
-      "url": "https://finance.yahoo.com/video/waymo-zoox-tesla-wins-robotaxi-130812499.html?.tsrc=rss"
     },
     {
       "headline": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?",
@@ -2708,6 +2708,18 @@
       "url": "https://finance.yahoo.com/news/qualcomms-snapdragon-ride-flex-hyundai-162300906.html?.tsrc=rss"
     },
     {
+      "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "link": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "INTC",
+      "time": "Mon, 12 Jan 2026 02:31:08 +0000",
+      "title": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "ts": "2026-01-12T02:31:08Z",
+      "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-could-023108071.html?.tsrc=rss"
+    },
+    {
       "headline": "Top AI stock picks: Is it Nvidia or bust?",
       "link": "https://finance.yahoo.com/video/top-ai-stock-picks-nvidia-130035690.html?.tsrc=rss",
       "source": "yahoo",
@@ -2766,18 +2778,6 @@
       "title": "Intel Vs. Nvidia At CES 2026: Two Paths Into The $10 Trillion AI Era",
       "ts": "2026-01-10T12:31:08Z",
       "url": "https://finance.yahoo.com/news/intel-vs-nvidia-ces-2026-123108149.html?.tsrc=rss"
-    },
-    {
-      "headline": "Intel Stock Just Keeps Soaring. Is It Too Late to Buy?",
-      "link": "https://www.fool.com/investing/2026/01/10/intel-stock-just-keeps-soaring-is-it-too-late-to-b/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "INTC",
-      "time": "Sat, 10 Jan 2026 09:25:00 +0000",
-      "title": "Intel Stock Just Keeps Soaring. Is It Too Late to Buy?",
-      "ts": "2026-01-10T09:25:00Z",
-      "url": "https://www.fool.com/investing/2026/01/10/intel-stock-just-keeps-soaring-is-it-too-late-to-b/?.tsrc=rss"
     },
     {
       "headline": "Analysts Cut ServiceNow (NOW) Price Targets But Stay Positive",
