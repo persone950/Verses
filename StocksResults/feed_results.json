@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "COF",
+    "symbol": "AI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "COF",
-      "price": 249.2,
-      "prev_close": 255.68,
-      "open": 256.0,
-      "high": 256.51,
-      "low": 249.09,
+      "symbol": "AI",
+      "price": 14.02,
+      "prev_close": 13.83,
+      "open": 13.96,
+      "high": 14.245,
+      "low": 13.6,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "COF",
-        "price": 249.2,
-        "prev_close": 255.68,
-        "open": 256.0,
-        "high": 256.51,
-        "low": 249.09,
+        "symbol": "AI",
+        "price": 14.02,
+        "prev_close": 13.83,
+        "open": 13.96,
+        "high": 14.245,
+        "low": 13.6,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "PYPL",
+    "symbol": "CSCO",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "PYPL",
-      "price": 57.66,
-      "prev_close": 58.27,
-      "open": 58.8,
-      "high": 58.86,
-      "low": 57.28,
+      "symbol": "CSCO",
+      "price": 73.88,
+      "prev_close": 73.96,
+      "open": 73.45,
+      "high": 74.3281,
+      "low": 73.335,
       "ts_ms": 1767992400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "PYPL",
-        "price": 57.66,
-        "prev_close": 58.27,
-        "open": 58.8,
-        "high": 58.86,
-        "low": 57.28,
+        "symbol": "CSCO",
+        "price": 73.88,
+        "prev_close": 73.96,
+        "open": 73.45,
+        "high": 74.3281,
+        "low": 73.335,
         "ts_ms": 1767992400000,
         "source": "finnhub"
       }
@@ -1573,14 +1573,14 @@
     "error": null
   },
   {
-    "symbol": "ABT",
+    "symbol": "CMCSA",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "BKNG",
+    "symbol": "PINS",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
