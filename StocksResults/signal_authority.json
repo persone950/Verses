@@ -228,23 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMUS": {
+    "AXP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABNB": {
+    "SOFI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "INTU": {
+    "GM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "F": {
+    "PINS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLE": {
+    "T": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
