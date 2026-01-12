@@ -1,2 +1,0 @@
-Ticker,Flag,Score14d,Score30d,ScoreBlend,Buyers14d,TotalBuy$14d,C_Suite14d,LastBuyAgeDays,Notes,DataQuality
-—,—,—,—,—,—,—,—,—,Missing SEC_USER_AGENT in live_feeds.env,LOW
