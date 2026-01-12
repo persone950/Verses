@@ -228,19 +228,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "AI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PYPL": {
+    "CSCO": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABT": {
+    "CMCSA": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "BKNG": {
+    "PINS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
