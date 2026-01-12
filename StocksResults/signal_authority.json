@@ -228,19 +228,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AI": {
+    "CRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CSCO": {
+    "GM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CMCSA": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "PINS": {
+    "INTU": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
