@@ -1,0 +1,8 @@
+{
+  "ts_et": "2026-01-11T22:20:54.529291-05:00",
+  "risk_gate": {
+    "hedge_required": true,
+    "low_quality": true
+  },
+  "reasons": []
+}
