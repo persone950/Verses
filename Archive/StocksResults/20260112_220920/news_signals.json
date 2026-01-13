@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-13T01:12:58Z",
+  "signals": {
+    "AAPL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Heard on the Street Recap: Central Bank Shot",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Advanced Micro Devices (AMD) Outperforms Broader Market: What You Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "BigBear.ai Holdings, Inc. (BBAI) Beats Stock Market Upswing: What Investors Need to Know",
+      "news_score": 3,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Prediction Markets Face a New Test This Earnings Season",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "CRWD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "CrowdStrike and Nord Security Announce Strategic Partnership to Redefine SMB Cybersecurity",
+      "news_score": 3,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "GOOGL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Did Toast\u2019s New AI-Powered Retail Upgrades Just Shift Toast's (TOST) Investment Narrative?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Robinhood Markets, Inc. (HOOD) Surpasses Market Returns: Some Facts Worth Knowing",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Forget LLMs: Buy these 3 AI \"Pick and Shovel\" Plays Instead",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "INSM Stock Jumps on 2025 Preliminary Sales, 2026 Goals Announced",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Intel (INTC) Stock Sinks As Market Gains: Here's Why",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Meta Platforms (META) Stock Sinks As Market Gains: Here's Why",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Forget LLMs: Buy these 3 AI \"Pick and Shovel\" Plays Instead",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Nvidia Push Into NAND Fuels Global Memory Crunch",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Paramount Sues Warner Bros., Plans Proxy Fight. The Ellisons Aren\u2019t Giving Up.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "NetApp Appoints Paul Fipps to the Board of Directors",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why Serve Robotics (SERV) Is Up 13.1% After NVIDIA CEO Jensen Huang\u2019s \u201cPhysical AI\u201d Endorsement",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "BC-Most Active Stocks",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Paramount Sues Warner Bros., Plans Proxy Fight. The Ellisons Aren\u2019t Giving Up.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Qualcomm (QCOM) Stock Trades Down, Here Is Why",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Will Rigetti Computing Stock Make You a Millionaire?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid US DOJ Investigation Into Fed Chair Powell",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
