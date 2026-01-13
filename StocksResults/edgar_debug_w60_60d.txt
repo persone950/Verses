@@ -4,12 +4,12 @@ Content-Type: application/atom+xml
 First600:
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Latest Filings - Mon, 12 Jan 2026 20:16:12 EST</title>
+<title>Latest Filings - Mon, 12 Jan 2026 22:16:00 EST</title>
 <link rel="alternate" href="/cgi-bin/browse-edgar?action=getcurrent"/>
 <link rel="self" href="/cgi-bin/browse-edgar?action=getcurrent"/>
 <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent</id>
 <author><name>Webmaster</name><email>webmaster@sec.gov</email></author>
-<updated>2026-01-12T20:16:12-05:00</updated>
+<updated>2026-01-12T22:16:00-05:00</updated>
 <entry>
-<title>4 - Wells David R. (0001480371) (Reporting)</title>
-<link rel="alternate" type="text/html" href="https://www.sec.
+<title>4 - Foresite Labs Affiliates 2021, LLC (0002028005) (Reporting)</title>
+<link rel="alternate" type="text/html" hr
