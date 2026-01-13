@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "LMT",
+    "symbol": "INTU",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LMT",
-      "price": 551.24,
-      "prev_close": 542.92,
-      "open": 548.96,
-      "high": 554.27,
-      "low": 540.31,
+      "symbol": "INTU",
+      "price": 635.44,
+      "prev_close": 646.9,
+      "open": 640.1,
+      "high": 642.96,
+      "low": 628.64,
       "ts_ms": 1768251600000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LMT",
-        "price": 551.24,
-        "prev_close": 542.92,
-        "open": 548.96,
-        "high": 554.27,
-        "low": 540.31,
+        "symbol": "INTU",
+        "price": 635.44,
+        "prev_close": 646.9,
+        "open": 640.1,
+        "high": 642.96,
+        "low": 628.64,
         "ts_ms": 1768251600000,
         "source": "finnhub"
       }
@@ -1573,7 +1573,28 @@
     "error": null
   },
   {
-    "symbol": "OXY",
+    "symbol": "LOW",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "AI",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "DDOG",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "CRM",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
@@ -1581,27 +1602,6 @@
   },
   {
     "symbol": "AMGN",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "GM",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "SQ",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "RTX",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
