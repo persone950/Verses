@@ -546,6 +546,17 @@
     ],
     "GOOGL": [
       {
+        "headline": "Aurigo Accelerates Growth Strategy with Appointment of Veteran HR Executive Divya Kiran",
+        "link": "https://finance.yahoo.com/news/aurigo-accelerates-growth-strategy-appointment-032700543.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Tue, 13 Jan 2026 03:27:00 +0000",
+        "title": "Aurigo Accelerates Growth Strategy with Appointment of Veteran HR Executive Divya Kiran",
+        "ts": "2026-01-13T03:27:00Z",
+        "url": "https://finance.yahoo.com/news/aurigo-accelerates-growth-strategy-appointment-032700543.html?.tsrc=rss"
+      },
+      {
         "headline": "5 Unstoppable Stocks to Buy With $5,000 for 2026",
         "link": "https://www.fool.com/investing/2026/01/12/5-unstoppable-stocks-to-buy-with-5000-for-2026/?.tsrc=rss",
         "source": "yahoo",
@@ -599,20 +610,20 @@
         "title": "Stock Market Today, Jan. 12: Markets Dip on DOJ Powell Probe, Rebound With Alphabet",
         "ts": "2026-01-12T23:14:55Z",
         "url": "https://www.fool.com/coverage/stock-market-today/2026/01/12/stock-market-today-jan-12-markets-open-down-after-doj-opens-investigation-on-powell-but-rebounds-with-alphabet/?.tsrc=rss"
-      },
-      {
-        "headline": "Apple Investors Are Still Waiting for an AI Siri. A New Deal With Google Could Help It Deliver",
-        "link": "https://www.investopedia.com/apple-investors-are-still-waiting-for-an-ai-siri-a-new-deal-with-google-could-help-it-deliver-11883948?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 12 Jan 2026 22:52:32 +0000",
-        "title": "Apple Investors Are Still Waiting for an AI Siri. A New Deal With Google Could Help It Deliver",
-        "ts": "2026-01-12T22:52:32Z",
-        "url": "https://www.investopedia.com/apple-investors-are-still-waiting-for-an-ai-siri-a-new-deal-with-google-could-help-it-deliver-11883948?.tsrc=rss"
       }
     ],
     "HOOD": [
+      {
+        "headline": "Robinhood\u2019s Blockchain and Prediction Markets Pivot Might Change The Case For Investing In Robinhood Markets (HOOD)",
+        "link": "https://finance.yahoo.com/news/robinhood-blockchain-prediction-markets-pivot-031108618.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Tue, 13 Jan 2026 03:11:08 +0000",
+        "title": "Robinhood\u2019s Blockchain and Prediction Markets Pivot Might Change The Case For Investing In Robinhood Markets (HOOD)",
+        "ts": "2026-01-13T03:11:08Z",
+        "url": "https://finance.yahoo.com/news/robinhood-blockchain-prediction-markets-pivot-031108618.html?.tsrc=rss"
+      },
       {
         "headline": "Robinhood Markets, Inc. (HOOD) Surpasses Market Returns: Some Facts Worth Knowing",
         "link": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-surpasses-224507178.html?.tsrc=rss",
@@ -667,17 +678,6 @@
         "title": "Can These 3 Companies Turn the Prediction Market Sector Into Serious Profit?",
         "ts": "2026-01-11T15:35:00Z",
         "url": "https://www.fool.com/investing/2026/01/11/turn-prediction-market-profit-dkng-hood-flut/?.tsrc=rss"
-      },
-      {
-        "headline": "A $400,000 payout after Maduro's capture is putting prediction markets in the spotlight",
-        "link": "https://finance.yahoo.com/news/400-000-payout-maduros-capture-141046443.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 11 Jan 2026 14:10:46 +0000",
-        "title": "A $400,000 payout after Maduro's capture is putting prediction markets in the spotlight",
-        "ts": "2026-01-11T14:10:46Z",
-        "url": "https://finance.yahoo.com/news/400-000-payout-maduros-capture-141046443.html?.tsrc=rss"
       }
     ],
     "IBM": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-13T03:12:57Z",
+  "generated_at": "2026-01-13T04:25:31Z",
   "items": [
     {
       "headline": "Behind the Unraveling of Apple\u2019s Credit-Card Partnership With Goldman Sachs",
@@ -1988,6 +1988,18 @@
       "url": "https://finance.yahoo.com/news/why-serve-robotics-serv-13-001819622.html?.tsrc=rss"
     },
     {
+      "headline": "Aurigo Accelerates Growth Strategy with Appointment of Veteran HR Executive Divya Kiran",
+      "link": "https://finance.yahoo.com/news/aurigo-accelerates-growth-strategy-appointment-032700543.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Tue, 13 Jan 2026 03:27:00 +0000",
+      "title": "Aurigo Accelerates Growth Strategy with Appointment of Veteran HR Executive Divya Kiran",
+      "ts": "2026-01-13T03:27:00Z",
+      "url": "https://finance.yahoo.com/news/aurigo-accelerates-growth-strategy-appointment-032700543.html?.tsrc=rss"
+    },
+    {
       "headline": "5 Unstoppable Stocks to Buy With $5,000 for 2026",
       "link": "https://www.fool.com/investing/2026/01/12/5-unstoppable-stocks-to-buy-with-5000-for-2026/?.tsrc=rss",
       "source": "yahoo",
@@ -2046,18 +2058,6 @@
       "title": "Stock Market Today, Jan. 12: Markets Dip on DOJ Powell Probe, Rebound With Alphabet",
       "ts": "2026-01-12T23:14:55Z",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/01/12/stock-market-today-jan-12-markets-open-down-after-doj-opens-investigation-on-powell-but-rebounds-with-alphabet/?.tsrc=rss"
-    },
-    {
-      "headline": "Apple Investors Are Still Waiting for an AI Siri. A New Deal With Google Could Help It Deliver",
-      "link": "https://www.investopedia.com/apple-investors-are-still-waiting-for-an-ai-siri-a-new-deal-with-google-could-help-it-deliver-11883948?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Mon, 12 Jan 2026 22:52:32 +0000",
-      "title": "Apple Investors Are Still Waiting for an AI Siri. A New Deal With Google Could Help It Deliver",
-      "ts": "2026-01-12T22:52:32Z",
-      "url": "https://www.investopedia.com/apple-investors-are-still-waiting-for-an-ai-siri-a-new-deal-with-google-could-help-it-deliver-11883948?.tsrc=rss"
     },
     {
       "headline": "Why Alibaba Stock Soared Today",
@@ -3428,6 +3428,18 @@
       "url": "https://www.fool.com/investing/2026/01/09/why-opendoor-stock-is-up-today/?.tsrc=rss"
     },
     {
+      "headline": "Robinhood\u2019s Blockchain and Prediction Markets Pivot Might Change The Case For Investing In Robinhood Markets (HOOD)",
+      "link": "https://finance.yahoo.com/news/robinhood-blockchain-prediction-markets-pivot-031108618.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "HOOD",
+      "time": "Tue, 13 Jan 2026 03:11:08 +0000",
+      "title": "Robinhood\u2019s Blockchain and Prediction Markets Pivot Might Change The Case For Investing In Robinhood Markets (HOOD)",
+      "ts": "2026-01-13T03:11:08Z",
+      "url": "https://finance.yahoo.com/news/robinhood-blockchain-prediction-markets-pivot-031108618.html?.tsrc=rss"
+    },
+    {
       "headline": "Robinhood Markets, Inc. (HOOD) Surpasses Market Returns: Some Facts Worth Knowing",
       "link": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-surpasses-224507178.html?.tsrc=rss",
       "source": "yahoo",
@@ -3486,18 +3498,6 @@
       "title": "Can These 3 Companies Turn the Prediction Market Sector Into Serious Profit?",
       "ts": "2026-01-11T15:35:00Z",
       "url": "https://www.fool.com/investing/2026/01/11/turn-prediction-market-profit-dkng-hood-flut/?.tsrc=rss"
-    },
-    {
-      "headline": "A $400,000 payout after Maduro's capture is putting prediction markets in the spotlight",
-      "link": "https://finance.yahoo.com/news/400-000-payout-maduros-capture-141046443.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "HOOD",
-      "time": "Sun, 11 Jan 2026 14:10:46 +0000",
-      "title": "A $400,000 payout after Maduro's capture is putting prediction markets in the spotlight",
-      "ts": "2026-01-11T14:10:46Z",
-      "url": "https://finance.yahoo.com/news/400-000-payout-maduros-capture-141046443.html?.tsrc=rss"
     },
     {
       "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid US DOJ Investigation Into Fed Chair Powell",
