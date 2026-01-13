@@ -232,27 +232,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LMT": {
+    "INTU": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "OXY": {
+    "LOW": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "AI": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "DDOG": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "CRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
     "AMGN": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "GM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "SQ": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RTX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
