@@ -1,11 +1,7 @@
 Ticker,Flag,Score14d,Score30d,ScoreBlend,Buyers14d,TotalBuy$14d,C_Suite14d,LastBuyAgeDays,Notes,DataQuality
-ANAB,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-MPW,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-AVA,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-QSR,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-VAC,HIGH-CONVICTION,68.8,68.8,68.8,1,6657,N,3,,OK
+PGR,NONE,0.0,0.0,0.0,0,0,N,—,,OK
 UMH,NONE,0.0,27.0,8.1,0,0,N,—,,OK
+MPW,NONE,0.0,0.0,0.0,0,0,N,—,,OK
 TWO,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-MAA,NONE,0.0,70.0,21.0,0,0,N,—,,OK
-NAMS,NONE,0.0,0.0,0.0,0,0,N,—,,OK
 HAL,NONE,0.0,0.0,0.0,0,0,N,—,,OK
+AM,NONE,0.0,0.0,0.0,0,0,N,—,,OK
