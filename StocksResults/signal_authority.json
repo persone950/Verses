@@ -228,31 +228,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CRM": {
+    "DDOG": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XBI": {
+    "LOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PANW": {
+    "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMUS": {
+    "NET": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "BKNG": {
+    "RBLX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "MDT": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ABT": {
+    "XLE": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
