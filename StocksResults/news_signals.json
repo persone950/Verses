@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T04:52:27Z",
+  "generated_at": "2026-01-13T01:12:58Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "TSMC Q4 profit poised to soar 27% as AI demand drives growth",
+      "headline": "Heard on the Street Recap: Central Bank Shot",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -14,7 +14,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?",
+      "headline": "Advanced Micro Devices (AMD) Outperforms Broader Market: What You Need to Know",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -23,7 +23,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "'That's A Dumb Thing To Think,' Dave Ramsey Snaps As 29-Year-Old Making $50K Explains Why She Took On A $14K Car Loan With $77K In Debt",
+      "headline": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?",
+      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -41,34 +41,34 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "BigBear.ai forms AI-driven partnership with Kraft Group and Patriots",
-      "news_score": 2,
+      "headline": "BigBear.ai Holdings, Inc. (BBAI) Beats Stock Market Upswing: What Investors Need to Know",
+      "news_score": 3,
       "risk_flags": [],
       "tag": "NEWS+"
     },
     "COIN": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Bernstein Gives Coinbase (COIN) an Outperform Rating Amid Tokenization Supercycle Outlook",
-      "news_score": 1,
+      "headline": "Prediction Markets Face a New Test This Earnings Season",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "CRWD": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer Discusses CrowdStrike After Jensen Huang\u2019s Endorsement",
-      "news_score": -1,
+      "headline": "CrowdStrike and Nord Security Announce Strategic Partnership to Redefine SMB Cybersecurity",
+      "news_score": 3,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "GOOGL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Ant International Partners with Google\u2019s Universal Commerce Protocol to Expand AI Capabilities",
+      "headline": "Did Toast\u2019s New AI-Powered Retail Upgrades Just Shift Toast's (TOST) Investment Narrative?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -77,8 +77,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Can These 3 Companies Turn the Prediction Market Sector Into Serious Profit?",
-      "news_score": 0,
+      "headline": "Robinhood Markets, Inc. (HOOD) Surpasses Market Returns: Some Facts Worth Knowing",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -86,7 +86,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Want to Invest in Quantum Computing? These 3 Stocks Are Great Buys Right Now.",
+      "headline": "Forget LLMs: Buy these 3 AI \"Pick and Shovel\" Plays Instead",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -95,7 +95,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is It Too Late To Reassess Insmed (INSM) After Its Huge Share Price Surge?",
+      "headline": "INSM Stock Jumps on 2025 Preliminary Sales, 2026 Goals Announced",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -104,7 +104,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "headline": "Intel (INTC) Stock Sinks As Market Gains: Here's Why",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -113,8 +113,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "US futures slip while Asian shares gain as Fed chair Powell faces legal threat",
-      "news_score": 0,
+      "headline": "Meta Platforms (META) Stock Sinks As Market Gains: Here's Why",
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
@@ -122,8 +122,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.",
-      "news_score": 0,
+      "headline": "Forget LLMs: Buy these 3 AI \"Pick and Shovel\" Plays Instead",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -131,7 +131,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Micron makes massive move as supercycle ramps",
+      "headline": "Nvidia Push Into NAND Fuels Global Memory Crunch",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -140,8 +140,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix (NFLX) Welcomes WBD Board of Directors\u2019 Commitment To Merger Agreement",
-      "news_score": 1,
+      "headline": "Paramount Sues Warner Bros., Plans Proxy Fight. The Ellisons Aren\u2019t Giving Up.",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -149,7 +149,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Analysts Cut ServiceNow (NOW) Price Targets But Stay Positive",
+      "headline": "NetApp Appoints Paul Fipps to the Board of Directors",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
@@ -158,8 +158,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "TSMC Q4 profit poised to soar 27% as AI demand drives growth",
-      "news_score": -1,
+      "headline": "Why Serve Robotics (SERV) Is Up 13.1% After NVIDIA CEO Jensen Huang\u2019s \u201cPhysical AI\u201d Endorsement",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -167,7 +167,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is This Once-Hyped Stock Finally Worth a Second Look?",
+      "headline": "BC-Most Active Stocks",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -176,8 +176,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "'Big Short' Investor Michael Burry Bets Against Oracle\u2014Here's His Advice",
-      "news_score": -1,
+      "headline": "Paramount Sues Warner Bros., Plans Proxy Fight. The Ellisons Aren\u2019t Giving Up.",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -185,8 +185,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "'Look Out Palantir Shorts'\u2014Did Cramer Curse Just Hit The Stock?",
-      "news_score": 0,
+      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -194,8 +194,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "MarketBeat Week in Review \u2013 01/05 - 01/09",
-      "news_score": 0,
+      "headline": "Qualcomm (QCOM) Stock Trades Down, Here Is Why",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -203,7 +203,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Rigetti Computing Stock a Buy or Sell After a Director Dumped Shares Worth $1.3 Million?",
+      "headline": "Will Rigetti Computing Stock Make You a Millionaire?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -212,7 +212,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Jobs Report Release",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid US DOJ Investigation Into Fed Chair Powell",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -221,7 +221,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Apple CEO Tim Cook Could Buy 92,984 iPhone 17s With His 2025 Compensation",
+      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
