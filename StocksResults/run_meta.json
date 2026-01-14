@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "backend_version": "pythonista_backend_v0.11.0",
-  "phase": "OFF-CYCLE",
+  "phase": "EOD",
   "data_mode": "LIVE",
   "timestamps": {
-    "et": "2026-01-14T00:11:49.568977-05:00",
-    "gmt": "2026-01-14T05:11:49.568977+00:00",
-    "local": "2026-01-14T00:11:49.568987-05:00"
+    "et": "2026-01-14T18:08:25.590378-05:00",
+    "gmt": "2026-01-14T23:08:25.590378+00:00",
+    "local": "2026-01-14T18:08:25.590390-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -64,15 +64,15 @@
     "feed_results.csv": 64,
     "feed_results_table.csv": 64,
     "ml_signals.csv": 0,
-    "options_chain.csv": 142086,
-    "options_summary.csv": 142086,
-    "premium_candidates_all.csv": 3703,
+    "options_chain.csv": 138634,
+    "options_summary.csv": 138634,
+    "premium_candidates_all.csv": 3990,
     "premium_candidates.csv": 20,
     "premium_topN.csv": 20,
     "portfolio_totals.csv": 2
   },
   "phase_source": "CLOCK",
-  "detected_phase": "OFF-CYCLE",
+  "detected_phase": "EOD",
   "override": {
     "enabled": false,
     "value": null
