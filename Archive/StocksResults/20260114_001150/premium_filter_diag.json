@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-01-13T23:50:09.967229-05:00",
+  "mode_selected": "STRICT",
+  "relaxed": false,
+  "input_rows": 139104,
+  "strict_pass": 3791,
+  "balanced_pass": 11134,
+  "final_pass": 20,
+  "per_reason": {
+    "oi_too_low_strict": 65117,
+    "oi_too_low_balanced": 68213,
+    "vol_too_low_balanced": 6647,
+    "vol_too_low_strict": 9206,
+    "dte_out_of_range_strict": 6078,
+    "spread_too_wide_strict": 49363,
+    "spread_too_wide_balanced": 38532,
+    "dte_out_of_range_balanced": 9029,
+    "no_iv": 545,
+    "bad_dte": 336,
+    "no_underlying_price": 4668
+  },
+  "core_requested": 5,
+  "movers_requested": 5,
+  "core_selected": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "GOOGL",
+    "META"
+  ],
+  "movers_selected": [],
+  "per_ticker_target": 4,
+  "per_side_target": 2,
+  "target_total_rows": 40,
+  "actual_total_rows": 20
+}
