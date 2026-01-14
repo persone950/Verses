@@ -13,6 +13,17 @@
         "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
       },
       {
+        "headline": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+        "link": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Wed, 14 Jan 2026 01:48:19 +0000",
+        "title": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+        "ts": "2026-01-14T01:48:19Z",
+        "url": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss"
+      },
+      {
         "headline": "Review & Preview: JPMorgan Drags Down Stocks",
         "link": "https://finance.yahoo.com/m/042bb7f7-aa10-3e5d-ac6d-bd34d030b42a/review-%26-preview%3A-jpmorgan.html?.tsrc=rss",
         "source": "yahoo",
@@ -55,17 +66,6 @@
         "title": "Google Is Now the AI Top Company. Alphabet Stock Keeps Rising Past $4 Trillion Milestone.",
         "ts": "2026-01-13T21:37:00Z",
         "url": "https://finance.yahoo.com/m/34d90ae3-2b1c-35e4-b8b3-ea93fa4d00a3/google-is-now-the-ai-top.html?.tsrc=rss"
-      },
-      {
-        "headline": "Intel Stocks Surges. It\u2019s Shaping Up to Be a Good Year for Chip Makers.",
-        "link": "https://finance.yahoo.com/m/662cdb04-c03b-3ce7-94f5-128610f7209f/intel-stocks-surges.-it%E2%80%99s.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 13 Jan 2026 21:33:00 +0000",
-        "title": "Intel Stocks Surges. It\u2019s Shaping Up to Be a Good Year for Chip Makers.",
-        "ts": "2026-01-13T21:33:00Z",
-        "url": "https://finance.yahoo.com/m/662cdb04-c03b-3ce7-94f5-128610f7209f/intel-stocks-surges.-it%E2%80%99s.html?.tsrc=rss"
       }
     ],
     "AMD": [
@@ -568,6 +568,17 @@
         "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
       },
       {
+        "headline": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+        "link": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Wed, 14 Jan 2026 01:48:19 +0000",
+        "title": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+        "ts": "2026-01-14T01:48:19Z",
+        "url": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss"
+      },
+      {
         "headline": "Alphabet Inc. (GOOG) Advances While Market Declines: Some Information for Investors",
         "link": "https://finance.yahoo.com/news/alphabet-inc-goog-advances-while-224506249.html?.tsrc=rss",
         "source": "yahoo",
@@ -599,17 +610,6 @@
         "title": "Trump's $1.5 Trillion Military Budget Is Sending This Drone Stock Soaring: Momentum Score Spikes",
         "ts": "2026-01-13T22:31:32Z",
         "url": "https://finance.yahoo.com/news/trumps-1-5-trillion-military-223132268.html?.tsrc=rss"
-      },
-      {
-        "headline": "Trump\u2019s power play risks slowing US in AI arms race",
-        "link": "https://finance.yahoo.com/news/trump-power-play-risks-slowing-220931408.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 13 Jan 2026 22:09:31 +0000",
-        "title": "Trump\u2019s power play risks slowing US in AI arms race",
-        "ts": "2026-01-13T22:09:31Z",
-        "url": "https://finance.yahoo.com/news/trump-power-play-risks-slowing-220931408.html?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-14T04:47:50Z",
+  "generated_at": "2026-01-14T05:05:50Z",
   "items": [
     {
       "headline": "Elon Musk has strong words on new Apple-Google AI move",
@@ -1782,6 +1782,18 @@
       "title": "Elon Musk has strong words on new Apple-Google AI move",
       "ts": "2026-01-14T03:33:00Z",
       "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
+    },
+    {
+      "headline": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+      "link": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Wed, 14 Jan 2026 01:48:19 +0000",
+      "title": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+      "ts": "2026-01-14T01:48:19Z",
+      "url": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss"
     },
     {
       "headline": "Review & Preview: JPMorgan Drags Down Stocks",
@@ -1830,18 +1842,6 @@
       "title": "Google Is Now the AI Top Company. Alphabet Stock Keeps Rising Past $4 Trillion Milestone.",
       "ts": "2026-01-13T21:37:00Z",
       "url": "https://finance.yahoo.com/m/34d90ae3-2b1c-35e4-b8b3-ea93fa4d00a3/google-is-now-the-ai-top.html?.tsrc=rss"
-    },
-    {
-      "headline": "Intel Stocks Surges. It\u2019s Shaping Up to Be a Good Year for Chip Makers.",
-      "link": "https://finance.yahoo.com/m/662cdb04-c03b-3ce7-94f5-128610f7209f/intel-stocks-surges.-it%E2%80%99s.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Tue, 13 Jan 2026 21:33:00 +0000",
-      "title": "Intel Stocks Surges. It\u2019s Shaping Up to Be a Good Year for Chip Makers.",
-      "ts": "2026-01-13T21:33:00Z",
-      "url": "https://finance.yahoo.com/m/662cdb04-c03b-3ce7-94f5-128610f7209f/intel-stocks-surges.-it%E2%80%99s.html?.tsrc=rss"
     },
     {
       "headline": "Palantir Is Poised to Mint 10,000 Millionaires. Will You Be One of Them?",
@@ -2012,6 +2012,18 @@
       "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
     },
     {
+      "headline": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+      "link": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Wed, 14 Jan 2026 01:48:19 +0000",
+      "title": "What Apple\u2019s AI deal with Google means for the two tech giants, and for $500 billion \u2018upstart\u2019 OpenAI",
+      "ts": "2026-01-14T01:48:19Z",
+      "url": "https://finance.yahoo.com/news/apple-ai-deal-google-means-014819582.html?.tsrc=rss"
+    },
+    {
       "headline": "Alphabet Inc. (GOOG) Advances While Market Declines: Some Information for Investors",
       "link": "https://finance.yahoo.com/news/alphabet-inc-goog-advances-while-224506249.html?.tsrc=rss",
       "source": "yahoo",
@@ -2046,18 +2058,6 @@
       "title": "Trump's $1.5 Trillion Military Budget Is Sending This Drone Stock Soaring: Momentum Score Spikes",
       "ts": "2026-01-13T22:31:32Z",
       "url": "https://finance.yahoo.com/news/trumps-1-5-trillion-military-223132268.html?.tsrc=rss"
-    },
-    {
-      "headline": "Trump\u2019s power play risks slowing US in AI arms race",
-      "link": "https://finance.yahoo.com/news/trump-power-play-risks-slowing-220931408.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Tue, 13 Jan 2026 22:09:31 +0000",
-      "title": "Trump\u2019s power play risks slowing US in AI arms race",
-      "ts": "2026-01-13T22:09:31Z",
-      "url": "https://finance.yahoo.com/news/trump-power-play-risks-slowing-220931408.html?.tsrc=rss"
     },
     {
       "headline": "Trump's $1.5 Trillion Military Budget Is Sending This Drone Stock Soaring: Momentum Score Spikes",
