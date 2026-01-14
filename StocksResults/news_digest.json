@@ -551,9 +551,9 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Wed, 14 Jan 2026 02:22:12 +0000",
+        "time": "Wed, 14 Jan 2026 03:18:05 +0000",
         "title": "Dow Jones Futures Fall; Google Leads Three AI Stocks In Buy Zones",
-        "ts": "2026-01-14T02:22:12Z",
+        "ts": "2026-01-14T03:18:05Z",
         "url": "https://finance.yahoo.com/m/aa2d3955-b1a6-34d9-9ff4-9c21645ed8c5/dow-jones-futures-fall%3B.html?.tsrc=rss"
       },
       {
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-14T03:10:31Z",
+  "generated_at": "2026-01-14T03:37:38Z",
   "items": [
     {
       "headline": "Review & Preview: JPMorgan Drags Down Stocks",
@@ -1994,9 +1994,9 @@
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "GOOGL",
-      "time": "Wed, 14 Jan 2026 02:22:12 +0000",
+      "time": "Wed, 14 Jan 2026 03:18:05 +0000",
       "title": "Dow Jones Futures Fall; Google Leads Three AI Stocks In Buy Zones",
-      "ts": "2026-01-14T02:22:12Z",
+      "ts": "2026-01-14T03:18:05Z",
       "url": "https://finance.yahoo.com/m/aa2d3955-b1a6-34d9-9ff4-9c21645ed8c5/dow-jones-futures-fall%3B.html?.tsrc=rss"
     },
     {
