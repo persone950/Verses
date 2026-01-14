@@ -228,15 +228,11 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABNB": {
+    "SQ": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RTX": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "SOFI": {
+    "UBER": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
@@ -244,7 +240,19 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ETSY": {
+    "GM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "AFRM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "SMH": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "OXY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
