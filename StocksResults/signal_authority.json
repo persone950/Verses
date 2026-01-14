@@ -228,15 +228,115 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CMCSA": {
+    "PGR": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AI": {
+    "BRT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMUS": {
+    "STAG": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ADT": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "XRAY": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "VSNT": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ZYME": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "CBT": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "TRC": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "MAIN": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "SWX": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "PRAX": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "RL": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "LSTA": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "STLD": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "COMM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "HTGC": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "COCP": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "LQDA": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "EHAB": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "AM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "LEG": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ABM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "TENX": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ZS": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "CRM": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "RTX": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ABNB": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
@@ -244,7 +344,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SBUX": {
+    "SQ": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "C": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "T": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
