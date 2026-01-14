@@ -1,0 +1,8 @@
+Ticker,BaseScore,BaseSignal,InsiderFlag,InsiderBlend,BoostApplied,FinalScore,Reason
+PGR,,,NONE,0.0,N,0.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
+BRT,,,NONE,0.0,N,0.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
+ZYME,,,NONE,0.0,N,0.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
+SWX,,,NONE,0.0,N,0.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
+COCP,,,NONE,30.0,N,30.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
+LQDA,,,NONE,0.0,N,0.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
+AM,,,NONE,0.0,N,0.00,No base signal/score for ticker (not in live universe); using InsiderBlend only
