@@ -228,15 +228,7 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "BKNG": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "INTU": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LOW": {
+    "CMCSA": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
@@ -244,15 +236,15 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DDOG": {
+    "TMUS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CRM": {
+    "F": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AMGN": {
+    "SBUX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
