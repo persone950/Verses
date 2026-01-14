@@ -1,28 +1,27 @@
 Ticker,FilingDate,TxnDate,Insider,Title,Role,Code,AcqDisp,Shares,Price,Value,Is10b5,AgeDays,Notes,SourceURL
-ZYME,2026-01-12,2026-01-12,Smith Jeffrey T L,EVP & Chief Medical Officer,OTHER,S,D,9310,22.67,211090,N,0,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526010865/ownership.xml
-ZYME,2026-01-12,2026-01-12,Moore Paul Andrew,Chief Scientific Officer,OTHER,S,D,9560,22.67,216759,N,0,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526010834/ownership.xml
-ZYME,2026-01-12,2026-01-12,Galbraith Kenneth,Chair & CEO,OTHER,S,D,30424,22.67,689819,N,0,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526010790/ownership.xml
-TWO,2026-01-12,2026-01-12,Halm Jillian,Chief Accounting Officer,OFFICER,S,D,1744,12.25,21364,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828026001833/wk-form4_1768252677.xml
-TWO,2026-01-12,2026-01-12,Campbell James D,EVP Servicing Ops RoundPoint,OFFICER,S,D,1692,12.39,20964,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828026001831/wk-form4_1768252602.xml
-TWO,2026-01-12,2026-01-09,BOUCHER NATHAN,EVP General Counsel RoundPoint,OFFICER,S,D,601,12.37,7434,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828026001827/wk-form4_1768252549.xml
-TWO,2026-01-12,2026-01-12,BOUCHER NATHAN,EVP General Counsel RoundPoint,OFFICER,S,D,666,12.25,8158,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828026001827/wk-form4_1768252549.xml
-HAL,2026-01-12,2026-01-09,Slocum Jeffrey Shannon,"Director, EVP and COO",OFFICER,S,D,23895,32.30,771808,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/45012/000197035726000004/wk-form4_1768250220.xml
-HAL,2026-01-12,2026-01-09,Beckwith Van H.,"EVP, Secretary and CLO",OFFICER,S,D,17798,32.30,574875,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/45012/000183267426000005/wk-form4_1768249992.xml
-HAL,2026-01-06,2026-01-05,Pope Lawrence J,EVP and Chief Admin Officer,OFFICER,S,D,100000,32.25,3225000,Y,6,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/45012/000135064726000002/wk-form4_1767716507.xml
-ZYME,2026-01-05,2026-01-05,Smith Jeffrey T L,EVP & Chief Medical Officer,OTHER,S,D,10538,25.10,264471,N,7,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003102/ownership.xml
-ZYME,2026-01-05,2026-01-05,Galbraith Kenneth,Chair & CEO,OTHER,S,D,22657,25.10,568620,N,7,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003097/ownership.xml
-ZYME,2026-01-05,2026-01-05,Galbraith Kenneth,Chair & CEO,OTHER,S,D,31686,25.10,795220,N,7,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003097/ownership.xml
-ZYME,2026-01-05,2026-01-05,Moore Paul Andrew,Chief Scientific Officer,OTHER,S,D,9289,25.10,233125,N,7,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003095/ownership.xml
-ZYME,2026-01-05,2026-01-05,Moore Paul Andrew,Chief Scientific Officer,OTHER,S,D,10821,25.10,271574,N,7,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003095/ownership.xml
-ZYME,2025-12-22,2025-12-22,Galbraith Kenneth,Chair & CEO,OTHER,S,D,47528,27.02,1284311,N,21,,https://www.sec.gov/Archives/edgar/data/1937653/000119312525329028/ownership.xml
-TWO,2025-12-22,2025-12-22,Dellal William,Chief Financial Officer,CFO,S,D,7087,11.44,81099,Y,21,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058530/wk-form4_1766438106.xml
-PGR,2025-12-22,2025-12-19,Broz Steven,Chief Information Officer,OFFICER,S,D,1344,224.80,302131,Y,21,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/80661/000008066125000144/form4.xml
-TWO,2025-12-19,2025-12-19,Sandberg Rebecca B,Chief Legal Officer,OFFICER,S,D,27370,11.43,312787,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058360/wk-form4_1766183304.xml
-TWO,2025-12-19,2025-12-19,RUSH ROBERT,Chief Risk Officer,OFFICER,S,D,23594,11.43,269561,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058358/wk-form4_1766183272.xml
-TWO,2025-12-19,2025-12-19,LETICA NICHOLAS,Chief Investment Officer,OFFICER,S,D,55488,11.42,633723,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058356/wk-form4_1766183237.xml
-TWO,2025-12-19,2025-12-19,HANSON ALECIA,Chief Administrative Officer,OFFICER,S,D,10768,11.41,122913,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058354/wk-form4_1766183199.xml
-TWO,2025-12-19,2025-12-19,GREENBERG WILLIAM ROSS,Chief Executive Officer,CEO,S,D,103893,11.42,1186458,Y,24,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1465740/000162828025058352/wk-form4_1766183157.xml
-UMH,2025-12-16,2025-12-15,Carus Jeffrey A,,OWNER,P,A,33,15.25,500,N,27,,https://www.sec.gov/Archives/edgar/data/752642/000075264225000118/form4.xml
-UMH,2025-12-16,2025-12-15,Carus Jeffrey A,,OWNER,P,A,33,15.25,500,N,27,,https://www.sec.gov/Archives/edgar/data/752642/000075264225000118/form4.xml
-MPW,2025-12-16,2025-12-15,Hooper Rosa Handley,SVP of Operations,OTHER,S,D,2000,5.00,10000,N,27,,https://www.sec.gov/Archives/edgar/data/1287865/000119312525321276/ownership.xml
-AM,2025-12-16,2025-12-16,KLIMLEY BROOKS J,,DIRECTOR,S,D,5000,17.59,87950,N,27,,https://www.sec.gov/Archives/edgar/data/1623925/000110465925121709/tm2533705-1_4seq1.xml
+ZYME,2026-01-13,2026-01-12,Hollywood Mark,EVP & Chief Operating Officer,COO,S,D,6120,22.67,138762,N,0,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526011885/ownership.xml
+SWX,2026-01-13,2026-01-09,Brown Justin L,President/Southwest Gas Corp.,PRESIDENT,S,D,3028,81.08,245510,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1692115/000174009726000002/wk-form4_1768358535.xml
+LQDA,2026-01-13,2026-01-12,Krepp Sarah,Chief Human Resource Officer,OFFICER,S,D,13165,37.43,492766,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003379/tm263060-8_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Moomaw Scott,Chief Commercial Officer,OFFICER,S,D,20533,37.43,768550,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003377/tm263060-7_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Kaseta Michael,CFO and COO,OFFICER,S,D,36932,37.43,1382365,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003374/tm263060-6_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Adair Jason,Chief Business Officer,OFFICER,S,D,13548,37.43,507102,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003371/tm263060-5_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Schundler Russell,General Counsel,OFFICER,S,D,27289,37.43,1021427,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003369/tm263060-4_4seq1.xml
+LQDA,2026-01-13,2026-01-12,JEFFS ROGER,Chief Executive Officer,CEO,S,D,66610,37.43,2493212,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003367/tm263060-3_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Boyle Dana,Chief Accounting Officer,OFFICER,S,D,11047,37.43,413489,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003365/tm263060-2_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Saggar Rajeev,Chief Medical Officer,OFFICER,S,D,21142,37.43,791345,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003361/tm263060-1_4seq1.xml
+ZYME,2026-01-12,2026-01-12,Smith Jeffrey T L,EVP & Chief Medical Officer,OTHER,S,D,9310,22.67,211090,N,1,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526010865/ownership.xml
+ZYME,2026-01-12,2026-01-12,Moore Paul Andrew,Chief Scientific Officer,OTHER,S,D,9560,22.67,216759,N,1,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526010834/ownership.xml
+ZYME,2026-01-12,2026-01-12,Galbraith Kenneth,Chair & CEO,OTHER,S,D,30424,22.67,689819,N,1,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526010790/ownership.xml
+ZYME,2026-01-05,2026-01-05,Smith Jeffrey T L,EVP & Chief Medical Officer,OTHER,S,D,10538,25.10,264471,N,8,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003102/ownership.xml
+ZYME,2026-01-05,2026-01-05,Galbraith Kenneth,Chair & CEO,OTHER,S,D,22657,25.10,568620,N,8,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003097/ownership.xml
+ZYME,2026-01-05,2026-01-05,Galbraith Kenneth,Chair & CEO,OTHER,S,D,31686,25.10,795220,N,8,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003097/ownership.xml
+ZYME,2026-01-05,2026-01-05,Moore Paul Andrew,Chief Scientific Officer,OTHER,S,D,9289,25.10,233125,N,8,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003095/ownership.xml
+ZYME,2026-01-05,2026-01-05,Moore Paul Andrew,Chief Scientific Officer,OTHER,S,D,10821,25.10,271574,N,8,,https://www.sec.gov/Archives/edgar/data/1937653/000119312526003095/ownership.xml
+COCP,2026-01-02,2025-12-31,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,50000,0.95,47275,N,11,,https://www.sec.gov/Archives/edgar/data/1412486/000149315226000114/ownership.xml
+COCP,2025-12-31,2025-12-30,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,20000,0.97,19310,N,13,,https://www.sec.gov/Archives/edgar/data/1412486/000149315225029796/ownership.xml
+BRT,2025-12-31,2025-12-29,ZWEIER GEORGE,VICE PRESIDENT - CFO,PRESIDENT,S,D,6801,14.74,100240,N,13,,https://www.sec.gov/Archives/edgar/data/14846/000121465925018715/marketforms-71712.xml
+COCP,2025-12-29,2025-12-24,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,25000,0.97,24258,N,15,,https://www.sec.gov/Archives/edgar/data/1412486/000149315225029257/ownership.xml
+COCP,2025-12-29,2025-12-26,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,40000,0.97,38944,N,15,,https://www.sec.gov/Archives/edgar/data/1412486/000149315225029257/ownership.xml
+ZYME,2025-12-22,2025-12-22,Galbraith Kenneth,Chair & CEO,OTHER,S,D,47528,27.02,1284311,N,22,,https://www.sec.gov/Archives/edgar/data/1937653/000119312525329028/ownership.xml
+PGR,2025-12-22,2025-12-19,Broz Steven,Chief Information Officer,OFFICER,S,D,1344,224.80,302131,Y,22,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/80661/000008066125000144/form4.xml
+AM,2025-12-16,2025-12-16,KLIMLEY BROOKS J,,DIRECTOR,S,D,5000,17.59,87950,N,28,,https://www.sec.gov/Archives/edgar/data/1623925/000110465925121709/tm2533705-1_4seq1.xml
