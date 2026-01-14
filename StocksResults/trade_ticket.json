@@ -1,11 +1,11 @@
 {
-  "timestamp_et": "2026-01-13T23:50:10.540456-05:00",
+  "timestamp_et": "2026-01-14T00:08:18.040308-05:00",
   "ticket": {
     "Ticker": "NVDA",
     "Type": "P",
     "Strike": "180.0000",
     "Exp": "2026-02-06",
-    "Score": "3.919384",
+    "Score": "3.939384",
     "Action": "IGNORE",
     "Size%": "0.0",
     "Confidence": "LOW",
