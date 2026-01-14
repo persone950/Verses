@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "PGR",
-    "category": "CORE",
+    "symbol": "ABNB",
+    "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "PGR",
-      "price": 205.06,
-      "prev_close": 216.5,
-      "open": 215.22,
-      "high": 215.99,
-      "low": 204.46,
+      "symbol": "ABNB",
+      "price": 140.07,
+      "prev_close": 138.51,
+      "open": 138.14,
+      "high": 140.19,
+      "low": 136.5,
       "ts_ms": 1768338000000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "PGR",
-        "price": 205.06,
-        "prev_close": 216.5,
-        "open": 215.22,
-        "high": 215.99,
-        "low": 204.46,
+        "symbol": "ABNB",
+        "price": 140.07,
+        "prev_close": 138.51,
+        "open": 138.14,
+        "high": 140.19,
+        "low": 136.5,
         "ts_ms": 1768338000000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "BRT",
-    "category": "CORE",
+    "symbol": "RTX",
+    "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "BRT",
-      "price": 14.7,
-      "prev_close": 14.79,
-      "open": 14.74,
-      "high": 14.785,
-      "low": 14.5407,
+      "symbol": "RTX",
+      "price": 194.08,
+      "prev_close": 193.85,
+      "open": 195.62,
+      "high": 197.55,
+      "low": 193.0,
       "ts_ms": 1768338000000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "BRT",
-        "price": 14.7,
-        "prev_close": 14.79,
-        "open": 14.74,
-        "high": 14.785,
-        "low": 14.5407,
+        "symbol": "RTX",
+        "price": 194.08,
+        "prev_close": 193.85,
+        "open": 195.62,
+        "high": 197.55,
+        "low": 193.0,
         "ts_ms": 1768338000000,
         "source": "finnhub"
       }
@@ -1573,573 +1573,24 @@
     "error": null
   },
   {
-    "symbol": "STAG",
-    "category": "CORE",
-    "best": {
-      "symbol": "STAG",
-      "price": 37.65,
-      "prev_close": 38.02,
-      "open": 37.83,
-      "high": 37.96,
-      "low": 37.205,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "STAG",
-        "price": 37.65,
-        "prev_close": 38.02,
-        "open": 37.83,
-        "high": 37.96,
-        "low": 37.205,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "ADT",
-    "category": "CORE",
-    "best": {
-      "symbol": "ADT",
-      "price": 8.14,
-      "prev_close": 8.2,
-      "open": 8.2,
-      "high": 8.22,
-      "low": 8.105,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "ADT",
-        "price": 8.14,
-        "prev_close": 8.2,
-        "open": 8.2,
-        "high": 8.22,
-        "low": 8.105,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "XRAY",
-    "category": "CORE",
-    "best": {
-      "symbol": "XRAY",
-      "price": 12.13,
-      "prev_close": 12.5,
-      "open": 12.5,
-      "high": 12.675,
-      "low": 11.95,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "XRAY",
-        "price": 12.13,
-        "prev_close": 12.5,
-        "open": 12.5,
-        "high": 12.675,
-        "low": 11.95,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "VSNT",
-    "category": "CORE",
-    "best": {
-      "symbol": "VSNT",
-      "price": 34.11,
-      "prev_close": 33.91,
-      "open": 33.97,
-      "high": 35.31,
-      "low": 33.615,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "VSNT",
-        "price": 34.11,
-        "prev_close": 33.91,
-        "open": 33.97,
-        "high": 35.31,
-        "low": 33.615,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "ZYME",
-    "category": "CORE",
-    "best": {
-      "symbol": "ZYME",
-      "price": 23.92,
-      "prev_close": 23.16,
-      "open": 23.35,
-      "high": 24.35,
-      "low": 23.23,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "ZYME",
-        "price": 23.92,
-        "prev_close": 23.16,
-        "open": 23.35,
-        "high": 24.35,
-        "low": 23.23,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "CBT",
-    "category": "CORE",
-    "best": {
-      "symbol": "CBT",
-      "price": 71.66,
-      "prev_close": 73.05,
-      "open": 73.1,
-      "high": 73.3425,
-      "low": 71.56,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "CBT",
-        "price": 71.66,
-        "prev_close": 73.05,
-        "open": 73.1,
-        "high": 73.3425,
-        "low": 71.56,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "TRC",
-    "category": "CORE",
-    "best": {
-      "symbol": "TRC",
-      "price": 16.38,
-      "prev_close": 16.05,
-      "open": 16.05,
-      "high": 16.4701,
-      "low": 16.0139,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "TRC",
-        "price": 16.38,
-        "prev_close": 16.05,
-        "open": 16.05,
-        "high": 16.4701,
-        "low": 16.0139,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "MAIN",
-    "category": "CORE",
-    "best": {
-      "symbol": "MAIN",
-      "price": 60.69,
-      "prev_close": 60.69,
-      "open": 60.75,
-      "high": 61.335,
-      "low": 60.4,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "MAIN",
-        "price": 60.69,
-        "prev_close": 60.69,
-        "open": 60.75,
-        "high": 61.335,
-        "low": 60.4,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "SWX",
-    "category": "CORE",
-    "best": {
-      "symbol": "SWX",
-      "price": 81.96,
-      "prev_close": 81.6,
-      "open": 81.8,
-      "high": 82.61,
-      "low": 81.08,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "SWX",
-        "price": 81.96,
-        "prev_close": 81.6,
-        "open": 81.8,
-        "high": 82.61,
-        "low": 81.08,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "PRAX",
-    "category": "CORE",
-    "best": {
-      "symbol": "PRAX",
-      "price": 280.83,
-      "prev_close": 275.74,
-      "open": 276.0,
-      "high": 281.56,
-      "low": 270.0,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "PRAX",
-        "price": 280.83,
-        "prev_close": 275.74,
-        "open": 276.0,
-        "high": 281.56,
-        "low": 270.0,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "RL",
-    "category": "CORE",
-    "best": {
-      "symbol": "RL",
-      "price": 366.11,
-      "prev_close": 363.25,
-      "open": 362.23,
-      "high": 371.5,
-      "low": 362.05,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "RL",
-        "price": 366.11,
-        "prev_close": 363.25,
-        "open": 362.23,
-        "high": 371.5,
-        "low": 362.05,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "LSTA",
-    "category": "CORE",
-    "best": {
-      "symbol": "LSTA",
-      "price": 2.13,
-      "prev_close": 2.08,
-      "open": 2.08,
-      "high": 2.13,
-      "low": 2.02,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "LSTA",
-        "price": 2.13,
-        "prev_close": 2.08,
-        "open": 2.08,
-        "high": 2.13,
-        "low": 2.02,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "STLD",
-    "category": "CORE",
-    "best": {
-      "symbol": "STLD",
-      "price": 169.84,
-      "prev_close": 169.35,
-      "open": 170.13,
-      "high": 172.13,
-      "low": 169.17,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "STLD",
-        "price": 169.84,
-        "prev_close": 169.35,
-        "open": 170.13,
-        "high": 172.13,
-        "low": 169.17,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "COMM",
-    "category": "CORE",
-    "best": {
-      "symbol": "COMM",
-      "price": 19.58,
-      "prev_close": 19.04,
-      "open": 19.655,
-      "high": 19.765,
-      "low": 19.1,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "COMM",
-        "price": 19.58,
-        "prev_close": 19.04,
-        "open": 19.655,
-        "high": 19.765,
-        "low": 19.1,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "HTGC",
-    "category": "CORE",
-    "best": {
-      "symbol": "HTGC",
-      "price": 18.53,
-      "prev_close": 18.67,
-      "open": 18.72,
-      "high": 18.7374,
-      "low": 18.49,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "HTGC",
-        "price": 18.53,
-        "prev_close": 18.67,
-        "open": 18.72,
-        "high": 18.7374,
-        "low": 18.49,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "COCP",
-    "category": "CORE",
-    "best": {
-      "symbol": "COCP",
-      "price": 1.09,
-      "prev_close": 1.11,
-      "open": 1.14,
-      "high": 1.15,
-      "low": 1.09,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "COCP",
-        "price": 1.09,
-        "prev_close": 1.11,
-        "open": 1.14,
-        "high": 1.15,
-        "low": 1.09,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "LQDA",
-    "category": "CORE",
-    "best": {
-      "symbol": "LQDA",
-      "price": 38.09,
-      "prev_close": 36.6,
-      "open": 36.8,
-      "high": 39.29,
-      "low": 35.28,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "LQDA",
-        "price": 38.09,
-        "prev_close": 36.6,
-        "open": 36.8,
-        "high": 39.29,
-        "low": 35.28,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "EHAB",
-    "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "AM",
-    "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "LEG",
-    "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "ABM",
-    "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "TENX",
-    "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "ZS",
-    "category": "CORE",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "LCID",
+    "symbol": "SOFI",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "ARM",
+    "symbol": "LRCX",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "TGT",
+    "symbol": "ETSY",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
-  },
-  {
-    "symbol": "V",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "GM",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "PINS",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "TSM",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "TSM",
-      "price": 331.21,
-      "prev_close": 331.77,
-      "open": 332.87,
-      "high": 336.42,
-      "low": 330.78,
-      "ts_ms": 1768338000000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "TSM",
-        "price": 331.21,
-        "prev_close": 331.77,
-        "open": 332.87,
-        "high": 336.42,
-        "low": 330.78,
-        "ts_ms": 1768338000000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
   }
 ]
