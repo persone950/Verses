@@ -1,0 +1,233 @@
+{
+  "generated_at": "2026-01-14T03:10:31Z",
+  "signals": {
+    "AAPL": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Review & Preview: JPMorgan Drags Down Stocks",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "AMD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market Today, Jan. 13: Netflix Rises After HSBC Upgrade Sparks Optimism Ahead of Earnings",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The 3 AI Infrastructure Stocks Set to Triple Over the Next 5 Years",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is BigBear.ai Building a FedRAMP-First GenAI Advantage?",
+      "news_score": 3,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Prediction Markets Face a New Test This Earnings Season",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "CRWD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Brokers Suggest Investing in CrowdStrike (CRWD): Read This Before Placing a Bet",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "GOOGL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures Fall; Google Leads Three AI Stocks In Buy Zones",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "3 Top Dividend Stocks to Buy and Hold Forever for Growing Income",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "AI, Defense & Quantum Drive 2026 Investment: NVDA and 2 More to Lead",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "INSM Stock Jumps on 2025 Preliminary Sales, 2026 Goals Announced",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "META": {
+      "cat": "NEWS_RISK",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Trump's $1.5 Trillion Military Budget Is Sending This Drone Stock Soaring: Momentum Score Spikes",
+      "news_score": -2,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
+    },
+    "MSFT": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Palantir Is Poised to Mint 10,000 Millionaires. Will You Be One of Them?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "2 No-Brainer AI Stocks to Buy Hand Over Fist in 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market Today, Jan. 13: Netflix Rises After HSBC Upgrade Sparks Optimism Ahead of Earnings",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "ServiceNow (NOW) Dips More Than Broader Market: What You Should Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Trump Administration Enacts Security Rules for Nvidia\u2019s China Chip Sales",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "BC-Most Active Stocks",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Phoenix Education Partners Q1 Earnings Call Highlights",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Palantir Is Poised to Mint 10,000 Millionaires. Will You Be One of Them?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Will Rigetti Computing Stock Make You a Millionaire?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Earnings Season Kicks Off",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Breaking Down the Big 3 Investing Styles",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
