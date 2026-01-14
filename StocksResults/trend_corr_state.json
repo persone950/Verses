@@ -1,17 +1,17 @@
 {
-  "timestamp_utc": "2026-01-14T03:37:52.914669+00:00",
+  "timestamp_utc": "2026-01-14T04:22:55.430364+00:00",
   "source_feed": "feed_results_table.csv",
   "tickers": [
     "INTC",
     "AMD",
     "ALGS",
-    "PGR",
     "JPM",
     "RGTI",
-    "LQDA",
     "COIN",
     "OPEN",
-    "BBAI"
+    "BBAI",
+    "NOW",
+    "IBM"
   ],
   "rows": 10,
   "note": "trend snapshot only; no correlation time-series"
