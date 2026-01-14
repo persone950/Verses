@@ -328,31 +328,31 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CRM": {
+    "LCID": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "RTX": {
+    "ARM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABNB": {
+    "TGT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "F": {
+    "V": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SQ": {
+    "GM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "C": {
+    "PINS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "T": {
+    "TSM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
