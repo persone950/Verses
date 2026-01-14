@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-01-13T04:25:31Z",
+  "generated_at": "2026-01-14T02:47:58Z",
   "signals": {
     "AAPL": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Behind the Unraveling of Apple\u2019s Credit-Card Partnership With Goldman Sachs",
-      "news_score": 1,
+      "headline": "Review & Preview: JPMorgan Drags Down Stocks",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "AMD": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Advanced Micro Devices (AMD) Outperforms Broader Market: What You Need to Know",
-      "news_score": 0,
+      "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "AMZN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "5 Unstoppable Stocks to Buy With $5,000 for 2026",
-      "news_score": 0,
+      "headline": "Stock Market Today, Jan. 13: Netflix Rises After HSBC Upgrade Sparks Optimism Ahead of Earnings",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
+      "headline": "The 3 AI Infrastructure Stocks Set to Triple Over the Next 5 Years",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -41,7 +41,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "BigBear.ai Holdings, Inc. (BBAI) Beats Stock Market Upswing: What Investors Need to Know",
+      "headline": "Is BigBear.ai Building a FedRAMP-First GenAI Advantage?",
       "news_score": 3,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -59,8 +59,8 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "CrowdStrike and Nord Security Announce Strategic Partnership to Redefine SMB Cybersecurity",
-      "news_score": 3,
+      "headline": "Brokers Suggest Investing in CrowdStrike (CRWD): Read This Before Placing a Bet",
+      "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
     },
@@ -68,8 +68,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Aurigo Accelerates Growth Strategy with Appointment of Veteran HR Executive Divya Kiran",
-      "news_score": -1,
+      "headline": "Dow Jones Futures Fall; Google Leads Three AI Stocks In Buy Zones",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -77,8 +77,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Robinhood\u2019s Blockchain and Prediction Markets Pivot Might Change The Case For Investing In Robinhood Markets (HOOD)",
-      "news_score": 1,
+      "headline": "3 Top Dividend Stocks to Buy and Hold Forever for Growing Income",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -86,7 +86,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Forget LLMs: Buy these 3 AI \"Pick and Shovel\" Plays Instead",
+      "headline": "AI, Defense & Quantum Drive 2026 Investment: NVDA and 2 More to Lead",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -101,29 +101,31 @@
       "tag": ""
     },
     "INTC": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Intel (INTC) Stock Sinks As Market Gains: Here's Why",
-      "news_score": 0,
+      "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "META": {
-      "cat": "\u2014",
+      "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Alibaba Stock Soared Today",
-      "news_score": -1,
-      "risk_flags": [],
-      "tag": ""
+      "headline": "Trump's $1.5 Trillion Military Budget Is Sending This Drone Stock Soaring: Momentum Score Spikes",
+      "news_score": -2,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
     },
     "MSFT": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Investors Are Panicking, But Is This Stock Actually a Screaming Buy?",
-      "news_score": 1,
+      "headline": "Palantir Is Poised to Mint 10,000 Millionaires. Will You Be One of Them?",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -131,7 +133,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nvidia Push Into NAND Fuels Global Memory Crunch",
+      "headline": "2 No-Brainer AI Stocks to Buy Hand Over Fist in 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -140,8 +142,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Paramount Sues Warner Bros., Plans Proxy Fight. The Ellisons Aren\u2019t Giving Up.",
-      "news_score": 0,
+      "headline": "Stock Market Today, Jan. 13: Netflix Rises After HSBC Upgrade Sparks Optimism Ahead of Earnings",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -149,8 +151,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "NetApp Appoints Paul Fipps to the Board of Directors",
-      "news_score": -1,
+      "headline": "ServiceNow (NOW) Dips More Than Broader Market: What You Should Know",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -158,7 +160,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "5 Unstoppable Stocks to Buy With $5,000 for 2026",
+      "headline": "Trump Administration Enacts Security Rules for Nvidia\u2019s China Chip Sales",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -176,7 +178,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Paramount Sues Warner Bros., Plans Proxy Fight. The Ellisons Aren\u2019t Giving Up.",
+      "headline": "Phoenix Education Partners Q1 Earnings Call Highlights",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -185,8 +187,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Nvidia, Tesla, Walmart Are Key Movers; CPI Inflation Report Next",
-      "news_score": 1,
+      "headline": "Palantir Is Poised to Mint 10,000 Millionaires. Will You Be One of Them?",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -194,8 +196,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Qualcomm (QCOM) Stock Trades Down, Here Is Why",
-      "news_score": 1,
+      "headline": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
@@ -204,7 +206,7 @@
       "catalyst_flags": [],
       "confidence": "MED",
       "headline": "Will Rigetti Computing Stock Make You a Millionaire?",
-      "news_score": 0,
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -212,7 +214,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid US DOJ Investigation Into Fed Chair Powell",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Earnings Season Kicks Off",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -221,8 +223,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Ford's 4.2% dividend yield masks a hidden risk",
-      "news_score": 0,
+      "headline": "Breaking Down the Big 3 Investing Styles",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     }
