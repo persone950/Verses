@@ -228,131 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PGR": {
+    "ABNB": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "BRT": {
+    "RTX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "STAG": {
+    "SOFI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ADT": {
+    "LRCX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XRAY": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "VSNT": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ZYME": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "CBT": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "TRC": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "MAIN": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "SWX": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "PRAX": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "RL": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LSTA": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "STLD": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "COMM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "HTGC": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "COCP": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LQDA": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "EHAB": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "AM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LEG": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ABM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "TENX": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ZS": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LCID": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ARM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "TGT": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "V": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "GM": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "PINS": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "TSM": {
+    "ETSY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
