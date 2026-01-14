@@ -2,6 +2,17 @@
   "digest": {
     "AAPL": [
       {
+        "headline": "Elon Musk has strong words on new Apple-Google AI move",
+        "link": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Wed, 14 Jan 2026 03:33:00 +0000",
+        "title": "Elon Musk has strong words on new Apple-Google AI move",
+        "ts": "2026-01-14T03:33:00Z",
+        "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
+      },
+      {
         "headline": "Review & Preview: JPMorgan Drags Down Stocks",
         "link": "https://finance.yahoo.com/m/042bb7f7-aa10-3e5d-ac6d-bd34d030b42a/review-%26-preview%3A-jpmorgan.html?.tsrc=rss",
         "source": "yahoo",
@@ -55,20 +66,20 @@
         "title": "Intel Stocks Surges. It\u2019s Shaping Up to Be a Good Year for Chip Makers.",
         "ts": "2026-01-13T21:33:00Z",
         "url": "https://finance.yahoo.com/m/662cdb04-c03b-3ce7-94f5-128610f7209f/intel-stocks-surges.-it%E2%80%99s.html?.tsrc=rss"
-      },
-      {
-        "headline": "Revenue Keeps Growing at Taiwan Semi. Should You Load Up on TSM Stock for 2026?",
-        "link": "https://www.barchart.com/story/news/37027043/revenue-keeps-growing-at-taiwan-semi-should-you-load-up-on-tsm-stock-for-2026?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 13 Jan 2026 21:29:05 +0000",
-        "title": "Revenue Keeps Growing at Taiwan Semi. Should You Load Up on TSM Stock for 2026?",
-        "ts": "2026-01-13T21:29:05Z",
-        "url": "https://www.barchart.com/story/news/37027043/revenue-keeps-growing-at-taiwan-semi-should-you-load-up-on-tsm-stock-for-2026?.tsrc=rss"
       }
     ],
     "AMD": [
+      {
+        "headline": "Analysts drop verdicts on AMD, Intel, and ARM",
+        "link": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Wed, 14 Jan 2026 04:07:00 +0000",
+        "title": "Analysts drop verdicts on AMD, Intel, and ARM",
+        "ts": "2026-01-14T04:07:00Z",
+        "url": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss"
+      },
       {
         "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
         "link": "https://finance.yahoo.com/news/markets-book-profits-q4-earnings-231800028.html?.tsrc=rss",
@@ -123,17 +134,6 @@
         "title": "Stock Market Today, Jan. 13: AMD Rallies as Banking Stocks Struggle",
         "ts": "2026-01-13T22:27:09Z",
         "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-amd-rallies-as-banking-stocks-struggle/?.tsrc=rss"
-      },
-      {
-        "headline": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-        "link": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 13 Jan 2026 22:17:10 +0000",
-        "title": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-        "ts": "2026-01-13T22:17:10Z",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss"
       }
     ],
     "AMZN": [
@@ -551,10 +551,21 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Wed, 14 Jan 2026 03:18:05 +0000",
+        "time": "Wed, 14 Jan 2026 04:00:46 +0000",
         "title": "Dow Jones Futures Fall; Google Leads Three AI Stocks In Buy Zones",
-        "ts": "2026-01-14T03:18:05Z",
+        "ts": "2026-01-14T04:00:46Z",
         "url": "https://finance.yahoo.com/m/aa2d3955-b1a6-34d9-9ff4-9c21645ed8c5/dow-jones-futures-fall%3B.html?.tsrc=rss"
+      },
+      {
+        "headline": "Elon Musk has strong words on new Apple-Google AI move",
+        "link": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Wed, 14 Jan 2026 03:33:00 +0000",
+        "title": "Elon Musk has strong words on new Apple-Google AI move",
+        "ts": "2026-01-14T03:33:00Z",
+        "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
       },
       {
         "headline": "Alphabet Inc. (GOOG) Advances While Market Declines: Some Information for Investors",
@@ -599,17 +610,6 @@
         "title": "Trump\u2019s power play risks slowing US in AI arms race",
         "ts": "2026-01-13T22:09:31Z",
         "url": "https://finance.yahoo.com/news/trump-power-play-risks-slowing-220931408.html?.tsrc=rss"
-      },
-      {
-        "headline": "Greenridge Exploration Announces Investor Relations and Marketing Services",
-        "link": "https://finance.yahoo.com/news/greenridge-exploration-announces-investor-relations-220000166.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 13 Jan 2026 22:00:00 +0000",
-        "title": "Greenridge Exploration Announces Investor Relations and Marketing Services",
-        "ts": "2026-01-13T22:00:00Z",
-        "url": "https://finance.yahoo.com/news/greenridge-exploration-announces-investor-relations-220000166.html?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -818,6 +818,17 @@
     ],
     "INTC": [
       {
+        "headline": "Analysts drop verdicts on AMD, Intel, and ARM",
+        "link": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Wed, 14 Jan 2026 04:07:00 +0000",
+        "title": "Analysts drop verdicts on AMD, Intel, and ARM",
+        "ts": "2026-01-14T04:07:00Z",
+        "url": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss"
+      },
+      {
         "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
         "link": "https://finance.yahoo.com/news/markets-book-profits-q4-earnings-231800028.html?.tsrc=rss",
         "source": "yahoo",
@@ -871,17 +882,6 @@
         "title": "Stock Market Today, Jan. 13: AMD Rallies as Banking Stocks Struggle",
         "ts": "2026-01-13T22:27:09Z",
         "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-amd-rallies-as-banking-stocks-struggle/?.tsrc=rss"
-      },
-      {
-        "headline": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-        "link": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Tue, 13 Jan 2026 22:17:10 +0000",
-        "title": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-        "ts": "2026-01-13T22:17:10Z",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss"
       }
     ],
     "META": [
@@ -1769,8 +1769,20 @@
       }
     ]
   },
-  "generated_at": "2026-01-14T03:37:38Z",
+  "generated_at": "2026-01-14T04:20:53Z",
   "items": [
+    {
+      "headline": "Elon Musk has strong words on new Apple-Google AI move",
+      "link": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Wed, 14 Jan 2026 03:33:00 +0000",
+      "title": "Elon Musk has strong words on new Apple-Google AI move",
+      "ts": "2026-01-14T03:33:00Z",
+      "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
+    },
     {
       "headline": "Review & Preview: JPMorgan Drags Down Stocks",
       "link": "https://finance.yahoo.com/m/042bb7f7-aa10-3e5d-ac6d-bd34d030b42a/review-%26-preview%3A-jpmorgan.html?.tsrc=rss",
@@ -1830,18 +1842,6 @@
       "title": "Intel Stocks Surges. It\u2019s Shaping Up to Be a Good Year for Chip Makers.",
       "ts": "2026-01-13T21:33:00Z",
       "url": "https://finance.yahoo.com/m/662cdb04-c03b-3ce7-94f5-128610f7209f/intel-stocks-surges.-it%E2%80%99s.html?.tsrc=rss"
-    },
-    {
-      "headline": "Revenue Keeps Growing at Taiwan Semi. Should You Load Up on TSM Stock for 2026?",
-      "link": "https://www.barchart.com/story/news/37027043/revenue-keeps-growing-at-taiwan-semi-should-you-load-up-on-tsm-stock-for-2026?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Tue, 13 Jan 2026 21:29:05 +0000",
-      "title": "Revenue Keeps Growing at Taiwan Semi. Should You Load Up on TSM Stock for 2026?",
-      "ts": "2026-01-13T21:29:05Z",
-      "url": "https://www.barchart.com/story/news/37027043/revenue-keeps-growing-at-taiwan-semi-should-you-load-up-on-tsm-stock-for-2026?.tsrc=rss"
     },
     {
       "headline": "Palantir Is Poised to Mint 10,000 Millionaires. Will You Be One of Them?",
@@ -1994,10 +1994,22 @@
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "GOOGL",
-      "time": "Wed, 14 Jan 2026 03:18:05 +0000",
+      "time": "Wed, 14 Jan 2026 04:00:46 +0000",
       "title": "Dow Jones Futures Fall; Google Leads Three AI Stocks In Buy Zones",
-      "ts": "2026-01-14T03:18:05Z",
+      "ts": "2026-01-14T04:00:46Z",
       "url": "https://finance.yahoo.com/m/aa2d3955-b1a6-34d9-9ff4-9c21645ed8c5/dow-jones-futures-fall%3B.html?.tsrc=rss"
+    },
+    {
+      "headline": "Elon Musk has strong words on new Apple-Google AI move",
+      "link": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Wed, 14 Jan 2026 03:33:00 +0000",
+      "title": "Elon Musk has strong words on new Apple-Google AI move",
+      "ts": "2026-01-14T03:33:00Z",
+      "url": "https://www.thestreet.com/technology/elon-musk-has-strong-words-on-new-apple-google-ai-move?.tsrc=rss"
     },
     {
       "headline": "Alphabet Inc. (GOOG) Advances While Market Declines: Some Information for Investors",
@@ -2046,18 +2058,6 @@
       "title": "Trump\u2019s power play risks slowing US in AI arms race",
       "ts": "2026-01-13T22:09:31Z",
       "url": "https://finance.yahoo.com/news/trump-power-play-risks-slowing-220931408.html?.tsrc=rss"
-    },
-    {
-      "headline": "Greenridge Exploration Announces Investor Relations and Marketing Services",
-      "link": "https://finance.yahoo.com/news/greenridge-exploration-announces-investor-relations-220000166.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Tue, 13 Jan 2026 22:00:00 +0000",
-      "title": "Greenridge Exploration Announces Investor Relations and Marketing Services",
-      "ts": "2026-01-13T22:00:00Z",
-      "url": "https://finance.yahoo.com/news/greenridge-exploration-announces-investor-relations-220000166.html?.tsrc=rss"
     },
     {
       "headline": "Trump's $1.5 Trillion Military Budget Is Sending This Drone Stock Soaring: Momentum Score Spikes",
@@ -2276,6 +2276,18 @@
       "url": "https://www.fool.com/investing/2026/01/13/billionaire-peter-thiel-made-a-big-bet-on-two-stoc/?.tsrc=rss"
     },
     {
+      "headline": "Analysts drop verdicts on AMD, Intel, and ARM",
+      "link": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AMD",
+      "time": "Wed, 14 Jan 2026 04:07:00 +0000",
+      "title": "Analysts drop verdicts on AMD, Intel, and ARM",
+      "ts": "2026-01-14T04:07:00Z",
+      "url": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss"
+    },
+    {
       "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
       "link": "https://finance.yahoo.com/news/markets-book-profits-q4-earnings-231800028.html?.tsrc=rss",
       "source": "yahoo",
@@ -2334,18 +2346,6 @@
       "title": "Stock Market Today, Jan. 13: AMD Rallies as Banking Stocks Struggle",
       "ts": "2026-01-13T22:27:09Z",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-amd-rallies-as-banking-stocks-struggle/?.tsrc=rss"
-    },
-    {
-      "headline": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AMD",
-      "time": "Tue, 13 Jan 2026 22:17:10 +0000",
-      "title": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-      "ts": "2026-01-13T22:17:10Z",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss"
     },
     {
       "headline": "Stock Market Today, Jan. 13: Netflix Rises After HSBC Upgrade Sparks Optimism Ahead of Earnings",
@@ -2708,6 +2708,18 @@
       "url": "https://finance.yahoo.com/m/3ee08762-c3e0-32d6-b275-43b5aaf893a1/tsmc%E2%80%99s-revenue-outlook-%E2%80%98may.html?.tsrc=rss"
     },
     {
+      "headline": "Analysts drop verdicts on AMD, Intel, and ARM",
+      "link": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "INTC",
+      "time": "Wed, 14 Jan 2026 04:07:00 +0000",
+      "title": "Analysts drop verdicts on AMD, Intel, and ARM",
+      "ts": "2026-01-14T04:07:00Z",
+      "url": "https://www.thestreet.com/investing/stocks/analysts-drop-verdicts-on-amd-intel-and-arm?.tsrc=rss"
+    },
+    {
       "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
       "link": "https://finance.yahoo.com/news/markets-book-profits-q4-earnings-231800028.html?.tsrc=rss",
       "source": "yahoo",
@@ -2766,18 +2778,6 @@
       "title": "Stock Market Today, Jan. 13: AMD Rallies as Banking Stocks Struggle",
       "ts": "2026-01-13T22:27:09Z",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-amd-rallies-as-banking-stocks-struggle/?.tsrc=rss"
-    },
-    {
-      "headline": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "INTC",
-      "time": "Tue, 13 Jan 2026 22:17:10 +0000",
-      "title": "Stock Market Today, Jan. 13: Intel Jumps on KeyBanc Upgrade Highlighting Strong AI Server CPU Demand",
-      "ts": "2026-01-13T22:17:10Z",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/01/13/stock-market-today-jan-13-intel-jumps-on-keybanc-upgrade-highlighting-strong-ai-server-cpu-demand/?.tsrc=rss"
     },
     {
       "headline": "ServiceNow (NOW) Dips More Than Broader Market: What You Should Know",
