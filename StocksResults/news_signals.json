@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-01-14T03:37:38Z",
+  "generated_at": "2026-01-14T04:20:53Z",
   "signals": {
     "AAPL": {
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Review & Preview: JPMorgan Drags Down Stocks",
+      "headline": "Elon Musk has strong words on new Apple-Google AI move",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
     },
     "AMD": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
-      "news_score": 2,
+      "headline": "Analysts drop verdicts on AMD, Intel, and ARM",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "AMZN": {
       "cat": "\u2014",
@@ -101,13 +101,13 @@
       "tag": ""
     },
     "INTC": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Markets Book Profits as Q4 Earnings Season Gets Rolling",
-      "news_score": 2,
+      "headline": "Analysts drop verdicts on AMD, Intel, and ARM",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "META": {
       "cat": "NEWS_RISK",
