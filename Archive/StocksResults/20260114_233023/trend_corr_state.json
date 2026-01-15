@@ -1,0 +1,18 @@
+{
+  "timestamp_utc": "2026-01-14T23:03:40.143258+00:00",
+  "source_feed": "feed_results_table.csv",
+  "tickers": [
+    "SLV",
+    "RGTI",
+    "WFC",
+    "ORCL",
+    "AVGO",
+    "COP",
+    "BAC",
+    "INTC",
+    "XOM",
+    "CHPT"
+  ],
+  "rows": 10,
+  "note": "trend snapshot only; no correlation time-series"
+}
