@@ -1,12 +1,6 @@
 Ticker,Flag,Score14d,Score30d,ScoreBlend,Buyers14d,TotalBuy$14d,C_Suite14d,LastBuyAgeDays,Notes,DataQuality
-BRT,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-SKWD,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-COCP,NONE,0.0,100.0,30.0,0,0,N,—,,OK
-LQDA,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-JOBY,NONE,0.0,44.4,13.3,0,0,N,—,,OK
-ZS,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-HP,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-BBNX,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-BX,NONE,0.0,100.0,30.0,0,0,N,—,,OK
-HQY,NONE,0.0,0.0,0.0,0,0,N,—,,OK
-G,NONE,0.0,0.0,0.0,0,0,N,—,,OK
+JOBY,NONE,0.0,44.4,13.3,0,0,N,—,Missing txn dates,MED
+BBNX,NONE,0.0,0.0,0.0,0,0,N,—,No buys parsed; Missing txn dates,MED
+SKWD,NONE,0.0,0.0,0.0,0,0,N,—,No buys parsed; Missing txn dates,MED
+HP,NONE,0.0,0.0,0.0,0,0,N,—,No buys parsed; Missing txn dates,MED
+CRWV,NONE,0.0,0.0,0.0,0,0,N,—,No buys parsed; Missing txn dates,MED
