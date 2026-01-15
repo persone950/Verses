@@ -1,0 +1,68 @@
+Ticker,FilingDate,TxnDate,Insider,Title,Role,Code,AcqDisp,Shares,Price,Value,Is10b5,AgeDays,Notes,SourceURL
+JOBY,2026-01-14,2026-01-13,Bowles Gregory,Chief Policy Officer,OFFICER,S,D,894,14.83,13258,Y,0,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1819848/000181984826000069/wk-form4_1768433420.xml
+JOBY,2026-01-14,2026-01-14,Bowles Gregory,Chief Policy Officer,OFFICER,S,D,5383,14.72,79238,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000069/wk-form4_1768433420.xml
+JOBY,2026-01-14,2026-01-13,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,1367,14.84,20286,Y,0,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1819848/000181984826000067/wk-form4_1768433331.xml
+JOBY,2026-01-14,2026-01-14,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,804,14.53,11682,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000067/wk-form4_1768433331.xml
+JOBY,2026-01-14,2026-01-13,DeHoff Kate,See Remarks,OFFICER,S,D,7092,14.84,105245,Y,0,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1819848/000181984826000065/wk-form4_1768433305.xml
+JOBY,2026-01-14,2026-01-14,DeHoff Kate,See Remarks,OFFICER,S,D,28260,14.72,415987,Y,0,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000065/wk-form4_1768433305.xml
+JOBY,2026-01-14,2026-01-13,Simi Bonny W,President of Operations,PRESIDENT,S,D,1232,14.84,18283,N,0,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000063/wk-form4_1768432519.xml
+JOBY,2026-01-14,2026-01-13,Allison Eric,Chief Product Officer,OFFICER,S,D,21493,14.84,318956,N,0,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000061/wk-form4_1768432434.xml
+JOBY,2026-01-14,2026-01-13,Bevirt JoeBen,CEO and Chief Architect,OFFICER,S,D,1630,14.83,24173,N,0,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000059/wk-form4_1768432370.xml
+JOBY,2026-01-14,2026-01-13,Brumana Rodrigo,Chief Financial Officer,CFO,S,D,523,14.83,7756,N,0,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000057/wk-form4_1768432297.xml
+LQDA,2026-01-13,2026-01-12,Krepp Sarah,Chief Human Resource Officer,OFFICER,S,D,13165,37.43,492766,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003379/tm263060-8_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Moomaw Scott,Chief Commercial Officer,OFFICER,S,D,20533,37.43,768550,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003377/tm263060-7_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Kaseta Michael,CFO and COO,OFFICER,S,D,36932,37.43,1382365,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003374/tm263060-6_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Adair Jason,Chief Business Officer,OFFICER,S,D,13548,37.43,507102,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003371/tm263060-5_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Schundler Russell,General Counsel,OFFICER,S,D,27289,37.43,1021427,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003369/tm263060-4_4seq1.xml
+LQDA,2026-01-13,2026-01-12,JEFFS ROGER,Chief Executive Officer,CEO,S,D,66610,37.43,2493212,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003367/tm263060-3_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Boyle Dana,Chief Accounting Officer,OFFICER,S,D,11047,37.43,413489,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003365/tm263060-2_4seq1.xml
+LQDA,2026-01-13,2026-01-12,Saggar Rajeev,Chief Medical Officer,OFFICER,S,D,21142,37.43,791345,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819576/000110465926003361/tm263060-1_4seq1.xml
+G,2026-01-13,2026-01-13,Dewan Sameer,Senior Vice President,PRESIDENT,S,D,15088,46.65,703855,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1398659/000201505026000002/wk-form4_1768358105.xml
+G,2026-01-13,2026-01-13,Vashisht Riju,Senior Vice President,PRESIDENT,S,D,16016,46.65,747146,Y,1,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1398659/000201498126000002/wk-form4_1768357935.xml
+BX,2026-01-08,2026-01-08,Blackstone EMA III L.L.C.,,OWNER,S,D,780121,45.00,35105445,N,6,,https://www.sec.gov/Archives/edgar/data/1393818/000119312526007718/ownership.xml
+BX,2026-01-08,2026-01-08,Blackstone EMA III L.L.C.,,OWNER,S,D,480205,45.00,21609225,N,6,,https://www.sec.gov/Archives/edgar/data/1393818/000119312526007718/ownership.xml
+BBNX,2026-01-07,2026-01-06,Mensinger Mike,Chief Product Officer,OTHER,S,D,2200,30.10,66221,Y,7,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1674632/000204850026000003/form4-01072026_090132.xml
+JOBY,2026-01-05,2026-01-02,Simi Bonny W,President of Operations,PRESIDENT,S,D,6585,13.51,88963,Y,9,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1819848/000181984826000030/wk-form4_1767656784.xml
+JOBY,2026-01-05,2026-01-02,Simi Bonny W,President of Operations,PRESIDENT,S,D,83578,13.77,1150869,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000030/wk-form4_1767656784.xml
+JOBY,2026-01-05,2026-01-02,Simi Bonny W,President of Operations,PRESIDENT,S,D,20010,14.29,285943,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000030/wk-form4_1767656784.xml
+JOBY,2026-01-05,2026-01-02,DeHoff Kate,See Remarks,OFFICER,S,D,10484,13.51,141639,N,9,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000028/wk-form4_1767656741.xml
+JOBY,2026-01-05,2026-01-02,Allison Eric,Chief Product Officer,OFFICER,S,D,5447,13.51,73589,N,9,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000026/wk-form4_1767656692.xml
+JOBY,2026-01-05,2026-01-02,Bowles Gregory,Chief Policy Officer,OFFICER,S,D,4194,13.51,56661,N,9,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000024/wk-form4_1767656650.xml
+JOBY,2026-01-05,2026-01-02,Bevirt JoeBen,CEO and Chief Architect,OFFICER,S,D,23552,13.51,318188,N,9,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000022/wk-form4_1767656621.xml
+JOBY,2026-01-05,2026-01-02,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,11650,13.51,157392,Y,9,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1819848/000181984826000020/wk-form4_1767656583.xml
+JOBY,2026-01-05,2026-01-05,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,1400,15.25,21350,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000020/wk-form4_1767656583.xml
+JOBY,2026-01-05,2026-01-05,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,5029,16.01,80514,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000020/wk-form4_1767656583.xml
+BBNX,2026-01-05,2026-01-02,Mensinger Mike,Chief Product Officer,OTHER,S,D,7200,29.56,212832,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1674632/000204850026000002/form4-01052026_110121.xml
+BBNX,2026-01-05,2026-01-02,Mensinger Mike,Chief Product Officer,OTHER,S,D,600,30.20,18118,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1674632/000204850026000002/form4-01052026_110121.xml
+BBNX,2026-01-05,2026-01-02,Feider Stephen,Chief Financial Officer,CFO,S,D,20000,29.53,590680,Y,9,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1674632/000204858826000002/form4-01052026_110150.xml
+ZS,2026-01-02,2026-01-02,BEER JAMES A,,DIRECTOR,S,D,653,226.72,148048,Y,12,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1713683/000171368326000003/wk-form4_1767396650.xml
+JOBY,2026-01-02,2025-12-31,Thompson Michael N. Jr.,,DIRECTOR,P,A,550,13.24,7282,N,12,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000005/wk-form4_1767390223.xml
+JOBY,2026-01-02,2025-12-31,Thompson Michael N. Jr.,,DIRECTOR,P,A,550,13.24,7282,N,12,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000005/wk-form4_1767390223.xml
+JOBY,2026-01-02,2025-12-30,Allison Eric,Chief Product Officer,OFFICER,S,D,32448,13.25,429936,N,12,,https://www.sec.gov/Archives/edgar/data/1819848/000181984826000003/wk-form4_1767390121.xml
+COCP,2026-01-02,2025-12-31,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,50000,0.95,47275,N,12,,https://www.sec.gov/Archives/edgar/data/1412486/000149315226000114/ownership.xml
+COCP,2025-12-31,2025-12-30,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,20000,0.97,19310,N,14,,https://www.sec.gov/Archives/edgar/data/1412486/000149315225029796/ownership.xml
+BRT,2025-12-31,2025-12-29,ZWEIER GEORGE,VICE PRESIDENT - CFO,PRESIDENT,S,D,6801,14.74,100240,N,14,,https://www.sec.gov/Archives/edgar/data/14846/000121465925018715/marketforms-71712.xml
+ZS,2025-12-29,2025-12-26,Brown Andrew William Fraser,,DIRECTOR,S,D,5000,0.00,0,N,16,,https://www.sec.gov/Archives/edgar/data/1713683/000171368325000227/wk-form4_1767058262.xml
+COCP,2025-12-29,2025-12-24,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,25000,0.97,24258,N,16,,https://www.sec.gov/Archives/edgar/data/1412486/000149315225029257/ownership.xml
+COCP,2025-12-29,2025-12-26,FROST PHILLIP MD ET AL,,DIRECTOR,P,A,40000,0.97,38944,N,16,,https://www.sec.gov/Archives/edgar/data/1412486/000149315225029257/ownership.xml
+HQY,2025-12-23,2025-12-19,Ladd Delano,"EVP, General Counsel",OTHER,S,D,1500,94.72,142080,Y,22,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1428336/000168305625000013/form4-12232025_091202.xml
+HP,2025-12-22,2025-12-19,HELMERICH HANS,,OWNER,S,D,25000,28.10,702500,N,23,,https://www.sec.gov/Archives/edgar/data/46765/000119679325000006/form4-12222025_091253.xml
+HP,2025-12-22,2025-12-19,HELMERICH HANS,,OWNER,S,D,50000,28.13,1406500,N,23,,https://www.sec.gov/Archives/edgar/data/46765/000119679325000006/form4-12222025_091253.xml
+BX,2025-12-22,2025-12-19,Blackstone Holdings IV GP Management (Delaware) L.P.,,10%,P,A,192234,26.01,5000000,N,23,,https://www.sec.gov/Archives/edgar/data/1393818/000121390025124629/ownership.xml
+BX,2025-12-22,2025-12-19,Blackstone Holdings IV GP Management (Delaware) L.P.,,10%,P,A,192234,26.01,5000000,N,23,,https://www.sec.gov/Archives/edgar/data/1393818/000121390025124629/ownership.xml
+BX,2025-12-22,2025-12-18,Mozart Aggregator II LP,,OWNER,S,D,13462600,28.37,381911076,N,23,,https://www.sec.gov/Archives/edgar/data/1393818/000119312525328815/ownership.xml
+SKWD,2025-12-19,2025-12-18,Kapadia Sandip A,Head of Actuarial,OTHER,S,D,5030,50.01,251550,Y,26,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1519449/000193713225000005/form4-12192025_041201.xml
+HQY,2025-12-19,2025-12-18,Rosner Elimelech,"EVP, CHIEF TECHNOLOGY OFFICER",OTHER,S,D,10959,95.45,1046090,N,26,,https://www.sec.gov/Archives/edgar/data/1428336/000191631225000008/form4-12192025_101205.xml
+ZS,2025-12-17,2025-12-16,Schlossman Robert,Chief Legal Officer,OFFICER,S,D,3084,230.82,711847,Y,28,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1713683/000171368325000224/wk-form4_1766014764.xml
+ZS,2025-12-17,2025-12-17,Schlossman Robert,Chief Legal Officer,OFFICER,S,D,2349,232.79,546824,Y,28,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1713683/000171368325000224/wk-form4_1766014764.xml
+ZS,2025-12-17,2025-12-16,Rich Michael J.,CRO and President of WW Sales,PRESIDENT,S,D,4100,230.82,946359,N,28,,https://www.sec.gov/Archives/edgar/data/1713683/000171368325000223/wk-form4_1766014755.xml
+ZS,2025-12-17,2025-12-16,RUBIN KEVIN,Chief Financial Officer,CFO,S,D,3303,230.82,762396,N,28,,https://www.sec.gov/Archives/edgar/data/1713683/000171368325000222/wk-form4_1766014749.xml
+ZS,2025-12-17,2025-12-16,Chaudhry Jagtar Singh,CEO & Chairman,OFFICER,S,D,2843,230.82,656219,N,28,,https://www.sec.gov/Archives/edgar/data/1713683/000171368325000221/wk-form4_1766014741.xml
+ZS,2025-12-17,2025-12-16,Judge Raj,"EVP, Corp. Strategy & Ventures",OFFICER,S,D,3438,230.82,793557,N,28,,https://www.sec.gov/Archives/edgar/data/1713683/000171368325000219/wk-form4_1766014724.xml
+SKWD,2025-12-16,2025-12-12,Kapadia Sandip A,Head of Actuarial,OTHER,S,D,1486,50.03,74345,Y,29,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1519449/000193713225000003/form4-12162025_041201.xml
+SKWD,2025-12-16,2025-12-12,Kapadia Sandip A,Head of Actuarial,OTHER,S,D,1200,50.01,60012,Y,29,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1519449/000193713225000003/form4-12162025_041201.xml
+JOBY,2025-12-16,2025-12-15,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,5987,14.99,89745,Y,29,10b5-1 suspected (doc),https://www.sec.gov/Archives/edgar/data/1819848/000181984825000611/wk-form4_1765924321.xml
+JOBY,2025-12-16,2025-12-16,Papadopoulos Didier,President of Aircraft OEM,PRESIDENT,S,D,1979,14.08,27864,Y,29,10b5-1 suspected,https://www.sec.gov/Archives/edgar/data/1819848/000181984825000611/wk-form4_1765924321.xml
+HQY,2025-12-16,2025-12-12,Wellborn Gayle Furgurson,,OWNER,S,D,4339,98.03,425331,N,29,,https://www.sec.gov/Archives/edgar/data/1428336/000171296025000004/form4-12162025_081258.xml
+BX,2025-12-16,2025-12-16,Blackstone EMA III L.L.C.,,OWNER,S,D,5200808,45.00,234036360,N,29,,https://www.sec.gov/Archives/edgar/data/1393818/000119312525320840/ownership.xml
+BX,2025-12-16,2025-12-16,Blackstone EMA III L.L.C.,,OWNER,S,D,3201370,45.00,144061650,N,29,,https://www.sec.gov/Archives/edgar/data/1393818/000119312525320840/ownership.xml
