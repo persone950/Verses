@@ -1519,33 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "SQ",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "no_price"
-  },
-  {
-    "symbol": "UBER",
+    "symbol": "MGM",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "UBER",
-      "price": 84.65,
-      "prev_close": 85.41,
-      "open": 85.37,
-      "high": 85.99,
-      "low": 83.5,
+      "symbol": "MGM",
+      "price": 34.41,
+      "prev_close": 34.65,
+      "open": 34.46,
+      "high": 34.76,
+      "low": 34.075,
       "ts_ms": 1768424400000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "UBER",
-        "price": 84.65,
-        "prev_close": 85.41,
-        "open": 85.37,
-        "high": 85.99,
-        "low": 83.5,
+        "symbol": "MGM",
+        "price": 34.41,
+        "prev_close": 34.65,
+        "open": 34.46,
+        "high": 34.76,
+        "low": 34.075,
         "ts_ms": 1768424400000,
         "source": "finnhub"
       }
@@ -1553,28 +1546,34 @@
     "error": null
   },
   {
-    "symbol": "LRCX",
+    "symbol": "VZ",
     "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
+    "best": {
+      "symbol": "VZ",
+      "price": 39.83,
+      "prev_close": 39.01,
+      "open": 39.12,
+      "high": 39.85,
+      "low": 39.1,
+      "ts_ms": 1768424400000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "VZ",
+        "price": 39.83,
+        "prev_close": 39.01,
+        "open": 39.12,
+        "high": 39.85,
+        "low": 39.1,
+        "ts_ms": 1768424400000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
   },
   {
-    "symbol": "GM",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "AFRM",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "SMH",
+    "symbol": "TMUS",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
@@ -1582,6 +1581,20 @@
   },
   {
     "symbol": "OXY",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "UBER",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "LCID",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
