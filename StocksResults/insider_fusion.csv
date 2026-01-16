@@ -1,8 +1,1 @@
-Ticker,BaseScore,BaseSignal,InsiderFlag,InsiderBlend,BoostApplied,FinalScore,GateLabel,GateReason,Reason
-BRT,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0",No base score; using InsiderBlend only
-ZYME,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0",No base score; using InsiderBlend only
-SWX,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0",No base score; using InsiderBlend only
-MOVE,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0",No base score; using InsiderBlend only
-SKWD,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0",No base score; using InsiderBlend only
-COCP,,,NONE,30.0,N,30.0,WATCH-INSIDER,Insider-only: need Blend>=35.0 & Age<=7.0d,No base score; using InsiderBlend only
-LQDA,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0",No base score; using InsiderBlend only
+Ticker,BaseScore,BaseSignal,InsiderFlag,InsiderBlend,BoostApplied,FinalScore,Reason
