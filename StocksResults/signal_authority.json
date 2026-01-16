@@ -228,31 +228,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SQ": {
+    "ABBV": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "UBER": {
+    "ABNB": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LRCX": {
+    "INTU": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "GM": {
+    "XLK": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AFRM": {
+    "LCID": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SMH": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "OXY": {
+    "F": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
