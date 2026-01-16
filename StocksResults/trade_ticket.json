@@ -1,11 +1,11 @@
 {
-  "timestamp_et": "2026-01-14T22:19:57.632812-05:00",
+  "timestamp_et": "2026-01-15T23:44:37.993149-05:00",
   "ticket": {
-    "Ticker": "NVDA",
+    "Ticker": "MSFT",
     "Type": "P",
-    "Strike": "180.0000",
+    "Strike": "445.0000",
     "Exp": "2026-02-06",
-    "Score": "3.936841",
+    "Score": "3.960686",
     "Action": "IGNORE",
     "Size%": "0.0",
     "Confidence": "LOW",
