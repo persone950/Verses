@@ -1,0 +1,65 @@
+Ticker,SurgePct,RefType,RefPrice,Price,Volume,DollarVolume,SpreadPct,OptionsEligible,Timestamp,Age,Reason,symbol,price,prev_close,open,high,low,ts_ms,source,error,category
+VIX,,,,,,,,,,,missing price/change,VIX,,,,,,,,no_price,CORE
+SQ,,,,,,,,,,,missing price/change,SQ,,,,,,,,no_price,ADDON_RANDOM
+LRCX,,,,,,,,,,,missing price/change,LRCX,,,,,,,,http 429,ADDON_RANDOM
+GM,,,,,,,,,,,missing price/change,GM,,,,,,,,http 429,ADDON_RANDOM
+AFRM,,,,,,,,,,,missing price/change,AFRM,,,,,,,,http 429,ADDON_RANDOM
+SMH,,,,,,,,,,,missing price/change,SMH,,,,,,,,http 429,ADDON_RANDOM
+OXY,,,,,,,,,,,missing price/change,OXY,,,,,,,,http 429,ADDON_RANDOM
+RGTI,8.25,low,23.76,25.72,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),RGTI,25.72,24.47,24.194,25.73,23.76,1768424400000,finnhub,,CORE
+SLV,7.58,pc,78.6,84.56,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),SLV,84.56,78.6,83.34,84.78,81.28,1768424400000,finnhub,,CORE
+BBAI,6.83,low,5.86,6.26,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),BBAI,6.26,6.09,6.07,6.33,5.86,1768424400000,finnhub,,CORE
+CHPT,4.24,low,6.84,7.13,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),CHPT,7.13,6.93,6.94,7.19,6.84,1768424400000,finnhub,,CORE
+OPEN,4.08,low,6.38,6.64,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),OPEN,6.64,6.77,6.71,6.745,6.38,1768424400000,finnhub,,CORE
+COP,4.02,pc,96.46,100.34,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),COP,100.34,96.46,96.6,101.915,96.6,1768424400000,finnhub,,CORE
+AMD,3.95,low,215.11,223.6,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),AMD,223.6,220.97,217.54,224.09,215.11,1768424400000,finnhub,,CORE
+INTC,3.02,pc,47.29,48.72,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),INTC,48.72,47.29,48.95,49.0,47.42,1768424400000,finnhub,,CORE
+XOM,2.89,pc,126.54,130.2,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),XOM,130.2,126.54,127.35,131.721,127.13,1768424400000,finnhub,,CORE
+ALGS,2.84,low,8.8,9.05,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),ALGS,9.05,9.24,9.23,9.34,8.8,1768424400000,finnhub,,CORE
+MRK,2.83,low,107.95,111.01,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),MRK,111.01,108.26,108.97,111.225,107.95,1768424400000,finnhub,,CORE
+HOOD,2.62,low,116.61,119.67,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),HOOD,119.67,120.24,120.29,120.88,116.61,1768424400000,finnhub,,CORE
+PLTR,2.56,low,173.95,178.4,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),PLTR,178.4,178.96,178.125,181.5975,173.95,1768424400000,finnhub,,CORE
+AG,2.53,low,19.34,19.83,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),AG,19.83,19.85,20.465,20.55,19.34,1768424400000,finnhub,,CORE
+CAT,2.52,low,623.07,638.75,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),CAT,638.75,636.53,634.1,639.73,623.07,1768424400000,finnhub,,CORE
+IBM,2.5,low,301.5,309.03,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),IBM,309.03,303.16,303.5,309.19,301.5,1768424400000,finnhub,,CORE
+SLB,2.33,pc,45.9,46.97,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),SLB,46.97,45.9,46.44,47.725,46.276,1768424400000,finnhub,,CORE
+JNJ,2.29,pc,213.65,218.55,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),JNJ,218.55,213.65,214.73,218.86,214.145,1768424400000,finnhub,,CORE
+CVX,2.06,pc,163.87,167.24,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),CVX,167.24,163.87,164.1,169.37,164.1,1768424400000,finnhub,,CORE
+CRWD,1.98,low,451.76,460.7,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),CRWD,460.7,468.02,465.8,476.9999,451.76,1768424400000,finnhub,,CORE
+PEP,1.95,low,143.136,145.92,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),PEP,145.92,143.48,143.14,146.3,143.136,1768424400000,finnhub,,CORE
+INSM,1.88,low,160.45,163.46,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),INSM,163.46,163.72,163.83,164.9606,160.45,1768424400000,finnhub,,CORE
+PFE,1.71,pc,25.15,25.58,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),PFE,25.58,25.15,25.23,25.71,25.2035,1768424400000,finnhub,,CORE
+AVGO,1.64,low,334.4201,339.89,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),AVGO,339.89,354.61,348.97,350.69,334.4201,1768424400000,finnhub,,CORE
+GOOGL,1.62,low,330.48,335.84,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),GOOGL,335.84,335.97,335.06,336.52,330.48,1768424400000,finnhub,,CORE
+GS,1.61,low,917.9,932.67,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),GS,932.67,938.15,932.3,938.15,917.9,1768424400000,finnhub,,CORE
+BAC,1.59,low,51.66,52.48,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),BAC,52.48,54.54,52.88,53.48,51.66,1768424400000,finnhub,,CORE
+MU,1.57,low,328.2,333.35,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),MU,333.35,338.13,334.84,339.1,328.2,1768424400000,finnhub,,CORE
+NOW,1.51,low,132.61,134.61,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),NOW,134.61,138.19,137.39,138.19,132.61,1768424400000,finnhub,,CORE
+ORCL,1.47,low,190.81,193.61,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),ORCL,193.61,202.29,201.68,201.68,190.81,1768424400000,finnhub,,CORE
+PG,1.46,pc,144.24,146.35,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),PG,146.35,144.24,144.68,146.9,144.37,1768424400000,finnhub,,CORE
+UBER,1.38,low,83.5,84.65,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),UBER,84.65,85.41,85.37,85.99,83.5,1768424400000,finnhub,,ADDON_RANDOM
+QCOM,1.35,low,162.35,164.54,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),QCOM,164.54,165.29,163.685,164.74,162.35,1768424400000,finnhub,,CORE
+WFC,1.35,low,88.06,89.25,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),WFC,89.25,93.56,90.75,90.8,88.06,1768424400000,finnhub,,CORE
+COST,1.35,low,938.29,950.98,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),COST,950.98,941.93,938.33,955.6109,938.29,1768424400000,finnhub,,CORE
+HON,1.31,pc,210.28,213.04,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),HON,213.04,210.28,213.85,214.57,210.98,1768424400000,finnhub,,CORE
+NVDA,1.29,low,180.8,183.14,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),NVDA,183.14,185.81,184.32,184.46,180.8,1768424400000,finnhub,,CORE
+AAPL,1.27,low,256.71,259.96,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),AAPL,259.96,261.05,259.49,261.82,256.71,1768424400000,finnhub,,CORE
+BA,1.26,low,239.6,242.61,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),BA,242.61,244.55,244.44,244.885,239.6,1768424400000,finnhub,,CORE
+COIN,1.25,pc,252.69,255.86,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),COIN,255.86,252.69,256.92,263.07,253.0,1768424400000,finnhub,,CORE
+TSLA,1.15,low,434.22,439.2,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),TSLA,439.2,447.2,442.81,443.91,434.22,1768424400000,finnhub,,CORE
+LLY,1.15,low,1061.12,1073.29,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),LLY,1073.29,1077.19,1081.75,1083.9999,1061.12,1768424400000,finnhub,,CORE
+IWM,1.15,low,260.19,263.19,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),IWM,263.19,261.35,261.13,263.46,260.19,1768424400000,finnhub,,CORE
+MS,1.03,low,178.93,180.78,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),MS,180.78,182.76,182.19,182.35,178.93,1768424400000,finnhub,,CORE
+KO,0.89,low,70.81,71.44,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),KO,71.44,71.24,71.17,71.71,70.81,1768424400000,finnhub,,CORE
+NKE,0.82,low,65.039,65.57,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),NKE,65.57,66.3,66.29,67.13,65.039,1768424400000,finnhub,,CORE
+QQQ,0.81,low,614.56,619.55,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),QQQ,619.55,626.24,622.24,623.45,614.56,1768424400000,finnhub,,CORE
+GE,0.8,low,316.36,318.88,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),GE,318.88,327.23,324.82,326.3,316.36,1768424400000,finnhub,,CORE
+MCD,0.72,low,305.93,308.13,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),MCD,308.13,309.44,309.44,311.18,305.93,1768424400000,finnhub,,CORE
+NFLX,0.68,low,87.95,88.55,,,,N,2026-01-14T23:03:21Z,18s,below_threshold(9.0%);low_volume(<100000),NFLX,88.55,90.32,91.24,91.58,87.95,1768424400000,finnhub,,CORE
+SPY,0.63,low,686.04,690.36,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),SPY,690.36,693.77,691.0,691.72,686.04,1768424400000,finnhub,,CORE
+DIA,0.62,low,488.5517,491.58,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),DIA,491.58,491.94,490.66,491.94,488.5517,1768424400000,finnhub,,CORE
+JPM,0.57,low,306.12,307.87,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),JPM,307.87,310.9,308.2,311.76,306.12,1768424400000,finnhub,,CORE
+MSFT,0.48,low,457.1701,459.38,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),MSFT,459.38,470.67,466.46,468.2,457.1701,1768424400000,finnhub,,CORE
+UNH,0.31,pc,333.93,334.96,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),UNH,334.96,333.93,335.37,340.11,334.1,1768424400000,finnhub,,CORE
+AMZN,0.18,low,236.22,236.65,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),AMZN,236.65,242.6,241.15,241.28,236.22,1768424400000,finnhub,,CORE
+META,0.11,low,614.815,615.52,,,,N,2026-01-14T23:03:21Z,18s,price_out_of_range(1.0-200.0);below_threshold(9.0%);low_volume(<100000),META,615.52,631.09,626.5,628.45,614.815,1768424400000,finnhub,,CORE
