@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-01-14T23:13:40Z",
+  "generated_at": "2026-01-16T04:41:50Z",
   "signals": {
     "AAPL": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "TSMC likely to post fourth-quarter profit leap driven by AI boom",
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "AMD": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump imposes 25% tariff on advanced chip imports",
+      "headline": "Dow Jones Futures: Market Fades Despite Taiwan Semi, Goldman Lifting Chips, Banks",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "AMZN": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nasdaq Logs Worst Day in 4 Weeks as Big Tech, Major Banks Slide",
-      "news_score": 0,
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
     "AVGO": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Market Split With Tesla, Broadcom, AppLovin, Wells Fargo Key Losers; Nvidia Chipmaker Due",
+      "headline": "Taiwan Semi Stock Moves Into Overbought Territory on Earnings Pop, But Is There Still a Case for Buying TSMC Here?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -41,58 +41,58 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is BigBear.ai Building a FedRAMP-First GenAI Advantage?",
-      "news_score": 3,
+      "headline": "BigBear.ai Holdings, Inc. (BBAI): A Bull Case Theory",
+      "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
     },
     "COIN": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Homebuilder stocks slide, silver miners gain, crypto stocks rise",
-      "news_score": 1,
+      "headline": "Crypto Firms Buoyed by Trump Get Rocked as US Bill Delayed",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "CRWD": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "CrowdStrike CEO says AI agents are unpredictable as company snaps up more cybersecurity startups",
-      "news_score": -1,
+      "headline": "Datadog (DDOG) Faces Competitive Pressures in 2026, Goldman Says in Sell Call",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "GOOGL": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Buy the \"Magnificent Seven\" Laggards in 2026?",
-      "news_score": 1,
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "HOOD": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What You Need To Know Ahead of Robinhood Markets' Earnings Release",
+      "headline": "Nvidia Backs AI Math Startup Harmonic",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "IBM": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "\u2018Sickening and greedy\u2019: California millionaire slams Larry Page and Sergey Brin for cutting ties with the state to avoid wealth tax",
-      "news_score": -1,
+      "headline": "Rigetti and Quantum Computing Stocks Are a Buy, Says Analyst. Look Past the Criticism of Both.",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "INSM": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
       "headline": "INSM Stock Jumps on 2025 Preliminary Sales, 2026 Goals Announced",
@@ -101,70 +101,70 @@
       "tag": ""
     },
     "INTC": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Intel Stock Hits Highest Level in Nearly 2 Years. What Has the Market Excited.",
-      "news_score": 0,
+      "headline": "Trump Takes Credit For Intel's Surge But Hesitant To Raise Stake: 'I'll Invest More In Other Things'",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "META": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Elon Musk Slams Google, Apple Deal: 'Unreasonable Concentration Of Power'",
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "MSFT": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Stock Market Today, Jan. 14: Nvidia Leads Tech Losses as Investors Cool on AI",
+      "headline": "Nancy Pelosi bets big on 2 Dividend Stocks in 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "MU": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Micron sends hard-nosed message after controversial decision",
-      "news_score": 0,
-      "risk_flags": [],
-      "tag": ""
-    },
-    "NFLX": {
-      "cat": "\u2014",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Trump Shares Post Accusing Netflix Of Being 'Woke' \u2014 Is President Signaling He Won't Support Warner Bros. Merger?",
+      "headline": "This Artificial Intelligence Stock Is a Terrific Bargain Buy in 2026 (Hint: It's Not Micron)",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
-    "NOW": {
-      "cat": "\u2014",
+    "NFLX": {
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "DeepL Bolsters Executive Team with Former Salesforce and ServiceNow Leaders as New COO and CRO to Drive Global Growth",
-      "news_score": -1,
+      "headline": "Netflix Reportedly Prepares All-Cash Bid For Warner Bros. As Paramount Turns Up Heat On Takeover Battle",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The Software Selloff ‘Seems Overdone.’ How the Stocks Can Bounce Back.",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "NVDA": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Market Split With Tesla, Broadcom, AppLovin, Wells Fargo Key Losers; Nvidia Chipmaker Due",
+      "headline": "Trump Administration Clears Nvidia's H200 AI Chip Sales To China, But Beijing Reportedly Limits Purchases To Special Cases",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "OPEN": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
       "headline": "Is Opendoor Stock the Next 10-Bagger?",
@@ -173,56 +173,56 @@
       "tag": ""
     },
     "ORCL": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Oracle Stock Dropped Today",
-      "news_score": 0,
+      "headline": "90% of Nvidia's Customers Now Buy This -- and It's Not GPUs",
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
     "PLTR": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Alphabet vs. OpenAI: Which AI Giant Will Drive 100% Gains?",
-      "news_score": 0,
-      "risk_flags": [],
-      "tag": ""
-    },
-    "QCOM": {
-      "cat": "\u2014",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Amid the AI boom, Intel is focusing on the basics",
-      "news_score": 0,
-      "risk_flags": [],
-      "tag": ""
-    },
-    "RGTI": {
-      "cat": "\u2014",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Rigetti Suffers Setback, D-Wave Makes Strides. What Analysts Are Saying About Quantum Stocks.",
+      "headline": "This Popular AI's Stock Bubble Could Burst in 2026",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
-    "SLV": {
-      "cat": "\u2014",
+    "QCOM": {
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Ahead of Expected Supreme Court Decision on Tariffs",
+      "headline": "5 AI Chip Stocks Most Exposed to Trump’s New 25% Tariff",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "RGTI": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Rigetti Computing, Inc. (RGTI) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Repeat of History? Why Silver May Be Forming a Blow-off Top",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "TSLA": {
-      "cat": "\u2014",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Market Split With Tesla, Broadcom, AppLovin, Wells Fargo Key Losers; Nvidia Chipmaker Due",
-      "news_score": -1,
+      "headline": "Tesla turns to surprising partner for critical new hardware",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     }
