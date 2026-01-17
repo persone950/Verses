@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-01-15T23:44:37.994963-05:00",
+  "decision": {
+    "mode": "AGGRESSIVE",
+    "action": "NORMAL",
+    "size_bias": "NORMAL",
+    "reasons": [
+      "AGGRESSIVE_GATES_PASS"
+    ]
+  }
+}
