@@ -1,11 +1,11 @@
 {
-  "timestamp_et": "2026-01-15T23:44:37.993149-05:00",
+  "timestamp_et": "2026-01-16T22:53:56.010667-05:00",
   "ticket": {
-    "Ticker": "MSFT",
+    "Ticker": "META",
     "Type": "P",
-    "Strike": "445.0000",
+    "Strike": "615.0000",
     "Exp": "2026-02-06",
-    "Score": "3.960686",
+    "Score": "3.951085",
     "Action": "IGNORE",
     "Size%": "0.0",
     "Confidence": "LOW",
