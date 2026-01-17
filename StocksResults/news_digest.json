@@ -1702,6 +1702,17 @@
     ],
     "TSLA": [
       {
+        "headline": "Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno",
+        "link": "https://finance.yahoo.com/news/exclusive-elon-musk-boring-co-005719168.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sat, 17 Jan 2026 00:57:19 +0000",
+        "title": "Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno",
+        "ts": "2026-01-17T00:57:19Z",
+        "url": "https://finance.yahoo.com/news/exclusive-elon-musk-boring-co-005719168.html?.tsrc=rss"
+      },
+      {
         "headline": "Elon Musk Says the SEC Is Unconstitutional",
         "link": "https://finance.yahoo.com/m/d5cd4f6d-eac4-3c0c-91c6-3312357ec19f/elon-musk-says-the-sec-is.html?.tsrc=rss",
         "source": "yahoo",
@@ -1755,21 +1766,10 @@
         "title": "Elon Musk Net Worth Is So Large, He Could Buy Every MLB, NBA, NFL, NHL Team And Still Have $103 Billion Left",
         "ts": "2026-01-16T20:31:10Z",
         "url": "https://finance.yahoo.com/news/elon-musk-net-worth-large-203110925.html?.tsrc=rss"
-      },
-      {
-        "headline": "Elon Musk Brags As Kalshi Bettors Boost His Chances In High-Stakes Trial With Sam Altman-Led OpenAI: 'I've Never Lost A War'",
-        "link": "https://finance.yahoo.com/news/elon-musk-brags-kalshi-bettors-183110941.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 16 Jan 2026 18:31:10 +0000",
-        "title": "Elon Musk Brags As Kalshi Bettors Boost His Chances In High-Stakes Trial With Sam Altman-Led OpenAI: 'I've Never Lost A War'",
-        "ts": "2026-01-16T18:31:10Z",
-        "url": "https://finance.yahoo.com/news/elon-musk-brags-kalshi-bettors-183110941.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-17T03:47:46Z",
+  "generated_at": "2026-01-17T04:18:57Z",
   "items": [
     {
       "headline": "Google to Appeal US Court Ruling of Illegal Monopoly in Search",
@@ -2204,6 +2204,18 @@
       "url": "https://finance.yahoo.com/m/8d2844cb-0b83-3d54-86ba-08da375a445a/after-saks%E2%80%99s-collapse%E2%80%94a.html?.tsrc=rss"
     },
     {
+      "headline": "Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno",
+      "link": "https://finance.yahoo.com/news/exclusive-elon-musk-boring-co-005719168.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "TSLA",
+      "time": "Sat, 17 Jan 2026 00:57:19 +0000",
+      "title": "Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno",
+      "ts": "2026-01-17T00:57:19Z",
+      "url": "https://finance.yahoo.com/news/exclusive-elon-musk-boring-co-005719168.html?.tsrc=rss"
+    },
+    {
       "headline": "Elon Musk Says the SEC Is Unconstitutional",
       "link": "https://finance.yahoo.com/m/d5cd4f6d-eac4-3c0c-91c6-3312357ec19f/elon-musk-says-the-sec-is.html?.tsrc=rss",
       "source": "yahoo",
@@ -2262,18 +2274,6 @@
       "title": "Elon Musk Net Worth Is So Large, He Could Buy Every MLB, NBA, NFL, NHL Team And Still Have $103 Billion Left",
       "ts": "2026-01-16T20:31:10Z",
       "url": "https://finance.yahoo.com/news/elon-musk-net-worth-large-203110925.html?.tsrc=rss"
-    },
-    {
-      "headline": "Elon Musk Brags As Kalshi Bettors Boost His Chances In High-Stakes Trial With Sam Altman-Led OpenAI: 'I've Never Lost A War'",
-      "link": "https://finance.yahoo.com/news/elon-musk-brags-kalshi-bettors-183110941.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Fri, 16 Jan 2026 18:31:10 +0000",
-      "title": "Elon Musk Brags As Kalshi Bettors Boost His Chances In High-Stakes Trial With Sam Altman-Led OpenAI: 'I've Never Lost A War'",
-      "ts": "2026-01-16T18:31:10Z",
-      "url": "https://finance.yahoo.com/news/elon-musk-brags-kalshi-bettors-183110941.html?.tsrc=rss"
     },
     {
       "headline": "Stock Market Today, Jan. 16: Riot Platforms Surges After Securing AMD Data Center Lease",
