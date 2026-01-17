@@ -1519,75 +1519,68 @@
     "error": "no_price"
   },
   {
+    "symbol": "TGT",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "TGT",
+      "price": 111.28,
+      "prev_close": 111.13,
+      "open": 110.84,
+      "high": 111.75,
+      "low": 110.18,
+      "ts_ms": 1768597200000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "TGT",
+        "price": 111.28,
+        "prev_close": 111.13,
+        "open": 110.84,
+        "high": 111.75,
+        "low": 110.18,
+        "ts_ms": 1768597200000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
+    "symbol": "TSM",
+    "category": "ADDON_RANDOM",
+    "best": {
+      "symbol": "TSM",
+      "price": 342.4,
+      "prev_close": 341.64,
+      "open": 346.51,
+      "high": 349.85,
+      "low": 341.46,
+      "ts_ms": 1768597200000,
+      "source": "finnhub"
+    },
+    "raw": [
+      {
+        "symbol": "TSM",
+        "price": 342.4,
+        "prev_close": 341.64,
+        "open": 346.51,
+        "high": 349.85,
+        "low": 341.46,
+        "ts_ms": 1768597200000,
+        "source": "finnhub"
+      }
+    ],
+    "error": null
+  },
+  {
     "symbol": "PINS",
     "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "PINS",
-      "price": 25.91,
-      "prev_close": 26.79,
-      "open": 26.82,
-      "high": 26.88,
-      "low": 25.86,
-      "ts_ms": 1768597200000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "PINS",
-        "price": 25.91,
-        "prev_close": 26.79,
-        "open": 26.82,
-        "high": 26.88,
-        "low": 25.86,
-        "ts_ms": 1768597200000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "ABNB",
-    "category": "ADDON_RANDOM",
-    "best": {
-      "symbol": "ABNB",
-      "price": 130.66,
-      "prev_close": 132.6,
-      "open": 132.6,
-      "high": 132.76,
-      "low": 129.85,
-      "ts_ms": 1768597200000,
-      "source": "finnhub"
-    },
-    "raw": [
-      {
-        "symbol": "ABNB",
-        "price": 130.66,
-        "prev_close": 132.6,
-        "open": 132.6,
-        "high": 132.76,
-        "low": 129.85,
-        "ts_ms": 1768597200000,
-        "source": "finnhub"
-      }
-    ],
-    "error": null
-  },
-  {
-    "symbol": "XLF",
-    "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "AI",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "AMAT",
+    "symbol": "CMCSA",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
@@ -1595,13 +1588,6 @@
   },
   {
     "symbol": "CSCO",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "LMT",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
