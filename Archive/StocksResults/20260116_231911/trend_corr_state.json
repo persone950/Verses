@@ -1,0 +1,18 @@
+{
+  "timestamp_utc": "2026-01-17T03:53:56.020149+00:00",
+  "source_feed": "feed_results_table.csv",
+  "tickers": [
+    "MU",
+    "OPEN",
+    "AG",
+    "ALGS",
+    "RGTI",
+    "PLTR",
+    "PINS",
+    "NOW",
+    "INTC",
+    "SLV"
+  ],
+  "rows": 10,
+  "note": "trend snapshot only; no correlation time-series"
+}
