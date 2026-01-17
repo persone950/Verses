@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-01-16T04:41:50Z",
+  "generated_at": "2026-01-17T03:47:46Z",
   "signals": {
     "AAPL": {
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
-      "news_score": 1,
-      "risk_flags": [],
-      "tag": ""
-    },
-    "AMD": {
-      "cat": "—",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Dow Jones Futures: Market Fades Despite Taiwan Semi, Goldman Lifting Chips, Banks",
+      "headline": "Google to Appeal US Court Ruling of Illegal Monopoly in Search",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
-    "AMZN": {
-      "cat": "—",
+    "AMD": {
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
-      "news_score": -1,
+      "headline": "Stock Market Today, Jan. 16: Riot Platforms Surges After Securing AMD Data Center Lease",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
+    },
+    "AMZN": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Heard on the Street: Risks Rise as Tech Giants Dive Into Energy",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
     },
     "AVGO": {
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Taiwan Semi Stock Moves Into Overbought Territory on Earnings Pop, But Is There Still a Case for Buying TSMC Here?",
+      "headline": "Prediction: This Stock Will Join the $3 Trillion Club by the End of 2026. You're Going to Want to Buy It Now.",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -41,7 +41,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "BigBear.ai Holdings, Inc. (BBAI): A Bull Case Theory",
+      "headline": "Can Serve Robotics Translate Lower Robot Costs Into Margin Leverage?",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -50,7 +50,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Crypto Firms Buoyed by Trump Get Rocked as US Bill Delayed",
+      "headline": "Senate Dems To Discuss Clarity Act Concerns With Crypto Representatives",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -68,7 +68,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "headline": "Walmart and Costco Are Worth Every Penny",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -77,7 +77,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nvidia Backs AI Math Startup Harmonic",
+      "headline": "Senate Dems To Discuss Clarity Act Concerns With Crypto Representatives",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -86,7 +86,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Rigetti and Quantum Computing Stocks Are a Buy, Says Analyst. Look Past the Criticism of Both.",
+      "headline": "Stock Market Today: S&P 500, Dow Slide As Netflix, GE Aerospace Earnings Loom (Live Coverage)",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -101,19 +101,19 @@
       "tag": ""
     },
     "INTC": {
-      "cat": "NEWS+",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump Takes Credit For Intel's Surge But Hesitant To Raise Stake: 'I'll Invest More In Other Things'",
-      "news_score": 2,
+      "headline": "Trump at Davos, Netflix earnings, SCOTUS hearing: What to Watch",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "META": {
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "headline": "Heard on the Street: Risks Rise as Tech Giants Dive Into Energy",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -122,8 +122,8 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nancy Pelosi bets big on 2 Dividend Stocks in 2026",
-      "news_score": 0,
+      "headline": "Adobe, Salesforce, & the software stock slump: How to play the sector",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -131,8 +131,8 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "This Artificial Intelligence Stock Is a Terrific Bargain Buy in 2026 (Hint: It's Not Micron)",
-      "news_score": 1,
+      "headline": "The Global Memory-Chip Shortage Will Cost Us All",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -140,7 +140,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Netflix Reportedly Prepares All-Cash Bid For Warner Bros. As Paramount Turns Up Heat On Takeover Battle",
+      "headline": "Trump Purchased Netflix, Warner Bonds in Days After Deal Announcement",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -149,7 +149,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "The Software Selloff ‘Seems Overdone.’ How the Stocks Can Bounce Back.",
+      "headline": "2 Smart Stocks for Patient Long-Term Investors to Buy Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -158,7 +158,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump Administration Clears Nvidia's H200 AI Chip Sales To China, But Beijing Reportedly Limits Purchases To Special Cases",
+      "headline": "Digi Power X (TSXV:DGX) Is Up 12.2% After US$20M NVIDIA GPU Bet For AI Cloud Push",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -167,8 +167,8 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Opendoor Stock the Next 10-Bagger?",
-      "news_score": 1,
+      "headline": "2 Growth Stocks to Invest $1,000 in Right Now",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -176,8 +176,8 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "90% of Nvidia's Customers Now Buy This -- and It's Not GPUs",
-      "news_score": -1,
+      "headline": "US still needs a 'strong manufacturing base': Bill Ford",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -185,25 +185,25 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "This Popular AI's Stock Bubble Could Burst in 2026",
-      "news_score": 1,
+      "headline": "Palantir Technologies Inc. (PLTR) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "QCOM": {
-      "cat": "NEWS+",
+      "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "5 AI Chip Stocks Most Exposed to Trump’s New 25% Tariff",
-      "news_score": 2,
+      "headline": "Fund manager pulls plug on popular semiconductor stock",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "RGTI": {
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Rigetti Computing, Inc. (RGTI) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "headline": "QBTS, RGTI, IONQ: Buy, Sell or Hold Ahead of Q4 Earnings?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -212,7 +212,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Repeat of History? Why Silver May Be Forming a Blow-off Top",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Bank Earnings Release",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -221,7 +221,7 @@
       "cat": "—",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Tesla turns to surprising partner for critical new hardware",
+      "headline": "Elon Musk Says the SEC Is Unconstitutional",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
