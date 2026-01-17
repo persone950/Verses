@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-16T04:41:50Z",
+  "signals": {
+    "AAPL": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Market Fades Despite Taiwan Semi, Goldman Lifting Chips, Banks",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMZN": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Taiwan Semi Stock Moves Into Overbought Territory on Earnings Pop, But Is There Still a Case for Buying TSMC Here?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "BigBear.ai Holdings, Inc. (BBAI): A Bull Case Theory",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Crypto Firms Buoyed by Trump Get Rocked as US Bill Delayed",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Datadog (DDOG) Faces Competitive Pressures in 2026, Goldman Says in Sell Call",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "GOOGL": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Nvidia Backs AI Math Startup Harmonic",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Rigetti and Quantum Computing Stocks Are a Buy, Says Analyst. Look Past the Criticism of Both.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "INSM Stock Jumps on 2025 Preliminary Sales, 2026 Goals Announced",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Trump Takes Credit For Intel's Surge But Hesitant To Raise Stake: 'I'll Invest More In Other Things'",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "META": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exclusive: Is Apple Late To Foldable iPhones? Ming-Chi Kuo Says Cupertino Isn't At 'Disadvantage' As Samsung Sees Foldables Go Mainstream",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Nancy Pelosi bets big on 2 Dividend Stocks in 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "This Artificial Intelligence Stock Is a Terrific Bargain Buy in 2026 (Hint: It's Not Micron)",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Netflix Reportedly Prepares All-Cash Bid For Warner Bros. As Paramount Turns Up Heat On Takeover Battle",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The Software Selloff ‘Seems Overdone.’ How the Stocks Can Bounce Back.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Trump Administration Clears Nvidia's H200 AI Chip Sales To China, But Beijing Reportedly Limits Purchases To Special Cases",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Opendoor Stock the Next 10-Bagger?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "90% of Nvidia's Customers Now Buy This -- and It's Not GPUs",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "This Popular AI's Stock Bubble Could Burst in 2026",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "5 AI Chip Stocks Most Exposed to Trump’s New 25% Tariff",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "RGTI": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Rigetti Computing, Inc. (RGTI) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Repeat of History? Why Silver May Be Forming a Blow-off Top",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Tesla turns to surprising partner for critical new hardware",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
