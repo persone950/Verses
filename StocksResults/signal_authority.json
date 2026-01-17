@@ -228,7 +228,7 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABBV": {
+    "PINS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
@@ -236,19 +236,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "INTU": {
+    "XLF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLK": {
+    "AI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LCID": {
+    "AMAT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "F": {
+    "CSCO": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "LMT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
