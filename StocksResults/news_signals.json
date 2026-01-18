@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-01-18T13:47:16Z",
+  "generated_at": "2026-01-18T18:06:25Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "These 2 AI Stocks Could Join the $2 Trillion Club in 2026, According to Wall Street",
-      "news_score": 1,
+      "headline": "Jim Cramer on JPMorgan: \u201cIt Was Due for a Breather\u201d",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "AMD": {
-      "cat": "\u2014",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Strong Analyst Sentiment on Advanced Micro Devices (AMD) Amid CES AI Processor Launches Despite Nvidia Competition",
-      "news_score": 1,
-      "risk_flags": [],
-      "tag": ""
-    },
-    "AMZN": {
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "My 3 Favorite Stocks to Buy Right Now",
+      "headline": "Jim Cramer Says \u201cOnce They Cleaned Up the Balance Sheet, Intel Instantly Became a Much Better Story\u201d",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Inside Amazon\u2019s secret move to challenge Walmart\u2019s strength",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
     },
     "AVGO": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Broadcom Inc.'s (NASDAQ:AVGO) Recent Performance Tethered To Its Attractive Financial Prospects?",
-      "news_score": 0,
+      "headline": "Wells Fargo Upgrades Broadcom Inc. (AVGO) to Overweight From Equal Weight",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -65,13 +65,13 @@
       "tag": ""
     },
     "GOOGL": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump Eyes Plan To Make Big Tech Shoulder Their Own Data Center Power Costs: Report",
-      "news_score": 2,
+      "headline": "1 Hidden Reason Alphabet May Be a Brilliant Stock to Buy in 2026",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "HOOD": {
       "cat": "\u2014",
@@ -86,7 +86,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is quantum the next great tech revolution?",
+      "headline": "Jim Cramer on International Business Machines: \u201cIt\u2019s Inexpensive Relative to Its Growth Rate\u201d",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -104,25 +104,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 Reasons to Buy Intel Stock Right Now",
-      "news_score": 0,
+      "headline": "Jim Cramer Says \u201cOnce They Cleaned Up the Balance Sheet, Intel Instantly Became a Much Better Story\u201d",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "META": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump Eyes Plan To Make Big Tech Shoulder Their Own Data Center Power Costs: Report",
-      "news_score": 2,
+      "headline": "Where is Meta Platforms (META) Headed According to the Street?",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "MSFT": {
       "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Strong Analyst Sentiment on Microsoft (MSFT) Despite Price Target Cuts and Heavy AI Spend",
+      "headline": "Why is Microsoft Corporation (MSFT) One of the Best Stocks to Buy in 2026 for Beginners?",
       "news_score": -2,
       "risk_flags": [
         "NEWS_RISK"
@@ -133,7 +133,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "5 big analyst AI moves: Nvidia top 2026 pick, ASML gets big price target hike",
+      "headline": "'A broadening playbook': Wall Street sees stock market gains beyond tech",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -142,7 +142,7 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump in Davos, Netflix and Intel results on deck earnings season ramps: What to watch this week",
+      "headline": "Trump in Davos, Netflix and Intel results on deck as earnings season ramps: What to watch this week",
       "news_score": 2,
       "risk_flags": [],
       "tag": "NEWS+"
@@ -151,7 +151,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump in Davos, Netflix and Intel results on deck earnings season ramps: What to watch this week",
+      "headline": "Jim Cramer Says \u201cI Am Not Going to Call Bottom in ServiceNow\u201d",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -160,7 +160,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Quantum Computing Stock Plummeted 38% Last Year but Is Soaring in 2026",
+      "headline": "Jim Cramer on NVIDIA: \u201cIt\u2019s Meant to Be Owned, Not Traded\u201d",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -178,7 +178,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Oracle (ORCL) Gains Analyst Support with Cloud Growth, AI Adoption, and Data Center Expansion",
+      "headline": "Here\u2019s What Wall Street Thinks About Oracle Corporation (ORCL)",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
@@ -205,7 +205,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Prediction: D-Wave Quantum Stock Will Be Worth This Much by Year-End 2026",
+      "headline": "Battle Royale: IonQ vs. Rigetti. Only One Can Make You Rich.",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -223,7 +223,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Lucid Group the Next Tesla?",
+      "headline": "'A broadening playbook': Wall Street sees stock market gains beyond tech",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
