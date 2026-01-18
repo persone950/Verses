@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "TGT",
+    "symbol": "PANW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TGT",
-      "price": 111.28,
-      "prev_close": 111.13,
-      "open": 110.84,
-      "high": 111.75,
-      "low": 110.18,
+      "symbol": "PANW",
+      "price": 187.66,
+      "prev_close": 187.73,
+      "open": 187.63,
+      "high": 189.4999,
+      "low": 184.675,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TGT",
-        "price": 111.28,
-        "prev_close": 111.13,
-        "open": 110.84,
-        "high": 111.75,
-        "low": 110.18,
+        "symbol": "PANW",
+        "price": 187.66,
+        "prev_close": 187.73,
+        "open": 187.63,
+        "high": 189.4999,
+        "low": 184.675,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "TSM",
+    "symbol": "LYFT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "TSM",
-      "price": 342.4,
-      "prev_close": 341.64,
-      "open": 346.51,
-      "high": 349.85,
-      "low": 341.46,
+      "symbol": "LYFT",
+      "price": 18.33,
+      "prev_close": 18.88,
+      "open": 18.82,
+      "high": 18.99,
+      "low": 18.32,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "TSM",
-        "price": 342.4,
-        "prev_close": 341.64,
-        "open": 346.51,
-        "high": 349.85,
-        "low": 341.46,
+        "symbol": "LYFT",
+        "price": 18.33,
+        "prev_close": 18.88,
+        "open": 18.82,
+        "high": 18.99,
+        "low": 18.32,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1573,21 +1573,28 @@
     "error": null
   },
   {
-    "symbol": "PINS",
+    "symbol": "ABNB",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "CMCSA",
+    "symbol": "PYPL",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "CSCO",
+    "symbol": "MA",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "SMH",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
