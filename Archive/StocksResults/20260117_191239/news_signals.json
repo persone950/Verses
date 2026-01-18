@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-17T04:18:57Z",
+  "signals": {
+    "AAPL": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Google to Appeal US Court Ruling of Illegal Monopoly in Search",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market Today, Jan. 16: Riot Platforms Surges After Securing AMD Data Center Lease",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "AMZN": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Heard on the Street: Risks Rise as Tech Giants Dive Into Energy",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "AVGO": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Prediction: This Stock Will Join the $3 Trillion Club by the End of 2026. You're Going to Want to Buy It Now.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Can Serve Robotics Translate Lower Robot Costs Into Margin Leverage?",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Senate Dems To Discuss Clarity Act Concerns With Crypto Representatives",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Datadog (DDOG) Faces Competitive Pressures in 2026, Goldman Says in Sell Call",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "GOOGL": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Walmart and Costco Are Worth Every Penny",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Senate Dems To Discuss Clarity Act Concerns With Crypto Representatives",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stock Market Today: S&P 500, Dow Slide As Netflix, GE Aerospace Earnings Loom (Live Coverage)",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "INSM Stock Jumps on 2025 Preliminary Sales, 2026 Goals Announced",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Trump at Davos, Netflix earnings, SCOTUS hearing: What to Watch",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Heard on the Street: Risks Rise as Tech Giants Dive Into Energy",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Adobe, Salesforce, & the software stock slump: How to play the sector",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The Global Memory-Chip Shortage Will Cost Us All",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Trump Purchased Netflix, Warner Bonds in Days After Deal Announcement",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "2 Smart Stocks for Patient Long-Term Investors to Buy Now",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Digi Power X (TSXV:DGX) Is Up 12.2% After US$20M NVIDIA GPU Bet For AI Cloud Push",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "2 Growth Stocks to Invest $1,000 in Right Now",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "US still needs a 'strong manufacturing base': Bill Ford",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Palantir Technologies Inc. (PLTR) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Fund manager pulls plug on popular semiconductor stock",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "QBTS, RGTI, IONQ: Buy, Sell or Hold Ahead of Q4 Earnings?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Bank Earnings Release",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "—",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exclusive: Elon Musk’s Boring Co. is studying a tunnel project to Tesla Gigafactory near Reno",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
