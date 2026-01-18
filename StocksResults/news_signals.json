@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T02:30:25Z",
+  "generated_at": "2026-01-18T13:47:16Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "YouTuber MKBHD Hails Tesla Model Y Performance, Calls EV Giant's Self-Driving Technology 'The Best'",
+      "headline": "These 2 AI Stocks Could Join the $2 Trillion Club in 2026, According to Wall Street",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -14,25 +14,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates",
+      "headline": "Strong Analyst Sentiment on Advanced Micro Devices (AMD) Amid CES AI Processor Launches Despite Nvidia Competition",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "AMZN": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Amazon Loses Fight To Block Saks Bankruptcy Financing, Says Report: Company Warns Of 'Drastic Remedies'",
-      "news_score": -1,
+      "headline": "My 3 Favorite Stocks to Buy Right Now",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "AVGO": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "TSMC Says 'No More' To Nvidia: Why That Is Intel's Golden Ticket",
+      "headline": "Is Broadcom Inc.'s (NASDAQ:AVGO) Recent Performance Tethered To Its Attractive Financial Prospects?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -59,25 +59,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why CrowdStrike\u2019s SGNL Acquisition Matters for CRWD Stock",
+      "headline": "Bank stock picks, crypto trajectory, dealmaking appetite, and more takes from top execs this past week",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "GOOGL": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Silicon Valley is really talking about fleeing California (it\u2019s not the 5%)",
-      "news_score": -1,
+      "headline": "Trump Eyes Plan To Make Big Tech Shoulder Their Own Data Center Power Costs: Report",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "HOOD": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "2 High-Flying Growth Stocks to Buy and Hold for 10 Years",
+      "headline": "Could Buying Robinhood Stock Today Set You Up for Life?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -86,7 +86,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "3 Reasons to Buy IBM Stock Right Now",
+      "headline": "Is quantum the next great tech revolution?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -104,52 +104,54 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "KeyBanc Turns Bullish on Intel (INTC), Citing Server CPU Tightness and Foundry Yield Gains",
+      "headline": "3 Reasons to Buy Intel Stock Right Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "META": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Amazon Loses Fight To Block Saks Bankruptcy Financing, Says Report: Company Warns Of 'Drastic Remedies'",
-      "news_score": -1,
+      "headline": "Trump Eyes Plan To Make Big Tech Shoulder Their Own Data Center Power Costs: Report",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "MSFT": {
-      "cat": "\u2014",
+      "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "203 Billion Reasons Why Microsoft Is a Buy in 2026",
-      "news_score": -1,
-      "risk_flags": [],
-      "tag": ""
+      "headline": "Strong Analyst Sentiment on Microsoft (MSFT) Despite Price Target Cuts and Heavy AI Spend",
+      "news_score": -2,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
     },
     "MU": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "KeyBanc Sees Micron (MU) in a \u2018Different\u2019 Memory Cycle, Raises Target",
-      "news_score": 1,
+      "headline": "5 big analyst AI moves: Nvidia top 2026 pick, ASML gets big price target hike",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "NFLX": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "If You'd Invested $100 In Netflix 10 Years Ago, Here's How Much You'd Have Today",
-      "news_score": 0,
+      "headline": "Trump in Davos, Netflix and Intel results on deck earnings season ramps: What to watch this week",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "NOW": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Analysts Stay Bullish on ServiceNow, Inc. (NOW) Despite a 28% Slide",
+      "headline": "Trump in Davos, Netflix and Intel results on deck earnings season ramps: What to watch this week",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -158,7 +160,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "If You'd Invested $500 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "headline": "Why Quantum Computing Stock Plummeted 38% Last Year but Is Soaring in 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -176,26 +178,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Oracle Corporation (ORCL) Faces Bondholder Lawsuit Tied to AI Expansion Debt",
+      "headline": "Oracle (ORCL) Gains Analyst Support with Cloud Growth, AI Adoption, and Data Center Expansion",
       "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
     "PLTR": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Palantir Billionaire Peter Thiel Sells Nvidia and Buys 2 Other Magnificent Artificial Intelligence (AI) Stocks Instead",
-      "news_score": 0,
+      "headline": "Why Lumen Technologies Stock Surged 46.3% Last Year and Has Kept Climbing in 2026",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "QCOM": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Fund manager pulls plug on popular semiconductor stock",
-      "news_score": 0,
+      "headline": "MarketBeat Week in Review \u2013 01/12 - 01/16",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -203,7 +205,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Better Quantum Computing Stock: D-Wave Quantum vs. Rigetti Computing",
+      "headline": "Prediction: D-Wave Quantum Stock Will Be Worth This Much by Year-End 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -212,7 +214,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Bank Earnings Release",
+      "headline": "Here\u2019s everything investors need to know about the historic silver rally in 10 charts",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -221,8 +223,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What Tesla Needs to Prove in 2026\u200b",
-      "news_score": -1,
+      "headline": "Is Lucid Group the Next Tesla?",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     }
