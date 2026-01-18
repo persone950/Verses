@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "AFRM",
+    "symbol": "SOFI",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "AFRM",
-      "price": 74.76,
-      "prev_close": 71.81,
-      "open": 72.26,
-      "high": 75.9,
-      "low": 72.05,
+      "symbol": "SOFI",
+      "price": 26.13,
+      "prev_close": 26.44,
+      "open": 26.54,
+      "high": 26.78,
+      "low": 26.01,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "AFRM",
-        "price": 74.76,
-        "prev_close": 71.81,
-        "open": 72.26,
-        "high": 75.9,
-        "low": 72.05,
+        "symbol": "SOFI",
+        "price": 26.13,
+        "prev_close": 26.44,
+        "open": 26.54,
+        "high": 26.78,
+        "low": 26.01,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "LYFT",
+    "symbol": "AMAT",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LYFT",
-      "price": 18.33,
-      "prev_close": 18.88,
-      "open": 18.82,
-      "high": 18.99,
-      "low": 18.32,
+      "symbol": "AMAT",
+      "price": 327.01,
+      "prev_close": 319.08,
+      "open": 325.715,
+      "high": 330.185,
+      "low": 320.17,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LYFT",
-        "price": 18.33,
-        "prev_close": 18.88,
-        "open": 18.82,
-        "high": 18.99,
-        "low": 18.32,
+        "symbol": "AMAT",
+        "price": 327.01,
+        "prev_close": 319.08,
+        "open": 325.715,
+        "high": 330.185,
+        "low": 320.17,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1573,28 +1573,35 @@
     "error": null
   },
   {
-    "symbol": "TMUS",
+    "symbol": "ABT",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "LRCX",
+    "symbol": "NET",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "COF",
+    "symbol": "LOW",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "HD",
+    "symbol": "ASML",
+    "category": "ADDON_RANDOM",
+    "best": null,
+    "raw": [],
+    "error": "http 429"
+  },
+  {
+    "symbol": "ETSY",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
