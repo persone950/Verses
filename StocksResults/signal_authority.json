@@ -228,27 +228,31 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "AFRM": {
+    "SOFI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LYFT": {
+    "AMAT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMUS": {
+    "ABT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LRCX": {
+    "NET": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "LOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "HD": {
+    "ASML": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "ETSY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
