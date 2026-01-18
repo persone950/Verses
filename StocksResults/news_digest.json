@@ -1226,6 +1226,28 @@
     ],
     "NVDA": [
       {
+        "headline": "If You'd Invested $500 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today",
+        "link": "https://www.fool.com/investing/2026/01/17/if-youd-invested-500-in-nvidia-stock-10-years-ago/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 18 Jan 2026 00:35:00 +0000",
+        "title": "If You'd Invested $500 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today",
+        "ts": "2026-01-18T00:35:00Z",
+        "url": "https://www.fool.com/investing/2026/01/17/if-youd-invested-500-in-nvidia-stock-10-years-ago/?.tsrc=rss"
+      },
+      {
+        "headline": "Memory Shortage Threatens Nvidia's China AI Chip Ambitions",
+        "link": "https://finance.yahoo.com/news/memory-shortage-threatens-nvidias-china-003139128.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 18 Jan 2026 00:31:39 +0000",
+        "title": "Memory Shortage Threatens Nvidia's China AI Chip Ambitions",
+        "ts": "2026-01-18T00:31:39Z",
+        "url": "https://finance.yahoo.com/news/memory-shortage-threatens-nvidias-china-003139128.html?.tsrc=rss"
+      },
+      {
         "headline": "Gary Black Likes Elon Musk's Tesla But Not TSLA, Draws Comparison With Amazon\u2014Says Nvidia 'Democratizes Autonomy'",
         "link": "https://finance.yahoo.com/news/gary-black-likes-elon-musks-235124088.html?.tsrc=rss",
         "source": "yahoo",
@@ -1268,28 +1290,6 @@
         "title": "Where Will Nvidia Stock Be in 10 Years?",
         "ts": "2026-01-17T17:55:00Z",
         "url": "https://www.fool.com/investing/2026/01/17/where-will-nvidia-stock-be-in-10-years/?.tsrc=rss"
-      },
-      {
-        "headline": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-        "link": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 17:53:39 +0000",
-        "title": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-        "ts": "2026-01-17T17:53:39Z",
-        "url": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss"
-      },
-      {
-        "headline": "Gene Munster Warns Wall Street Is Underestimating 2026 AI Demand As Nvidia And TSMC Signal Strong Upside",
-        "link": "https://finance.yahoo.com/news/gene-munster-warns-wall-street-173110396.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 17:31:10 +0000",
-        "title": "Gene Munster Warns Wall Street Is Underestimating 2026 AI Demand As Nvidia And TSMC Signal Strong Upside",
-        "ts": "2026-01-17T17:31:10Z",
-        "url": "https://finance.yahoo.com/news/gene-munster-warns-wall-street-173110396.html?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-18T00:08:02Z",
+  "generated_at": "2026-01-18T01:26:09Z",
   "items": [
     {
       "headline": "YouTuber MKBHD Hails Tesla Model Y Performance, Calls EV Giant's Self-Driving Technology 'The Best'",
@@ -1916,6 +1916,30 @@
       "url": "https://finance.yahoo.com/news/oracle-corporation-orcl-faces-bondholder-114526027.html?.tsrc=rss"
     },
     {
+      "headline": "If You'd Invested $500 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "link": "https://www.fool.com/investing/2026/01/17/if-youd-invested-500-in-nvidia-stock-10-years-ago/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Sun, 18 Jan 2026 00:35:00 +0000",
+      "title": "If You'd Invested $500 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "ts": "2026-01-18T00:35:00Z",
+      "url": "https://www.fool.com/investing/2026/01/17/if-youd-invested-500-in-nvidia-stock-10-years-ago/?.tsrc=rss"
+    },
+    {
+      "headline": "Memory Shortage Threatens Nvidia's China AI Chip Ambitions",
+      "link": "https://finance.yahoo.com/news/memory-shortage-threatens-nvidias-china-003139128.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Sun, 18 Jan 2026 00:31:39 +0000",
+      "title": "Memory Shortage Threatens Nvidia's China AI Chip Ambitions",
+      "ts": "2026-01-18T00:31:39Z",
+      "url": "https://finance.yahoo.com/news/memory-shortage-threatens-nvidias-china-003139128.html?.tsrc=rss"
+    },
+    {
       "headline": "Gary Black Likes Elon Musk's Tesla But Not TSLA, Draws Comparison With Amazon\u2014Says Nvidia 'Democratizes Autonomy'",
       "link": "https://finance.yahoo.com/news/gary-black-likes-elon-musks-235124088.html?.tsrc=rss",
       "source": "yahoo",
@@ -1962,30 +1986,6 @@
       "title": "Where Will Nvidia Stock Be in 10 Years?",
       "ts": "2026-01-17T17:55:00Z",
       "url": "https://www.fool.com/investing/2026/01/17/where-will-nvidia-stock-be-in-10-years/?.tsrc=rss"
-    },
-    {
-      "headline": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-      "link": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sat, 17 Jan 2026 17:53:39 +0000",
-      "title": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-      "ts": "2026-01-17T17:53:39Z",
-      "url": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss"
-    },
-    {
-      "headline": "Gene Munster Warns Wall Street Is Underestimating 2026 AI Demand As Nvidia And TSMC Signal Strong Upside",
-      "link": "https://finance.yahoo.com/news/gene-munster-warns-wall-street-173110396.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sat, 17 Jan 2026 17:31:10 +0000",
-      "title": "Gene Munster Warns Wall Street Is Underestimating 2026 AI Demand As Nvidia And TSMC Signal Strong Upside",
-      "ts": "2026-01-17T17:31:10Z",
-      "url": "https://finance.yahoo.com/news/gene-munster-warns-wall-street-173110396.html?.tsrc=rss"
     },
     {
       "headline": "Amazon Loses Fight To Block Saks Bankruptcy Financing, Says Report: Company Warns Of 'Drastic Remedies'",
