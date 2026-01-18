@@ -228,27 +228,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SQ": {
+    "AFRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TSM": {
+    "LYFT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLK": {
+    "TMUS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "GM": {
+    "LRCX": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DIS": {
+    "COF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XBI": {
+    "HD": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
