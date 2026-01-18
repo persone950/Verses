@@ -546,6 +546,17 @@
     ],
     "GOOGL": [
       {
+        "headline": "Why Silicon Valley is really talking about fleeing California (it\u2019s not the 5%)",
+        "link": "https://finance.yahoo.com/news/why-silicon-valley-really-talking-011711652.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 18 Jan 2026 01:17:11 +0000",
+        "title": "Why Silicon Valley is really talking about fleeing California (it\u2019s not the 5%)",
+        "ts": "2026-01-18T01:17:11Z",
+        "url": "https://finance.yahoo.com/news/why-silicon-valley-really-talking-011711652.html?.tsrc=rss"
+      },
+      {
         "headline": "Amazon Loses Fight To Block Saks Bankruptcy Financing, Says Report: Company Warns Of 'Drastic Remedies'",
         "link": "https://finance.yahoo.com/news/amazon-loses-fight-block-saks-235124308.html?.tsrc=rss",
         "source": "yahoo",
@@ -599,17 +610,6 @@
         "title": "Prediction: This Will Be Alphabet's Stock Price by the End of 2026",
         "ts": "2026-01-17T20:23:00Z",
         "url": "https://www.fool.com/investing/2026/01/17/prediction-this-will-be-alphabets-stock-price-by-t/?.tsrc=rss"
-      },
-      {
-        "headline": "Bank of America revamps Alphabet stock after Google enters two key partnerships",
-        "link": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 20:17:00 +0000",
-        "title": "Bank of America revamps Alphabet stock after Google enters two key partnerships",
-        "ts": "2026-01-17T20:17:00Z",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -1702,6 +1702,28 @@
     ],
     "TSLA": [
       {
+        "headline": "What Tesla Needs to Prove in 2026\u200b",
+        "link": "https://www.fool.com/investing/2026/01/17/what-tesla-needs-to-prove-in-2026/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 18 Jan 2026 02:20:00 +0000",
+        "title": "What Tesla Needs to Prove in 2026\u200b",
+        "ts": "2026-01-18T02:20:00Z",
+        "url": "https://www.fool.com/investing/2026/01/17/what-tesla-needs-to-prove-in-2026/?.tsrc=rss"
+      },
+      {
+        "headline": "Elon Musk Announces Change to a Tesla Fee That Could Impact Everything",
+        "link": "https://finance.yahoo.com/news/elon-musk-announces-change-tesla-011705081.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Sun, 18 Jan 2026 01:17:05 +0000",
+        "title": "Elon Musk Announces Change to a Tesla Fee That Could Impact Everything",
+        "ts": "2026-01-18T01:17:05Z",
+        "url": "https://finance.yahoo.com/news/elon-musk-announces-change-tesla-011705081.html?.tsrc=rss"
+      },
+      {
         "headline": "Gary Black Likes Elon Musk's Tesla But Not TSLA, Draws Comparison With Amazon\u2014Says Nvidia 'Democratizes Autonomy'",
         "link": "https://finance.yahoo.com/news/gary-black-likes-elon-musks-235124088.html?.tsrc=rss",
         "source": "yahoo",
@@ -1744,32 +1766,10 @@
         "title": "From $5.38 to 17 Cents: Inside Senator McConnell's 97% Stock Wipeout",
         "ts": "2026-01-17T14:31:39Z",
         "url": "https://finance.yahoo.com/news/5-38-17-cents-inside-143139913.html?.tsrc=rss"
-      },
-      {
-        "headline": "The solar panel contracts that can kill home sales",
-        "link": "https://finance.yahoo.com/news/the-solar-panel-contracts-that-can-kill-home-sales-133039793.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 13:30:39 +0000",
-        "title": "The solar panel contracts that can kill home sales",
-        "ts": "2026-01-17T13:30:39Z",
-        "url": "https://finance.yahoo.com/news/the-solar-panel-contracts-that-can-kill-home-sales-133039793.html?.tsrc=rss"
-      },
-      {
-        "headline": "Tesla's FSD, like almost everything else, is becoming a subscription",
-        "link": "https://finance.yahoo.com/news/teslas-fsd-like-almost-everything-else-is-becoming-a-subscription-110013673.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 11:00:13 +0000",
-        "title": "Tesla's FSD, like almost everything else, is becoming a subscription",
-        "ts": "2026-01-17T11:00:13Z",
-        "url": "https://finance.yahoo.com/news/teslas-fsd-like-almost-everything-else-is-becoming-a-subscription-110013673.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-18T01:26:09Z",
+  "generated_at": "2026-01-18T02:30:25Z",
   "items": [
     {
       "headline": "YouTuber MKBHD Hails Tesla Model Y Performance, Calls EV Giant's Self-Driving Technology 'The Best'",
@@ -1988,6 +1988,18 @@
       "url": "https://www.fool.com/investing/2026/01/17/where-will-nvidia-stock-be-in-10-years/?.tsrc=rss"
     },
     {
+      "headline": "Why Silicon Valley is really talking about fleeing California (it\u2019s not the 5%)",
+      "link": "https://finance.yahoo.com/news/why-silicon-valley-really-talking-011711652.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Sun, 18 Jan 2026 01:17:11 +0000",
+      "title": "Why Silicon Valley is really talking about fleeing California (it\u2019s not the 5%)",
+      "ts": "2026-01-18T01:17:11Z",
+      "url": "https://finance.yahoo.com/news/why-silicon-valley-really-talking-011711652.html?.tsrc=rss"
+    },
+    {
       "headline": "Amazon Loses Fight To Block Saks Bankruptcy Financing, Says Report: Company Warns Of 'Drastic Remedies'",
       "link": "https://finance.yahoo.com/news/amazon-loses-fight-block-saks-235124308.html?.tsrc=rss",
       "source": "yahoo",
@@ -2046,18 +2058,6 @@
       "title": "Prediction: This Will Be Alphabet's Stock Price by the End of 2026",
       "ts": "2026-01-17T20:23:00Z",
       "url": "https://www.fool.com/investing/2026/01/17/prediction-this-will-be-alphabets-stock-price-by-t/?.tsrc=rss"
-    },
-    {
-      "headline": "Bank of America revamps Alphabet stock after Google enters two key partnerships",
-      "link": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Sat, 17 Jan 2026 20:17:00 +0000",
-      "title": "Bank of America revamps Alphabet stock after Google enters two key partnerships",
-      "ts": "2026-01-17T20:17:00Z",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships?.tsrc=rss"
     },
     {
       "headline": "Amazon Loses Fight To Block Saks Bankruptcy Financing, Says Report: Company Warns Of 'Drastic Remedies'",
@@ -2204,6 +2204,30 @@
       "url": "https://finance.yahoo.com/news/ramsey-show-caller-says-wife-150105725.html?.tsrc=rss"
     },
     {
+      "headline": "What Tesla Needs to Prove in 2026\u200b",
+      "link": "https://www.fool.com/investing/2026/01/17/what-tesla-needs-to-prove-in-2026/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "TSLA",
+      "time": "Sun, 18 Jan 2026 02:20:00 +0000",
+      "title": "What Tesla Needs to Prove in 2026\u200b",
+      "ts": "2026-01-18T02:20:00Z",
+      "url": "https://www.fool.com/investing/2026/01/17/what-tesla-needs-to-prove-in-2026/?.tsrc=rss"
+    },
+    {
+      "headline": "Elon Musk Announces Change to a Tesla Fee That Could Impact Everything",
+      "link": "https://finance.yahoo.com/news/elon-musk-announces-change-tesla-011705081.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "TSLA",
+      "time": "Sun, 18 Jan 2026 01:17:05 +0000",
+      "title": "Elon Musk Announces Change to a Tesla Fee That Could Impact Everything",
+      "ts": "2026-01-18T01:17:05Z",
+      "url": "https://finance.yahoo.com/news/elon-musk-announces-change-tesla-011705081.html?.tsrc=rss"
+    },
+    {
       "headline": "Gary Black Likes Elon Musk's Tesla But Not TSLA, Draws Comparison With Amazon\u2014Says Nvidia 'Democratizes Autonomy'",
       "link": "https://finance.yahoo.com/news/gary-black-likes-elon-musks-235124088.html?.tsrc=rss",
       "source": "yahoo",
@@ -2250,30 +2274,6 @@
       "title": "From $5.38 to 17 Cents: Inside Senator McConnell's 97% Stock Wipeout",
       "ts": "2026-01-17T14:31:39Z",
       "url": "https://finance.yahoo.com/news/5-38-17-cents-inside-143139913.html?.tsrc=rss"
-    },
-    {
-      "headline": "The solar panel contracts that can kill home sales",
-      "link": "https://finance.yahoo.com/news/the-solar-panel-contracts-that-can-kill-home-sales-133039793.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Sat, 17 Jan 2026 13:30:39 +0000",
-      "title": "The solar panel contracts that can kill home sales",
-      "ts": "2026-01-17T13:30:39Z",
-      "url": "https://finance.yahoo.com/news/the-solar-panel-contracts-that-can-kill-home-sales-133039793.html?.tsrc=rss"
-    },
-    {
-      "headline": "Tesla's FSD, like almost everything else, is becoming a subscription",
-      "link": "https://finance.yahoo.com/news/teslas-fsd-like-almost-everything-else-is-becoming-a-subscription-110013673.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Sat, 17 Jan 2026 11:00:13 +0000",
-      "title": "Tesla's FSD, like almost everything else, is becoming a subscription",
-      "ts": "2026-01-17T11:00:13Z",
-      "url": "https://finance.yahoo.com/news/teslas-fsd-like-almost-everything-else-is-becoming-a-subscription-110013673.html?.tsrc=rss"
     },
     {
       "headline": "AMD Gets KeyBanc Upgrade as Hyperscaler Demand Accelerates",
