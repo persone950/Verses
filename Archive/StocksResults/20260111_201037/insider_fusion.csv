@@ -1,2 +1,0 @@
-Ticker,BaseScore,BaseSignal,InsiderFlag,InsiderBlend,BoostApplied,FinalScore,Reason
-—,—,—,—,—,—,—,EDGAR discovery empty (check SEC_USER_AGENT/network)
