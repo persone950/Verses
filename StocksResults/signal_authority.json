@@ -228,23 +228,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
+    "CMCSA": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "XLF": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "SCHW": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
     "DE": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ZS": {
+    "COF": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ETSY": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ABT": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "LRCX": {
+    "ABNB": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
