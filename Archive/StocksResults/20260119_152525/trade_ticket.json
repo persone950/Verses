@@ -1,0 +1,14 @@
+{
+  "timestamp_et": "2026-01-19T00:14:23.358006-05:00",
+  "ticket": {
+    "Ticker": "NVDA",
+    "Type": "P",
+    "Strike": "180.0000",
+    "Exp": "2026-02-13",
+    "Score": "3.899184",
+    "Action": "IGNORE",
+    "Size%": "0.0",
+    "Confidence": "LOW",
+    "RiskState": "DEFENSIVE"
+  }
+}
