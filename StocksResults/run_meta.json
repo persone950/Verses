@@ -4,9 +4,9 @@
   "phase": "OFF-CYCLE",
   "data_mode": "LIVE",
   "timestamps": {
-    "et": "2026-01-18T21:34:14.675883-05:00",
-    "gmt": "2026-01-19T02:34:14.675883+00:00",
-    "local": "2026-01-18T21:34:14.675893-05:00"
+    "et": "2026-01-18T23:11:04.683202-05:00",
+    "gmt": "2026-01-19T04:11:04.683202+00:00",
+    "local": "2026-01-18T23:11:04.683213-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -64,9 +64,9 @@
     "feed_results.csv": 62,
     "feed_results_table.csv": 62,
     "ml_signals.csv": 0,
-    "options_chain.csv": 132981,
-    "options_summary.csv": 132981,
-    "premium_candidates_all.csv": 3446,
+    "options_chain.csv": 133852,
+    "options_summary.csv": 133852,
+    "premium_candidates_all.csv": 3441,
     "premium_candidates.csv": 20,
     "premium_topN.csv": 20,
     "portfolio_totals.csv": 2
