@@ -2,6 +2,17 @@
   "digest": {
     "AAPL": [
       {
+        "headline": "Assessing Apple (AAPL) Valuation After Recent Pullback And Long Term Return Strength",
+        "link": "https://finance.yahoo.com/news/assessing-apple-aapl-valuation-recent-200851329.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:08:51 +0000",
+        "title": "Assessing Apple (AAPL) Valuation After Recent Pullback And Long Term Return Strength",
+        "ts": "2026-01-19T20:08:51Z",
+        "url": "https://finance.yahoo.com/news/assessing-apple-aapl-valuation-recent-200851329.html?.tsrc=rss"
+      },
+      {
         "headline": "Can Apple Stock Reach $350 in 2026?",
         "link": "https://www.fool.com/investing/2026/01/19/can-apple-stock-reach-350-in-2026/?.tsrc=rss",
         "source": "yahoo",
@@ -55,20 +66,20 @@
         "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
         "ts": "2026-01-19T16:14:00Z",
         "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
-      },
-      {
-        "headline": "Well, there goes the metaverse!",
-        "link": "https://finance.yahoo.com/news/well-goes-metaverse-160000767.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:00:00 +0000",
-        "title": "Well, there goes the metaverse!",
-        "ts": "2026-01-19T16:00:00Z",
-        "url": "https://finance.yahoo.com/news/well-goes-metaverse-160000767.html?.tsrc=rss"
       }
     ],
     "AMD": [
+      {
+        "headline": "Why Wells Fargo Calls AMD a Top AI Pick for 2026",
+        "link": "https://finance.yahoo.com/news/why-wells-fargo-calls-amd-203228183.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:32:28 +0000",
+        "title": "Why Wells Fargo Calls AMD a Top AI Pick for 2026",
+        "ts": "2026-01-19T20:32:28Z",
+        "url": "https://finance.yahoo.com/news/why-wells-fargo-calls-amd-203228183.html?.tsrc=rss"
+      },
       {
         "headline": "5 Stocks You'll Regret Not Buying in 2026",
         "link": "https://www.fool.com/investing/2026/01/19/5-stocks-youll-regret-not-buying-in-2026/?.tsrc=rss",
@@ -123,20 +134,31 @@
         "title": "Tesla Set to Restart AI Supercomputer Project. Why Musk Has Changed His Mind.",
         "ts": "2026-01-19T14:34:00Z",
         "url": "https://finance.yahoo.com/m/a43048ff-e81e-3544-8713-5502b291a96b/tesla-set-to-restart-ai.html?.tsrc=rss"
-      },
-      {
-        "headline": "As Trump Hits AMD MI325X Chips with a 25% Tariff, How Should You Play AMD Stock?",
-        "link": "https://www.barchart.com/story/news/37110962/as-trump-hits-amd-mi325x-chips-with-a-25-tariff-how-should-you-play-amd-stock?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 14:30:02 +0000",
-        "title": "As Trump Hits AMD MI325X Chips with a 25% Tariff, How Should You Play AMD Stock?",
-        "ts": "2026-01-19T14:30:02Z",
-        "url": "https://www.barchart.com/story/news/37110962/as-trump-hits-amd-mi325x-chips-with-a-25-tariff-how-should-you-play-amd-stock?.tsrc=rss"
       }
     ],
     "AMZN": [
+      {
+        "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+        "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "ts": "2026-01-19T21:25:00Z",
+        "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+      },
+      {
+        "headline": "Raymond James Trims Amazon (AMZN) Target, Flags Agentic Commerce Headwinds",
+        "link": "https://finance.yahoo.com/news/raymond-james-trims-amazon-amzn-202350818.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:23:50 +0000",
+        "title": "Raymond James Trims Amazon (AMZN) Target, Flags Agentic Commerce Headwinds",
+        "ts": "2026-01-19T20:23:50Z",
+        "url": "https://finance.yahoo.com/news/raymond-james-trims-amazon-amzn-202350818.html?.tsrc=rss"
+      },
       {
         "headline": "5 Stocks You'll Regret Not Buying in 2026",
         "link": "https://www.fool.com/investing/2026/01/19/5-stocks-youll-regret-not-buying-in-2026/?.tsrc=rss",
@@ -180,31 +202,20 @@
         "title": "Can a $1,699 Espresso Machine Help Walmart Challenge Amazon?",
         "ts": "2026-01-19T17:00:00Z",
         "url": "https://finance.yahoo.com/m/2191b99a-7f3f-3bba-ba8d-f5e34b777b78/can-a-%241%2C699-espresso-machine.html?.tsrc=rss"
-      },
-      {
-        "headline": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-        "link": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:14:00 +0000",
-        "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-        "ts": "2026-01-19T16:14:00Z",
-        "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
-      },
-      {
-        "headline": "Kevin O'Leary Says 'I Don't Care If It's A Gift For Your Birthday'\u2014Take 10% Of Any Money That Comes Your Way And Invest It To Get Rich",
-        "link": "https://finance.yahoo.com/news/kevin-oleary-says-dont-care-150106273.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 15:01:06 +0000",
-        "title": "Kevin O'Leary Says 'I Don't Care If It's A Gift For Your Birthday'\u2014Take 10% Of Any Money That Comes Your Way And Invest It To Get Rich",
-        "ts": "2026-01-19T15:01:06Z",
-        "url": "https://finance.yahoo.com/news/kevin-oleary-says-dont-care-150106273.html?.tsrc=rss"
       }
     ],
     "AVGO": [
+      {
+        "headline": "Why Wells Fargo Just Turned More Bullish on Broadcom (AVGO)",
+        "link": "https://finance.yahoo.com/news/why-wells-fargo-just-turned-204603766.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:46:03 +0000",
+        "title": "Why Wells Fargo Just Turned More Bullish on Broadcom (AVGO)",
+        "ts": "2026-01-19T20:46:03Z",
+        "url": "https://finance.yahoo.com/news/why-wells-fargo-just-turned-204603766.html?.tsrc=rss"
+      },
       {
         "headline": "5 Stocks You'll Regret Not Buying in 2026",
         "link": "https://www.fool.com/investing/2026/01/19/5-stocks-youll-regret-not-buying-in-2026/?.tsrc=rss",
@@ -259,17 +270,6 @@
         "title": "Stock Market News for Jan 19, 2026",
         "ts": "2026-01-19T14:38:00Z",
         "url": "https://finance.yahoo.com/news/stock-market-news-jan-19-143800895.html?.tsrc=rss"
-      },
-      {
-        "headline": "Want $1 Million in Retirement? Invest $100,000 in These 3 Stocks and Wait a Decade",
-        "link": "https://www.fool.com/investing/2026/01/19/want-1-million-in-retirement-invest-100000-in-thes/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 14:20:00 +0000",
-        "title": "Want $1 Million in Retirement? Invest $100,000 in These 3 Stocks and Wait a Decade",
-        "ts": "2026-01-19T14:20:00Z",
-        "url": "https://www.fool.com/investing/2026/01/19/want-1-million-in-retirement-invest-100000-in-thes/?.tsrc=rss"
       }
     ],
     "BBAI": [
@@ -546,6 +546,28 @@
     ],
     "GOOGL": [
       {
+        "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+        "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "ts": "2026-01-19T21:25:00Z",
+        "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+      },
+      {
+        "headline": "RBC Raises Alphabet (GOOGL) Target on AI Advertising Momentum",
+        "link": "https://finance.yahoo.com/news/rbc-raises-alphabet-googl-target-205225839.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:52:25 +0000",
+        "title": "RBC Raises Alphabet (GOOGL) Target on AI Advertising Momentum",
+        "ts": "2026-01-19T20:52:25Z",
+        "url": "https://finance.yahoo.com/news/rbc-raises-alphabet-googl-target-205225839.html?.tsrc=rss"
+      },
+      {
         "headline": "5 Stocks You'll Regret Not Buying in 2026",
         "link": "https://www.fool.com/investing/2026/01/19/5-stocks-youll-regret-not-buying-in-2026/?.tsrc=rss",
         "source": "yahoo",
@@ -588,28 +610,6 @@
         "title": "The Rise and Fall of the American Monoculture",
         "ts": "2026-01-19T17:00:00Z",
         "url": "https://finance.yahoo.com/m/e6b231c4-a001-3689-919c-93597b3b7f31/the-rise-and-fall-of-the.html?.tsrc=rss"
-      },
-      {
-        "headline": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-        "link": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:20:00 +0000",
-        "title": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-        "ts": "2026-01-19T16:20:00Z",
-        "url": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss"
-      },
-      {
-        "headline": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-        "link": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:14:00 +0000",
-        "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-        "ts": "2026-01-19T16:14:00Z",
-        "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
       }
     ],
     "HOOD": [
@@ -886,6 +886,17 @@
     ],
     "META": [
       {
+        "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+        "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "ts": "2026-01-19T21:25:00Z",
+        "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+      },
+      {
         "headline": "Andreessen Horowitz Commits $3 Billion to AI Infrastructure Strategy",
         "link": "https://finance.yahoo.com/news/andreessen-horowitz-commits-3-billion-182411601.html?.tsrc=rss",
         "source": "yahoo",
@@ -939,20 +950,20 @@
         "title": "Husband, 32, With 'Months To Live' Has $1.2M Life Insurance And Asks If He Should Put 50% Of It In Annuity So His Wife Doesn't Blow It",
         "ts": "2026-01-19T17:01:14Z",
         "url": "https://finance.yahoo.com/news/husband-32-months-live-1-170114945.html?.tsrc=rss"
-      },
-      {
-        "headline": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-        "link": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:20:00 +0000",
-        "title": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-        "ts": "2026-01-19T16:20:00Z",
-        "url": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss"
       }
     ],
     "MSFT": [
+      {
+        "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+        "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "ts": "2026-01-19T21:25:00Z",
+        "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+      },
       {
         "headline": "Bill Gates Was World's Richest Person In 2016\u2014A Decade Later He's Not Even In The Top 10 As Elon Musk And Others Rewrite The Wealth Rankings",
         "link": "https://finance.yahoo.com/news/bill-gates-worlds-richest-person-193106053.html?.tsrc=rss",
@@ -1007,17 +1018,6 @@
         "title": "Elon Musk Seeks Up to $134 Billion from OpenAI and Microsoft in Damages",
         "ts": "2026-01-19T16:59:03Z",
         "url": "https://finance.yahoo.com/news/elon-musk-seeks-134-billion-165903955.html?.tsrc=rss"
-      },
-      {
-        "headline": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-        "link": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:20:00 +0000",
-        "title": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-        "ts": "2026-01-19T16:20:00Z",
-        "url": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss"
       }
     ],
     "MU": [
@@ -1226,6 +1226,17 @@
     ],
     "NVDA": [
       {
+        "headline": "Nvidia (NVDA) Tariff Impact Seen as Limited, Wolfe Research Says",
+        "link": "https://finance.yahoo.com/news/nvidia-nvda-tariff-impact-seen-205336181.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:53:36 +0000",
+        "title": "Nvidia (NVDA) Tariff Impact Seen as Limited, Wolfe Research Says",
+        "ts": "2026-01-19T20:53:36Z",
+        "url": "https://finance.yahoo.com/news/nvidia-nvda-tariff-impact-seen-205336181.html?.tsrc=rss"
+      },
+      {
         "headline": "5 Stocks You'll Regret Not Buying in 2026",
         "link": "https://www.fool.com/investing/2026/01/19/5-stocks-youll-regret-not-buying-in-2026/?.tsrc=rss",
         "source": "yahoo",
@@ -1279,17 +1290,6 @@
         "title": "Nvidia H200 Shipments Hit China Roadblock",
         "ts": "2026-01-19T17:59:29Z",
         "url": "https://finance.yahoo.com/news/nvidia-h200-shipments-hit-china-175929567.html?.tsrc=rss"
-      },
-      {
-        "headline": "TSMC Jumps on Strong Q4 as AI Chip Demand Surges",
-        "link": "https://finance.yahoo.com/news/tsmc-jumps-strong-q4-ai-165640626.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:56:40 +0000",
-        "title": "TSMC Jumps on Strong Q4 as AI Chip Demand Surges",
-        "ts": "2026-01-19T16:56:40Z",
-        "url": "https://finance.yahoo.com/news/tsmc-jumps-strong-q4-ai-165640626.html?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1430,6 +1430,17 @@
     ],
     "PLTR": [
       {
+        "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+        "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+        "ts": "2026-01-19T21:25:00Z",
+        "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+      },
+      {
         "headline": "Palantir stock faces a pressure-cooker moment",
         "link": "https://www.thestreet.com/investing/palantir-stock-faces-a-pressure-cooker-moment?.tsrc=rss",
         "source": "yahoo",
@@ -1483,17 +1494,6 @@
         "title": "Why Lumen Technologies Stock Surged 46.3% Last Year and Has Kept Climbing in 2026",
         "ts": "2026-01-18T12:05:00Z",
         "url": "https://www.fool.com/investing/2026/01/18/why-lumen-technologies-stock-surged-463-last-year/?.tsrc=rss"
-      },
-      {
-        "headline": "2 Growth Stocks to Buy in January and Hold for the Next 10 Years",
-        "link": "https://www.fool.com/investing/2026/01/18/2-growth-stocks-buy-january-hold-10-years/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 18 Jan 2026 11:00:00 +0000",
-        "title": "2 Growth Stocks to Buy in January and Hold for the Next 10 Years",
-        "ts": "2026-01-18T11:00:00Z",
-        "url": "https://www.fool.com/investing/2026/01/18/2-growth-stocks-buy-january-hold-10-years/?.tsrc=rss"
       }
     ],
     "QCOM": [
@@ -1702,6 +1702,17 @@
     ],
     "TSLA": [
       {
+        "headline": "Barclays Says Tesla\u2019s (TSLA) Fundamentals Are Taking a Back Seat",
+        "link": "https://finance.yahoo.com/news/barclays-says-tesla-tsla-fundamentals-203402767.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 20:34:02 +0000",
+        "title": "Barclays Says Tesla\u2019s (TSLA) Fundamentals Are Taking a Back Seat",
+        "ts": "2026-01-19T20:34:02Z",
+        "url": "https://finance.yahoo.com/news/barclays-says-tesla-tsla-fundamentals-203402767.html?.tsrc=rss"
+      },
+      {
         "headline": "Elon Musk drops a surprise curveball on Nvidia",
         "link": "https://www.thestreet.com/technology/elon-musk-drops-a-surprise-curveball-on-nvidia?.tsrc=rss",
         "source": "yahoo",
@@ -1755,22 +1766,23 @@
         "title": "Husband, 32, With 'Months To Live' Has $1.2M Life Insurance And Asks If He Should Put 50% Of It In Annuity So His Wife Doesn't Blow It",
         "ts": "2026-01-19T17:01:14Z",
         "url": "https://finance.yahoo.com/news/husband-32-months-live-1-170114945.html?.tsrc=rss"
-      },
-      {
-        "headline": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-        "link": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 16:14:00 +0000",
-        "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-        "ts": "2026-01-19T16:14:00Z",
-        "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
       }
     ]
   },
-  "generated_at": "2026-01-19T20:28:30Z",
+  "generated_at": "2026-01-19T21:38:39Z",
   "items": [
+    {
+      "headline": "Assessing Apple (AAPL) Valuation After Recent Pullback And Long Term Return Strength",
+      "link": "https://finance.yahoo.com/news/assessing-apple-aapl-valuation-recent-200851329.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AAPL",
+      "time": "Mon, 19 Jan 2026 20:08:51 +0000",
+      "title": "Assessing Apple (AAPL) Valuation After Recent Pullback And Long Term Return Strength",
+      "ts": "2026-01-19T20:08:51Z",
+      "url": "https://finance.yahoo.com/news/assessing-apple-aapl-valuation-recent-200851329.html?.tsrc=rss"
+    },
     {
       "headline": "Can Apple Stock Reach $350 in 2026?",
       "link": "https://www.fool.com/investing/2026/01/19/can-apple-stock-reach-350-in-2026/?.tsrc=rss",
@@ -1832,16 +1844,16 @@
       "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
     },
     {
-      "headline": "Well, there goes the metaverse!",
-      "link": "https://finance.yahoo.com/news/well-goes-metaverse-160000767.html?.tsrc=rss",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "AAPL",
-      "time": "Mon, 19 Jan 2026 16:00:00 +0000",
-      "title": "Well, there goes the metaverse!",
-      "ts": "2026-01-19T16:00:00Z",
-      "url": "https://finance.yahoo.com/news/well-goes-metaverse-160000767.html?.tsrc=rss"
+      "ticker": "MSFT",
+      "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "ts": "2026-01-19T21:25:00Z",
+      "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
     },
     {
       "headline": "Bill Gates Was World's Richest Person In 2016\u2014A Decade Later He's Not Even In The Top 10 As Elon Musk And Others Rewrite The Wealth Rankings",
@@ -1904,16 +1916,16 @@
       "url": "https://finance.yahoo.com/news/elon-musk-seeks-134-billion-165903955.html?.tsrc=rss"
     },
     {
-      "headline": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-      "link": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss",
+      "headline": "Nvidia (NVDA) Tariff Impact Seen as Limited, Wolfe Research Says",
+      "link": "https://finance.yahoo.com/news/nvidia-nvda-tariff-impact-seen-205336181.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "MSFT",
-      "time": "Mon, 19 Jan 2026 16:20:00 +0000",
-      "title": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-      "ts": "2026-01-19T16:20:00Z",
-      "url": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss"
+      "ticker": "NVDA",
+      "time": "Mon, 19 Jan 2026 20:53:36 +0000",
+      "title": "Nvidia (NVDA) Tariff Impact Seen as Limited, Wolfe Research Says",
+      "ts": "2026-01-19T20:53:36Z",
+      "url": "https://finance.yahoo.com/news/nvidia-nvda-tariff-impact-seen-205336181.html?.tsrc=rss"
     },
     {
       "headline": "5 Stocks You'll Regret Not Buying in 2026",
@@ -1976,16 +1988,28 @@
       "url": "https://finance.yahoo.com/news/nvidia-h200-shipments-hit-china-175929567.html?.tsrc=rss"
     },
     {
-      "headline": "TSMC Jumps on Strong Q4 as AI Chip Demand Surges",
-      "link": "https://finance.yahoo.com/news/tsmc-jumps-strong-q4-ai-165640626.html?.tsrc=rss",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Mon, 19 Jan 2026 16:56:40 +0000",
-      "title": "TSMC Jumps on Strong Q4 as AI Chip Demand Surges",
-      "ts": "2026-01-19T16:56:40Z",
-      "url": "https://finance.yahoo.com/news/tsmc-jumps-strong-q4-ai-165640626.html?.tsrc=rss"
+      "ticker": "GOOGL",
+      "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "ts": "2026-01-19T21:25:00Z",
+      "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+    },
+    {
+      "headline": "RBC Raises Alphabet (GOOGL) Target on AI Advertising Momentum",
+      "link": "https://finance.yahoo.com/news/rbc-raises-alphabet-googl-target-205225839.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "GOOGL",
+      "time": "Mon, 19 Jan 2026 20:52:25 +0000",
+      "title": "RBC Raises Alphabet (GOOGL) Target on AI Advertising Momentum",
+      "ts": "2026-01-19T20:52:25Z",
+      "url": "https://finance.yahoo.com/news/rbc-raises-alphabet-googl-target-205225839.html?.tsrc=rss"
     },
     {
       "headline": "5 Stocks You'll Regret Not Buying in 2026",
@@ -2036,28 +2060,16 @@
       "url": "https://finance.yahoo.com/m/e6b231c4-a001-3689-919c-93597b3b7f31/the-rise-and-fall-of-the.html?.tsrc=rss"
     },
     {
-      "headline": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-      "link": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Mon, 19 Jan 2026 16:20:00 +0000",
-      "title": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-      "ts": "2026-01-19T16:20:00Z",
-      "url": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss"
-    },
-    {
-      "headline": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-      "link": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "GOOGL",
-      "time": "Mon, 19 Jan 2026 16:14:00 +0000",
-      "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-      "ts": "2026-01-19T16:14:00Z",
-      "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
+      "ticker": "META",
+      "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "ts": "2026-01-19T21:25:00Z",
+      "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
     },
     {
       "headline": "Andreessen Horowitz Commits $3 Billion to AI Infrastructure Strategy",
@@ -2120,16 +2132,28 @@
       "url": "https://finance.yahoo.com/news/husband-32-months-live-1-170114945.html?.tsrc=rss"
     },
     {
-      "headline": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-      "link": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "META",
-      "time": "Mon, 19 Jan 2026 16:20:00 +0000",
-      "title": "Top AI Stocks to Boost Returns and Reignite Portfolio Growth",
-      "ts": "2026-01-19T16:20:00Z",
-      "url": "https://finance.yahoo.com/news/top-ai-stocks-boost-returns-162000203.html?.tsrc=rss"
+      "ticker": "AMZN",
+      "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "ts": "2026-01-19T21:25:00Z",
+      "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+    },
+    {
+      "headline": "Raymond James Trims Amazon (AMZN) Target, Flags Agentic Commerce Headwinds",
+      "link": "https://finance.yahoo.com/news/raymond-james-trims-amazon-amzn-202350818.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AMZN",
+      "time": "Mon, 19 Jan 2026 20:23:50 +0000",
+      "title": "Raymond James Trims Amazon (AMZN) Target, Flags Agentic Commerce Headwinds",
+      "ts": "2026-01-19T20:23:50Z",
+      "url": "https://finance.yahoo.com/news/raymond-james-trims-amazon-amzn-202350818.html?.tsrc=rss"
     },
     {
       "headline": "5 Stocks You'll Regret Not Buying in 2026",
@@ -2180,28 +2204,16 @@
       "url": "https://finance.yahoo.com/m/2191b99a-7f3f-3bba-ba8d-f5e34b777b78/can-a-%241%2C699-espresso-machine.html?.tsrc=rss"
     },
     {
-      "headline": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-      "link": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss",
+      "headline": "Barclays Says Tesla\u2019s (TSLA) Fundamentals Are Taking a Back Seat",
+      "link": "https://finance.yahoo.com/news/barclays-says-tesla-tsla-fundamentals-203402767.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "AMZN",
-      "time": "Mon, 19 Jan 2026 16:14:00 +0000",
-      "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-      "ts": "2026-01-19T16:14:00Z",
-      "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
-    },
-    {
-      "headline": "Kevin O'Leary Says 'I Don't Care If It's A Gift For Your Birthday'\u2014Take 10% Of Any Money That Comes Your Way And Invest It To Get Rich",
-      "link": "https://finance.yahoo.com/news/kevin-oleary-says-dont-care-150106273.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AMZN",
-      "time": "Mon, 19 Jan 2026 15:01:06 +0000",
-      "title": "Kevin O'Leary Says 'I Don't Care If It's A Gift For Your Birthday'\u2014Take 10% Of Any Money That Comes Your Way And Invest It To Get Rich",
-      "ts": "2026-01-19T15:01:06Z",
-      "url": "https://finance.yahoo.com/news/kevin-oleary-says-dont-care-150106273.html?.tsrc=rss"
+      "ticker": "TSLA",
+      "time": "Mon, 19 Jan 2026 20:34:02 +0000",
+      "title": "Barclays Says Tesla\u2019s (TSLA) Fundamentals Are Taking a Back Seat",
+      "ts": "2026-01-19T20:34:02Z",
+      "url": "https://finance.yahoo.com/news/barclays-says-tesla-tsla-fundamentals-203402767.html?.tsrc=rss"
     },
     {
       "headline": "Elon Musk drops a surprise curveball on Nvidia",
@@ -2264,16 +2276,16 @@
       "url": "https://finance.yahoo.com/news/husband-32-months-live-1-170114945.html?.tsrc=rss"
     },
     {
-      "headline": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-      "link": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss",
+      "headline": "Why Wells Fargo Calls AMD a Top AI Pick for 2026",
+      "link": "https://finance.yahoo.com/news/why-wells-fargo-calls-amd-203228183.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
-      "ticker": "TSLA",
-      "time": "Mon, 19 Jan 2026 16:14:00 +0000",
-      "title": "The Magnificent 7 is Over: What Stocks Will Replace It?",
-      "ts": "2026-01-19T16:14:00Z",
-      "url": "https://finance.yahoo.com/news/magnificent-7-over-stocks-replace-161400706.html?.tsrc=rss"
+      "ticker": "AMD",
+      "time": "Mon, 19 Jan 2026 20:32:28 +0000",
+      "title": "Why Wells Fargo Calls AMD a Top AI Pick for 2026",
+      "ts": "2026-01-19T20:32:28Z",
+      "url": "https://finance.yahoo.com/news/why-wells-fargo-calls-amd-203228183.html?.tsrc=rss"
     },
     {
       "headline": "5 Stocks You'll Regret Not Buying in 2026",
@@ -2334,18 +2346,6 @@
       "title": "Tesla Set to Restart AI Supercomputer Project. Why Musk Has Changed His Mind.",
       "ts": "2026-01-19T14:34:00Z",
       "url": "https://finance.yahoo.com/m/a43048ff-e81e-3544-8713-5502b291a96b/tesla-set-to-restart-ai.html?.tsrc=rss"
-    },
-    {
-      "headline": "As Trump Hits AMD MI325X Chips with a 25% Tariff, How Should You Play AMD Stock?",
-      "link": "https://www.barchart.com/story/news/37110962/as-trump-hits-amd-mi325x-chips-with-a-25-tariff-how-should-you-play-amd-stock?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AMD",
-      "time": "Mon, 19 Jan 2026 14:30:02 +0000",
-      "title": "As Trump Hits AMD MI325X Chips with a 25% Tariff, How Should You Play AMD Stock?",
-      "ts": "2026-01-19T14:30:02Z",
-      "url": "https://www.barchart.com/story/news/37110962/as-trump-hits-amd-mi325x-chips-with-a-25-tariff-how-should-you-play-amd-stock?.tsrc=rss"
     },
     {
       "headline": "Here's How Much Traders Expect Netflix Stock to Move After Earnings Tuesday",
@@ -2564,6 +2564,18 @@
       "url": "https://www.fool.com/investing/2026/01/18/should-you-forget-ionq-and-buy-these-2-tech-stocks/?.tsrc=rss"
     },
     {
+      "headline": "Why Wells Fargo Just Turned More Bullish on Broadcom (AVGO)",
+      "link": "https://finance.yahoo.com/news/why-wells-fargo-just-turned-204603766.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "AVGO",
+      "time": "Mon, 19 Jan 2026 20:46:03 +0000",
+      "title": "Why Wells Fargo Just Turned More Bullish on Broadcom (AVGO)",
+      "ts": "2026-01-19T20:46:03Z",
+      "url": "https://finance.yahoo.com/news/why-wells-fargo-just-turned-204603766.html?.tsrc=rss"
+    },
+    {
       "headline": "5 Stocks You'll Regret Not Buying in 2026",
       "link": "https://www.fool.com/investing/2026/01/19/5-stocks-youll-regret-not-buying-in-2026/?.tsrc=rss",
       "source": "yahoo",
@@ -2622,18 +2634,6 @@
       "title": "Stock Market News for Jan 19, 2026",
       "ts": "2026-01-19T14:38:00Z",
       "url": "https://finance.yahoo.com/news/stock-market-news-jan-19-143800895.html?.tsrc=rss"
-    },
-    {
-      "headline": "Want $1 Million in Retirement? Invest $100,000 in These 3 Stocks and Wait a Decade",
-      "link": "https://www.fool.com/investing/2026/01/19/want-1-million-in-retirement-invest-100000-in-thes/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "AVGO",
-      "time": "Mon, 19 Jan 2026 14:20:00 +0000",
-      "title": "Want $1 Million in Retirement? Invest $100,000 in These 3 Stocks and Wait a Decade",
-      "ts": "2026-01-19T14:20:00Z",
-      "url": "https://www.fool.com/investing/2026/01/19/want-1-million-in-retirement-invest-100000-in-thes/?.tsrc=rss"
     },
     {
       "headline": "1 Large-Cap Stock with Exciting Potential and 2 That Underwhelm",
@@ -2924,6 +2924,18 @@
       "url": "https://finance.yahoo.com/news/know-beyond-why-coinbase-global-140008366.html?.tsrc=rss"
     },
     {
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "link": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "PLTR",
+      "time": "Mon, 19 Jan 2026 21:25:00 +0000",
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "ts": "2026-01-19T21:25:00Z",
+      "url": "https://www.fool.com/investing/2026/01/19/1-unstoppable-artificial-intelligence-ai-stock-to/?.tsrc=rss"
+    },
+    {
       "headline": "Palantir stock faces a pressure-cooker moment",
       "link": "https://www.thestreet.com/investing/palantir-stock-faces-a-pressure-cooker-moment?.tsrc=rss",
       "source": "yahoo",
@@ -2982,18 +2994,6 @@
       "title": "Why Lumen Technologies Stock Surged 46.3% Last Year and Has Kept Climbing in 2026",
       "ts": "2026-01-18T12:05:00Z",
       "url": "https://www.fool.com/investing/2026/01/18/why-lumen-technologies-stock-surged-463-last-year/?.tsrc=rss"
-    },
-    {
-      "headline": "2 Growth Stocks to Buy in January and Hold for the Next 10 Years",
-      "link": "https://www.fool.com/investing/2026/01/18/2-growth-stocks-buy-january-hold-10-years/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "PLTR",
-      "time": "Sun, 18 Jan 2026 11:00:00 +0000",
-      "title": "2 Growth Stocks to Buy in January and Hold for the Next 10 Years",
-      "ts": "2026-01-18T11:00:00Z",
-      "url": "https://www.fool.com/investing/2026/01/18/2-growth-stocks-buy-january-hold-10-years/?.tsrc=rss"
     },
     {
       "headline": "Analyst's bombshell memory price forecast shifts Micron bets",
