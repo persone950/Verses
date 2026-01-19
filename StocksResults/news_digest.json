@@ -551,9 +551,9 @@
         "source": "yahoo",
         "src": "yahoo",
         "tag": "NEWS",
-        "time": "Mon, 19 Jan 2026 02:25:41 +0000",
+        "time": "Mon, 19 Jan 2026 04:08:55 +0000",
         "title": "Dow Jones Futures Fall Over Trump Greenland Tariffs On NATO Nations",
-        "ts": "2026-01-19T02:25:41Z",
+        "ts": "2026-01-19T04:08:55Z",
         "url": "https://finance.yahoo.com/m/91bdd023-2caa-3ae6-a602-5e49c5fc1665/dow-jones-futures-fall-over.html?.tsrc=rss"
       },
       {
@@ -682,6 +682,28 @@
     ],
     "IBM": [
       {
+        "headline": "IBM Study: AI Poised to Drive Smarter Business Growth Through 2030",
+        "link": "https://finance.yahoo.com/news/ibm-study-ai-poised-drive-050100656.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 05:01:00 +0000",
+        "title": "IBM Study: AI Poised to Drive Smarter Business Growth Through 2030",
+        "ts": "2026-01-19T05:01:00Z",
+        "url": "https://finance.yahoo.com/news/ibm-study-ai-poised-drive-050100656.html?.tsrc=rss"
+      },
+      {
+        "headline": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?",
+        "link": "https://www.fool.com/investing/2026/01/18/should-you-forget-ionq-and-buy-these-2-tech-stocks/?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 03:50:00 +0000",
+        "title": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?",
+        "ts": "2026-01-19T03:50:00Z",
+        "url": "https://www.fool.com/investing/2026/01/18/should-you-forget-ionq-and-buy-these-2-tech-stocks/?.tsrc=rss"
+      },
+      {
         "headline": "BofA lifts IBM target, sees strong cash flow despite near-term margin pressure",
         "link": "https://finance.yahoo.com/news/bofa-lifts-ibm-target-sees-215415523.html?.tsrc=rss",
         "source": "yahoo",
@@ -724,28 +746,6 @@
         "title": "3 Reasons to Buy IBM Stock Right Now",
         "ts": "2026-01-17T14:45:00Z",
         "url": "https://www.fool.com/investing/2026/01/17/3-reasons-to-buy-ibm-stock-right-now/?.tsrc=rss"
-      },
-      {
-        "headline": "Stock Market Today: S&P 500, Dow Slide As Netflix, GE Aerospace Earnings Loom (Live Coverage)",
-        "link": "https://finance.yahoo.com/m/3eb151cc-5e80-3fdc-935f-8ef57b39799b/stock-market-today%3A-s%26p-500%2C.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 16 Jan 2026 21:30:42 +0000",
-        "title": "Stock Market Today: S&P 500, Dow Slide As Netflix, GE Aerospace Earnings Loom (Live Coverage)",
-        "ts": "2026-01-16T21:30:42Z",
-        "url": "https://finance.yahoo.com/m/3eb151cc-5e80-3fdc-935f-8ef57b39799b/stock-market-today%3A-s%26p-500%2C.html?.tsrc=rss"
-      },
-      {
-        "headline": "Forty & Forward: Sealevel Systems Celebrates 40 years strong",
-        "link": "https://finance.yahoo.com/news/forty-forward-sealevel-systems-celebrates-205100457.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Fri, 16 Jan 2026 20:51:00 +0000",
-        "title": "Forty & Forward: Sealevel Systems Celebrates 40 years strong",
-        "ts": "2026-01-16T20:51:00Z",
-        "url": "https://finance.yahoo.com/news/forty-forward-sealevel-systems-celebrates-205100457.html?.tsrc=rss"
       }
     ],
     "INSM": [
@@ -1022,6 +1022,28 @@
     ],
     "MU": [
       {
+        "headline": "Is the Stock Market Open Today? Here Are the Trading Hours for Martin Luther King Jr. Day.",
+        "link": "https://finance.yahoo.com/m/ebde7620-64d5-3f60-86b3-4b623f591492/is-the-stock-market-open.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 05:01:00 +0000",
+        "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Martin Luther King Jr. Day.",
+        "ts": "2026-01-19T05:01:00Z",
+        "url": "https://finance.yahoo.com/m/ebde7620-64d5-3f60-86b3-4b623f591492/is-the-stock-market-open.html?.tsrc=rss"
+      },
+      {
+        "headline": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+        "link": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 04:15:23 +0000",
+        "title": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+        "ts": "2026-01-19T04:15:23Z",
+        "url": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss"
+      },
+      {
         "headline": "Micron's $1.8 billion acquisition boosts Powerchip shares",
         "link": "https://finance.yahoo.com/news/microns-1-8-billion-acquisition-012032232.html?.tsrc=rss",
         "source": "yahoo",
@@ -1064,28 +1086,6 @@
         "title": "5 big analyst AI moves: Nvidia top 2026 pick, ASML gets big price target hike",
         "ts": "2026-01-18T09:30:06Z",
         "url": "https://finance.yahoo.com/news/5-big-analyst-ai-moves-093006427.html?.tsrc=rss"
-      },
-      {
-        "headline": "KeyBanc Sees Micron (MU) in a \u2018Different\u2019 Memory Cycle, Raises Target",
-        "link": "https://finance.yahoo.com/news/keybanc-sees-micron-mu-different-175437145.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 17:54:37 +0000",
-        "title": "KeyBanc Sees Micron (MU) in a \u2018Different\u2019 Memory Cycle, Raises Target",
-        "ts": "2026-01-17T17:54:37Z",
-        "url": "https://finance.yahoo.com/news/keybanc-sees-micron-mu-different-175437145.html?.tsrc=rss"
-      },
-      {
-        "headline": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-        "link": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sat, 17 Jan 2026 17:53:39 +0000",
-        "title": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-        "ts": "2026-01-17T17:53:39Z",
-        "url": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss"
       }
     ],
     "NFLX": [
@@ -1226,6 +1226,17 @@
     ],
     "NVDA": [
       {
+        "headline": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+        "link": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss",
+        "source": "yahoo",
+        "src": "yahoo",
+        "tag": "NEWS",
+        "time": "Mon, 19 Jan 2026 04:15:23 +0000",
+        "title": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+        "ts": "2026-01-19T04:15:23Z",
+        "url": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss"
+      },
+      {
         "headline": "The Magnificent Seven Drove Markets. Now They\u2019re Pulling in Different Directions.",
         "link": "https://finance.yahoo.com/m/f0e42c82-6efd-36b1-81ad-d5c6209850b3/the-magnificent-seven-drove.html?.tsrc=rss",
         "source": "yahoo",
@@ -1279,17 +1290,6 @@
         "title": "3 Top Quantum Computing Stocks to Buy in 2026",
         "ts": "2026-01-18T22:48:00Z",
         "url": "https://www.fool.com/investing/2026/01/18/3-top-quantum-computing-stocks-to-buy-in-2026/?.tsrc=rss"
-      },
-      {
-        "headline": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
-        "link": "https://www.fool.com/investing/2026/01/18/got-3000-3-artificial-intelligence-ai-stocks-to-bu/?.tsrc=rss",
-        "source": "yahoo",
-        "src": "yahoo",
-        "tag": "NEWS",
-        "time": "Sun, 18 Jan 2026 20:20:00 +0000",
-        "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
-        "ts": "2026-01-18T20:20:00Z",
-        "url": "https://www.fool.com/investing/2026/01/18/got-3000-3-artificial-intelligence-ai-stocks-to-bu/?.tsrc=rss"
       }
     ],
     "OPEN": [
@@ -1769,7 +1769,7 @@
       }
     ]
   },
-  "generated_at": "2026-01-19T04:01:37Z",
+  "generated_at": "2026-01-19T05:10:24Z",
   "items": [
     {
       "headline": "The Magnificent Seven Drove Markets. Now They\u2019re Pulling in Different Directions.",
@@ -1916,6 +1916,18 @@
       "url": "https://finance.yahoo.com/news/musk-vs-altman-openai-trial-154135039.html?.tsrc=rss"
     },
     {
+      "headline": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+      "link": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "NVDA",
+      "time": "Mon, 19 Jan 2026 04:15:23 +0000",
+      "title": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+      "ts": "2026-01-19T04:15:23Z",
+      "url": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss"
+    },
+    {
       "headline": "The Magnificent Seven Drove Markets. Now They\u2019re Pulling in Different Directions.",
       "link": "https://finance.yahoo.com/m/f0e42c82-6efd-36b1-81ad-d5c6209850b3/the-magnificent-seven-drove.html?.tsrc=rss",
       "source": "yahoo",
@@ -1976,27 +1988,15 @@
       "url": "https://www.fool.com/investing/2026/01/18/3-top-quantum-computing-stocks-to-buy-in-2026/?.tsrc=rss"
     },
     {
-      "headline": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
-      "link": "https://www.fool.com/investing/2026/01/18/got-3000-3-artificial-intelligence-ai-stocks-to-bu/?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "NVDA",
-      "time": "Sun, 18 Jan 2026 20:20:00 +0000",
-      "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
-      "ts": "2026-01-18T20:20:00Z",
-      "url": "https://www.fool.com/investing/2026/01/18/got-3000-3-artificial-intelligence-ai-stocks-to-bu/?.tsrc=rss"
-    },
-    {
       "headline": "Dow Jones Futures Fall Over Trump Greenland Tariffs On NATO Nations",
       "link": "https://finance.yahoo.com/m/91bdd023-2caa-3ae6-a602-5e49c5fc1665/dow-jones-futures-fall-over.html?.tsrc=rss",
       "source": "yahoo",
       "src": "yahoo",
       "tag": "NEWS",
       "ticker": "GOOGL",
-      "time": "Mon, 19 Jan 2026 02:25:41 +0000",
+      "time": "Mon, 19 Jan 2026 04:08:55 +0000",
       "title": "Dow Jones Futures Fall Over Trump Greenland Tariffs On NATO Nations",
-      "ts": "2026-01-19T02:25:41Z",
+      "ts": "2026-01-19T04:08:55Z",
       "url": "https://finance.yahoo.com/m/91bdd023-2caa-3ae6-a602-5e49c5fc1665/dow-jones-futures-fall-over.html?.tsrc=rss"
     },
     {
@@ -2492,6 +2492,30 @@
       "url": "https://www.fool.com/investing/2026/01/18/prediction-these-stocks-will-collapse-if-the-ai-bu/?.tsrc=rss"
     },
     {
+      "headline": "IBM Study: AI Poised to Drive Smarter Business Growth Through 2030",
+      "link": "https://finance.yahoo.com/news/ibm-study-ai-poised-drive-050100656.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "IBM",
+      "time": "Mon, 19 Jan 2026 05:01:00 +0000",
+      "title": "IBM Study: AI Poised to Drive Smarter Business Growth Through 2030",
+      "ts": "2026-01-19T05:01:00Z",
+      "url": "https://finance.yahoo.com/news/ibm-study-ai-poised-drive-050100656.html?.tsrc=rss"
+    },
+    {
+      "headline": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?",
+      "link": "https://www.fool.com/investing/2026/01/18/should-you-forget-ionq-and-buy-these-2-tech-stocks/?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "IBM",
+      "time": "Mon, 19 Jan 2026 03:50:00 +0000",
+      "title": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?",
+      "ts": "2026-01-19T03:50:00Z",
+      "url": "https://www.fool.com/investing/2026/01/18/should-you-forget-ionq-and-buy-these-2-tech-stocks/?.tsrc=rss"
+    },
+    {
       "headline": "BofA lifts IBM target, sees strong cash flow despite near-term margin pressure",
       "link": "https://finance.yahoo.com/news/bofa-lifts-ibm-target-sees-215415523.html?.tsrc=rss",
       "source": "yahoo",
@@ -2538,30 +2562,6 @@
       "title": "3 Reasons to Buy IBM Stock Right Now",
       "ts": "2026-01-17T14:45:00Z",
       "url": "https://www.fool.com/investing/2026/01/17/3-reasons-to-buy-ibm-stock-right-now/?.tsrc=rss"
-    },
-    {
-      "headline": "Stock Market Today: S&P 500, Dow Slide As Netflix, GE Aerospace Earnings Loom (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/3eb151cc-5e80-3fdc-935f-8ef57b39799b/stock-market-today%3A-s%26p-500%2C.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "IBM",
-      "time": "Fri, 16 Jan 2026 21:30:42 +0000",
-      "title": "Stock Market Today: S&P 500, Dow Slide As Netflix, GE Aerospace Earnings Loom (Live Coverage)",
-      "ts": "2026-01-16T21:30:42Z",
-      "url": "https://finance.yahoo.com/m/3eb151cc-5e80-3fdc-935f-8ef57b39799b/stock-market-today%3A-s%26p-500%2C.html?.tsrc=rss"
-    },
-    {
-      "headline": "Forty & Forward: Sealevel Systems Celebrates 40 years strong",
-      "link": "https://finance.yahoo.com/news/forty-forward-sealevel-systems-celebrates-205100457.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "IBM",
-      "time": "Fri, 16 Jan 2026 20:51:00 +0000",
-      "title": "Forty & Forward: Sealevel Systems Celebrates 40 years strong",
-      "ts": "2026-01-16T20:51:00Z",
-      "url": "https://finance.yahoo.com/news/forty-forward-sealevel-systems-celebrates-205100457.html?.tsrc=rss"
     },
     {
       "headline": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
@@ -2996,6 +2996,30 @@
       "url": "https://finance.yahoo.com/news/palantir-technologies-inc-pltr-falls-224503466.html?.tsrc=rss"
     },
     {
+      "headline": "Is the Stock Market Open Today? Here Are the Trading Hours for Martin Luther King Jr. Day.",
+      "link": "https://finance.yahoo.com/m/ebde7620-64d5-3f60-86b3-4b623f591492/is-the-stock-market-open.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "MU",
+      "time": "Mon, 19 Jan 2026 05:01:00 +0000",
+      "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Martin Luther King Jr. Day.",
+      "ts": "2026-01-19T05:01:00Z",
+      "url": "https://finance.yahoo.com/m/ebde7620-64d5-3f60-86b3-4b623f591492/is-the-stock-market-open.html?.tsrc=rss"
+    },
+    {
+      "headline": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+      "link": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss",
+      "source": "yahoo",
+      "src": "yahoo",
+      "tag": "NEWS",
+      "ticker": "MU",
+      "time": "Mon, 19 Jan 2026 04:15:23 +0000",
+      "title": "Micron Says AI-Driven Memory Crunch is \u2018Unprecedented\u2019",
+      "ts": "2026-01-19T04:15:23Z",
+      "url": "https://finance.yahoo.com/news/micron-says-ai-driven-memory-041523843.html?.tsrc=rss"
+    },
+    {
       "headline": "Micron's $1.8 billion acquisition boosts Powerchip shares",
       "link": "https://finance.yahoo.com/news/microns-1-8-billion-acquisition-012032232.html?.tsrc=rss",
       "source": "yahoo",
@@ -3042,30 +3066,6 @@
       "title": "5 big analyst AI moves: Nvidia top 2026 pick, ASML gets big price target hike",
       "ts": "2026-01-18T09:30:06Z",
       "url": "https://finance.yahoo.com/news/5-big-analyst-ai-moves-093006427.html?.tsrc=rss"
-    },
-    {
-      "headline": "KeyBanc Sees Micron (MU) in a \u2018Different\u2019 Memory Cycle, Raises Target",
-      "link": "https://finance.yahoo.com/news/keybanc-sees-micron-mu-different-175437145.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "MU",
-      "time": "Sat, 17 Jan 2026 17:54:37 +0000",
-      "title": "KeyBanc Sees Micron (MU) in a \u2018Different\u2019 Memory Cycle, Raises Target",
-      "ts": "2026-01-17T17:54:37Z",
-      "url": "https://finance.yahoo.com/news/keybanc-sees-micron-mu-different-175437145.html?.tsrc=rss"
-    },
-    {
-      "headline": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-      "link": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss",
-      "source": "yahoo",
-      "src": "yahoo",
-      "tag": "NEWS",
-      "ticker": "MU",
-      "time": "Sat, 17 Jan 2026 17:53:39 +0000",
-      "title": "Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026",
-      "ts": "2026-01-17T17:53:39Z",
-      "url": "https://finance.yahoo.com/news/nvidia-nvda-added-wolfe-alpha-175339419.html?.tsrc=rss"
     },
     {
       "headline": "BTIG Sees Strategic Value in CrowdStrike\u2019s (CRWD) SGNL, Seraphic Acquisitions",
