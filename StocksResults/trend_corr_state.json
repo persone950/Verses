@@ -1,8 +1,7 @@
 {
-  "timestamp_utc": "2026-01-18T18:06:50.377335+00:00",
+  "timestamp_utc": "2026-01-19T04:05:40.639042+00:00",
   "source_feed": "feed_results_table.csv",
   "tickers": [
-    "SMCI",
     "MU",
     "OPEN",
     "AG",
@@ -11,7 +10,8 @@
     "PLTR",
     "NOW",
     "INTC",
-    "SLV"
+    "SLV",
+    "IBM"
   ],
   "rows": 10,
   "note": "trend snapshot only; no correlation time-series"
