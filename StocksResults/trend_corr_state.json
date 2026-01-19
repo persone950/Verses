@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-01-19T05:14:23.380133+00:00",
+  "timestamp_utc": "2026-01-19T20:31:08.350519+00:00",
   "source_feed": "feed_results_table.csv",
   "tickers": [
     "MU",
     "OPEN",
     "AG",
-    "ALGS",
     "RGTI",
+    "ALGS",
     "PLTR",
     "NOW",
     "INTC",
