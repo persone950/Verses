@@ -228,19 +228,23 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "GM": {
+    "ROKU": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SNOW": {
+    "LOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DIS": {
+    "XLK": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "TMO": {
+    "CSCO": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
+    "TMUS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
