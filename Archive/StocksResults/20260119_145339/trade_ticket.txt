@@ -1,0 +1,1 @@
+NVDA P 180.0000 2026-02-13 | Action=IGNORE Size%=0.0 Score=3.899184
