@@ -1,5 +1,7 @@
 {
-  "timestamp_utc": "2026-01-19T21:40:57.597399+00:00",
+  "timestamp_utc": "2026-01-19T22:36:58.917007+00:00",
+  "env_file": "live_feeds.env",
+  "max_tickers": 25,
   "source_feed": "feed_results_table.csv",
   "tickers": [
     "MU",
@@ -11,8 +13,23 @@
     "NOW",
     "INTC",
     "SLV",
-    "IBM"
+    "IBM",
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "GOOGL",
+    "META",
+    "AMZN",
+    "TSLA",
+    "AMD",
+    "NFLX",
+    "ORCL",
+    "AVGO",
+    "QCOM",
+    "COIN",
+    "CRWD",
+    "BBAI"
   ],
-  "rows": 10,
+  "rows": 25,
   "note": "trend snapshot only; no correlation time-series"
 }
