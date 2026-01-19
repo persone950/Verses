@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "backend_version": "pythonista_backend_v0.11.0",
-  "phase": "INTRADAY",
+  "phase": "EOD",
   "data_mode": "LIVE",
   "timestamps": {
-    "et": "2026-01-19T15:32:18.299228-05:00",
-    "gmt": "2026-01-19T20:32:18.299228+00:00",
-    "local": "2026-01-19T15:32:18.299237-05:00"
+    "et": "2026-01-19T16:42:20.336198-05:00",
+    "gmt": "2026-01-19T21:42:20.336198+00:00",
+    "local": "2026-01-19T16:42:20.336208-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -61,18 +61,18 @@
   "row_counts": {
     "top10_render.csv": 10,
     "random_addons_render.csv": 0,
-    "feed_results.csv": 64,
-    "feed_results_table.csv": 64,
+    "feed_results.csv": 62,
+    "feed_results_table.csv": 62,
     "ml_signals.csv": 0,
-    "options_chain.csv": 138391,
-    "options_summary.csv": 138391,
-    "premium_candidates_all.csv": 4452,
+    "options_chain.csv": 134041,
+    "options_summary.csv": 134041,
+    "premium_candidates_all.csv": 4450,
     "premium_candidates.csv": 20,
     "premium_topN.csv": 20,
     "portfolio_totals.csv": 2
   },
   "phase_source": "CLOCK",
-  "detected_phase": "INTRADAY",
+  "detected_phase": "EOD",
   "override": {
     "enabled": false,
     "value": null
