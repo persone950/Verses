@@ -4,9 +4,9 @@
     "category": "CORE",
     "best": {
       "symbol": "AAPL",
-      "price": 255.54,
+      "price": 255.53,
       "prev_close": 258.21,
-      "open": 257.90999999999997,
+      "open": 257.9,
       "high": 258.9,
       "low": 254.93,
       "ts_ms": 1768597200000,
@@ -15,9 +15,9 @@
     "raw": [
       {
         "symbol": "AAPL",
-        "price": 255.54,
+        "price": 255.53,
         "prev_close": 258.21,
-        "open": 257.90999999999997,
+        "open": 257.9,
         "high": 258.9,
         "low": 254.93,
         "ts_ms": 1768597200000,
@@ -31,9 +31,9 @@
     "category": "CORE",
     "best": {
       "symbol": "MSFT",
-      "price": 459.87,
+      "price": 459.86,
       "prev_close": 456.66,
-      "open": 457.84,
+      "open": 457.83,
       "high": 463.19,
       "low": 456.48,
       "ts_ms": 1768597200000,
@@ -42,9 +42,9 @@
     "raw": [
       {
         "symbol": "MSFT",
-        "price": 459.87,
+        "price": 459.86,
         "prev_close": 456.66,
-        "open": 457.84,
+        "open": 457.83,
         "high": 463.19,
         "low": 456.48,
         "ts_ms": 1768597200000,
@@ -58,9 +58,9 @@
     "category": "CORE",
     "best": {
       "symbol": "NVDA",
-      "price": 186.23999999999998,
+      "price": 186.23,
       "prev_close": 187.05,
-      "open": 189.08499999999998,
+      "open": 189.075,
       "high": 190.44,
       "low": 186.08,
       "ts_ms": 1768597200000,
@@ -69,9 +69,9 @@
     "raw": [
       {
         "symbol": "NVDA",
-        "price": 186.23999999999998,
+        "price": 186.23,
         "prev_close": 187.05,
-        "open": 189.08499999999998,
+        "open": 189.075,
         "high": 190.44,
         "low": 186.08,
         "ts_ms": 1768597200000,
@@ -85,9 +85,9 @@
     "category": "CORE",
     "best": {
       "symbol": "GOOGL",
-      "price": 330.01,
+      "price": 330.0,
       "prev_close": 332.78,
-      "open": 334.42,
+      "open": 334.41,
       "high": 334.65,
       "low": 327.7,
       "ts_ms": 1768597200000,
@@ -96,9 +96,9 @@
     "raw": [
       {
         "symbol": "GOOGL",
-        "price": 330.01,
+        "price": 330.0,
         "prev_close": 332.78,
-        "open": 334.42,
+        "open": 334.41,
         "high": 334.65,
         "low": 327.7,
         "ts_ms": 1768597200000,
@@ -112,9 +112,9 @@
     "category": "CORE",
     "best": {
       "symbol": "META",
-      "price": 620.26,
+      "price": 620.25,
       "prev_close": 620.8,
-      "open": 624.1862,
+      "open": 624.1762,
       "high": 629.08,
       "low": 620.08,
       "ts_ms": 1768597200000,
@@ -123,9 +123,9 @@
     "raw": [
       {
         "symbol": "META",
-        "price": 620.26,
+        "price": 620.25,
         "prev_close": 620.8,
-        "open": 624.1862,
+        "open": 624.1762,
         "high": 629.08,
         "low": 620.08,
         "ts_ms": 1768597200000,
@@ -139,9 +139,9 @@
     "category": "CORE",
     "best": {
       "symbol": "AMZN",
-      "price": 239.13,
+      "price": 239.12,
       "prev_close": 238.18,
-      "open": 239.095,
+      "open": 239.085,
       "high": 239.57,
       "low": 236.41,
       "ts_ms": 1768597200000,
@@ -150,9 +150,9 @@
     "raw": [
       {
         "symbol": "AMZN",
-        "price": 239.13,
+        "price": 239.12,
         "prev_close": 238.18,
-        "open": 239.095,
+        "open": 239.085,
         "high": 239.57,
         "low": 236.41,
         "ts_ms": 1768597200000,
@@ -166,9 +166,9 @@
     "category": "CORE",
     "best": {
       "symbol": "TSLA",
-      "price": 437.51,
+      "price": 437.5,
       "prev_close": 438.57,
-      "open": 439.51,
+      "open": 439.5,
       "high": 447.25,
       "low": 435.2601,
       "ts_ms": 1768597200000,
@@ -177,9 +177,9 @@
     "raw": [
       {
         "symbol": "TSLA",
-        "price": 437.51,
+        "price": 437.5,
         "prev_close": 438.57,
-        "open": 439.51,
+        "open": 439.5,
         "high": 447.25,
         "low": 435.2601,
         "ts_ms": 1768597200000,
@@ -193,9 +193,9 @@
     "category": "CORE",
     "best": {
       "symbol": "AMD",
-      "price": 231.84,
+      "price": 231.83,
       "prev_close": 227.92,
-      "open": 234.31,
+      "open": 234.3,
       "high": 234.49,
       "low": 228.86,
       "ts_ms": 1768597200000,
@@ -204,9 +204,9 @@
     "raw": [
       {
         "symbol": "AMD",
-        "price": 231.84,
+        "price": 231.83,
         "prev_close": 227.92,
-        "open": 234.31,
+        "open": 234.3,
         "high": 234.49,
         "low": 228.86,
         "ts_ms": 1768597200000,
@@ -220,9 +220,9 @@
     "category": "CORE",
     "best": {
       "symbol": "NFLX",
-      "price": 88.01,
+      "price": 88.0,
       "prev_close": 88.05,
-      "open": 88.345,
+      "open": 88.335,
       "high": 88.51,
       "low": 87.78,
       "ts_ms": 1768597200000,
@@ -231,9 +231,9 @@
     "raw": [
       {
         "symbol": "NFLX",
-        "price": 88.01,
+        "price": 88.0,
         "prev_close": 88.05,
-        "open": 88.345,
+        "open": 88.335,
         "high": 88.51,
         "low": 87.78,
         "ts_ms": 1768597200000,
@@ -247,9 +247,9 @@
     "category": "CORE",
     "best": {
       "symbol": "ORCL",
-      "price": 191.1,
+      "price": 191.09,
       "prev_close": 189.85,
-      "open": 189.92,
+      "open": 189.91,
       "high": 191.87,
       "low": 186.53,
       "ts_ms": 1768597200000,
@@ -258,9 +258,9 @@
     "raw": [
       {
         "symbol": "ORCL",
-        "price": 191.1,
+        "price": 191.09,
         "prev_close": 189.85,
-        "open": 189.92,
+        "open": 189.91,
         "high": 191.87,
         "low": 186.53,
         "ts_ms": 1768597200000,
@@ -274,9 +274,9 @@
     "category": "CORE",
     "best": {
       "symbol": "IBM",
-      "price": 305.68,
+      "price": 305.67,
       "prev_close": 297.95,
-      "open": 301.01,
+      "open": 301.0,
       "high": 307.45,
       "low": 300.78,
       "ts_ms": 1768597200000,
@@ -285,9 +285,9 @@
     "raw": [
       {
         "symbol": "IBM",
-        "price": 305.68,
+        "price": 305.67,
         "prev_close": 297.95,
-        "open": 301.01,
+        "open": 301.0,
         "high": 307.45,
         "low": 300.78,
         "ts_ms": 1768597200000,
@@ -301,9 +301,9 @@
     "category": "CORE",
     "best": {
       "symbol": "AVGO",
-      "price": 351.71999999999997,
+      "price": 351.71,
       "prev_close": 343.02,
-      "open": 346.275,
+      "open": 346.265,
       "high": 354.51,
       "low": 344.05,
       "ts_ms": 1768597200000,
@@ -312,9 +312,9 @@
     "raw": [
       {
         "symbol": "AVGO",
-        "price": 351.71999999999997,
+        "price": 351.71,
         "prev_close": 343.02,
-        "open": 346.275,
+        "open": 346.265,
         "high": 354.51,
         "low": 344.05,
         "ts_ms": 1768597200000,
@@ -328,9 +328,9 @@
     "category": "CORE",
     "best": {
       "symbol": "QCOM",
-      "price": 159.42999999999998,
+      "price": 159.42,
       "prev_close": 161.39,
-      "open": 161.39999999999998,
+      "open": 161.39,
       "high": 161.7,
       "low": 159.21,
       "ts_ms": 1768597200000,
@@ -339,9 +339,9 @@
     "raw": [
       {
         "symbol": "QCOM",
-        "price": 159.42999999999998,
+        "price": 159.42,
         "prev_close": 161.39,
-        "open": 161.39999999999998,
+        "open": 161.39,
         "high": 161.7,
         "low": 159.21,
         "ts_ms": 1768597200000,
@@ -355,9 +355,9 @@
     "category": "CORE",
     "best": {
       "symbol": "INTC",
-      "price": 46.97,
+      "price": 46.96,
       "prev_close": 48.32,
-      "open": 49.28,
+      "open": 49.27,
       "high": 50.21,
       "low": 46.71,
       "ts_ms": 1768597200000,
@@ -366,9 +366,9 @@
     "raw": [
       {
         "symbol": "INTC",
-        "price": 46.97,
+        "price": 46.96,
         "prev_close": 48.32,
-        "open": 49.28,
+        "open": 49.27,
         "high": 50.21,
         "low": 46.71,
         "ts_ms": 1768597200000,
@@ -382,9 +382,9 @@
     "category": "CORE",
     "best": {
       "symbol": "NOW",
-      "price": 127.32000000000001,
+      "price": 127.31,
       "prev_close": 131.17,
-      "open": 129.70999999999998,
+      "open": 129.7,
       "high": 131.35,
       "low": 126.85,
       "ts_ms": 1768597200000,
@@ -393,9 +393,9 @@
     "raw": [
       {
         "symbol": "NOW",
-        "price": 127.32000000000001,
+        "price": 127.31,
         "prev_close": 131.17,
-        "open": 129.70999999999998,
+        "open": 129.7,
         "high": 131.35,
         "low": 126.85,
         "ts_ms": 1768597200000,
@@ -409,9 +409,9 @@
     "category": "CORE",
     "best": {
       "symbol": "COIN",
-      "price": 241.16,
+      "price": 241.15,
       "prev_close": 239.28,
-      "open": 239.495,
+      "open": 239.485,
       "high": 243.19,
       "low": 236.14,
       "ts_ms": 1768597200000,
@@ -420,9 +420,9 @@
     "raw": [
       {
         "symbol": "COIN",
-        "price": 241.16,
+        "price": 241.15,
         "prev_close": 239.28,
-        "open": 239.495,
+        "open": 239.485,
         "high": 243.19,
         "low": 236.14,
         "ts_ms": 1768597200000,
@@ -436,9 +436,9 @@
     "category": "CORE",
     "best": {
       "symbol": "PLTR",
-      "price": 170.97,
+      "price": 170.96,
       "prev_close": 177.07,
-      "open": 179.37,
+      "open": 179.36,
       "high": 182.43,
       "low": 170.01,
       "ts_ms": 1768597200000,
@@ -447,9 +447,9 @@
     "raw": [
       {
         "symbol": "PLTR",
-        "price": 170.97,
+        "price": 170.96,
         "prev_close": 177.07,
-        "open": 179.37,
+        "open": 179.36,
         "high": 182.43,
         "low": 170.01,
         "ts_ms": 1768597200000,
@@ -463,9 +463,9 @@
     "category": "CORE",
     "best": {
       "symbol": "MU",
-      "price": 362.76,
+      "price": 362.75,
       "prev_close": 336.63,
-      "open": 353.11,
+      "open": 353.1,
       "high": 365.81,
       "low": 352.04,
       "ts_ms": 1768597200000,
@@ -474,9 +474,9 @@
     "raw": [
       {
         "symbol": "MU",
-        "price": 362.76,
+        "price": 362.75,
         "prev_close": 336.63,
-        "open": 353.11,
+        "open": 353.1,
         "high": 365.81,
         "low": 352.04,
         "ts_ms": 1768597200000,
@@ -490,9 +490,9 @@
     "category": "CORE",
     "best": {
       "symbol": "CRWD",
-      "price": 453.89,
+      "price": 453.88,
       "prev_close": 455.0,
-      "open": 456.76,
+      "open": 456.75,
       "high": 459.7,
       "low": 443.6145,
       "ts_ms": 1768597200000,
@@ -501,9 +501,9 @@
     "raw": [
       {
         "symbol": "CRWD",
-        "price": 453.89,
+        "price": 453.88,
         "prev_close": 455.0,
-        "open": 456.76,
+        "open": 456.75,
         "high": 459.7,
         "low": 443.6145,
         "ts_ms": 1768597200000,
@@ -517,9 +517,9 @@
     "category": "CORE",
     "best": {
       "symbol": "BBAI",
-      "price": 6.13,
+      "price": 6.12,
       "prev_close": 6.17,
-      "open": 6.21,
+      "open": 6.2,
       "high": 6.36,
       "low": 6.04,
       "ts_ms": 1768597200000,
@@ -528,9 +528,9 @@
     "raw": [
       {
         "symbol": "BBAI",
-        "price": 6.13,
+        "price": 6.12,
         "prev_close": 6.17,
-        "open": 6.21,
+        "open": 6.2,
         "high": 6.36,
         "low": 6.04,
         "ts_ms": 1768597200000,
@@ -544,9 +544,9 @@
     "category": "CORE",
     "best": {
       "symbol": "RGTI",
-      "price": 25.630000000000003,
+      "price": 25.62,
       "prev_close": 24.7,
-      "open": 25.125,
+      "open": 25.115,
       "high": 26.18,
       "low": 24.56,
       "ts_ms": 1768597200000,
@@ -555,9 +555,9 @@
     "raw": [
       {
         "symbol": "RGTI",
-        "price": 25.630000000000003,
+        "price": 25.62,
         "prev_close": 24.7,
-        "open": 25.125,
+        "open": 25.115,
         "high": 26.18,
         "low": 24.56,
         "ts_ms": 1768597200000,
@@ -571,9 +571,9 @@
     "category": "CORE",
     "best": {
       "symbol": "INSM",
-      "price": 161.42999999999998,
+      "price": 161.42,
       "prev_close": 159.27,
-      "open": 160.35999999999999,
+      "open": 160.35,
       "high": 163.98,
       "low": 158.39,
       "ts_ms": 1768597200000,
@@ -582,9 +582,9 @@
     "raw": [
       {
         "symbol": "INSM",
-        "price": 161.42999999999998,
+        "price": 161.42,
         "prev_close": 159.27,
-        "open": 160.35999999999999,
+        "open": 160.35,
         "high": 163.98,
         "low": 158.39,
         "ts_ms": 1768597200000,
@@ -598,9 +598,9 @@
     "category": "CORE",
     "best": {
       "symbol": "OPEN",
-      "price": 6.68,
+      "price": 6.67,
       "prev_close": 6.3,
-      "open": 6.3999999999999995,
+      "open": 6.39,
       "high": 6.92,
       "low": 6.31,
       "ts_ms": 1768597200000,
@@ -609,9 +609,9 @@
     "raw": [
       {
         "symbol": "OPEN",
-        "price": 6.68,
+        "price": 6.67,
         "prev_close": 6.3,
-        "open": 6.3999999999999995,
+        "open": 6.39,
         "high": 6.92,
         "low": 6.31,
         "ts_ms": 1768597200000,
@@ -625,9 +625,9 @@
     "category": "CORE",
     "best": {
       "symbol": "HOOD",
-      "price": 108.75,
+      "price": 108.74,
       "prev_close": 110.35,
-      "open": 111.06,
+      "open": 111.05,
       "high": 111.25,
       "low": 106.88,
       "ts_ms": 1768597200000,
@@ -636,9 +636,9 @@
     "raw": [
       {
         "symbol": "HOOD",
-        "price": 108.75,
+        "price": 108.74,
         "prev_close": 110.35,
-        "open": 111.06,
+        "open": 111.05,
         "high": 111.25,
         "low": 106.88,
         "ts_ms": 1768597200000,
@@ -652,9 +652,9 @@
     "category": "CORE",
     "best": {
       "symbol": "SLV",
-      "price": 81.03,
+      "price": 81.02,
       "prev_close": 83.32,
-      "open": 80.34,
+      "open": 80.33,
       "high": 81.52,
       "low": 78.745,
       "ts_ms": 1768597200000,
@@ -663,9 +663,9 @@
     "raw": [
       {
         "symbol": "SLV",
-        "price": 81.03,
+        "price": 81.02,
         "prev_close": 83.32,
-        "open": 80.34,
+        "open": 80.33,
         "high": 81.52,
         "low": 78.745,
         "ts_ms": 1768597200000,
@@ -679,9 +679,9 @@
     "category": "CORE",
     "best": {
       "symbol": "AG",
-      "price": 21.51,
+      "price": 21.5,
       "prev_close": 20.34,
-      "open": 20.065,
+      "open": 20.055,
       "high": 21.54,
       "low": 19.335,
       "ts_ms": 1768597200000,
@@ -690,9 +690,9 @@
     "raw": [
       {
         "symbol": "AG",
-        "price": 21.51,
+        "price": 21.5,
         "prev_close": 20.34,
-        "open": 20.065,
+        "open": 20.055,
         "high": 21.54,
         "low": 19.335,
         "ts_ms": 1768597200000,
@@ -706,9 +706,9 @@
     "category": "CORE",
     "best": {
       "symbol": "CHPT",
-      "price": 6.99,
+      "price": 6.98,
       "prev_close": 6.89,
-      "open": 6.88,
+      "open": 6.87,
       "high": 7.17,
       "low": 6.8,
       "ts_ms": 1768597200000,
@@ -717,9 +717,9 @@
     "raw": [
       {
         "symbol": "CHPT",
-        "price": 6.99,
+        "price": 6.98,
         "prev_close": 6.89,
-        "open": 6.88,
+        "open": 6.87,
         "high": 7.17,
         "low": 6.8,
         "ts_ms": 1768597200000,
@@ -733,9 +733,9 @@
     "category": "CORE",
     "best": {
       "symbol": "ALGS",
-      "price": 7.95,
+      "price": 7.94,
       "prev_close": 8.26,
-      "open": 8.299999999999999,
+      "open": 8.29,
       "high": 8.6437,
       "low": 7.94,
       "ts_ms": 1768597200000,
@@ -744,9 +744,9 @@
     "raw": [
       {
         "symbol": "ALGS",
-        "price": 7.95,
+        "price": 7.94,
         "prev_close": 8.26,
-        "open": 8.299999999999999,
+        "open": 8.29,
         "high": 8.6437,
         "low": 7.94,
         "ts_ms": 1768597200000,
@@ -760,9 +760,9 @@
     "category": "CORE",
     "best": {
       "symbol": "JPM",
-      "price": 312.48,
+      "price": 312.47,
       "prev_close": 309.26,
-      "open": 310.36,
+      "open": 310.35,
       "high": 317.21,
       "low": 310.0,
       "ts_ms": 1768597200000,
@@ -771,9 +771,9 @@
     "raw": [
       {
         "symbol": "JPM",
-        "price": 312.48,
+        "price": 312.47,
         "prev_close": 309.26,
-        "open": 310.36,
+        "open": 310.35,
         "high": 317.21,
         "low": 310.0,
         "ts_ms": 1768597200000,
@@ -787,9 +787,9 @@
     "category": "CORE",
     "best": {
       "symbol": "BAC",
-      "price": 52.98,
+      "price": 52.97,
       "prev_close": 52.59,
-      "open": 52.695,
+      "open": 52.685,
       "high": 53.38,
       "low": 52.245,
       "ts_ms": 1768597200000,
@@ -798,9 +798,9 @@
     "raw": [
       {
         "symbol": "BAC",
-        "price": 52.98,
+        "price": 52.97,
         "prev_close": 52.59,
-        "open": 52.695,
+        "open": 52.685,
         "high": 53.38,
         "low": 52.245,
         "ts_ms": 1768597200000,
@@ -814,9 +814,9 @@
     "category": "CORE",
     "best": {
       "symbol": "GS",
-      "price": 962.01,
+      "price": 962.0,
       "prev_close": 975.86,
-      "open": 973.01,
+      "open": 973.0,
       "high": 984.7,
       "low": 957.0,
       "ts_ms": 1768597200000,
@@ -825,9 +825,9 @@
     "raw": [
       {
         "symbol": "GS",
-        "price": 962.01,
+        "price": 962.0,
         "prev_close": 975.86,
-        "open": 973.01,
+        "open": 973.0,
         "high": 984.7,
         "low": 957.0,
         "ts_ms": 1768597200000,
@@ -841,9 +841,9 @@
     "category": "CORE",
     "best": {
       "symbol": "MS",
-      "price": 189.1,
+      "price": 189.09,
       "prev_close": 191.23,
-      "open": 190.565,
+      "open": 190.555,
       "high": 192.68,
       "low": 189.0,
       "ts_ms": 1768597200000,
@@ -852,9 +852,9 @@
     "raw": [
       {
         "symbol": "MS",
-        "price": 189.1,
+        "price": 189.09,
         "prev_close": 191.23,
-        "open": 190.565,
+        "open": 190.555,
         "high": 192.68,
         "low": 189.0,
         "ts_ms": 1768597200000,
@@ -868,9 +868,9 @@
     "category": "CORE",
     "best": {
       "symbol": "WFC",
-      "price": 88.39,
+      "price": 88.38,
       "prev_close": 88.96,
-      "open": 88.97,
+      "open": 88.96,
       "high": 89.6918,
       "low": 88.08,
       "ts_ms": 1768597200000,
@@ -879,9 +879,9 @@
     "raw": [
       {
         "symbol": "WFC",
-        "price": 88.39,
+        "price": 88.38,
         "prev_close": 88.96,
-        "open": 88.97,
+        "open": 88.96,
         "high": 89.6918,
         "low": 88.08,
         "ts_ms": 1768597200000,
@@ -895,9 +895,9 @@
     "category": "CORE",
     "best": {
       "symbol": "XOM",
-      "price": 129.89999999999998,
+      "price": 129.89,
       "prev_close": 129.13,
-      "open": 128.92,
+      "open": 128.91,
       "high": 130.16,
       "low": 128.87,
       "ts_ms": 1768597200000,
@@ -906,9 +906,9 @@
     "raw": [
       {
         "symbol": "XOM",
-        "price": 129.89999999999998,
+        "price": 129.89,
         "prev_close": 129.13,
-        "open": 128.92,
+        "open": 128.91,
         "high": 130.16,
         "low": 128.87,
         "ts_ms": 1768597200000,
@@ -922,9 +922,9 @@
     "category": "CORE",
     "best": {
       "symbol": "CVX",
-      "price": 166.26999999999998,
+      "price": 166.26,
       "prev_close": 166.16,
-      "open": 166.6,
+      "open": 166.59,
       "high": 167.29,
       "low": 165.81,
       "ts_ms": 1768597200000,
@@ -933,9 +933,9 @@
     "raw": [
       {
         "symbol": "CVX",
-        "price": 166.26999999999998,
+        "price": 166.26,
         "prev_close": 166.16,
-        "open": 166.6,
+        "open": 166.59,
         "high": 167.29,
         "low": 165.81,
         "ts_ms": 1768597200000,
@@ -949,9 +949,9 @@
     "category": "CORE",
     "best": {
       "symbol": "COP",
-      "price": 98.2,
+      "price": 98.19,
       "prev_close": 98.93,
-      "open": 97.51,
+      "open": 97.5,
       "high": 98.95,
       "low": 97.1255,
       "ts_ms": 1768597200000,
@@ -960,9 +960,9 @@
     "raw": [
       {
         "symbol": "COP",
-        "price": 98.2,
+        "price": 98.19,
         "prev_close": 98.93,
-        "open": 97.51,
+        "open": 97.5,
         "high": 98.95,
         "low": 97.1255,
         "ts_ms": 1768597200000,
@@ -976,9 +976,9 @@
     "category": "CORE",
     "best": {
       "symbol": "SLB",
-      "price": 46.739999999999995,
+      "price": 46.73,
       "prev_close": 46.57,
-      "open": 46.69,
+      "open": 46.68,
       "high": 46.99,
       "low": 46.31,
       "ts_ms": 1768597200000,
@@ -987,9 +987,9 @@
     "raw": [
       {
         "symbol": "SLB",
-        "price": 46.739999999999995,
+        "price": 46.73,
         "prev_close": 46.57,
-        "open": 46.69,
+        "open": 46.68,
         "high": 46.99,
         "low": 46.31,
         "ts_ms": 1768597200000,
@@ -1003,9 +1003,9 @@
     "category": "CORE",
     "best": {
       "symbol": "CAT",
-      "price": 646.9,
+      "price": 646.89,
       "prev_close": 647.18,
-      "open": 651.98,
+      "open": 651.97,
       "high": 655.68,
       "low": 641.01,
       "ts_ms": 1768597200000,
@@ -1014,9 +1014,9 @@
     "raw": [
       {
         "symbol": "CAT",
-        "price": 646.9,
+        "price": 646.89,
         "prev_close": 647.18,
-        "open": 651.98,
+        "open": 651.97,
         "high": 655.68,
         "low": 641.01,
         "ts_ms": 1768597200000,
@@ -1030,9 +1030,9 @@
     "category": "CORE",
     "best": {
       "symbol": "BA",
-      "price": 247.69,
+      "price": 247.68,
       "prev_close": 247.74,
-      "open": 247.76,
+      "open": 247.75,
       "high": 248.19,
       "low": 244.96,
       "ts_ms": 1768597200000,
@@ -1041,9 +1041,9 @@
     "raw": [
       {
         "symbol": "BA",
-        "price": 247.69,
+        "price": 247.68,
         "prev_close": 247.74,
-        "open": 247.76,
+        "open": 247.75,
         "high": 248.19,
         "low": 244.96,
         "ts_ms": 1768597200000,
@@ -1057,9 +1057,9 @@
     "category": "CORE",
     "best": {
       "symbol": "GE",
-      "price": 325.13,
+      "price": 325.12,
       "prev_close": 319.94,
-      "open": 321.73,
+      "open": 321.72,
       "high": 325.55,
       "low": 318.7,
       "ts_ms": 1768597200000,
@@ -1068,9 +1068,9 @@
     "raw": [
       {
         "symbol": "GE",
-        "price": 325.13,
+        "price": 325.12,
         "prev_close": 319.94,
-        "open": 321.73,
+        "open": 321.72,
         "high": 325.55,
         "low": 318.7,
         "ts_ms": 1768597200000,
@@ -1084,9 +1084,9 @@
     "category": "CORE",
     "best": {
       "symbol": "HON",
-      "price": 219.39999999999998,
+      "price": 219.39,
       "prev_close": 215.02,
-      "open": 219.23,
+      "open": 219.22,
       "high": 220.63,
       "low": 216.5301,
       "ts_ms": 1768597200000,
@@ -1095,9 +1095,9 @@
     "raw": [
       {
         "symbol": "HON",
-        "price": 219.39999999999998,
+        "price": 219.39,
         "prev_close": 215.02,
-        "open": 219.23,
+        "open": 219.22,
         "high": 220.63,
         "low": 216.5301,
         "ts_ms": 1768597200000,
@@ -1111,9 +1111,9 @@
     "category": "CORE",
     "best": {
       "symbol": "UNH",
-      "price": 331.03,
+      "price": 331.02,
       "prev_close": 338.96,
-      "open": 334.87,
+      "open": 334.86,
       "high": 336.2,
       "low": 330.43,
       "ts_ms": 1768597200000,
@@ -1122,9 +1122,9 @@
     "raw": [
       {
         "symbol": "UNH",
-        "price": 331.03,
+        "price": 331.02,
         "prev_close": 338.96,
-        "open": 334.87,
+        "open": 334.86,
         "high": 336.2,
         "low": 330.43,
         "ts_ms": 1768597200000,
@@ -1138,9 +1138,9 @@
     "category": "CORE",
     "best": {
       "symbol": "JNJ",
-      "price": 218.67,
+      "price": 218.66,
       "prev_close": 219.57,
-      "open": 219.04999999999998,
+      "open": 219.04,
       "high": 220.11,
       "low": 218.135,
       "ts_ms": 1768597200000,
@@ -1149,9 +1149,9 @@
     "raw": [
       {
         "symbol": "JNJ",
-        "price": 218.67,
+        "price": 218.66,
         "prev_close": 219.57,
-        "open": 219.04999999999998,
+        "open": 219.04,
         "high": 220.11,
         "low": 218.135,
         "ts_ms": 1768597200000,
@@ -1165,10 +1165,10 @@
     "category": "CORE",
     "best": {
       "symbol": "PFE",
-      "price": 25.66,
+      "price": 25.65,
       "prev_close": 25.89,
-      "open": 25.900000000000002,
-      "high": 25.900000000000002,
+      "open": 25.89,
+      "high": 25.89,
       "low": 25.55,
       "ts_ms": 1768597200000,
       "source": "finnhub"
@@ -1176,10 +1176,10 @@
     "raw": [
       {
         "symbol": "PFE",
-        "price": 25.66,
+        "price": 25.65,
         "prev_close": 25.89,
-        "open": 25.900000000000002,
-        "high": 25.900000000000002,
+        "open": 25.89,
+        "high": 25.89,
         "low": 25.55,
         "ts_ms": 1768597200000,
         "source": "finnhub"
@@ -1192,9 +1192,9 @@
     "category": "CORE",
     "best": {
       "symbol": "MRK",
-      "price": 108.84,
+      "price": 108.83,
       "prev_close": 110.97,
-      "open": 110.72500000000001,
+      "open": 110.715,
       "high": 110.73,
       "low": 108.43,
       "ts_ms": 1768597200000,
@@ -1203,9 +1203,9 @@
     "raw": [
       {
         "symbol": "MRK",
-        "price": 108.84,
+        "price": 108.83,
         "prev_close": 110.97,
-        "open": 110.72500000000001,
+        "open": 110.715,
         "high": 110.73,
         "low": 108.43,
         "ts_ms": 1768597200000,
@@ -1219,9 +1219,9 @@
     "category": "CORE",
     "best": {
       "symbol": "LLY",
-      "price": 1038.41,
+      "price": 1038.4,
       "prev_close": 1032.97,
-      "open": 1024.44,
+      "open": 1024.43,
       "high": 1049.94,
       "low": 1018.0,
       "ts_ms": 1768597200000,
@@ -1230,9 +1230,9 @@
     "raw": [
       {
         "symbol": "LLY",
-        "price": 1038.41,
+        "price": 1038.4,
         "prev_close": 1032.97,
-        "open": 1024.44,
+        "open": 1024.43,
         "high": 1049.94,
         "low": 1018.0,
         "ts_ms": 1768597200000,
@@ -1246,9 +1246,9 @@
     "category": "CORE",
     "best": {
       "symbol": "PG",
-      "price": 144.54,
+      "price": 144.53,
       "prev_close": 144.63,
-      "open": 143.76999999999998,
+      "open": 143.76,
       "high": 144.73,
       "low": 143.655,
       "ts_ms": 1768597200000,
@@ -1257,9 +1257,9 @@
     "raw": [
       {
         "symbol": "PG",
-        "price": 144.54,
+        "price": 144.53,
         "prev_close": 144.63,
-        "open": 143.76999999999998,
+        "open": 143.76,
         "high": 144.73,
         "low": 143.655,
         "ts_ms": 1768597200000,
@@ -1273,9 +1273,9 @@
     "category": "CORE",
     "best": {
       "symbol": "KO",
-      "price": 70.45,
+      "price": 70.44,
       "prev_close": 70.48,
-      "open": 70.30000000000001,
+      "open": 70.29,
       "high": 70.74,
       "low": 70.04,
       "ts_ms": 1768597200000,
@@ -1284,9 +1284,9 @@
     "raw": [
       {
         "symbol": "KO",
-        "price": 70.45,
+        "price": 70.44,
         "prev_close": 70.48,
-        "open": 70.30000000000001,
+        "open": 70.29,
         "high": 70.74,
         "low": 70.04,
         "ts_ms": 1768597200000,
@@ -1300,9 +1300,9 @@
     "category": "CORE",
     "best": {
       "symbol": "PEP",
-      "price": 146.32999999999998,
+      "price": 146.32,
       "prev_close": 146.57,
-      "open": 147.17,
+      "open": 147.16,
       "high": 147.55,
       "low": 145.51,
       "ts_ms": 1768597200000,
@@ -1311,9 +1311,9 @@
     "raw": [
       {
         "symbol": "PEP",
-        "price": 146.32999999999998,
+        "price": 146.32,
         "prev_close": 146.57,
-        "open": 147.17,
+        "open": 147.16,
         "high": 147.55,
         "low": 145.51,
         "ts_ms": 1768597200000,
@@ -1327,9 +1327,9 @@
     "category": "CORE",
     "best": {
       "symbol": "MCD",
-      "price": 307.44,
+      "price": 307.43,
       "prev_close": 308.62,
-      "open": 306.9,
+      "open": 306.89,
       "high": 308.525,
       "low": 305.84,
       "ts_ms": 1768597200000,
@@ -1338,9 +1338,9 @@
     "raw": [
       {
         "symbol": "MCD",
-        "price": 307.44,
+        "price": 307.43,
         "prev_close": 308.62,
-        "open": 306.9,
+        "open": 306.89,
         "high": 308.525,
         "low": 305.84,
         "ts_ms": 1768597200000,
@@ -1354,9 +1354,9 @@
     "category": "CORE",
     "best": {
       "symbol": "NKE",
-      "price": 64.39,
+      "price": 64.38,
       "prev_close": 64.59,
-      "open": 64.4,
+      "open": 64.39,
       "high": 64.59,
       "low": 63.6801,
       "ts_ms": 1768597200000,
@@ -1365,9 +1365,9 @@
     "raw": [
       {
         "symbol": "NKE",
-        "price": 64.39,
+        "price": 64.38,
         "prev_close": 64.59,
-        "open": 64.4,
+        "open": 64.39,
         "high": 64.59,
         "low": 63.6801,
         "ts_ms": 1768597200000,
@@ -1381,9 +1381,9 @@
     "category": "CORE",
     "best": {
       "symbol": "COST",
-      "price": 963.62,
+      "price": 963.61,
       "prev_close": 956.75,
-      "open": 962.01,
+      "open": 962.0,
       "high": 964.98,
       "low": 951.0001,
       "ts_ms": 1768597200000,
@@ -1392,9 +1392,9 @@
     "raw": [
       {
         "symbol": "COST",
-        "price": 963.62,
+        "price": 963.61,
         "prev_close": 956.75,
-        "open": 962.01,
+        "open": 962.0,
         "high": 964.98,
         "low": 951.0001,
         "ts_ms": 1768597200000,
@@ -1408,9 +1408,9 @@
     "category": "CORE",
     "best": {
       "symbol": "SPY",
-      "price": 691.67,
+      "price": 691.66,
       "prev_close": 692.24,
-      "open": 693.67,
+      "open": 693.66,
       "high": 694.25,
       "low": 690.1,
       "ts_ms": 1768597200000,
@@ -1419,9 +1419,9 @@
     "raw": [
       {
         "symbol": "SPY",
-        "price": 691.67,
+        "price": 691.66,
         "prev_close": 692.24,
-        "open": 693.67,
+        "open": 693.66,
         "high": 694.25,
         "low": 690.1,
         "ts_ms": 1768597200000,
@@ -1435,9 +1435,9 @@
     "category": "CORE",
     "best": {
       "symbol": "QQQ",
-      "price": 621.27,
+      "price": 621.26,
       "prev_close": 621.78,
-      "open": 625.51,
+      "open": 625.5,
       "high": 626.08,
       "low": 618.88,
       "ts_ms": 1768597200000,
@@ -1446,9 +1446,9 @@
     "raw": [
       {
         "symbol": "QQQ",
-        "price": 621.27,
+        "price": 621.26,
         "prev_close": 621.78,
-        "open": 625.51,
+        "open": 625.5,
         "high": 626.08,
         "low": 618.88,
         "ts_ms": 1768597200000,
@@ -1462,9 +1462,9 @@
     "category": "CORE",
     "best": {
       "symbol": "DIA",
-      "price": 493.43,
+      "price": 493.42,
       "prev_close": 494.48,
-      "open": 494.51,
+      "open": 494.5,
       "high": 496.0,
       "low": 492.27,
       "ts_ms": 1768597200000,
@@ -1473,9 +1473,9 @@
     "raw": [
       {
         "symbol": "DIA",
-        "price": 493.43,
+        "price": 493.42,
         "prev_close": 494.48,
-        "open": 494.51,
+        "open": 494.5,
         "high": 496.0,
         "low": 492.27,
         "ts_ms": 1768597200000,
@@ -1489,9 +1489,9 @@
     "category": "CORE",
     "best": {
       "symbol": "IWM",
-      "price": 265.77,
+      "price": 265.76,
       "prev_close": 265.51,
-      "open": 265.875,
+      "open": 265.865,
       "high": 267.215,
       "low": 264.71,
       "ts_ms": 1768597200000,
@@ -1500,9 +1500,9 @@
     "raw": [
       {
         "symbol": "IWM",
-        "price": 265.77,
+        "price": 265.76,
         "prev_close": 265.51,
-        "open": 265.875,
+        "open": 265.865,
         "high": 267.215,
         "low": 264.71,
         "ts_ms": 1768597200000,
@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "NET",
+    "symbol": "DE",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "NET",
-      "price": 184.17999999999998,
-      "prev_close": 184.14,
-      "open": 184.5,
-      "high": 188.46,
-      "low": 181.35,
+      "symbol": "DE",
+      "price": 514.4,
+      "prev_close": 515.04,
+      "open": 516.26,
+      "high": 516.81,
+      "low": 510.0,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "NET",
-        "price": 184.17999999999998,
-        "prev_close": 184.14,
-        "open": 184.5,
-        "high": 188.46,
-        "low": 181.35,
+        "symbol": "DE",
+        "price": 514.4,
+        "prev_close": 515.04,
+        "open": 516.26,
+        "high": 516.81,
+        "low": 510.0,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "LOW",
+    "symbol": "ZS",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LOW",
-      "price": 277.56,
-      "prev_close": 277.01,
-      "open": 276.33,
-      "high": 278.44,
-      "low": 274.07,
+      "symbol": "ZS",
+      "price": 213.98,
+      "prev_close": 210.58,
+      "open": 211.4,
+      "high": 215.2,
+      "low": 208.88,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LOW",
-        "price": 277.56,
-        "prev_close": 277.01,
-        "open": 276.33,
-        "high": 278.44,
-        "low": 274.07,
+        "symbol": "ZS",
+        "price": 213.98,
+        "prev_close": 210.58,
+        "open": 211.4,
+        "high": 215.2,
+        "low": 208.88,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1573,35 +1573,21 @@
     "error": null
   },
   {
-    "symbol": "DDOG",
+    "symbol": "ETSY",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "XLF",
+    "symbol": "ABT",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "AFRM",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "SNOW",
-    "category": "ADDON_RANDOM",
-    "best": null,
-    "raw": [],
-    "error": "http 429"
-  },
-  {
-    "symbol": "ADBE",
+    "symbol": "LRCX",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
