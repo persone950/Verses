@@ -16,7 +16,7 @@ SF,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite1
 RBRK,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
 WTW,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
 GIFI,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
-MLKN,,,NONE,0.0,N,0.0,IGNORE,Gate0: Ct7<8 & Ct14<10,No base score; using InsiderBlend only
+MLKN,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
 PNFP,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
 NBTB,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
 CHH,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
