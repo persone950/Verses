@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-18T18:06:25Z",
+  "generated_at": "2026-01-19T02:29:19Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer on JPMorgan: \u201cIt Was Due for a Breather\u201d",
-      "news_score": 0,
+      "headline": "Is Apple (AAPL) Still Priced Attractively After Recent Share Price Weakness?",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "AMD": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer Says \u201cOnce They Cleaned Up the Balance Sheet, Intel Instantly Became a Much Better Story\u201d",
-      "news_score": 2,
+      "headline": "2 Artificial Intelligence (AI) Stocks to Buy in January and Hold for 10 Years",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "AMZN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Inside Amazon\u2019s secret move to challenge Walmart\u2019s strength",
+      "headline": "2 Top Tech Stocks to Buy Now: My NFL Football Playoffs Edition",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Wells Fargo Upgrades Broadcom Inc. (AVGO) to Overweight From Equal Weight",
+      "headline": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -56,20 +56,20 @@
       "tag": ""
     },
     "CRWD": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Bank stock picks, crypto trajectory, dealmaking appetite, and more takes from top execs this past week",
-      "news_score": 1,
+      "headline": "BTIG Sees Strategic Value in CrowdStrike\u2019s (CRWD) SGNL, Seraphic Acquisitions",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "GOOGL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "1 Hidden Reason Alphabet May Be a Brilliant Stock to Buy in 2026",
-      "news_score": 0,
+      "headline": "Dow Jones Futures Fall Over Trump Greenland Tariffs On NATO Nations",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -86,7 +86,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer on International Business Machines: \u201cIt\u2019s Inexpensive Relative to Its Growth Rate\u201d",
+      "headline": "BofA lifts IBM target, sees strong cash flow despite near-term margin pressure",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -104,7 +104,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer Says \u201cOnce They Cleaned Up the Balance Sheet, Intel Instantly Became a Much Better Story\u201d",
+      "headline": "By 2027, This Could Be One of the Most Important Stocks in Its Industry",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -113,39 +113,37 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Where is Meta Platforms (META) Headed According to the Street?",
+      "headline": "Meta (META)\u2019s Shares Are Down Because It\u2019s A Lone Wolf, Says Jim Cramer",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "MSFT": {
-      "cat": "NEWS_RISK",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why is Microsoft Corporation (MSFT) One of the Best Stocks to Buy in 2026 for Beginners?",
-      "news_score": -2,
-      "risk_flags": [
-        "NEWS_RISK"
-      ],
-      "tag": "NEWS_RISK"
+      "headline": "2 Artificial Intelligence (AI) Stocks to Buy in January and Hold for 10 Years",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
     },
     "MU": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "'A broadening playbook': Wall Street sees stock market gains beyond tech",
-      "news_score": 0,
+      "headline": "Micron's $1.8 billion acquisition boosts Powerchip shares",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "NFLX": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Trump in Davos, Netflix and Intel results on deck as earnings season ramps: What to watch this week",
-      "news_score": 2,
+      "headline": "Netflix, United Airlines, GE Aerospace, Intel, CPE, and More to Watch This Week",
+      "news_score": 1,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "NOW": {
       "cat": "\u2014",
@@ -160,7 +158,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Jim Cramer on NVIDIA: \u201cIt\u2019s Meant to Be Owned, Not Traded\u201d",
+      "headline": "What Eli Lilly (LLY)'s NVIDIA AI Lab And Obesity Data Reveal About Its Obesity Leadership Narrative",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -178,8 +176,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Here\u2019s What Wall Street Thinks About Oracle Corporation (ORCL)",
-      "news_score": -1,
+      "headline": "Oracle (ORCL) Valuation Check As Debt Funded AI Push And OpenAI Cloud Deal Draw Scrutiny",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -196,7 +194,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "MarketBeat Week in Review \u2013 01/12 - 01/16",
+      "headline": "Assessing Qualcomm (QCOM) Valuation After New Robotics And AI Announcements",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -223,7 +221,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "'A broadening playbook': Wall Street sees stock market gains beyond tech",
+      "headline": "Syrah Extends Tesla Offtake Cure Deadline as Vidalia Qualification Continues",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
