@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "backend_version": "pythonista_backend_v0.11.0",
-  "phase": "INTRADAY",
+  "phase": "OFF-CYCLE",
   "data_mode": "LIVE",
   "timestamps": {
-    "et": "2026-01-18T13:09:11.698602-05:00",
-    "gmt": "2026-01-18T18:09:11.698602+00:00",
-    "local": "2026-01-18T13:09:11.698612-05:00"
+    "et": "2026-01-18T21:00:31.750640-05:00",
+    "gmt": "2026-01-19T02:00:31.750640+00:00",
+    "local": "2026-01-18T21:00:31.750655-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -64,15 +64,15 @@
     "feed_results.csv": 64,
     "feed_results_table.csv": 64,
     "ml_signals.csv": 0,
-    "options_chain.csv": 0,
-    "options_summary.csv": 0,
-    "premium_candidates_all.csv": 0,
-    "premium_candidates.csv": 0,
-    "premium_topN.csv": 0,
+    "options_chain.csv": 126551,
+    "options_summary.csv": 126551,
+    "premium_candidates_all.csv": 3150,
+    "premium_candidates.csv": 20,
+    "premium_topN.csv": 20,
     "portfolio_totals.csv": 2
   },
   "phase_source": "CLOCK",
-  "detected_phase": "INTRADAY",
+  "detected_phase": "OFF-CYCLE",
   "override": {
     "enabled": false,
     "value": null
