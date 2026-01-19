@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "GM",
+    "symbol": "ROKU",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "GM",
-      "price": 80.82,
-      "prev_close": 80.91,
-      "open": 81.0,
-      "high": 81.64,
-      "low": 80.23,
+      "symbol": "ROKU",
+      "price": 103.66,
+      "prev_close": 104.97,
+      "open": 105.11,
+      "high": 105.6,
+      "low": 103.27,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "GM",
-        "price": 80.82,
-        "prev_close": 80.91,
-        "open": 81.0,
-        "high": 81.64,
-        "low": 80.23,
+        "symbol": "ROKU",
+        "price": 103.66,
+        "prev_close": 104.97,
+        "open": 105.11,
+        "high": 105.6,
+        "low": 103.27,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "SNOW",
+    "symbol": "LOW",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "SNOW",
-      "price": 210.38,
-      "prev_close": 207.74,
-      "open": 208.53,
-      "high": 216.1,
-      "low": 207.11,
+      "symbol": "LOW",
+      "price": 277.55,
+      "prev_close": 277.01,
+      "open": 276.32,
+      "high": 278.44,
+      "low": 274.07,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "SNOW",
-        "price": 210.38,
-        "prev_close": 207.74,
-        "open": 208.53,
-        "high": 216.1,
-        "low": 207.11,
+        "symbol": "LOW",
+        "price": 277.55,
+        "prev_close": 277.01,
+        "open": 276.32,
+        "high": 278.44,
+        "low": 274.07,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1573,21 +1573,21 @@
     "error": null
   },
   {
-    "symbol": "DIS",
+    "symbol": "XLK",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "TMO",
+    "symbol": "CSCO",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "SNOW",
+    "symbol": "TMUS",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
