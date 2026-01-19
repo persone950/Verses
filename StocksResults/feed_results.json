@@ -1519,26 +1519,26 @@
     "error": "no_price"
   },
   {
-    "symbol": "ROKU",
+    "symbol": "DDOG",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "ROKU",
-      "price": 103.66,
-      "prev_close": 104.97,
-      "open": 105.11,
-      "high": 105.6,
-      "low": 103.27,
+      "symbol": "DDOG",
+      "price": 119.02,
+      "prev_close": 120.86,
+      "open": 120.86,
+      "high": 121.8,
+      "low": 117.8067,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "ROKU",
-        "price": 103.66,
-        "prev_close": 104.97,
-        "open": 105.11,
-        "high": 105.6,
-        "low": 103.27,
+        "symbol": "DDOG",
+        "price": 119.02,
+        "prev_close": 120.86,
+        "open": 120.86,
+        "high": 121.8,
+        "low": 117.8067,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1546,26 +1546,26 @@
     "error": null
   },
   {
-    "symbol": "LOW",
+    "symbol": "AMGN",
     "category": "ADDON_RANDOM",
     "best": {
-      "symbol": "LOW",
-      "price": 277.55,
-      "prev_close": 277.01,
-      "open": 276.32,
-      "high": 278.44,
-      "low": 274.07,
+      "symbol": "AMGN",
+      "price": 330.41,
+      "prev_close": 330.03,
+      "open": 328.7,
+      "high": 333.03,
+      "low": 326.9,
       "ts_ms": 1768597200000,
       "source": "finnhub"
     },
     "raw": [
       {
-        "symbol": "LOW",
-        "price": 277.55,
-        "prev_close": 277.01,
-        "open": 276.32,
-        "high": 278.44,
-        "low": 274.07,
+        "symbol": "AMGN",
+        "price": 330.41,
+        "prev_close": 330.03,
+        "open": 328.7,
+        "high": 333.03,
+        "low": 326.9,
         "ts_ms": 1768597200000,
         "source": "finnhub"
       }
@@ -1573,21 +1573,21 @@
     "error": null
   },
   {
-    "symbol": "XLK",
+    "symbol": "OXY",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "CSCO",
+    "symbol": "GM",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
     "error": "http 429"
   },
   {
-    "symbol": "TMUS",
+    "symbol": "SBUX",
     "category": "ADDON_RANDOM",
     "best": null,
     "raw": [],
