@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-19T21:38:39Z",
+  "signals": {
+    "AAPL": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Assessing Apple (AAPL) Valuation After Recent Pullback And Long Term Return Strength",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "AMD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why Wells Fargo Calls AMD a Top AI Pick for 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why Wells Fargo Just Turned More Bullish on Broadcom (AVGO)",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "How Investors May Respond To BigBear.ai (BBAI) Acquiring Ask Sage And Converting Convertible Debt To Equity",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "COIN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Bank of America Asserts Buy Rating on Coinbase Global Inc. (COIN) Buoyed by Growth Opportunities",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "More AI means a higher need for cybersecurity: CrowdStrike CEO",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "GOOGL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "NYSE Builds Tokenized Platform. It\u2019s Another Step Toward 24/7 Trading.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "These 3 Giant Tech Stocks Are Poised for Explosive Quantum Growth",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Analyst Weighs Patent Cliff Risks Against Insmed\u2019s (INSM) Growth Story",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Analysts reset Intel stock price target ahead of earnings",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Analyst's bombshell memory price forecast shifts Micron bets",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Here's How Much Traders Expect Netflix Stock to Move After Earnings Tuesday",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stifel Sees Long-Term Value in ServiceNow (NOW) Despite Near-Term Headwinds",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Nvidia (NVDA) Tariff Impact Seen as Limited, Wolfe Research Says",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why Figure Technology Solutions (FIGR) Is Up 27.3% After Launching Its On-Chain Public Equity Network",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Bondholders Are Suing Oracle for Its AI Losses. Is There a Case to Keep Buying ORCL Stock and Waiting for AI to Pay Off?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "1 Large-Cap Stock with Exciting Potential and 2 That Underwhelm",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Rigetti Computing: Quantum Leader or Overhyped Stock?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Here\u2019s everything investors need to know about the historic silver rally in 10 charts",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Barclays Says Tesla\u2019s (TSLA) Fundamentals Are Taking a Back Seat",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
