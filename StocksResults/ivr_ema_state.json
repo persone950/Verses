@@ -1,7 +1,7 @@
 {
   "schema": "ivr_ema_state_v1",
-  "updated_at": "2026-01-19T17:34:30.368584-05:00",
+  "updated_at": "2026-01-20T07:19:25.582843-05:00",
   "symbols": {},
-  "phase": "EOD",
-  "alpha": 0.05
+  "phase": "PRE-MARKET",
+  "alpha": 0.2
 }
