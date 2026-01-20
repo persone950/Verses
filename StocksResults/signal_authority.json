@@ -228,27 +228,31 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
+    "SQ": {
+      "signal": "NEUTRAL",
+      "change_pct": 0.0
+    },
     "CMCSA": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "XLF": {
+    "LOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SCHW": {
+    "WMT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "DE": {
+    "ABBV": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "COF": {
+    "SOFI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABNB": {
+    "ROKU": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
