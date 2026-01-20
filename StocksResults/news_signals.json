@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-01-19T22:34:30Z",
+  "generated_at": "2026-01-20T12:19:25Z",
   "signals": {
     "AAPL": {
-      "cat": "NEWS+",
-      "catalyst_flags": [],
-      "confidence": "MED",
-      "headline": "Assessing Apple (AAPL) Valuation After Recent Pullback And Long Term Return Strength",
-      "news_score": 2,
-      "risk_flags": [],
-      "tag": "NEWS+"
-    },
-    "AMD": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Wells Fargo Calls AMD a Top AI Pick for 2026",
+      "headline": "\u201cPlease Don\u2019t Forget Apple (AAPL),\u201d Says Jim Cramer",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
+    },
+    "AMD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Tech Weekly: Grok in hot water, app checks if you're dead or alive",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
     },
     "AMZN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
-      "news_score": 0,
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -32,7 +32,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Wells Fargo Just Turned More Bullish on Broadcom (AVGO)",
+      "headline": "These Top 'AI Stocks' Are Leading the Semiconductor Boom",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -65,13 +65,13 @@
       "tag": "NEWS+"
     },
     "GOOGL": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
-      "news_score": 0,
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "HOOD": {
       "cat": "\u2014",
@@ -86,7 +86,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Quantum Enablers Set for 2026 Breakout: AMD, AVGO, TER in Focus",
+      "headline": "IBM partners with e& to deploy enterprise-grade agentic AI",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -104,7 +104,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Taiwan Semiconductor a Better Buy Than Intel for 2026?",
+      "headline": "Intel Q4 Earnings Preview: What To Expect From Upcoming Report",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -113,25 +113,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
-      "news_score": -1,
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "MSFT": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Origin Digital Achieves Microsoft Advanced Specialization for AI Platform on Azure",
-      "news_score": 0,
+      "headline": "Bristol Myers Squibb Announces Collaboration with Microsoft to Advance AI-Driven Early Detection of Lung Cancer",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "MU": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Analyst's bombshell memory price forecast shifts Micron bets",
+      "headline": "Micron To Buy Taiwanese Chip Fab For $1.8 Billion As AI Drives DRAM Demand",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -140,8 +140,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Here's How Much Traders Expect Netflix Stock to Move After Earnings Tuesday",
-      "news_score": 0,
+      "headline": "Netflix submits amended all-cash offer for Warner Bros, wins board support",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -158,7 +158,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Nvidia's Stock Hasn't Been This Cheap in Over a Year. Here's What History Suggests Will Happen Next.",
+      "headline": "Why Rigetti Computing Stock Soared 45.2% Last Year and Has Kept Gaining in 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -167,7 +167,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why Figure Technology Solutions (FIGR) Is Up 27.3% After Launching Its On-Chain Public Equity Network",
+      "headline": "Solidion Technology Awarded Its Third Grant From The U.S. Army STTR Program",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -176,25 +176,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Bondholders Are Suing Oracle for Its AI Losses. Is There a Case to Keep Buying ORCL Stock and Waiting for AI to Pay Off?",
+      "headline": "Oracle Corporation (ORCL): A Bull Case Theory",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "PLTR": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
-      "news_score": 1,
+      "headline": "US High Growth Tech Stocks to Watch",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "QCOM": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "1 Large-Cap Stock with Exciting Potential and 2 That Underwhelm",
+      "headline": "Qualcomm CEO Cristiano Amon on AI\u2019s Next Big Thing",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -203,7 +203,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Rigetti Computing: Quantum Leader or Overhyped Stock?",
+      "headline": "Why Rigetti Computing Stock Soared 45.2% Last Year and Has Kept Gaining in 2026",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -221,7 +221,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Ford Ended 2025 With a Strong Statement for Investors",
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
