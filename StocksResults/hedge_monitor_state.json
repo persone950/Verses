@@ -1,5 +1,5 @@
 {
-  "ts_et": "2026-01-19T17:36:58.914121-05:00",
+  "ts_et": "2026-01-20T07:24:24.596597-05:00",
   "triggers": {
     "drawdown_trigger": false,
     "long_delta_trigger": false,
@@ -8,8 +8,7 @@
   "low_quality": true,
   "hedge_required": true,
   "reasons": [
-    "drawdown column not found",
-    "long-delta ratio column not found",
+    "portfolio_totals.csv has no rows",
     "feed table missing % change column (chg_pct/pct_change/etc.)",
     "drawdown unavailable",
     "long-delta ratio unavailable",
