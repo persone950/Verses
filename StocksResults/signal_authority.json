@@ -228,31 +228,31 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SQ": {
+    "ZS": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CMCSA": {
+    "LYFT": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LOW": {
+    "PYPL": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "WMT": {
+    "CRM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ABBV": {
+    "MGM": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "SOFI": {
+    "KLAC": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ROKU": {
+    "ASML": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
