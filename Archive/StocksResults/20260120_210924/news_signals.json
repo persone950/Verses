@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-01-20T12:19:25Z",
+  "signals": {
+    "AAPL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "\u201cPlease Don\u2019t Forget Apple (AAPL),\u201d Says Jim Cramer",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Tech Weekly: Grok in hot water, app checks if you're dead or alive",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "AMZN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "These Top 'AI Stocks' Are Leading the Semiconductor Boom",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Better Artificial Intelligence Stock: BigBear.ai vs. C3.ai",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "COIN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Bank of America Asserts Buy Rating on Coinbase Global Inc. (COIN) Buoyed by Growth Opportunities",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "More AI means a higher need for cybersecurity: CrowdStrike CEO",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "GOOGL": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "HOOD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "NYSE Builds Tokenized Platform. It\u2019s Another Step Toward 24/7 Trading.",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "IBM partners with e& to deploy enterprise-grade agentic AI",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Analyst Weighs Patent Cliff Risks Against Insmed\u2019s (INSM) Growth Story",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Intel Q4 Earnings Preview: What To Expect From Upcoming Report",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Bristol Myers Squibb Announces Collaboration with Microsoft to Advance AI-Driven Early Detection of Lung Cancer",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "MU": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Micron To Buy Taiwanese Chip Fab For $1.8 Billion As AI Drives DRAM Demand",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Netflix submits amended all-cash offer for Warner Bros, wins board support",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stifel Sees Long-Term Value in ServiceNow (NOW) Despite Near-Term Headwinds",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why Rigetti Computing Stock Soared 45.2% Last Year and Has Kept Gaining in 2026",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Solidion Technology Awarded Its Third Grant From The U.S. Army STTR Program",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Oracle Corporation (ORCL): A Bull Case Theory",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "US High Growth Tech Stocks to Watch",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Qualcomm CEO Cristiano Amon on AI\u2019s Next Big Thing",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why Rigetti Computing Stock Soared 45.2% Last Year and Has Kept Gaining in 2026",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Here\u2019s everything investors need to know about the historic silver rally in 10 charts",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "'Nobody Will Remember Tesla Ever Made A Car:' Tech Investor Says Optimus Could Become Elon Musk's Biggest Legacy",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
