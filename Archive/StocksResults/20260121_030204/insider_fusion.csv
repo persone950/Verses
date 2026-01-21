@@ -1,0 +1,26 @@
+Ticker,BaseScore,BaseSignal,InsiderFlag,InsiderBlend,BoostApplied,FinalScore,GateLabel,GateReason,Reason
+RSG,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+C,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+TRGP,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+ETR,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+CMA,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+DENN,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+HOMB,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+IONS,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+PSX,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+COP,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+AXS,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+TSSI,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+RGA,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+TOL,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+FCPT,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+T,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+PRPO,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+STAG,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+WAL,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+WTW,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+BJRI,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+NSPR,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+DTST,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+FDS,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
+ES,,,NONE,0.0,N,0.0,WATCH-INSIDER,"Gate1 failed: buyers14=0, buy$14d=0, c_suite14=0",No base score; using InsiderBlend only
