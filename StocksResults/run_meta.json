@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "backend_version": "pythonista_backend_v0.11.0",
-  "phase": "PRE-MARKET",
+  "phase": "OFF-CYCLE",
   "data_mode": "LIVE",
   "timestamps": {
-    "et": "2026-01-20T07:27:39.343505-05:00",
-    "gmt": "2026-01-20T12:27:39.343505+00:00",
-    "local": "2026-01-20T07:27:39.343514-05:00"
+    "et": "2026-01-20T21:09:23.824084-05:00",
+    "gmt": "2026-01-21T02:09:23.824084+00:00",
+    "local": "2026-01-20T21:09:23.824094-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -49,13 +49,13 @@
       "exists": true
     },
     "portfolio_totals.csv": {
-      "exists": false
+      "exists": true
     },
     "trade_ticket.json": {
-      "exists": false
+      "exists": true
     },
     "trade_ticket.txt": {
-      "exists": false
+      "exists": true
     }
   },
   "row_counts": {
@@ -64,14 +64,15 @@
     "feed_results.csv": 64,
     "feed_results_table.csv": 64,
     "ml_signals.csv": 0,
-    "options_chain.csv": 131835,
-    "options_summary.csv": 131835,
-    "premium_candidates_all.csv": 0,
-    "premium_candidates.csv": 0,
-    "premium_topN.csv": 0
+    "options_chain.csv": 140266,
+    "options_summary.csv": 140266,
+    "premium_candidates_all.csv": 4781,
+    "premium_candidates.csv": 20,
+    "premium_topN.csv": 20,
+    "portfolio_totals.csv": 2
   },
   "phase_source": "CLOCK",
-  "detected_phase": "PRE-MARKET",
+  "detected_phase": "OFF-CYCLE",
   "override": {
     "enabled": false,
     "value": null
