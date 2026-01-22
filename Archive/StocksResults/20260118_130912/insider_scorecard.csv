@@ -1,8 +1,0 @@
-Ticker,GateLabel,FinalScore,BaseSignal,BaseScore,InsiderBlend,LastBuyAgeDays,LastBuyAge14d,LastBuyAge30d,Buyers14d,Buyers30d,TotalBuy$14d,TotalBuy$30d,C_Suite14d,C_Suite30d,Ct7,Ct14,MostRecent(ET),DataQuality,GateReason
-BRT,WATCH-INSIDER,0.0,—,—,0.0,—,—,—,0,0,0,0,N,N,17,17,2026-01-13 18:21,OK,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0"
-ZYME,WATCH-INSIDER,0.0,—,—,0.0,—,—,—,0,0,0,0,N,N,11,11,2026-01-13 17:11,OK,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0"
-SWX,WATCH-INSIDER,0.0,—,—,0.0,—,—,—,0,0,0,0,N,N,9,9,2026-01-13 21:42,OK,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0"
-MOVE,WATCH-INSIDER,0.0,—,—,0.0,—,—,—,0,0,0,0,N,N,8,8,2026-01-14 17:30,OK,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0"
-SKWD,WATCH-INSIDER,0.0,—,—,0.0,—,—,—,0,0,0,0,N,N,8,8,2026-01-14 17:09,OK,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0"
-COCP,WATCH-INSIDER,30.0,—,—,30.0,12,—,12,0,1,0,129786,N,N,8,8,2026-01-13 17:03,OK,Insider-only: need Blend>=35.0 & Age<=7.0d
-LQDA,WATCH-INSIDER,0.0,—,—,0.0,—,—,—,0,0,0,0,N,N,8,8,2026-01-13 16:36,OK,"Gate1 failed: buyers14=0, buyers30=0, buy$14d=0, buy$30d=0, C=0"
