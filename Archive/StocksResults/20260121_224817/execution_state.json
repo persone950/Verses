@@ -1,0 +1,10 @@
+{
+  "orders": {},
+  "daily": {
+    "2026-01-21": {
+      "notional_total": 0.0,
+      "notional_by_ticker": {},
+      "orders_by_key": {}
+    }
+  }
+}
