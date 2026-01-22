@@ -1,2 +1,0 @@
-Ticker,BaseScore,BaseSignal,InsiderFlag,InsiderBlend,BoostApplied,FinalScore,GateLabel,GateReason,Reason
-RBRK,,,NONE,0.0,N,0.0,IGNORE,Gate0: Status ERROR; Gate0: Ct7<8 & Ct14<10,No base score; using InsiderBlend only
