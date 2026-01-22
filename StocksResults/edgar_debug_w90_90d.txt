@@ -4,12 +4,12 @@ Content-Type: application/atom+xml
 First600:
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Latest Filings - Tue, 20 Jan 2026 21:08:25 EST</title>
+<title>Latest Filings - Wed, 21 Jan 2026 22:22:58 EST</title>
 <link rel="alternate" href="/cgi-bin/browse-edgar?action=getcurrent"/>
 <link rel="self" href="/cgi-bin/browse-edgar?action=getcurrent"/>
 <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent</id>
 <author><name>Webmaster</name><email>webmaster@sec.gov</email></author>
-<updated>2026-01-20T21:08:25-05:00</updated>
+<updated>2026-01-21T22:22:58-05:00</updated>
 <entry>
-<title>4 - Epstein Adam Zachary (0002071026) (Reporting)</title>
-<link rel="alternate" type="text/html" href="https://ww
+<title>4 - Smith Cody (0002106415) (Reporting)</title>
+<link rel="alternate" type="text/html" href="https://www.sec.gov/
