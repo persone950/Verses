@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T02:05:39Z",
+  "generated_at": "2026-01-23T03:52:52Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What Nvidia didn\u2019t show at CES, and whether AMD should care",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -14,44 +14,46 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock to Buy Hand Over Fist Before It Soars Up to 32%, According to a Wall Street Analyst",
+      "headline": "Is It Too Late To Consider AMD (AMD) After Its 106% One-Year Surge?",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
     "AMZN": {
-      "cat": "\u2014",
+      "cat": "NEWS_RISK",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures Rise After Trump's Greenland Threats Trigger Sell-Off; Tesla, Nvidia Skid",
-      "news_score": 0,
-      "risk_flags": [],
-      "tag": ""
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": -2,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
     },
     "AVGO": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock to Buy Hand Over Fist Before It Soars Up to 32%, According to a Wall Street Analyst",
+      "headline": "4 Top Artificial Intelligence Stocks to Buy Right Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "BBAI": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "BigBear.ai Holdings, Inc. (BBAI) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "news_score": 0,
+      "headline": "Forget BigBear.ai: This \"Picks and Shovels\" Data Streaming Stock Looks Built for Long\u2011Term AI Upside",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "COIN": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Coinbase Global, Inc. (COIN) Suffers a Larger Drop Than the General Market: Key Insights",
-      "news_score": 0,
+      "headline": "Stablecoin Rewards Resemble Traditional Loyalty Programs, Says Circle CEO",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -59,7 +61,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why CrowdStrike Holdings (CRWD) Dipped More Than Broader Market Today",
+      "headline": "The Age of AI Agents Brings a Risk No One Is Prepared For",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -68,26 +70,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What Nvidia didn\u2019t show at CES, and whether AMD should care",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "HOOD": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Robinhood Markets (HOOD) Valuation Check After Recent Share Price Pullback And Mixed Return Signals",
-      "news_score": 0,
+      "headline": "Beyond Nvidia: The space-power play for the AI revolution",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "IBM": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What International Business Machines (IBM)'s New Enterprise AI Platform Push Means For Shareholders",
-      "news_score": 0,
+      "headline": "Forget BigBear.ai: This \"Picks and Shovels\" Data Streaming Stock Looks Built for Long\u2011Term AI Upside",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -104,8 +106,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Elon Musk Says He Hasn't Sold Tesla Stock For Over Three Years: 'Bought A Billion Dollars...'",
-      "news_score": 1,
+      "headline": "Dow Jones Futures: Stocks Bounce, Tesla Rallies On Self-Driving News; Intel Dives Late",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -113,8 +115,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "What Nvidia didn\u2019t show at CES, and whether AMD should care",
-      "news_score": 0,
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -122,7 +124,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "STM Goods Deploys Millions of Dux Cases Worldwide, Reinforcing Its Leadership in Device Protection",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -131,7 +133,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "These AI Stocks Could Lead the Next Bull Market, and They Are Still Cheap",
+      "headline": "When Your Software Company Gets Compared to a Chipmaker, Valuation Has Gone Wrong",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -140,7 +142,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures Rise After Trump's Greenland Threats Trigger Sell-Off; Tesla, Nvidia Skid",
+      "headline": "ESPN delivers bad news for some subscribers",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -149,8 +151,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "ServiceNow (NOW) Stock Moves -1.50%: What You Should Know",
-      "news_score": 0,
+      "headline": "ServiceNow (NOW) Rises Higher Than Market: Key Facts",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -158,7 +160,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures Rise After Trump's Greenland Threats Trigger Sell-Off; Tesla, Nvidia Skid",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -167,8 +169,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Does President Trump's Push to Lower Mortgage Rates Make These 2 Stocks a Buy?",
-      "news_score": 0,
+      "headline": "Why The Narrative Around Opendoor Technologies (OPEN) Is Shifting After The Latest Price Target Reset",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     },
@@ -176,25 +178,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Oracle is a \u2018Decade Stock\u2019 Poised for a Rebound, Analyst Says. But Be Patient.",
+      "headline": "TikTok Seals Deal to Operate in the US After Years of Drama",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "PLTR": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Buy Palantir Technologies Stock Before Feb. 2?",
-      "news_score": 0,
+      "headline": "NVDA, PLTR, small cap stock bets reset after Greenland U-turn",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "QCOM": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Qualcomm (QCOM) Now Attractive After Recent Share Price Pullback?",
+      "headline": "Should You Buy the Dip in Qualcomm Stock?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -203,7 +205,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Quantum Computing Stocks: Rigetti Wins India Research Order",
+      "headline": "Rigetti vs. D-Wave: Which Quantum Computing Stock Is the Better Pick?",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -212,7 +214,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday Amid Renewed Tariff Threats",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Economic Data Releases",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -221,8 +223,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures Rise After Trump's Greenland Threats Trigger Sell-Off; Tesla, Nvidia Skid",
-      "news_score": 0,
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 1,
       "risk_flags": [],
       "tag": ""
     }
