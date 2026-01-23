@@ -1,0 +1,233 @@
+{
+  "generated_at": "2026-01-23T03:52:52Z",
+  "signals": {
+    "AAPL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is It Too Late To Consider AMD (AMD) After Its 106% One-Year Surge?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "AMZN": {
+      "cat": "NEWS_RISK",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": -2,
+      "risk_flags": [
+        "NEWS_RISK"
+      ],
+      "tag": "NEWS_RISK"
+    },
+    "AVGO": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "4 Top Artificial Intelligence Stocks to Buy Right Now",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "BBAI": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Forget BigBear.ai: This \"Picks and Shovels\" Data Streaming Stock Looks Built for Long\u2011Term AI Upside",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "COIN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Stablecoin Rewards Resemble Traditional Loyalty Programs, Says Circle CEO",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "CRWD": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "The Age of AI Agents Brings a Risk No One Is Prepared For",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "GOOGL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "HOOD": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Beyond Nvidia: The space-power play for the AI revolution",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "IBM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Forget BigBear.ai: This \"Picks and Shovels\" Data Streaming Stock Looks Built for Long\u2011Term AI Upside",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INSM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Analyst Weighs Patent Cliff Risks Against Insmed\u2019s (INSM) Growth Story",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "INTC": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Dow Jones Futures: Stocks Bounce, Tesla Rallies On Self-Driving News; Intel Dives Late",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "META": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MSFT": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "MU": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "When Your Software Company Gets Compared to a Chipmaker, Valuation Has Gone Wrong",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NFLX": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "ESPN delivers bad news for some subscribers",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NOW": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "ServiceNow (NOW) Rises Higher Than Market: Key Facts",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "NVDA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "OPEN": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Why The Narrative Around Opendoor Technologies (OPEN) Is Shifting After The Latest Price Target Reset",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "ORCL": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "TikTok Seals Deal to Operate in the US After Years of Drama",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "PLTR": {
+      "cat": "NEWS+",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "NVDA, PLTR, small cap stock bets reset after Greenland U-turn",
+      "news_score": 2,
+      "risk_flags": [],
+      "tag": "NEWS+"
+    },
+    "QCOM": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Should You Buy the Dip in Qualcomm Stock?",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "RGTI": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Rigetti vs. D-Wave: Which Quantum Computing Stock Is the Better Pick?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "SLV": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Economic Data Releases",
+      "news_score": 0,
+      "risk_flags": [],
+      "tag": ""
+    },
+    "TSLA": {
+      "cat": "\u2014",
+      "catalyst_flags": [],
+      "confidence": "MED",
+      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "news_score": 1,
+      "risk_flags": [],
+      "tag": ""
+    }
+  },
+  "status": "ok"
+}
