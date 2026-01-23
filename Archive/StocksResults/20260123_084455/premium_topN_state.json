@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-01-22T22:53:04.891453-05:00",
+  "mode": "STRICT",
+  "relaxed": false,
+  "input_rows": 139264,
+  "strict_pass": 4670,
+  "balanced_pass": 10265,
+  "final_candidates": 20,
+  "target_total_rows": 40,
+  "actual_total_rows": 20,
+  "core_requested": 5,
+  "movers_requested": 5,
+  "core_selected": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "GOOGL",
+    "META"
+  ],
+  "movers_selected": [],
+  "targets": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "GOOGL",
+    "META"
+  ],
+  "per_ticker_target": 4,
+  "per_side_target": 2
+}
