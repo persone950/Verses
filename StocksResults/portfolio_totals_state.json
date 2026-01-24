@@ -1,0 +1,6 @@
+{
+  "ok": false,
+  "reason": "RH_Portfolio.csv missing",
+  "rh_file": "/private/var/mobile/Containers/Shared/AppGroup/01D5921A-D57F-4F15-AF91-8F1DB81A703C/File Provider Storage/Chat/Projects/StocksOptions/Portfolio/RH_Portfolio.csv",
+  "wrote": "/private/var/mobile/Containers/Shared/AppGroup/01D5921A-D57F-4F15-AF91-8F1DB81A703C/File Provider Storage/Chat/Projects/StocksOptions/StocksResults/portfolio_totals.csv"
+}
