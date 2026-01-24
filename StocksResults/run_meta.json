@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "backend_version": "pythonista_backend_v0.11.0",
-  "phase": "PRE-MARKET",
+  "phase": "OFF-CYCLE",
   "data_mode": "LIVE",
   "timestamps": {
-    "et": "2026-01-23T08:44:54.870702-05:00",
-    "gmt": "2026-01-23T13:44:54.870702+00:00",
-    "local": "2026-01-23T08:44:54.870711-05:00"
+    "et": "2026-01-23T20:45:05.112211-05:00",
+    "gmt": "2026-01-24T01:45:05.112211+00:00",
+    "local": "2026-01-23T20:45:05.112220-05:00"
   },
   "files": {
     "feed_results.json": {
@@ -61,18 +61,18 @@
   "row_counts": {
     "top10_render.csv": 10,
     "random_addons_render.csv": 0,
-    "feed_results.csv": 65,
-    "feed_results_table.csv": 65,
+    "feed_results.csv": 63,
+    "feed_results_table.csv": 63,
     "ml_signals.csv": 0,
-    "options_chain.csv": 139264,
-    "options_summary.csv": 139264,
-    "premium_candidates_all.csv": 4664,
+    "options_chain.csv": 132580,
+    "options_summary.csv": 132580,
+    "premium_candidates_all.csv": 4602,
     "premium_candidates.csv": 20,
     "premium_topN.csv": 20,
     "portfolio_totals.csv": 2
   },
   "phase_source": "CLOCK",
-  "detected_phase": "PRE-MARKET",
+  "detected_phase": "OFF-CYCLE",
   "override": {
     "enabled": false,
     "value": null
