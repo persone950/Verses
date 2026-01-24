@@ -4,12 +4,12 @@ Content-Type: application/atom+xml
 First600:
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Latest Filings - Thu, 22 Jan 2026 22:53:19 EST</title>
+<title>Latest Filings - Fri, 23 Jan 2026 20:41:39 EST</title>
 <link rel="alternate" href="/cgi-bin/browse-edgar?action=getcurrent"/>
 <link rel="self" href="/cgi-bin/browse-edgar?action=getcurrent"/>
 <id>https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent</id>
 <author><name>Webmaster</name><email>webmaster@sec.gov</email></author>
-<updated>2026-01-22T22:53:19-05:00</updated>
+<updated>2026-01-23T20:41:39-05:00</updated>
 <entry>
-<title>4 - Ben-Tzvi Avraham (0001944721) (Reporting)</title>
-<link rel="alternate" type="text/html" href="https://www.se
+<title>4 - Public Storage (0001393311) (Issuer)</title>
+<link rel="alternate" type="text/html" href="https://www.sec.gov
