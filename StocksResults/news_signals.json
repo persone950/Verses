@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T03:52:52Z",
+  "generated_at": "2026-01-24T01:41:12Z",
   "signals": {
     "AAPL": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "headline": "Review & Preview: Shiny Days",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -14,27 +14,25 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is It Too Late To Consider AMD (AMD) After Its 106% One-Year Surge?",
-      "news_score": 1,
+      "headline": "Stock Market Today, Jan. 23: Intel Plunges After Weak Outlook Highlights Supply Constraints and Foundry Losses",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "AMZN": {
-      "cat": "NEWS_RISK",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
-      "news_score": -2,
-      "risk_flags": [
-        "NEWS_RISK"
-      ],
-      "tag": "NEWS_RISK"
+      "headline": "GE Aerospace Backlog Nears $190 Billion As Airlines Spend Big On Engine Upkeep",
+      "news_score": -1,
+      "risk_flags": [],
+      "tag": ""
     },
     "AVGO": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "4 Top Artificial Intelligence Stocks to Buy Right Now",
+      "headline": "Fidelity settles lawsuit over access to 'business-critical' Broadcom software",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -61,7 +59,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "The Age of AI Agents Brings a Risk No One Is Prepared For",
+      "headline": "6 of My Top 10 Stocks for 2025 Increased by More Than 25%. Are They Still Buys Now?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -70,26 +68,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "headline": "GE Aerospace Backlog Nears $190 Billion As Airlines Spend Big On Engine Upkeep",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "HOOD": {
-      "cat": "NEWS+",
+      "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Beyond Nvidia: The space-power play for the AI revolution",
-      "news_score": 2,
+      "headline": "Binance Plans to Reintroduce Stock Trading Four Years After Removal",
+      "news_score": 0,
       "risk_flags": [],
-      "tag": "NEWS+"
+      "tag": ""
     },
     "IBM": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Forget BigBear.ai: This \"Picks and Shovels\" Data Streaming Stock Looks Built for Long\u2011Term AI Upside",
-      "news_score": 1,
+      "headline": "Mag 7 earnings, Fed's rate decision: What to Watch",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -97,7 +95,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Analyst Weighs Patent Cliff Risks Against Insmed\u2019s (INSM) Growth Story",
+      "headline": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Applied Materials, e.l.f. Beauty, Fortinet, Freeport MacMoRan, Procter & Gamble, Spotify, and More",
       "news_score": 1,
       "risk_flags": [],
       "tag": ""
@@ -106,7 +104,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Dow Jones Futures: Stocks Bounce, Tesla Rallies On Self-Driving News; Intel Dives Late",
+      "headline": "Why Intel Stock Crashed Today",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -115,8 +113,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
-      "news_score": 1,
+      "headline": "GE Aerospace Backlog Nears $190 Billion As Airlines Spend Big On Engine Upkeep",
+      "news_score": -1,
       "risk_flags": [],
       "tag": ""
     },
@@ -124,7 +122,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "headline": "Dow Jones Futures: Tesla, Microsoft, Meta, Apple Lead Earnings Wave; What To Do Now",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -133,26 +131,26 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "When Your Software Company Gets Compared to a Chipmaker, Valuation Has Gone Wrong",
+      "headline": "These Two Charts Sum Up the AI Stock Rally in 2026",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
     "NFLX": {
-      "cat": "\u2014",
+      "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "ESPN delivers bad news for some subscribers",
-      "news_score": 0,
+      "headline": "Market Chatter: Netflix Proposed Acquisition of Warner Bros Has Competition Concerns, Paramount Deal Better",
+      "news_score": 2,
       "risk_flags": [],
-      "tag": ""
+      "tag": "NEWS+"
     },
     "NOW": {
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "ServiceNow (NOW) Rises Higher Than Market: Key Facts",
-      "news_score": 1,
+      "headline": "ServiceNow (NOW) Stock Is Up, What You Need To Know",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -160,7 +158,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
+      "headline": "This Overlooked Artificial Intelligence (AI) Stock Could Be a Long-Term Compounder",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -169,8 +167,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Why The Narrative Around Opendoor Technologies (OPEN) Is Shifting After The Latest Price Target Reset",
-      "news_score": 1,
+      "headline": "Trump Is Doing 'An Excellent Job' On Housing Affordability, Says Opendoor CEO: Calls America's Housing Market 'Deeply Unfair'",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -178,7 +176,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "TikTok Seals Deal to Operate in the US After Years of Drama",
+      "headline": "TikTok Deal Sealed: US, China Approve Historic American Spinoff",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -187,8 +185,8 @@
       "cat": "NEWS+",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "NVDA, PLTR, small cap stock bets reset after Greenland U-turn",
-      "news_score": 2,
+      "headline": "Top analyst revisits Palantir price target ahead of earnings",
+      "news_score": 3,
       "risk_flags": [],
       "tag": "NEWS+"
     },
@@ -196,7 +194,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Should You Buy the Dip in Qualcomm Stock?",
+      "headline": "Is Arm Holdings' High Valuation Testing Market Patience?",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -205,8 +203,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Rigetti vs. D-Wave: Which Quantum Computing Stock Is the Better Pick?",
-      "news_score": 1,
+      "headline": "Rosenblatt Initiates Coverage of Rigetti Computing (RGTI) Stock",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     },
@@ -214,7 +212,7 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Economic Data Releases",
+      "headline": "Silver Outpaces Gold as Rally Looks 'Stretched' but Demand Holds, ProShares Says",
       "news_score": 0,
       "risk_flags": [],
       "tag": ""
@@ -223,8 +221,8 @@
       "cat": "\u2014",
       "catalyst_flags": [],
       "confidence": "MED",
-      "headline": "Is Now the Time to Move Away From the \"Magnificent Seven\" and Into Small-Cap Stocks?",
-      "news_score": 1,
+      "headline": "Review & Preview: Shiny Days",
+      "news_score": 0,
       "risk_flags": [],
       "tag": ""
     }
