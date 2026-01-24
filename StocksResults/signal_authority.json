@@ -228,31 +228,27 @@
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "ZS": {
+    "SNAP": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "LYFT": {
+    "SNOW": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "PYPL": {
+    "AI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "CRM": {
+    "SOFI": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "MGM": {
+    "NET": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     },
-    "KLAC": {
-      "signal": "NEUTRAL",
-      "change_pct": 0.0
-    },
-    "ASML": {
+    "OXY": {
       "signal": "NEUTRAL",
       "change_pct": 0.0
     }
