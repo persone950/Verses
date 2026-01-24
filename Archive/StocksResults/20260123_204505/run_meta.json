@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "backend_version": "pythonista_backend_v0.11.0",
+  "phase": "PRE-MARKET",
+  "data_mode": "LIVE",
+  "timestamps": {
+    "et": "2026-01-23T08:44:54.870702-05:00",
+    "gmt": "2026-01-23T13:44:54.870702+00:00",
+    "local": "2026-01-23T08:44:54.870711-05:00"
+  },
+  "files": {
+    "feed_results.json": {
+      "exists": true
+    },
+    "top10_render.csv": {
+      "exists": true
+    },
+    "broker_tickets_top3.json": {
+      "exists": true
+    },
+    "random_addons_render.csv": {
+      "exists": true
+    },
+    "feed_results.csv": {
+      "exists": true
+    },
+    "feed_results_table.csv": {
+      "exists": true
+    },
+    "ml_signals.csv": {
+      "exists": true
+    },
+    "options_chain.csv": {
+      "exists": true
+    },
+    "options_summary.csv": {
+      "exists": true
+    },
+    "premium_candidates_all.csv": {
+      "exists": true
+    },
+    "premium_candidates.csv": {
+      "exists": true
+    },
+    "premium_topN.csv": {
+      "exists": true
+    },
+    "premium_topN_state.json": {
+      "exists": true
+    },
+    "portfolio_totals.csv": {
+      "exists": true
+    },
+    "trade_ticket.json": {
+      "exists": true
+    },
+    "trade_ticket.txt": {
+      "exists": true
+    }
+  },
+  "row_counts": {
+    "top10_render.csv": 10,
+    "random_addons_render.csv": 0,
+    "feed_results.csv": 65,
+    "feed_results_table.csv": 65,
+    "ml_signals.csv": 0,
+    "options_chain.csv": 139264,
+    "options_summary.csv": 139264,
+    "premium_candidates_all.csv": 4664,
+    "premium_candidates.csv": 20,
+    "premium_topN.csv": 20,
+    "portfolio_totals.csv": 2
+  },
+  "phase_source": "CLOCK",
+  "detected_phase": "PRE-MARKET",
+  "override": {
+    "enabled": false,
+    "value": null
+  }
+}
